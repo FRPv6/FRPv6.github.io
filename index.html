@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Bootstrap overrides -->
+    <style>
+        .h2, h2 {
+            font-size: 2rem;
+            padding-top: 4rem;
+            margin-top: -2rem;
+        }
+        .h4, h4 {
+            font-size: 1.5rem;
+            padding-top: 4rem;
+            margin-top: -2rem;
+        }
+        h3 {
+            padding-top: 3rem;
+        }
+        .topmargin {
+            margin-top: 0rem;
+        }
+        code {
+            display: block;
+            line-height: 150%;
+        }
+    </style>
+
+    <!-- Fork me on GitHub -->
+    <link rel="stylesheet" href="css/gh-fork-ribbon.min.css" />
+    <style>
+        .github-fork-ribbon.right-bottom:before {
+            background-color: #333;
+        }
+    </style>
+
+    <title>IPv6 Hitlist</title>
+
+</head>
+
+
+
+<body>
+
+    <!-- Put nav into container to center it on the page -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+      <div class="container">
+      <a class="navbar-brand" href="#">↑</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav container">
+          <a class="nav-item nav-link" href="#hitlist">IPv6 Hitlist Service</a>
+          <a class="nav-item nav-link" href="#tools">Software and Tools</a>
+          <a class="nav-item nav-link" href="#paper2023">Paper (TMA 2023)</a>
+          <a class="nav-item nav-link" href="#paper2022">Paper (IMC 2022)</a>
+          <a class="nav-item nav-link" href="#paper2018">Paper (IMC 2018)</a>
+          <a class="nav-item nav-link" href="#reproduc">Reproducibility</a>
+          <a class="nav-item nav-link" href="#contact">Contact</a>
+          <a class="nav-item nav-link" href="#partners">Partners</a>
+        </div>
+      </div>
+      </div>
+    </nav>
+
+    <a class="github-fork-ribbon right-bottom fixed" href="https://github.com/ipv6hitlist/ipv6hitlist.github.io" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+
+    <div class="container">
+
+
+	<h2 class="topmargin">Understanding and Unbiasing IPv6 Hitlists</h2>
+
+    On this website we present additional information about our IMC papers <i>"Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"</i> and <i>"Rusty Clusters? Dusting an IPv6 Research Foundation"</i>, and provide access to our IPv6 Hitlist Service.
+
+   <h2 id="hitlist">IPv6 Hitlist Service</h2>
+
+   We provide an IPv6 Hitlist Service where we publish <b>responsive IPv6 addresses, address categories, aliased prefixes, and non-aliased prefixes</b> to interested researchers.
+   The IPv6 Hitlist Service consists of an openly accessible one and a registration-first service.
+
+   <h3>Hitlist addresses</h3>
+
+   This graph shows the development of the <b>full, aliased and non-aliased</b> hitlist over time.
+
+   <br>
+
+    <div id="plot-input" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+    <br>
+
+    <h3>Responsive addresses</h3>
+
+    Here, the development of the <b>different protocol responses</b> over time is shown. We scan five different protocols, an additional graph shows the amount of IP addresses which respond to at least one of the protocols.
+
+    <div id="plot-responsive" style="min-width: 310px; height: 400px; margin: 0 auto"></div>    
+
+    The plot of responsive addresses is an updated version.
+    We removed all responses to the UDP/53 scan injected by the Great Firewall of China.
+    The original plot and additional information is provided here:
+    <ul>
+        <li><a href="gfw-filter/">Great Firewall of China Hitlist Filter</a></li>
+    </ul>
+
+    We provide both filtered and unfiltered, historic UPD/53 files for registered users. 
+
+    <br>
+
+    <h3>Categorized addresses</h3>
+
+    Lastly, the <b>network categories</b> represented in the Hitlist can be seen.
+    Via the dropdown the categories represented in the hitlist, the total responsive addresses, or the responsive addresses per protocol may be chosen.
+    The categories are filtered with <a href="https://www.peeringdb.com/">PeeringDB</a>. For the details, see the <a href="#paper2023">2023 Paper</a>.
+    
+    <div style="text-align: center; padding-top: 30px;">
+        Select the data type:
+        <select id="categ_content_select">
+            <option selected="selected">Responsive Adresses</option>
+            <option>Hitlist Adresses</option>
+            <option>TCP/80 Responsive</option>
+            <option>TCP/443 Responsive</option>
+            <option>UDP/53 Responsive</option>
+            <option>UDP/443 Responsive</option>
+            <option>ICMP Responsive</option>
+        </select>
+    </div>
+
+    <div id="plot-categories" style="min-width: 310px; height: 400px; margin: 0 auto; padding-top: 20px"></div>
+
+    <h4>Openly Accessible Service</h4>
+
+    You can use the weekly generated list of responsive IPv6 addresses, aliased prefixes, and non-aliased prefixes without registration:
+
+    <ul>
+        <li><a href="https://alcatraz.net.in.tum.de/ipv6-hitlist-service/open/responsive-addresses.txt.xz">Responsive IPv6 addresses</a></li>
+        <li><a href="https://alcatraz.net.in.tum.de/ipv6-hitlist-service/open/aliased-prefixes.txt.xz">Aliased prefixes</a></li>
+        <li><a href="https://alcatraz.net.in.tum.de/ipv6-hitlist-service/open/non-aliased-prefixes.txt.xz">Non-aliased prefixes</a></li>
+    </ul>
+
+    The responsive addresses include addresses from non-aliased prefixes only.
+
+    Please see the <a href="#apd-lpm">notes about aliased prefixes</a> below to make use of them.
+
+
+    <h4>Registration-First Service</h4>
+
+    We provide additional data which can be used to conduct in-depth research on IPv6 networks and addresses.
+    This includes:
+    <ul>
+        <li>Daily input addresses for scanning, including aliased and non-responsive addresses</li>
+        <li>Daily responsive IPv6 addresses, aliased prefixes, and non-aliased prefixes</li>
+        <li>Raw ZMap output files including TCP options (e.g. usable for further alias analysis)</li>
+        <li>Access to complete historical data</li>
+    </ul>
+
+    To get <b>free access</b> to this registration-first service, you can send a quick
+<a href="mailto:data-request@net.in.tum.de?subject=Access%20to%20IPv6%20Hitlist%20Service&amp;body=Hi,%0A%0A%20please%20grant%20me%20access%20to%20the%20IPv6%20Hitlist%20Service.%20My%20name%20is%20YOURNAMEHERE,%20my%20affiliation%20is%20CHANGEME%20and%20I%20want%20to%20use%20the%20data%20for%20FILLTHIS.%20%0A%0AThank%20you,%20kind%20regards">registration email</a>.
+     We use the gathered data for statistical purposes and might very occasionally send a survey or other requests for feedback.
+
+
+     <h4>Referencing the Hitlist Service</h4>
+
+    If you are using data from the IPv6 Hitlist Service in your publication, please refer to it with the following references:
+
+    <br>
+
+    <small>
+    <code>
+        @inproceedings{gasser2018clusters,<br>
+        &nbsp;&nbsp;    title = {Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists},<br>
+        &nbsp;&nbsp;    author = {Gasser, Oliver and Scheitle, Quirin and Foremski, Pawel and Lone, Qasim and Korczynski, Maciej and Strowes, Stephen D. and Hendriks, Luuk and Carle, Georg},<br>
+        &nbsp;&nbsp;    booktitle = {Proceedings of the 2018 Internet Measurement Conference},<br>
+        &nbsp;&nbsp;    year = {2018},<br>
+        &nbsp;&nbsp;    location = {Boston, MA, USA},<br>
+        &nbsp;&nbsp;    numpages = {15},<br>
+        &nbsp;&nbsp;    doi = {10.1145/3278532.3278564},<br>
+        &nbsp;&nbsp;    publisher = {ACM},<br>
+        &nbsp;&nbsp;    address = {New York, NY, USA},<br>
+            }
+    </code>
+    </small>
+
+    <small>
+    <code>
+        @inproceedings{zirngibl2022rustyclusters,<br>
+        &nbsp;&nbsp;    title = {Rusty Clusters? Dusting an IPv6 Research Foundation},<br>
+        &nbsp;&nbsp;    author = {Zirngibl, Johannes and Steger, Lion and Sattler, Patrick and Gasser, Oliver and Carle, Georg},<br>
+        &nbsp;&nbsp;    booktitle = {Proceedings of the 2022 Internet Measurement Conference},<br>
+        &nbsp;&nbsp;    year = {2022},<br>
+        &nbsp;&nbsp;    location = {Nice, France},<br>
+        &nbsp;&nbsp;    numpages = {15},<br>
+        &nbsp;&nbsp;    doi = {10.1145/3517745.3561440},<br>
+        &nbsp;&nbsp;    publisher = {ACM},<br>
+        &nbsp;&nbsp;    address = {New York, NY, USA},<br>
+        }
+    </code>
+    </small>
+
+    <small>
+    <code>
+        @inproceedings{steger2023targetacquired,<br>
+        &nbsp;&nbsp;    title = {Target Acquired? Evaluating Target Generation Algorithms for IPv6},<br>
+        &nbsp;&nbsp;    author = {Steger, Lion and Kuang, Liming and Zirngibl, Johannes and Carle, Georg and Gasser, Oliver},<br>
+        &nbsp;&nbsp;    booktitle = {Proceedings of the Network Traffic Measurement and Analysis Conference (TMA)},<br>
+        &nbsp;&nbsp;    year = {2023},<br>
+        &nbsp;&nbsp;    month = jun,<br>
+        &nbsp;&nbsp;    location = {Naples, Italy},<br>
+        &nbsp;&nbsp;    publisher = {},<br>
+        }
+    </code>
+    </small>
+
+
+    <p>
+    The same reference applies to the open and registered service. <b><a href="gasser2018clusters.bib">[bib]</a>, <a href="zirngibl2022rustyclusters.bib">[bib]</a> and <a href="steger2023targetacquired.bib">[bib]</a></b>
+
+
+    <h2 id="tools">Software and Tools</h2>
+
+    During our IPv6 hitlist analysis we developed software to analyze and understand IPv6 hitlist.
+    We publish the following software and tools for use by the scientific community:
+
+    <ul>
+        <li><a href="#zmapv6">ZMapv6</a></li>
+        <li><a href="#zesplot">zesplot</a></li>
+        <li><a href="#entropy-clustering">Entropy Clustering</a></li>
+        <li><a href="#entropy-ip">Entropy/IP</a></li>
+        <li><a href="#entropy-ip-reimp">New Entropy/IP Generator</a></li>
+        <li><a href="#apd-lpm">Longest prefix matching for aliased prefixes</a></li>
+        <li><a href="#distance-clustering">Distance Clustering</a></li>
+        <li><a href="#gfw-filter"> GFW filter</a></li>
+    </ul>
+
+    <h4 id="zmapv6">ZMapv6</h4>
+
+    We extend the original ZMap to add IPv6 capabilities.
+    ZMapv6 supports the following new IPv6-specific probe modules:
+
+    <ul>
+        <li>ICMPv6 Echo Request</li>
+        <li>IPv6 TCP SYN (any port)</li>
+        <li>IPV6 UDP (any port and payload)</li>
+    </ul>
+
+    ZMapv6 can read IPv6 target addresses from a file or from standard input.
+
+    <br>
+
+    Source: <a href="https://github.com/tumi8/zmap">github.com/tumi8/zmap</a>
+
+
+    <h4 id="zesplot">zesplot</h4>
+
+	zesplot is a tool to visualize IPv6 networks.  It uses the concept of
+	squarified treemaps and plots IPv6 networks in a space-filling way. Note
+	that unlike a Hilbert curve visualizing IPv4 address space, zesplot does
+	not plot the entire IPv6 address space.
+
+    <br>
+
+    Source: <a href="https://github.com/zesplot/zesplot">github.com/zesplot/zesplot</a>
+
+
+    <h4 id="entropy-clustering">Entropy Clustering</h4>
+
+    Entropy Clustering is a software to find and visualize clusters in IPv6 addressing schemes.
+
+    <br>
+
+    Source: <a href="https://github.com/pforemski/entropy-clustering">github.com/pforemski/entropy-clustering</a>
+
+
+    <h4 id="entropy-ip">Entropy/IP</h4>
+
+    Entropy/IP is a software to find patterns in IPv6 addresses and generate addresses based on these patterns.
+    Entropy/IP was presented during the 2016 Internet Measurement Conference.
+    For more information see the <a href="http://www.entropy-ip.com/">Entropy/IP website</a>.
+
+    The Entropy/IP software is published by Akamai.
+
+    <br>
+
+    Source: <a href="https://github.com/akamai/entropy-ip">github.com/akamai/entropy-ip</a>
+
+
+    <h4 id="entropy-ip-reimp">New Entropy/IP Generator</h4>
+
+    This generator uses the output of Entropy/IP to generate IPv6 addresses which follow the specified model.
+
+    <br>
+
+    Source: <a href="https://github.com/pforemski/eip-generator">github.com/pforemski/eip-generator</a>
+
+
+    <h4 id="apd-lpm">Longest prefix matching for aliased prefixes</h4>
+
+    To make use of our published lists of aliased and non-aliased prefixes for your custom IPv6 address list, you need to perform longest prefix matching.
+    This ensures that your addresses are matched to the longest aliased or non-aliased prefix.
+
+    For your convenience we publish a simple Python script and a Go tool for this purpose.
+
+    <br>
+
+    Python source: <a href="lpm/aliases-lpm.py">aliases-lpm.py</a>
+
+    <br>
+
+    Go source: <a href="lpm/aliases-lpm.go">aliases-lpm.go</a>
+
+    <h4 id="distance-clustering">Distance Clustering</h4>
+    This method generates IPv6 address candidates from a seed list.
+    It extends more densely clustered address regions that show high entropy in the last nibble(s) of the address.
+    Note, these regions are not fully responsive but only densely populated.
+    <br>
+
+    Python source: <a href="distance-clustering/"> distance-clustering</a>
+
+    <h4 id="gfw-filter">GFW filer</h4>
+    We provide a script to filter the output of UDP/53 scans from the impact of the GFW.
+
+    <br>
+    Python source: <a href="gfw-filter/filter_gfw.py">filter_gfw.py</a>
+    
+
+    <h2 id="paper2023">Target Acquired? Evaluating Target Generation Algorithms for IPv6</h2>
+	
+    <b> Abstract.</b> Internet measurements are a crucial foundation of
+    IPv6-related research. Due to the infeasibility of full address space
+    scans for IPv6 however, those measurements rely on collections
+    of reliably responsive, unbiased addresses, as provided e.g., by
+    the IPv6 Hitlist service. Although used for various use cases, the
+    hitlist provides an unfiltered list of responsive addresses, the hosts
+    behind which can come from a range of different networks and
+    devices, such as web servers, customer-premises equipment (CPE)
+    devices, and Internet infrastructure. <br>
+    In this paper, we demonstrate the importance of tailoring
+    hitlists in accordance with the research goal in question. By
+    using PeeringDB we classify hitlist addresses into six different
+    network categories, uncovering that 42% of hitlist addresses are
+    in ISP networks. Moreover, we show the different behavior of
+    those addresses depending on their respective category, e.g., ISP
+    addresses exhibiting a relatively low lifetime. Furthermore, we
+    analyze different Target Generation Algorithms (TGAs), which are
+    used to increase the coverage of IPv6 measurements by generating
+    new responsive targets for scans. We evaluate their performance
+    under various conditions and find generated addresses to show
+    vastly differing responsiveness levels for different TGAs.
+    <br>
+    <b>Paper. </b> Read the final version of our paper here: <b><a href="http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/steger2023targetacquired.pdf">[PDF]</a></b>
+    <br>
+
+    <b>Authors.</b> 
+    <a href="https://www.net.in.tum.de/members/stegerl/">Lion Steger</a>,
+    Liming Kuang,
+    <a href="https://www.net.in.tum.de/members/zirngibl/">Johannes Zirngibl</a>,
+    <a href="https://www.net.in.tum.de/members/carle/">Georg Carle</a>,
+    <a href="https://olivergasser.net/">Oliver Gasser</a>.
+    
+    <h2 id="paper2022">Rusty Clusters? Dusting an IPv6 Research Foundation</h2>
+	
+    <b> Abstract.</b> The long-running IPv6 Hitlist service is an important
+    foundation for IPv6 measurement studies. It helps to overcome infeasible,
+    complete address space scans by collecting valuable, unbiased IPv6 address
+    candidates and their responsiveness. However, the Internet itself is a
+    quickly changing ecosystem that can effect long-running services, potentially
+    inducing new biases and obscurities into ongoing data collection means. 
+    Frequent analyses  but also updates are necessary to enable a valuable service
+    to the community.<br>
+	In this paper, we show that the existing hitlist is highly impacted by the
+    Great Firewall of China and we offer a cleaned view on its development. While
+    the accumulated input shows an increasing bias towards some networks, the
+    cleaned set of responsive addresses is well distributed and shows a steady
+    increase.<br>
+	Although it is a best practice to remove aliased prefixes from IPv6 hitlists,
+    we show that this removes not only single hosts responsive to complete
+    prefixes, but also major content delivery networks. More than 98% of all
+    IPv6 addresses announced by Fastly are labeled as aliased and Cloudflare
+    prefixes hosting more than 10M domains are excluded. Depending on the
+    hitlist usage, e.g., higher layer protocol scans, inclusion of addresses
+    from these providers can be valuable.<br>
+	Lastly, we evaluate different new address candidate sources, including
+    target generation algorithms. We show that a combination of different
+    methodologies is able to identify 5.6M new, responsive addresses. This
+    accounts for an increase by 174% and combined with the current IPv6 Hitlist,
+    we identify 8.8M responsive addresses.
+    <br>
+    <b>Paper. </b> Read the final version of our paper here: <b><a href="http://www.net.in.tum.de/fileadmin/bibtex/publications/papers/zirngibl2022rustyclusters.pdf">[PDF]</a></b>
+    <br>
+
+    <b>Authors.</b> 
+    <a href="https://www.net.in.tum.de/members/zirngibl/">Johannes Zirngibl</a>,
+    <a href="https://www.net.in.tum.de/members/stegerl/">Lion Steger</a>,
+    <a href="https://www.net.in.tum.de/members/sattler/">Patrick Sattler</a>,
+    <a href="https://olivergasser.net/">Oliver Gasser</a>,
+    <a href="https://www.net.in.tum.de/members/carle/">Georg Carle</a>.
+
+    <h2 id="paper2018">Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists</h2>
+
+    <b>Abstract.</b> Network measurements are an important tool in understanding the
+Internet. Due to the expanse of the IPv6 address space, exhaustive
+scans as in IPv4 are not possible for IPv6. In recent years, several
+studies have proposed the use of target lists of IPv6 addresses, called
+IPv6 hitlists.<br>
+In this paper, we show that addresses in IPv6 hitlists are heavily
+clustered. We present novel techniques that allow IPv6 hitlists to
+be pushed from quantity to quality. We perform a longitudinal
+active measurement study over 6 months, targeting more than 50 M
+addresses. We develop a rigorous method to detect aliased prefixes,
+which identifies 1.5 % of our prefixes as aliased, pertaining to about
+half of our target addresses. Using entropy clustering, we group the
+entire hitlist into just 6 distinct addressing schemes. Furthermore,
+we perform client measurements by leveraging crowdsourcing.<br>
+To encourage reproducibility in network measurement research
+and to serve as a starting point for future IPv6 studies, we publish
+source code, analysis tools, and data.
+	<br>
+
+    <b>Paper.</b> Read the final version of our paper at arXiv.org:
+	<b><a href="https://arxiv.org/abs/1806.01633">[abstract]</a></b> and
+	<b><a href="https://arxiv.org/pdf/1806.01633.pdf">[PDF]</a></b>.
+	<br>
+
+
+    <b>Authors.</b> <a href="https://olivergasser.net/">Oliver Gasser</a>, <a href="https://www.net.in.tum.de/members/scheitle/">Quirin Scheitle</a>, <a href="http://www.foremski.pl/">Paweł Foremski</a>, <a href="https://drakkar.imag.fr/spip.php?auteur91">Qasim Lone</a>,
+    <a href="http://mkorczynski.com/">Maciej Korczyński</a>, <a href="https://sdstrowes.co.uk/">Stephen D. Strowes</a>, <a href="https://blog.luukhendriks.eu/">Luuk Hendriks</a>, <a href="https://www.net.in.tum.de/members/carle/">Georg Carle</a>.
+
+
+    <h4>Additional Plots</h4>
+
+  We provide additional plots for in-depth analysis accompanying the evaluations in our paper.<br>
+
+  <p>
+  <b>Interactive zesplot plots</b>
+
+  <ul>
+      <li><a href="zesplot/">Interactive zesplots of input sets, responses, aliased prefix detection and entropy clustering</a></li>
+  </ul>
+
+
+  <p>
+  <b>Entropy clustering plots</b>
+
+    <ul>
+        <li><a href="eip/">Entropy clustering of hitlist IPv6 addresses</a></li>
+        <li><a href="eip-scanning/">Entropy clustering of responsive IPv6 addresses</a></li>
+    </ul>
+
+  <p>
+  <b>Responsiveness over time</b>
+
+    <ul>
+        <li><a href="probing/">Responsiveness over time for each protocol and source</a></li>
+    </ul>
+
+  <h2 id="reproduc">Reproducibility</h2>
+
+  <h4>Target Acquired? Evaluating Target Generation Algorithms for IPv6</h4>
+  We publish data and scripts to reproduce our analysis at the <a href="https://mediatum.ub.tum.de/1709953"> TUM university library</a> to guarantee long-term availability.
+
+  <br>
+  Dataset DOI: <a href="https://doi.org/10.14459/2023mp1709953">10.14459/2023mp1709953</a>
+
+  <h4>Rusty Clusters? Dusting an IPv6 Research Foundation</h4>
+  We publish data and scripts to reproduce our analysis at the <a href="https://mediatum.ub.tum.de/1686542"> TUM university library</a> to guarantee long-term availability.
+
+  <br>
+  Dataset DOI: <a href="https://doi.org/10.14459/2022mp1686542">10.14459/2022mp1686542 </a>
+
+  <h4>Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists</h4>
+We publish data and scripts to reproduce our analysis at the
+<a href="https://mediatum.ub.tum.de/1452739">TUM university library</a> to guarantee long-term availability.
+
+<br>
+
+Dataset DOI: <a href="https://dx.doi.org/10.14459/2018mp1452739">10.14459/2018mp1452739</a>
+
+<br>
+  <p>
+  <b>Reproducibility update 2019-04-10</b>
+
+  We update the requirements.txt file and provide additional information in the README.md file.
+  You can download the updated files from <a href="reproducibility-updates/2019-04-10/">this directory</a>.
+
+  <br>
+  <p>
+  <b>SIGCOMM Artifacts Evaluation Badges</b>
+
+  We were awarded all three badges by the <a href="https://www.sigcomm.org/content/sigcomm-artifacts-evaluation-committee">SIGCOMM Artifacts Evaluation Committee</a> underlining that our published data and scripts are available, functional, and reusable.
+
+	<div class="row align-items-center">
+        <div class="col-md-3">
+			<img src="sigcommae/artifacts_available.jpg" alt="SIGCOMM Artifacts Evaluation available badge" class="img-fluid"/>
+		</div>
+		<div class="col-md-3">
+			<img src="sigcommae/artifacts_evaluated_functional.jpg" alt="SIGCOMM Artifacts Evaluation functional badge" class="img-fluid"/>
+		</div>
+		<div class="col-md-3">
+			<img src="sigcommae/artifacts_evaluated_reusable.jpg" alt="SIGCOMM Artifacts Evaluation reusable badge" class="img-fluid"/>
+		</div>
+	</div>
+
+
+<h2 id="contact">Contact</h2>
+    <b><a href="https://olivergasser.net/">Oliver Gasser</a></b>: <b>oliver.gasser</b> [AT] <b>mpi-inf.mpg.de</b><br>
+    <b><a href="https://www.net.in.tum.de/members/zirngibl/">Johannes Zirngibl</a></b>: <b>zirngibl</b> [AT] <b>net.in.tum.de</b><br>
+    <b><a href="https://www.net.in.tum.de/members/stegerl/">Lion Steger</a></b>: <b>stegerl</b> [AT] <b>net.in.tum.de</b>
+
+<h2 id="partners">Partners</h2>
+
+	<div class="row align-items-center">
+        <div class="col-md-3">
+			<a href="https://www.tum.de/nc/en/homepage/"><img src="logos/TUM_Logo_extern_mt_EN_RGB_p.png" alt="TUM logo" class="img-fluid"/></a>
+		</div>
+		<div class="col-md-3">
+			<a href="https://www.iitis.pl/en"><img src="logos/itis.png" alt="IITiS logo" class="img-fluid"/></a>
+		</div>
+		<div class="col-md-3">
+			<a href="https://www.tudelft.nl/en/"><img src="logos/tudelft.jpg" alt="TU Delft logo" class="img-fluid"/></a>
+		</div>
+	</div>
+	<div class="row align-items-center">
+		<div class="col-md-3">
+			<a href="https://www.univ-grenoble-alpes.fr/en/"><img src="logos/logo-uga.png" alt="University Grenoble Alpes logo" class="img-fluid"/></a>
+		</div>
+		<div class="col-md-3">
+			<a href="https://www.ripe.net/"><img src="logos/RIPE_NCC_Logo2015.png" alt="RIPE NCC logo" class="img-fluid"/></a>
+		</div>
+        <div class="col-md-3">
+            <a href="https://www.utwente.nl/en/"><img src="logos/UTEN.png" alt="UTwente logo" class="img-fluid"/></a>
+		</div>
+	</div>
+    <div class="row align-items-center">
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3">
+            <a href="https://www.mpi-inf.mpg.de/home"><img src="logos/logo_mpi.png" alt="MPI logo" class="img-fluid"/></a>
+        </div>
+    </div>
+    <br><br>
+
+</div> <!-- /container -->
+
+
+<!-- JS STARTS HERE -->
+<!-- jQuery -->
+<script src="js/jquery-3.5.1.min.js"></script>
+
+<!-- popper.js -->
+<script src="js/popper.min.js"></script>
+
+<!-- Bootstrap JS - necessary for expanding the navbar menu -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Hide navbar on click -->
+<script>
+    $('.nav-item').on('click', function(){
+        $('.navbar-collapse').collapse('hide');
+});
+</script>
+
+<!-- Highchart plotting libs -->
+<script src="js/highcharts/highstock.js"></script>
+<script src="js/highcharts/exporting.js"></script>
+<script src="js/highcharts/offline-exporting.js"></script>
+<script src="js/highcharts/export-data.js"></script>
+
+<!-- Parse JSON for plotting -->
+<script>
+	// Set thousands separator as comma
+	Highcharts.setOptions({
+		lang: {
+			thousandsSep: ','
+		}
+	});
+
+    var cat_datasets = [0, 0, 0, 0, 0, 0, 0]
+    $.getJSON('categ_responsive.json', function (chart) {
+		cat_datasets[0] = chart;
+        Highcharts.chart('plot-categories', cat_datasets[0]);
+	});
+    $.getJSON('categ_input.json', function (chart) {
+		cat_datasets[1] = chart;
+	});
+    ["tcp80", "tcp443", "udp53", "udp443", "icmp"].forEach((proto, ind) => {
+        $.getJSON('categ_responsive_' + proto + '.json', function (chart) {
+            console.log(proto);
+	    	cat_datasets[ind + 2] = chart;
+	    });
+    })
+
+    var categ_content_select = document.getElementById("categ_content_select");
+    categ_content_select.selectedIndex = 0;
+    categ_content_select.addEventListener("change", function () {
+        var selInd = categ_content_select.selectedIndex;
+        console.log(selInd);
+        Highcharts.chart('plot-categories', cat_datasets[selInd]);
+    });
+
+	// Get the CSV and create the chart
+	$.getJSON('input.json', function (chart) {
+		Highcharts.chart('plot-input', chart);
+	});
+	$.getJSON('responsive.json', function (chart) {
+		Highcharts.chart('plot-responsive', chart);
+	});
+</script>
+<!-- JS ENDS HERE -->
+
+</body>
+</html>
