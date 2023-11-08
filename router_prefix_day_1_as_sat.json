@@ -1,0 +1,78 @@
+{
+  "chart": {
+    "plotBackgroundColor": "white",
+    "plotBorderWidth": "0",
+    "plotShadow": "false",
+    "type": "pie"
+  },
+  "title": {
+    "text": "AS-Num-Org",
+    "align": "left"
+  },
+  "tooltip": {
+    "pointFormat": "{series.name}: <b>{point.percentage:.1f}%</b>"
+  },
+  "accessibility": {
+    "point": {
+      "valueSuffix": "%"
+    }
+  },
+  "plotOptions": {
+    "pie": {
+      "allowPointSelect": "true",
+      "cursor": "pointer",
+      "dataLabels": {
+        "enabled": "false"
+      },
+      "showInLegend": "true"
+    }
+  },
+  "series": [
+    {
+      "name": "ratio of aliased prefix",
+      "colorByPoint": "true",
+      "data": [
+        {
+          "name": "16509-1177-Amazon.com, Inc.",
+          "y": 0.27002
+        },
+        {
+          "name": "36183-1141-Akamai Technologies, Inc.",
+          "y": 0.26176
+        },
+        {
+          "name": "13335-248-Cloudflare, Inc.",
+          "y": 0.05689
+        },
+        {
+          "name": "36492-221-Google LLC",
+          "y": 0.0507
+        },
+        {
+          "name": "45609-165-Bharti Airtel Limited",
+          "y": 0.03785
+        },
+        {
+          "name": "54113-140-Fastly, Inc.",
+          "y": 0.03212
+        },
+        {
+          "name": "210842-125-Rohmad Kumiadin",
+          "y": 0.02868
+        },
+        {
+          "name": "204916-102-RACKTECH CO., LTD.",
+          "y": 0.0234
+        },
+        {
+          "name": "15133-86-Edgecast Inc.",
+          "y": 0.01973
+        },
+        {
+          "name": "Others",
+          "y": 0.2188500000000001
+        }
+      ]
+    }
+  ]
+}

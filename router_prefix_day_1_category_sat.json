@@ -1,0 +1,78 @@
+{
+  "chart": {
+    "plotBackgroundColor": "white",
+    "plotBorderWidth": "0",
+    "plotShadow": "false",
+    "type": "pie"
+  },
+  "title": {
+    "text": "Category-Num",
+    "align": "left"
+  },
+  "tooltip": {
+    "pointFormat": "{series.name}: <b>{point.percentage:.1f}%</b>"
+  },
+  "accessibility": {
+    "point": {
+      "valueSuffix": "%"
+    }
+  },
+  "plotOptions": {
+    "pie": {
+      "allowPointSelect": "true",
+      "cursor": "pointer",
+      "dataLabels": {
+        "enabled": "false"
+      },
+      "showInLegend": "true"
+    }
+  },
+  "series": [
+    {
+      "name": "ratio of aliased prefix",
+      "colorByPoint": "true",
+      "data": [
+        {
+          "name": "Computer and Information Technology-3827",
+          "y": 0.87809
+        },
+        {
+          "name": "None-274",
+          "y": 0.06289
+        },
+        {
+          "name": "Service-136",
+          "y": 0.0312
+        },
+        {
+          "name": "Construction and Real Estate-29",
+          "y": 0.00665
+        },
+        {
+          "name": "Education and Research-21",
+          "y": 0.00482
+        },
+        {
+          "name": "Media, Publishing, and Broadcasting-20",
+          "y": 0.00459
+        },
+        {
+          "name": "Finance and Insurance-19",
+          "y": 0.00436
+        },
+        {
+          "name": "Other-11",
+          "y": 0.00253
+        },
+        {
+          "name": "Freight, Shipment, and Postal Services-5",
+          "y": 0.00115
+        },
+        {
+          "name": "Others",
+          "y": 0.0037199999999999456
+        }
+      ]
+    }
+  ]
+}

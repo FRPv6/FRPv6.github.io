@@ -1,0 +1,78 @@
+{
+  "chart": {
+    "plotBackgroundColor": "white",
+    "plotBorderWidth": "0",
+    "plotShadow": "false",
+    "type": "pie"
+  },
+  "title": {
+    "text": "Sub_category-Num",
+    "align": "left"
+  },
+  "tooltip": {
+    "pointFormat": "{series.name}: <b>{point.percentage:.1f}%</b>"
+  },
+  "accessibility": {
+    "point": {
+      "valueSuffix": "%"
+    }
+  },
+  "plotOptions": {
+    "pie": {
+      "allowPointSelect": "true",
+      "cursor": "pointer",
+      "dataLabels": {
+        "enabled": "false"
+      },
+      "showInLegend": "true"
+    }
+  },
+  "series": [
+    {
+      "name": "ratio of aliased prefix",
+      "colorByPoint": "true",
+      "data": [
+        {
+          "name": "Hosting and Cloud Provider-1458",
+          "y": 0.3344999999999999
+        },
+        {
+          "name": "Computer and Network Security-1222",
+          "y": 0.28034
+        },
+        {
+          "name": "Internet Service Provider (ISP)-642",
+          "y": 0.14735
+        },
+        {
+          "name": "Software Development-437",
+          "y": 0.10027
+        },
+        {
+          "name": "None-362",
+          "y": 0.08312
+        },
+        {
+          "name": "Law, Business, and Consulting Services-92",
+          "y": 0.0211
+        },
+        {
+          "name": "Other-72",
+          "y": 0.01653
+        },
+        {
+          "name": "Buildings (Residential or Commercial)-16",
+          "y": 0.00367
+        },
+        {
+          "name": "Investment, Portfolio Management, Pensions and Funds-16",
+          "y": 0.00367
+        },
+        {
+          "name": "Others",
+          "y": 0.009450000000000292
+        }
+      ]
+    }
+  ]
+}
