@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Map Chart</title>
+    <!-- 引入 Highcharts 库 -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+</head>
+<body>
+
+<!-- 在这里插入你的地图容器 -->
+<div id="world_map_container" style="height: 500px;"></div>
+
+<!-- 插入你的 JavaScript 代码 -->
+<script>
+
+	$.getJSON('test.json', function (chart) {
+        Highcharts.mapChart('world_map_container',chart);
+	});
+</script>
+
+</body>
+</html>
