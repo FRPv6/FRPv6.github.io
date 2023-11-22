@@ -1,0 +1,3 @@
+2600:9000:2069::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2112::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2407:0000:3001:01::/56,4761,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)

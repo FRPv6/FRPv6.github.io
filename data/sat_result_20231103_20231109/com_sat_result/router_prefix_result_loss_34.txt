@@ -1,0 +1,34 @@
+2600:9000:2003::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:201a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:204c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2084::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2094::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20c4::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20db::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20f5::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:211a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:211e::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2121::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:212c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2144::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2186::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21a3::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21a8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c4::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c5::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c6::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21d3::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21fb::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:be43::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a09:be46::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0f:3d83::/32,30633,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:7386::/48,20473,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:49c0::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a12:49c4::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a13:3f82::/32,52042,Kew Solutions Unipessoal Lda,PT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a13:3f86::/32,1239,Sprint,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:3fc0::/32,51126,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2600:9000:21f1::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
+2a0d:e283::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development

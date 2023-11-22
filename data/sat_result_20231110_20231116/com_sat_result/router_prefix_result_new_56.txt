@@ -1,0 +1,26 @@
+2406:0840:eb8c::/48,140731,TOHU Public Internet,CN,Education and Research,
+2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
+2602:fed2:709::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2602:fed2:74::/40,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2602:fed2:791::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2602:fed2:b::/36,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:b684::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0f:9400:617::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:732::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:734::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:af01::/32,204916,"RACKTECH CO., LTD.",TH,,
+2600:9000:200a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20d5::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2606:bc40:0f1f::/48,20253,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:9f81:11::/40,216157,,,,
+2a12:ecc0:000f::/48,205544,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2600:9000:2005::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2024::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20c9::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20ce::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21ab::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c9::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21e9::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21f8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2391::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2396::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider

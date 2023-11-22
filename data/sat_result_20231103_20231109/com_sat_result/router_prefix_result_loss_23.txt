@@ -1,0 +1,5 @@
+2a09:0407:e::/36,204916,"RACKTECH CO., LTD.",TH,,
+2a0a:6040:d214::/48,200866,John Mark Gabriel Caguicla,PH,Computer and Information Technology,Software Development
+2a0d:3c43::/32,51659,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:3c45::/32,51659,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:0e82::/32,204916,"RACKTECH CO., LTD.",TH,,

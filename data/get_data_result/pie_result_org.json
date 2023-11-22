@@ -1,0 +1,650 @@
+{
+  "result": [
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Amazon.com, Inc.-[16509]-1203",
+          "value": 0.27441
+        },
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1141",
+          "value": 0.26027
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-248",
+          "value": 0.05657
+        },
+        {
+          "name": "Google LLC-[36492]-221",
+          "value": 0.05041
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03764
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-142",
+          "value": 0.03239
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02851
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-99",
+          "value": 0.02258
+        },
+        {
+          "name": "Edgecast Inc.-[15133, 14153]-89",
+          "value": 0.0203
+        },
+        {
+          "name": "Others",
+          "y": 0.19843999999999995
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Amazon.com, Inc.-[16509]-1194",
+          "value": 0.27266
+        },
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1141",
+          "value": 0.26056
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-248",
+          "value": 0.05663
+        },
+        {
+          "name": "Google LLC-[36492]-221",
+          "value": 0.05047
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03768
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-140",
+          "value": 0.03197
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02855
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-99",
+          "value": 0.02261
+        },
+        {
+          "name": "Edgecast Inc.-[15133, 14153]-89",
+          "value": 0.02033
+        },
+        {
+          "name": "Others",
+          "y": 0.20027000000000006
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Amazon.com, Inc.-[16509]-1188",
+          "value": 0.2721
+        },
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1141",
+          "value": 0.26134
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-248",
+          "value": 0.0568
+        },
+        {
+          "name": "Google LLC-[36492]-221",
+          "value": 0.05062
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03779
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-139",
+          "value": 0.03184
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02863
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-99",
+          "value": 0.02268
+        },
+        {
+          "name": "Edgecast Inc.-[15133, 14153]-89",
+          "value": 0.02039
+        },
+        {
+          "name": "Others",
+          "y": 0.19948999999999995
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Amazon.com, Inc.-[16509]-1205",
+          "value": 0.2743
+        },
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1141",
+          "value": 0.25973
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-248",
+          "value": 0.05645
+        },
+        {
+          "name": "Google LLC-[36492]-221",
+          "value": 0.05031
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03756
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-142",
+          "value": 0.03232
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02845
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-100",
+          "value": 0.02276
+        },
+        {
+          "name": "Edgecast Inc.-[15133, 14153]-89",
+          "value": 0.02026
+        },
+        {
+          "name": "Others",
+          "y": 0.19965
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1201",
+          "value": 0.2454
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-1195",
+          "value": 0.24418
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-249",
+          "value": 0.05088
+        },
+        {
+          "name": "Google LLC-[36492, 36040]-222",
+          "value": 0.04536
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03371
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-145",
+          "value": 0.02963
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02554
+        },
+        {
+          "name": "Incapsula Inc-[19551]-113",
+          "value": 0.02309
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-101",
+          "value": 0.02064
+        },
+        {
+          "name": "Others",
+          "y": 0.2633900000000001
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Amazon.com, Inc.-[16509]-1201",
+          "value": 0.27339
+        },
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1141",
+          "value": 0.25973
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-248",
+          "value": 0.05645
+        },
+        {
+          "name": "Google LLC-[36492]-221",
+          "value": 0.05031
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03756
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-141",
+          "value": 0.0321
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02845
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-101",
+          "value": 0.02299
+        },
+        {
+          "name": "Edgecast Inc.-[15133, 14153]-89",
+          "value": 0.02026
+        },
+        {
+          "name": "Others",
+          "y": 0.20055000000000012
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai Technologies, Inc.-[36183, 16625]-1213",
+          "value": 0.24154
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-1196",
+          "value": 0.23815
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335]-252",
+          "value": 0.05018
+        },
+        {
+          "name": "Google LLC-[36492, 36040]-222",
+          "value": 0.04421
+        },
+        {
+          "name": "Bharti Airtel Limited-[45609]-165",
+          "value": 0.03286
+        },
+        {
+          "name": "Fastly, Inc.-[54113]-144",
+          "value": 0.02867
+        },
+        {
+          "name": "Rohmad Kumiadin-[210842]-125",
+          "value": 0.02489
+        },
+        {
+          "name": "Incapsula Inc-[19551]-124",
+          "value": 0.02469
+        },
+        {
+          "name": "RACKTECH CO., LTD.-[204916]-104",
+          "value": 0.02071
+        },
+        {
+          "name": "Others",
+          "y": 0.27637999999999996
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9794",
+          "value": 0.3434
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5559",
+          "value": 0.19491
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1920",
+          "value": 0.06732
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1822",
+          "value": 0.06389
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1405",
+          "value": 0.04926
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-963",
+          "value": 0.03376
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-720",
+          "value": 0.02524
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-687",
+          "value": 0.02409
+        },
+        {
+          "name": "wilhelm.tel GmbH-[15943]-265",
+          "value": 0.00929
+        },
+        {
+          "name": "Others",
+          "y": 0.17958000000000007
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9844",
+          "value": 0.34098
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5568",
+          "value": 0.19287
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1969",
+          "value": 0.0682
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1830",
+          "value": 0.06339
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1406",
+          "value": 0.0486999999999999
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-973",
+          "value": 0.0337
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-715",
+          "value": 0.02477
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-683",
+          "value": 0.02366
+        },
+        {
+          "name": "wilhelm.tel GmbH-[15943]-268",
+          "value": 0.00928
+        },
+        {
+          "name": "Others",
+          "y": 0.18551000000000017
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9844",
+          "value": 0.3432
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5542",
+          "value": 0.19322
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1966",
+          "value": 0.06854
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1826",
+          "value": 0.06366
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1403",
+          "value": 0.04891
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-972",
+          "value": 0.03389
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-684",
+          "value": 0.02385
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-675",
+          "value": 0.02353
+        },
+        {
+          "name": "Claro NXT Telecomunicacoes Ltda-[28573]-258",
+          "value": 0.00899
+        },
+        {
+          "name": "Others",
+          "y": 0.18332000000000004
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9843",
+          "value": 0.32882
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5583",
+          "value": 0.18651
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1984",
+          "value": 0.06628
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1829",
+          "value": 0.0610999999999999
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1436",
+          "value": 0.0479799999999999
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-976",
+          "value": 0.03261
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-806",
+          "value": 0.02693
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-712",
+          "value": 0.02379
+        },
+        {
+          "name": "Claro NXT Telecomunicacoes Ltda-[28573]-315",
+          "value": 0.01052
+        },
+        {
+          "name": "Others",
+          "y": 0.20537000000000005
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9655",
+          "value": 0.3257299999999999
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5589",
+          "value": 0.18856
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1984",
+          "value": 0.06693
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1834",
+          "value": 0.0618699999999999
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1436",
+          "value": 0.04845
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-976",
+          "value": 0.03293
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-781",
+          "value": 0.02635
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-717",
+          "value": 0.02419
+        },
+        {
+          "name": "Claro NXT Telecomunicacoes Ltda-[28573]-305",
+          "value": 0.01029
+        },
+        {
+          "name": "Others",
+          "y": 0.20451000000000008
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9767",
+          "value": 0.34344
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5553",
+          "value": 0.19526
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1929",
+          "value": 0.06783
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1826",
+          "value": 0.06421
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1402",
+          "value": 0.0493
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-969",
+          "value": 0.03407
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-695",
+          "value": 0.02444
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-675",
+          "value": 0.02374
+        },
+        {
+          "name": "wilhelm.tel GmbH-[15943]-270",
+          "value": 0.00949
+        },
+        {
+          "name": "Others",
+          "y": 0.18003000000000002
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Org-AS-Num",
+      "data": [
+        {
+          "name": "Akamai International B.V.-[20940, 21342]-9646",
+          "value": 0.32971
+        },
+        {
+          "name": "Amazon.com, Inc.-[16509]-5567",
+          "value": 0.19029
+        },
+        {
+          "name": "Facebook, Inc.-[32934]-1983",
+          "value": 0.06778
+        },
+        {
+          "name": "Google LLC-[36492, 15169, 396982]-1828",
+          "value": 0.06248
+        },
+        {
+          "name": "Cloudflare, Inc.-[13335, 395747]-1420",
+          "value": 0.04854
+        },
+        {
+          "name": "Hostinger International Limited-[47583]-976",
+          "value": 0.03336
+        },
+        {
+          "name": "The Constant Company, LLC-[20473]-770",
+          "value": 0.02632
+        },
+        {
+          "name": "Hurricane Electric LLC-[6939]-685",
+          "value": 0.02341
+        },
+        {
+          "name": "Claro NXT Telecomunicacoes Ltda-[28573]-305",
+          "value": 0.01043
+        },
+        {
+          "name": "Others",
+          "y": 0.19735999999999987
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    }
+  ],
+  "code": 1001,
+  "msg": "success"
+}

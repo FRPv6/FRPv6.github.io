@@ -1,0 +1,71 @@
+2600:9000:2003::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:201a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:204c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20f5::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:211a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:211e::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2121::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:212c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2144::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21a3::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21a8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c4::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21c6::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21d3::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21fb::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:f530::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:f531::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:be43::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a09:be46::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0d:e283::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:3d83::/32,30633,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:7804::/32,202888,UPSTREAM NETWORK LTD,GB,,
+2a0f:7806::/32,202888,UPSTREAM NETWORK LTD,GB,,
+2a12:49c0::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a12:49c4::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a13:3f82::/32,52042,Kew Solutions Unipessoal Lda,PT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a13:3fc0::/32,51126,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a13:aac7:0008::/48,60539,Huicast Telecom Limited,HK,Computer and Information Technology,
+2600:9000:21c5::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20a8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20c4::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20e1::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20f2::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20ff::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21f1::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a02:26f7:cc80::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e4c8::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e508::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e544::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e744::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e914::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a09:3800::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0b:8b42::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:8b43::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:8b44::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:8b47::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:afc1::/32,206873,GalaxyStar LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:c101::/32,206873,GalaxyStar LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:4bc3::/32,206873,GalaxyStar LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:c945::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:e107:0007::/48,205544,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a02:26f7:cac0::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e9c4::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2606:4700:00f3::/48,13335,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a02:26f7:cc40::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f710::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb00::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cc00::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2607:6980:3a7::/44,32931,Peaktera,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f7:b504::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb40::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb80::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cbc0::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e704::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e784::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a0b:8b45::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:8b46::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:c940::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:c944::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)

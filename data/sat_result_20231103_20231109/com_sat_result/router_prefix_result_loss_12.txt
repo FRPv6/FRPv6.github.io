@@ -1,0 +1,30 @@
+2600:9000:f530::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:f531::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2606:4700:00f3::/48,13335,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a02:26f7:b504::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb00::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb40::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e4c8::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e518::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e544::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e704::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e744::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:4e03::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0e:48c0::/32,209968,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0f:3d82::/32,30633,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:dd47:5b::/40,212168,prprCloud Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
+2402:5300:74::/40,38732,CMC Telecom Infrastructure Company,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f7:cc40::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e508::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e9c4::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cac0::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cb80::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cbc0::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cc00::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:cc80::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e784::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e914::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f710::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
+2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)

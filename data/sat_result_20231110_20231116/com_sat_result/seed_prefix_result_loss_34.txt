@@ -1,0 +1,211 @@
+2001:0470:0008:0224::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:f233:001a::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:067c:2f5c:0002:0000:0000:0000:01::/120,21100.0,ITL LLC,UA,Computer and Information Technology,
+2001:0e10:0c41:a118::/64,7539.0,National Applied Research Laboratories,TW,Computer and Information Technology,
+2001:16d8:bafe::/48,16150.0,Availo Networks AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:5c01:0dbb::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:6001:1d02::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:9002:1718::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2400:cb00:0191:2005::/64,,,,,
+2400:cb00:0394:2005::/64,,,,,
+2404:00c0:4d10:0000::/64,23693.0,PT. Telekomunikasi Selular,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2404:c800:8203:0187::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2405:19c0:ca::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:cc::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:ce::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:d8::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:da::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:dc::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:de::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:e8::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:ea::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:ec::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:eee7:adf0::/64,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:eef7:a8::/56,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:eefc::/48,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f0::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f2::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f4::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f6::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f8::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:f9::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:fa::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:fb::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:fc::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:fe::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:19c0:ff::/40,140810.0,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2405:3200:0500:0100::/64,17639.0,ComClark Network & Technology Corp,PH,Computer and Information Technology,Internet Service Provider (ISP)
+2405:6e00:0804::/48,133612.0,Vodafone Australia Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
+2405:6e00:0805::/48,133612.0,Vodafone Australia Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
+2405:6e00:804::/44,,,,,
+2405:6e00:805::/44,,,,,
+2407:0c40:0001:1::/52,46562.0,Performive LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2409:8028:0070:0002:0000:0000:0000:71::/120,56041.0,China Mobile Communications Corporation,CN,Computer and Information Technology,Internet Service Provider (ISP)
+2600:1404:5c00:0385::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:5400:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:0e::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:14::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:3c00:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0007:0187::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0c00:011::/60,7713.0,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
+2600:1417:4400:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:4800:010::/60,8781.0,Ooredoo Q.S.C.,QA,Computer and Information Technology,Internet Service Provider (ISP)
+2600:1417:7800:050::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:014::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:015::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:016::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:017::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:141b:e800:0e::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:4c00:0080:0001:0000:0000:0000:01::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:0300:000d:0000:0000:0000:02::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:203e::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2058::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2083::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20d6::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21ff::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2203::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:220c::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:255f::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2566::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:256d::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2576::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:25ee::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2606::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26b8::/48,,,,,
+2600:9000:26d7::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26db::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26fd::/48,,,,,
+2600:9000:30a6:00d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3116:023::/60,,,,,
+2600:9000:3116:024::/60,,,,,
+2602:02e1:0060:0000::/64,33760.0,"Ashton Holmes, Sole Proprietorship",US,,
+2602:feda:003a::/48,46997.0,Black Mesa Corporation,US,Health Care Services,Other
+2604:ca00:0221:43::/56,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2604:ca00:0221:44::/56,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2604:ca00:d000:a0::/56,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2604:ca00:d000:a1::/56,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2606:0040:11a::/44,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2606:0040:11b::/44,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2606:2800:220::/44,,,,,
+2607:0740:0056:0::/52,11990.0,"Unlimited Net, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2607:0740:0056:1::/52,11990.0,"Unlimited Net, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2607:f330:5fa1:1020:0000:0000:0000:00::/120,15130.0,United States Department of Justice,US,Government and Public Administration,"Law Enforcement, Public Safety, and Justice"
+2607:f330:6000:1210:0000:0000:0000:00::/120,15130.0,United States Department of Justice,US,Government and Public Administration,"Law Enforcement, Public Safety, and Justice"
+2607:f798:0d04:0292::/64,812.0,Rogers Communications Canada Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2607:ff48:aa81:9403::/64,8100.0,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
+2607:ff48:aa81:9600::/64,8100.0,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
+2620:127:f00f::/44,,,,,
+2620:78:200f::/40,,,,,
+2800:06c0:0005:0000:0000:0000:0000:06::/120,27823.0,Dattatec.com,AR,Computer and Information Technology,
+2800:09a7:3010:010::/60,14522.0,Satnet,EC,Computer and Information Technology,Internet Service Provider (ISP)
+2800:09a7:3010:013::/60,14522.0,Satnet,EC,Computer and Information Technology,Internet Service Provider (ISP)
+2800:09a7:3010:014::/60,14522.0,Satnet,EC,Computer and Information Technology,Internet Service Provider (ISP)
+2801:0082:80ff:71fd::/64,10881.0,FUNPAR - Fundacao da UFPR para o DCTC,BR,Education and Research,
+2801:0082:80ff:72f1::/64,10881.0,FUNPAR - Fundacao da UFPR para o DCTC,BR,Education and Research,
+2801:0082:80ff:72f4::/64,10881.0,FUNPAR - Fundacao da UFPR para o DCTC,BR,Education and Research,
+2801:0082:80ff:72f5::/64,10881.0,FUNPAR - Fundacao da UFPR para o DCTC,BR,Education and Research,
+2801:0082:80ff:72f8::/64,10881.0,FUNPAR - Fundacao da UFPR para o DCTC,BR,Education and Research,
+2804:014c:7576:1000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:836::/44,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:3b61::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:3c2c::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:3d5f::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:4463::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:bbe4:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de41:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4030:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2806:0265:5380:0000:0000:0000:0000:01::/120,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0245:d110::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0245:d1f0::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0245:fbcf::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0247:de2a::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0247:e29d::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0247:f783::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0249:d1f4::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0249:d7f8::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0801:0249:f032::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:5881:1044:d481::/64,203432.0,Association FAImaison,FR,Community Groups and Nonprofits,Other
+2a00:5a60:c100:0000::/64,199274.0,"Serveroid, LLC",RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001a:0000:0000:0000:0e::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001a:0000:0000:0000:1::/116,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:004a:0000:0000:0000:02::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:78c1:0000:0000::/64,30781.0,Free Pro SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:7ee0:0001:0000:0003:0033:0000:0::/116,210403.0,Groupe LWS SARL,FR,,
+2a00:7ee0:0001:0000:0003:0034:0000:0::/116,210403.0,Groupe LWS SARL,FR,,
+2a00:7ee0:0001:0000:0003:0035:0000:0::/116,210403.0,Groupe LWS SARL,FR,,
+2a00:7ee0:0001:0000:0003:0036:0000:0::/116,210403.0,Groupe LWS SARL,FR,,
+2a00:9fe0:0001:000b:0000:0000:0000:00::/120,15600.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:a040:0000:011::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:a040:0000:015::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:a040:0000:0170::/64,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:00a8:0dc0:0331:0001:0000:0000:01::/120,39122.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+2a01:6500:a038:d262::/64,42925.0,Internet Rimon LTD,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:6500:a038:e373::/64,42925.0,Internet Rimon LTD,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:6500:a039:62d2::/64,42925.0,Internet Rimon LTD,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:7e00:e000:030f::/64,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2a01:7e01:e001:026d::/64,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2a02:02d8:0000:7997::/64,9002.0,RETN Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:02d8:0000:7998::/64,9002.0,RETN Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:2350:0005:0107::/64,51468.0,One.com A/S,DK,Computer and Information Technology,
+2a02:26f0:00f3:0191::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0192::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0193::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0194::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0195::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0196::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00f3:0197::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0980:06::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0980:08::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:0000:0000:0000:0217:ac::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:010::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:011::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:012::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:013::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:014::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:015::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:06::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:07::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:08::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:09::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:0a81::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3500:0a82::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0b::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0c::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d1::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d2::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d3::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d4::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d5::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5d00:0d6::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0282::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0283::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0284::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0285::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0286::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0287::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0288::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:6c00:0289::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:060::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:061::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:062::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:063::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:064::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:065::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ab00:066::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:019b::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:019c::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:019d::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:019e::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:019f::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:01a0::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:b600:01a1::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a09:8280:0009::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:eb02:e450:b42a::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:eb02:ee50:40cd::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:eb04:5888:c81b::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:eb05:d9cc:848f::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:eb06:195a:d211::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:0500:fe02::/48,216435.0,Plim Mobile Telecom LLC,US,,

@@ -1,0 +1,12 @@
+2600:9000:21de::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21e2::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2614::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2615::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2628::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2629::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:eec4::/32,51659,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:217a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2407:ba40::/32,7018,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:94e0:2179::/48,56655,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:94e0:2660::/48,56655,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:2139::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider

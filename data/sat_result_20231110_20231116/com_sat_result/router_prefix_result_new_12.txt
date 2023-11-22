@@ -1,0 +1,10 @@
+2407:0000:3001:01::/56,4761,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2402:5300:74::/40,38732,CMC Telecom Infrastructure Company,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2606:bc40:0f03::/48,20253,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:eec2::/32,60389,Manir LLC,RU,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
+2a06:e907::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:8b40::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:f302:0401::/48,62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:97c1:04::/40,58057,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"

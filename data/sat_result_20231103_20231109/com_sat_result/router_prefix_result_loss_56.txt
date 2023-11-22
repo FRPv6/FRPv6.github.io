@@ -1,0 +1,39 @@
+2600:9000:2011::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2051::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2056::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2063::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20c7::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2108::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:211b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:212b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:213a::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2142::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:218b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21aa::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21bc::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21dc::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21df::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21e1::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21f9::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2369::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26d7::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26db::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2602:fed2:709::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2602:fed2:791::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2606:bc40:0f17::/48,20253,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f7:b380::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a04:4e42:005c::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a0a:c4c0:0000::/48,47952,ICT BULUT BILISIM A.S.,TR,Computer and Information Technology,
+2a0e:48c4::/32,7018,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:617::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:732::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:734::/44,8772,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:4b46::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:0786::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a11:e101::/32,198231,SIXNET OPERATION LTD,GB,,
+2600:9000:21b7::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26b8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:9447::/32,62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:2331::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:eec2::/32,60389,Manir LLC,RU,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"

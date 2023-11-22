@@ -1,0 +1,250 @@
+两位iso编码 三位iso编码 国家英文名 中文名
+GH  GHA Ghana   加纳
+BZ  BLZ Belize  伯利兹
+VC  VCT St. Vincent & the Grenadines    圣文森特和格林纳丁斯
+CV  CPV Cape Verde  佛得角
+AM  ARM Armenia  亚美尼亚
+GT  GTM Guatemala   危地马拉
+NI  NIC Nicaragua   尼加拉瓜
+TJ  TJK Tajikistan  塔吉克斯坦
+GY  GUY Guyana  圭亚那
+OM  OMN Oman    阿曼
+AI  AIA Anguilla    安圭拉
+JM  JAM Jamaica 牙买加
+ZA  ZAF South Africa    南非
+EG  EGY Egypt   埃及
+LA  LAO Laos    老挝
+HN  HND Honduras    洪都拉斯
+BH  BHR Bahrain 巴林
+DZ  DZA Algeria 阿尔及利亚
+NG  NGA Nigeria 尼日利亚
+KG  KGZ Kyrgyzstan  吉尔吉斯斯坦
+LK  LKA Sri Lanka   斯里兰卡
+LB  LBN Lebanon 黎巴嫩
+LU  LUX Luxembourg  卢森堡
+AO  AGO Angola  安哥拉
+CR  CRI Costa Rica  哥斯达黎加
+PA  PAN Panama  巴拿马
+PK  PAK Pakistan    巴基斯坦
+EE  EST Estonia 爱沙尼亚
+MD  MDA Moldova 摩尔多瓦
+AZ  AZE Azerbaijan  阿塞拜疆
+LT  LTU Lithuania   立陶宛
+CY  CYP Cyprus  塞浦路斯
+LV  LVA Latvia  拉脱维亚
+KZ  KAZ Kazakhstan  哈萨克斯坦
+QA  QAT Qatar   卡塔尔
+BO  BOL Bolivia 玻利维亚
+SI  SVN Slovenia    斯洛文尼亚
+MK  MKD Republic of Macedonia (FYROM)   马其顿
+SK  SVK Slovakia    斯洛伐克
+MT  MLT Malta   马耳他
+DO  DOM Dominican   多米尼加
+BN  BRN Brunei  文莱
+PY  PRY Paraguay    巴拉圭
+IS  ISL Iceland 冰岛
+HK  HKG Hong Kong   中国香港
+KW  KWT Kuwait  科威特
+VE  VEN Venezuela   委内瑞拉
+BY  BLR Belarus 白俄罗斯
+KR  KOR South Korea 韩国
+IN  IND India   印度
+IL  ISR Israel  以色列
+TW  TWN Taiwan  中国台湾省
+FI  FIN Finland 芬兰
+TR  TUR Turkey  土耳其
+EC  ECU Ecuador 厄瓜多尔
+JP  JPN Japan   日本
+SG  SGP Singapore   新加坡
+NL  NLD Netherlands 荷兰
+UY  URY Uruguay 乌拉圭
+HR  HRV Croatia 克罗地亚
+CZ  CZE Czech   捷克
+AT  AUT Austria 奥地利
+ID  IDN Indonesia   印尼
+BG  BGR Bulgaria    保加利亚
+KH  KHM Cambodia    柬埔寨
+PE  PER Peru    秘鲁
+AL  ALB Albania 阿尔巴尼亚
+IE  IRL Ireland 爱尔兰
+VN  VNM Vietnam 越南
+GR  GRC Greece  希腊
+HU  HUN Hungary 匈牙利
+CL  CHL Chile   智利
+RO  ROU Romania 罗马尼亚
+PL  POL Poland  波兰
+UA  UKR Ukraine 乌克兰
+AE  ARE United Arab Emirates    阿联酋
+PT  PRT Portugal    葡萄牙
+MY  MYS Malaysia    马来西亚
+BE  BEL Belgium 比利时
+DK  DNK Denmark 丹麦
+SE  SWE Sweden  瑞典
+SA  SAU Saudi Arabia    沙特阿拉伯
+NO  NOR Norway  挪威
+AR  ARG Argentina   阿根廷
+NZ  NZL New Zealand 新西兰
+CO  COL Colombia    哥伦比亚
+CH  CHE Switzerland 瑞士
+PH  PHL The Philippines 菲律宾
+DE  DEU Germany 德国
+FR  FRA France  法国
+CN  CHN China   中国
+TH  THA Thailand    泰国
+RU  RUS Russia  俄罗斯
+ES  ESP Spain   西班牙
+AU  AUS Australia   澳大利亚
+IT  ITA Italy   意大利
+GB  GBR United Kingdom  英国
+CA  CAN Canada  加拿大
+MX  MEX Mexico  墨西哥
+BR  BRA Brazil  巴西
+US  USA United States   美国
+BA  BIH Bosnia & Herzegovina    波黑
+PF  PYF French polynesia    法属波利尼西亚
+AF  AFG Afghanistan 阿富汗
+ME  MNE Montenegro  黑山
+NP  NPL Nepal   尼泊尔
+BD  BGD Bangladesh  孟加拉
+GP  GLP Guadeloupe  瓜德罗普
+MQ  MTQ Martinique  马提尼克
+PS  PSE Palestinian territories 巴勒斯坦
+CI  CIV C?te dIvoire    科特迪瓦
+GU  GUM Guam    关岛
+AD  AND Andorra 安道尔
+AG  ATG Antigua & Barbuda   安提瓜和巴布达
+AQ  ATA Antarctica  南极洲
+AS  ASM American Samoa  美属萨摩亚
+AW  ABW Aruba   阿鲁巴
+AX  ALA ?aland Island   奥兰群岛
+BB  BRB Barbados    巴巴多斯
+BF  BFA Burkina 布基纳法索
+BI  BDI Burundi 布隆迪
+BJ  BEN Benin   贝宁
+BL  BLM Saint Barthélemy   圣巴泰勒米岛
+BM  BMU Bermuda 百慕大
+BQ  BES Caribbean Netherlands   荷兰加勒比区
+BS  BHS The Bahamas 巴哈马
+BT  BTN Bhutan  不丹
+BV  BVT Bouvet Island   布韦岛
+BW  BWA Botswana    博茨瓦纳
+CC  CCK Cocos (Keeling) Islands 科科斯群岛
+CF  CAF Central African Republic    中非
+CM  CMR Cameroon    喀麦隆
+CU  CUB Cuba    古巴
+CX  CXR Christmas Island    圣诞岛
+DJ  DJI Djibouti    吉布提
+DM  DMA Dominica    多米尼克
+EH  ESH Western Sahara  西撒哈拉
+ER  ERI Eritrea 厄立特里亚
+FJ  FJI Fiji    斐济群岛
+FK  FLK Falkland Islands    马尔维纳斯群岛（福克兰）
+FM  FSM Federated States of Micronesia  密克罗尼西亚联邦
+FO  FRO Faroe Islands   法罗群岛
+GA  GAB Gabon   加蓬
+GD  GRD Grenada 格林纳达
+GE  GEO Georgia 格鲁吉亚
+GF  GUF French Guiana   法属圭亚那
+GI  GIB Gibraltar   直布罗陀
+GL  GRL Greenland   格陵兰
+GN  GIN Guinea  几内亚
+GQ  GNQ Equatorial Guinea   赤道几内亚
+GS  SGS South Georgia and the South Sandwich Islands    南乔治亚岛和南桑威奇群岛
+GW  GNB Guinea-Bissau   几内亚比绍
+HM  HMD Heard Island and McDonald Islands   赫德岛和麦克唐纳群岛
+HT  HTI Haiti   海地
+IM  IMN Isle of Man 马恩岛
+IO  IOT British Indian Ocean Territory  英属印度洋领地
+IQ  IRQ Iraq    伊拉克
+IR  IRN Iran    伊朗
+JE  JEY Jersey  泽西岛
+JO  JOR Jordan  约旦
+KI  KIR Kiribati    基里巴斯
+KM  COM The Comoros 科摩罗
+KY  CYM Cayman Islands  开曼群岛
+LI  LIE Liechtenstein   列支敦士登
+LR  LBR Liberia 利比里亚
+LS  LSO Lesotho 莱索托
+LY  LBY Libya   利比亚
+MA  MAR Morocco 摩洛哥
+MC  MCO Monaco  摩纳哥
+MF  MAF Saint Martin (France)   法属圣马丁
+MG  MDG Madagascar  马达加斯加
+MH  MHL Marshall islands    马绍尔群岛
+ML  MLI Mali    马里
+MM  MMR Myanmar (Burma) 缅甸
+MO  MAC Macao   中国澳门
+MR  MRT Mauritania  毛里塔尼亚
+MS  MSR Montserrat  蒙塞拉特岛
+MV  MDV Maldives    马尔代夫
+MW  MWI Malawi  马拉维
+NA  NAM Namibia 纳米比亚
+NE  NER Niger   尼日尔
+NF  NFK Norfolk Island  诺福克岛
+NR  NRU Nauru   瑙鲁
+PG  PNG Papua New Guinea    巴布亚新几内亚
+PN  PCN Pitcairn Islands    皮特凯恩群岛
+PR  PRI Puerto Rico 波多黎各
+PW  PLW Palau   帕劳
+RE  REU Réunion    留尼汪
+RS  SRB Serbia  塞尔维亚
+RW  RWA Rwanda  卢旺达
+SB  SLB Solomon Islands 所罗门群岛
+SC  SYC Seychelles  塞舌尔
+SD  SDN Sudan   苏丹
+SJ  SJM Template:Country data SJM Svalbard  斯瓦尔巴群岛和扬马延岛
+SL  SLE Sierra Leone    塞拉利昂
+SM  SMR San Marino  圣马力诺
+SN  SEN Senegal 塞内加尔
+SO  SOM Somalia 索马里
+SR  SUR Suriname    苏里南
+SS  SSD South Sudan 南苏丹
+ST  STP Sao Tome & Principe 圣多美和普林西比
+SV  SLV El Salvador 萨尔瓦多
+SY  SYR Syria   叙利亚
+SZ  SWZ Swaziland   斯威士兰
+TC  TCA Turks & Caicos Islands  特克斯和凯科斯群岛
+TD  TCD Chad    乍得
+TG  TGO Togo    多哥
+TK  TKL Tokelau 托克劳
+TL  TLS Timor-Leste (East Timor)    东帝汶
+TN  TUN Tunisia 突尼斯
+TO  TON Tonga   汤加
+TV  TUV Tuvalu  图瓦卢
+TZ  TZA Tanzania    坦桑尼亚
+UG  UGA Uganda  乌干达
+VA  VAT Vatican City (The Holy See) 梵蒂冈
+VG  VGB British Virgin Islands  英属维尔京群岛
+VI  VIR United States Virgin Islands    美属维尔京群岛
+WF  WLF Wallis and Futuna   瓦利斯和富图纳
+WS  WSM Samoa   萨摩亚
+YE  YEM Yemen   也门
+YT  MYT Mayotte 马约特
+ZM  ZMB Zambia  赞比亚
+ZW  ZWE Zimbabwe    津巴布韦
+CG  COG Congo   刚果（布）
+CD  COD Democratic Republic of the Congo    刚果（金）
+MZ  MOZ Mozambique  莫桑比克
+GG  GGY Guernsey    根西岛
+GM  GMB Gambia  冈比亚
+MP  MNP Northern Mariana Islands    北马里亚纳群岛
+ET  ETH Ethiopia    埃塞俄比亚
+NC  NCL New Caledonia   新喀里多尼亚
+VU  VUT Vanuatu 瓦努阿图
+TF  ATF French Southern Territories 法属南部领地
+NU  NIU Niue    纽埃
+UM  UMI United States Minor Outlying Islands    美国本土外小岛屿
+CK  COK Cook Islands    库克群岛
+TT  TTO Trinidad & Tobago   特立尼达和多巴哥
+KP  PRK North Korea 朝鲜
+TM  TKM Turkmenistan    土库曼斯坦
+UZ  UZB Uzbekistan  乌兹别克斯坦
+KN  KNA St. Kitts & Nevis   圣基茨和尼维斯
+PM  SPM Saint-Pierre and Miquelon   圣皮埃尔和密克隆
+SH  SHN St. Helena & Dependencies   圣赫勒拿
+LC  LCA St. Lucia   圣卢西亚
+MU  MUS Mauritius   毛里求斯
+KE  KEN Kenya   肯尼亚
+MN  MNG Mongolia    蒙古
+CW  ABC Curacao Island    库拉索岛
+EU  EU European Union   欧洲联盟

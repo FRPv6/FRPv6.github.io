@@ -1,0 +1,67 @@
+.h2, h2 {
+    font-size: 2rem;
+    padding-top: 4rem;
+    margin-top: -2rem;
+}
+.h4, h4 {
+    font-size: 1.4rem;
+    padding-top: 4rem;
+    margin-top: -2rem;
+}
+h3 {
+    font-size: 1.5rem;
+    padding-top: 3rem;
+    margin-top: -2rem;
+}
+.description{
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+.topmargin {
+    margin-top: 0rem;
+}
+code {
+    display: block;
+    line-height: 150%;
+}
+
+/*导航栏*/
+tab-content{
+    margin: 0 auto; /* 水平居中 */
+
+}
+/*折线图*/
+.line-chart{
+    /*min-width: calc(100% - 10px); !* 计算一半宽度，减去间距 *!*/
+    height: 400px;
+    width:1280px;
+}
+.container{
+    width: 1280px;
+}
+/*导航栏*/
+.nav {
+    margin-bottom: 8px;
+}
+/*四个饼状图*/
+.pie-chart-container{
+    height: 400px;
+    width: 1280px;
+}
+/*地图*/
+.map-chart-container{
+    height: 600px;
+    width: 1280px;
+}
+.chart-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.single-chart-container
+{
+    width: 100%; /* 占据整行宽度 */
+    height: 400px;
+    margin-bottom: 20px; /* 调整行之间的间距 */
+}

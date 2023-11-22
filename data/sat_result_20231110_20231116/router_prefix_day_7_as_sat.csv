@@ -1,0 +1,455 @@
+as,number of aliased prefix,ratio of aliased prefix,org_name,country,category,sub_category
+36183,1212,0.24134,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+16509,1196,0.23815,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+13335,252,0.05018,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+36492,221,0.04401,Google LLC,US,Computer and Information Technology,Software Development
+45609,165,0.03286,Bharti Airtel Limited,IN,Computer and Information Technology,Internet Service Provider (ISP)
+54113,144,0.02867,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+210842,125,0.02489,Rohmad Kumiadin,ID,None,None
+19551,124,0.02469,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+204916,104,0.02071,"RACKTECH CO., LTD.",TH,None,None
+15133,86,0.01712,Edgecast Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+397165,62,0.01235,EpicUp Holdings Inc,US,Service,"Law, Business, and Consulting Services"
+40509,53,0.01055,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+9009,49,0.00976,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+400519,41,0.00816,Developed Methods LLC,US,Service,Other
+62240,31,0.00617,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+44812,28,0.00558,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+210107,25,0.00498,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+47583,22,0.00438,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+200866,20,0.00398,John Mark Gabriel Caguicla,PH,Computer and Information Technology,Software Development
+202503,17,0.00339,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+30633,17,0.00339,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+20473,16,0.00319,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+209242,16,0.00319,"Cloudflare London, LLC",US,Service,"Law, Business, and Consulting Services"
+151338,14,0.00279,POLONETWORK LIMITED,HK,Construction and Real Estate,Buildings (Residential or Commercial)
+61317,14,0.00279,Hivelocity Inc,US,Computer and Information Technology,None
+60539,14,0.00279,Huicast Telecom Limited,HK,Computer and Information Technology,None
+41378,13,0.00259,Kirino LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+20253,13,0.00259,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+270410,13,0.00259,Infosimples Ltda.,BR,Education and Research,"Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)"
+209968,13,0.00259,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+20446,13,0.00259,"StackPath, LLC.",US,Computer and Information Technology,Internet Service Provider (ISP)
+20940,12,0.00239,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+59504,12,0.00239,LLC Vpsville,RU,Computer and Information Technology,Software Development
+40676,10,0.00199,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
+212149,10,0.00199,Hammy Web Services LLC,US,Service,None
+33905,10,0.00199,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+209368,9,0.00179,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+199925,9,0.00179,Phan Nhat Nghi,VG,Construction and Real Estate,Other
+212238,9,0.00179,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+60781,9,0.00179,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,None
+62217,9,0.00179,Vinters IT Ltd,GB,Computer and Information Technology,None
+49581,9,0.00179,Ferdinand Zink trading as Tube-Hosting,DE,Computer and Information Technology,Software Development
+32489,9,0.00179,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+200373,9,0.00179,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+47596,9,0.00179,IT Express Ltd.,UA,Service,"Law, Business, and Consulting Services"
+34164,9,0.00179,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+198231,8,0.00159,SIXNET OPERATION LTD,GB,None,None
+58057,8,0.00159,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+213220,7,0.00139,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
+205544,7,0.00139,LEASEWEB UK LIMITED,GB,Computer and Information Technology,None
+7018,7,0.00139,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+210695,7,0.00139,Dmitrii Vladimirovich Malkov,RU,None,None
+8772,7,0.00139,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+400842,7,0.00139,Tunbroker LLC,US,None,None
+46562,7,0.00139,Performive LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+42831,6,0.00119,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+209097,6,0.00119,NETSYST SAS,FR,Computer and Information Technology,Software Development
+22773,6,0.00119,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+50069,6,0.00119,"Misaka Network, Inc.",US,Other,None
+49542,6,0.00119,ArtPlanet LLC,RU,Computer and Information Technology,Hosting and Cloud Provider
+208972,6,0.00119,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+211083,6,0.00119,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+174,6,0.00119,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
+51837,6,0.00119,Netex Limited,HK,Computer and Information Technology,Software Development
+201217,6,0.00119,RADISHCLOUD TECHNOLOGY LLC,US,None,None
+949,6,0.00119,xTom,US,Computer and Information Technology,None
+210025,5,0.001,ALICE CAT RESEARCH LTD,GB,Education and Research,None
+208046,5,0.001,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+42675,5,0.001,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+59538,5,0.001,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+3320,5,0.001,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+200690,5,0.001,Junxiao Shi,US,None,None
+201364,5,0.001,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+53667,5,0.001,FranTech Solutions,US,Computer and Information Technology,Hosting and Cloud Provider
+29290,5,0.001,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+49548,5,0.001,NSA Networks LLC,US,Computer and Information Technology,Software Development
+204790,5,0.001,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+203843,4,0.0008,"WANG,XING-KAI",TW,Service,"Law, Business, and Consulting Services"
+51659,4,0.0008,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+212085,4,0.0008,Alexander Bruegmann,DE,Manufacturing,Chemical and Pharmaceutical Manufacturing
+204755,4,0.0008,MAV Studios UK LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites","Clothing, Fashion, Luggage"
+42275,4,0.0008,Three Fourteen SASU,FR,Service,Other
+205432,4,0.0008,William Weber,HR,Manufacturing,Chemical and Pharmaceutical Manufacturing
+202685,4,0.0008,Aggros Operations Ltd.,GB,None,None
+199186,4,0.0008,KIRILL ZINOV,RU,None,None
+207990,4,0.0008,HostRoyale Technologies Pvt Ltd,IN,Computer and Information Technology,Internet Service Provider (ISP)
+211358,4,0.0008,Patrizio Palumbo,IT,Construction and Real Estate,Buildings (Residential or Commercial)
+204490,4,0.0008,Kontel LLC,RU,Computer and Information Technology,Hosting and Cloud Provider
+35048,4,0.0008,Biterika Group LLC,RU,Computer and Information Technology,Software Development
+56758,4,0.0008,Cr0bar Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+8666,4,0.0008,FiberLink GmbH,AT,Computer and Information Technology,Hosting and Cloud Provider
+50867,4,0.0008,HOSTKEY B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+16724,4,0.0008,WideOpenWest Finance LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+207021,4,0.0008,ipcom GmbH,AT,Computer and Information Technology,None
+52048,4,0.0008,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+204318,4,0.0008,Benjamin Cartwright-Cox,GB,None,None
+49392,4,0.0008,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+210499,3,0.0006,Al Asmary Abdullah Ibrahim A,SA,Computer and Information Technology,Software Development
+39900,3,0.0006,Alliance LLC,RU,Construction and Real Estate,Real Estate (Residential and/or Commercial)
+212521,3,0.0006,Malkov D.V.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+212477,3,0.0006,RoyaleHosting BV,NL,Computer and Information Technology,None
+210916,3,0.0006,Freifunk im Ennepe-Ruhr-Kreis e.V.,DE,"Media, Publishing, and Broadcasting",Music and Video Industry
+48582,3,0.0006,ngena GmbH,DE,Computer and Information Technology,None
+197706,3,0.0006,Keminet SHPK,AL,Computer and Information Technology,None
+198571,3,0.0006,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+1239,3,0.0006,Sprint,US,Computer and Information Technology,Internet Service Provider (ISP)
+48108,3,0.0006,Sole trader Malkov Dmitrii Vladimirovich,RU,Computer and Information Technology,None
+30873,3,0.0006,Public Telecommunication Corporation,YE,Computer and Information Technology,Internet Service Provider (ISP)
+4761,3,0.0006,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)
+209641,3,0.0006,I-SERVERS LTD,GB,Education and Research,None
+60389,3,0.0006,Manir LLC,RU,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
+206873,3,0.0006,GalaxyStar LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+205157,3,0.0006,Daniel Cid,US,"Freight, Shipment, and Postal Services",Other
+208626,3,0.0006,ServTech LTD,RU,Computer and Information Technology,Internet Service Provider (ISP)
+14153,3,0.0006,Edgecast Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+62068,3,0.0006,SpectraIP B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+41155,3,0.0006,Orbit Telekom Sanayi ve Ticaret Limited Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+49981,3,0.0006,WorldStream B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+198412,3,0.0006,Rage4 Networks Limited,GB,Computer and Information Technology,Software Development
+208685,3,0.0006,Serverius Holding B.V.,NL,Computer and Information Technology,None
+198304,3,0.0006,Pinjia Zhao,CN,None,None
+3175,3,0.0006,Citytelecom LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+208753,3,0.0006,Marco d'Angelo,IT,Community Groups and Nonprofits,None
+56534,3,0.0006,Comfortel Ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+53356,3,0.0006,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+211027,3,0.0006,Perfect Cloud Technologies LLC,RU,"Media, Publishing, and Broadcasting",Other
+29182,3,0.0006,JSC IOT,RU,Computer and Information Technology,None
+137409,3,0.0006,GSL Networks Pty LTD,AU,Computer and Information Technology,None
+197606,2,0.0004,Ismael Munoz Hernandez,ES,None,None
+205726,2,0.0004,Daan Jurriaan van Gorkum trading as Vusam V.O.F,NL,Computer and Information Technology,Internet Service Provider (ISP)
+60567,2,0.0004,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+200021,2,0.0004,Tianhong Peng,CN,None,None
+51126,2,0.0004,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+6762,2,0.0004,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+204915,2,0.0004,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+34939,2,0.0004,"nextdns, Inc.",US,Computer and Information Technology,None
+34907,2,0.0004,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+25198,2,0.0004,INTERKVM HOST SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+34534,2,0.0004,Harmony Hosting SARL,FR,Computer and Information Technology,Internet Service Provider (ISP)
+210434,2,0.0004,Hizakura Limited,GB,None,None
+210852,2,0.0004,Dmitrii Vladimirovich Malkov,RU,None,None
+9121,2,0.0004,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+197919,2,0.0004,Noah van der Aa,NL,None,None
+140810,2,0.0004,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+42652,2,0.0004,inexio Informationstechnologie und Telekommunikation Gmbh,DE,Computer and Information Technology,Internet Service Provider (ISP)
+206843,2,0.0004,Jikai Ren,CN,"Media, Publishing, and Broadcasting",Online Informational Content
+63399,2,0.0004,"Dialpad, Inc.",US,"Media, Publishing, and Broadcasting",Other
+56655,2,0.0004,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+211400,2,0.0004,JSC MONOPOLY,RU,Computer and Information Technology,Internet Service Provider (ISP)
+52042,2,0.0004,Kew Solutions Unipessoal Lda,PT,Construction and Real Estate,Buildings (Residential or Commercial)
+56849,2,0.0004,Kew Solutions Unipessoal Lda,PT,"Freight, Shipment, and Postal Services",Other
+205718,2,0.0004,ALCORT INGENIERIA Y ASESORIA S.L.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+61112,2,0.0004,AKILE LTD,GB,"Media, Publishing, and Broadcasting",Online Informational Content
+43202,2,0.0004,Elektrorazpredelenie Yug EAD,BG,Utilities (Excluding Internet Service),"Electric Power Generation, Transmission, Distribution"
+50902,2,0.0004,DNS0.EU A.D.,FR,Computer and Information Technology,Internet Service Provider (ISP)
+30823,2,0.0004,aurologic GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+197730,2,0.0004,BWE CAPITAL LIMITED,VG,None,None
+205212,2,0.0004,LoudTronix Inc.,CA,Community Groups and Nonprofits,Other
+33760,2,0.0004,"Ashton Holmes, Sole Proprietorship",US,None,None
+201178,2,0.0004,Euronet Telekomunikasyon A.S.,TR,Computer and Information Technology,None
+28753,2,0.0004,Leaseweb Deutschland GmbH,DE,Computer and Information Technology,None
+50113,2,0.0004,NTX Technologies s.r.o.,CZ,Computer and Information Technology,Internet Service Provider (ISP)
+58061,2,0.0004,Scalaxy B.V.,LV,Computer and Information Technology,Hosting and Cloud Provider
+203819,2,0.0004,Emily Kohlmeier,DE,Computer and Information Technology,Internet Service Provider (ISP)
+46997,2,0.0004,Black Mesa Corporation,US,Health Care Services,Other
+59711,2,0.0004,HZ Hosting Ltd,BG,Computer and Information Technology,Internet Service Provider (ISP)
+35829,2,0.0004,"auth-servers, LLC",US,Computer and Information Technology,Hosting and Cloud Provider
+210895,2,0.0004,Podaon SIA,LV,Computer and Information Technology,Internet Service Provider (ISP)
+40970,2,0.0004,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+40138,2,0.0004,"Mach Dilemma, LLC",US,Other,None
+201572,2,0.0004,ECO-INITIATIVE LLC,UA,"Retail Stores, Wholesale, and E-commerce Sites",None
+199285,2,0.0004,"Conarx, Ltd",GB,Computer and Information Technology,Internet Service Provider (ISP)
+199974,2,0.0004,MD TECHNOLOGY LIMITED,HK,Computer and Information Technology,Software Development
+136620,2,0.0004,VMHaus Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+209626,2,0.0004,Enflow B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+62874,2,0.0004,Web2Objects LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+13213,2,0.0004,UK-2 Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
+396356,2,0.0004,Latitude.sh,US,Computer and Information Technology,Internet Service Provider (ISP)
+150698,2,0.0004,VCORE COMPANY LIMITED,VN,Computer and Information Technology,Internet Service Provider (ISP)
+62075,2,0.0004,Julian Lannert,DE,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+37963,2,0.0004,"Alibaba (US) Technology Co., Ltd.",US,Computer and Information Technology,None
+136258,2,0.0004,"BrainStorm Network, Inc",CA,Computer and Information Technology,Other
+38008,2,0.0004,Aperture Science Limited,HK,Other,None
+203498,2,0.0004,JSC Intellin,RU,Computer and Information Technology,None
+44016,2,0.0004,XS Usenet B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+48254,2,0.0004,20i Limited,GB,Computer and Information Technology,None
+42692,2,0.0004,Overweb Srl,IT,None,None
+200959,2,0.0004,Yaoxuan Chen,CN,None,None
+57574,1,0.0002,Agriculture bank,IR,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
+25623,1,0.0002,"TowardEX Technologies International, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+211381,1,0.0002,Podaon SIA,LV,None,None
+1764,1,0.0002,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,AT,Computer and Information Technology,Internet Service Provider (ISP)
+3549,1,0.0002,"Level 3 Parent, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+47215,1,0.0002,dogado GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+212944,1,0.0002,Thurgroup Partners GmbH,CH,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+204171,1,0.0002,TD-K A/S,DK,Computer and Information Technology,None
+39591,1,0.0002,Global-e ICT solutions B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+211170,1,0.0002,Stromnetz Berlin GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+199052,1,0.0002,AquaHost LTD,GB,None,None
+208124,1,0.0002,Negin Narmafzar Asak Research and Information Cooperative Company,IR,Computer and Information Technology,None
+60021,1,0.0002,EDGE CLOUD NETWORK TECHNOLOGY PTE LTD.,SG,Computer and Information Technology,Technology Consulting Services
+206075,1,0.0002,Maximilian Jacobsen,DE,Computer and Information Technology,None
+200430,1,0.0002,WEBO LLC,RU,Computer and Information Technology,Computer and Network Security
+204860,1,0.0002,NetX Networks a.s.,CZ,Manufacturing,Electronics and Computer Components
+211895,1,0.0002,Serverius Holding B.V.,NL,Computer and Information Technology,None
+31019,1,0.0002,Paulus M. Hoogsteder,NL,Education and Research,None
+133944,1,0.0002,"trafficforce, UAB",LT,Computer and Information Technology,Computer and Network Security
+39216,1,0.0002,AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.,IQ,Computer and Information Technology,Internet Service Provider (ISP)
+48619,1,0.0002,Service Online LLC,UA,Computer and Information Technology,Hosting and Cloud Provider
+50495,1,0.0002,web2objects GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+197204,1,0.0002,TeleMaks Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
+34762,1,0.0002,Combell NV,BE,Computer and Information Technology,Software Development
+209686,1,0.0002,Xingyu Guo,CN,Computer and Information Technology,Internet Service Provider (ISP)
+211691,1,0.0002,Acronis SAS,FR,Computer and Information Technology,None
+31543,1,0.0002,myNet GmbH,AT,Computer and Information Technology,Internet Service Provider (ISP)
+201958,1,0.0002,ADP GSI FRANCE SAS,FR,Computer and Information Technology,Software Development
+213222,1,0.0002,Tida Data Processing Ltd,IR,Computer and Information Technology,Internet Service Provider (ISP)
+56722,1,0.0002,Van Berkel en Bos U.N. Studio BV,NL,Construction and Real Estate,Other
+41179,1,0.0002,Myra Security GmbH,DE,Computer and Information Technology,Computer and Network Security
+3267,1,0.0002,"Federal State Institution ""Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences""",RU,Education and Research,"Colleges, Universities, and Professional Schools"
+203557,1,0.0002,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+24940,1,0.0002,Hetzner Online GmbH,DE,Computer and Information Technology,None
+60584,1,0.0002,Prime Studio s.r.o.,CZ,Computer and Information Technology,Software Development
+23764,1,0.0002,China Telecom Global Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+47540,1,0.0002,Wipak Walsrode Geschaeftsfuhrungs GmbH trading as Wipak Walsrode GmbH & Co. KG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+206833,1,0.0002,Snell Cuenca Minera S.L,ES,Computer and Information Technology,Internet Service Provider (ISP)
+213204,1,0.0002,Marvin Gaube,DE,"Media, Publishing, and Broadcasting","Print Media (Newspapers, Magazines, Books)"
+60391,1,0.0002,Papa-Razzi Media Group A.s.b.l.,LU,Community Groups and Nonprofits,None
+200299,1,0.0002,BaseServ Limited,GB,Computer and Information Technology,Software Development
+25003,1,0.0002,Internet Binat Ltd,IL,Computer and Information Technology,Internet Service Provider (ISP)
+42209,1,0.0002,NysaNet sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+33932,1,0.0002,"Minorisa de Sistemas Informaticos y de Gestion, S.L.",ES,Construction and Real Estate,Other
+216024,1,0.0002,None,None,None,None
+50395,1,0.0002,Julian Lannert,DE,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+208261,1,0.0002,Pomme Telecom SASU,FR,Computer and Information Technology,Internet Service Provider (ISP)
+30813,1,0.0002,Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa,PL,Computer and Information Technology,Internet Service Provider (ISP)
+50629,1,0.0002,LWLcom GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+209041,1,0.0002,CoreIT AB,SE,Computer and Information Technology,None
+204920,1,0.0002,Vestas Wind Systems A/S,DK,Manufacturing,Automotive and Transportation
+209650,1,0.0002,Wu Zhiyuan,CN,Education and Research,None
+8422,1,0.0002,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+945,1,0.0002,hkgo LLC,TW,Computer and Information Technology,Internet Service Provider (ISP)
+197634,1,0.0002,Alec Hoefler,AT,Community Groups and Nonprofits,Other
+208257,1,0.0002,CELENETWORKS SL,ES,Computer and Information Technology,Internet Service Provider (ISP)
+60636,1,0.0002,Coolnet Communications ltd,IL,Computer and Information Technology,Internet Service Provider (ISP)
+209225,1,0.0002,Ledermann Technologies GmbH,CH,Computer and Information Technology,Internet Service Provider (ISP)
+198668,1,0.0002,Tlapnet s.r.o.,CZ,Manufacturing,Electronics and Computer Components
+58011,1,0.0002,CHEOPS TECHNOLOGY FRANCE S.A.,FR,Computer and Information Technology,None
+59795,1,0.0002,"Lucas Rolff, trading as Hosting4Real",NL,Computer and Information Technology,Internet Service Provider (ISP)
+204611,1,0.0002,Giuseppe Augiero,IT,Service,"Law, Business, and Consulting Services"
+205398,1,0.0002,Tyler Obrien,US,Service,"Law, Business, and Consulting Services"
+60262,1,0.0002,Panq B.V.,NL,Computer and Information Technology,None
+206150,1,0.0002,IPXO LIMITED,GB,Computer and Information Technology,Internet Service Provider (ISP)
+216349,1,0.0002,"Getechbrothers, MB",LT,None,None
+202844,1,0.0002,Airsip Telecomunicaciones S.L.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+34665,1,0.0002,Petersburg Internet Network ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+22604,1,0.0002,Disney Streaming Services,US,"Media, Publishing, and Broadcasting",None
+24239,1,0.0002,TWD2 Education and Research Network,CN,Computer and Information Technology,Hosting and Cloud Provider
+35487,1,0.0002,"Misaka Network, Inc.",US,Other,None
+4842,1,0.0002,Tianhai InfoTech,CN,Computer and Information Technology,Hosting and Cloud Provider
+48987,1,0.0002,Jiaxun Yang,GB,"Freight, Shipment, and Postal Services",Postal Services and Couriers
+41230,1,0.0002,ASK4 Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+41114,1,0.0002,ORNE THD SPL,FR,Computer and Information Technology,Internet Service Provider (ISP)
+44050,1,0.0002,Petersburg Internet Network ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+208906,1,0.0002,"SYNOT ICT Services, a.s.",CZ,Service,"Law, Business, and Consulting Services"
+49191,1,0.0002,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+208985,1,0.0002,Niklas Polte,DE,"Media, Publishing, and Broadcasting",Online Informational Content
+204760,1,0.0002,MOMIT SRL,IT,Computer and Information Technology,Internet Service Provider (ISP)
+25415,1,0.0002,ADDIX GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+199656,1,0.0002,ZYC Network LLC,US,None,None
+208333,1,0.0002,CALFAB,FR,Computer and Information Technology,None
+210344,1,0.0002,WEBISERE,FR,"Media, Publishing, and Broadcasting",Other
+211891,1,0.0002,KIFCORP SAS,FR,"Retail Stores, Wholesale, and E-commerce Sites",Other
+211944,1,0.0002,kiwax sarl,FR,Other,None
+60111,1,0.0002,ASOM-Net Forening,DK,Computer and Information Technology,Internet Service Provider (ISP)
+3194,1,0.0002,SatGate Company for Trading of Computers Systems and Communications Appliances WLL,IQ,Computer and Information Technology,Internet Service Provider (ISP)
+51803,1,0.0002,Info Space Plus Ltd.,UA,Computer and Information Technology,None
+205876,1,0.0002,Hoasted B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+205816,1,0.0002,Elkaim Elie,FR,Service,Other
+209768,1,0.0002,white2net Srl,BE,None,None
+39913,1,0.0002,Manuel Wannemacher,DE,Service,Other
+21269,1,0.0002,Christian Wittenhorst trading as Progon Network Engineering,CH,Computer and Information Technology,None
+198722,1,0.0002,TxRx Communications Ltd,GB,Computer and Information Technology,Internet Service Provider (ISP)
+205090,1,0.0002,FIRST SERVER LIMITED,GB,Computer and Information Technology,Hosting and Cloud Provider
+210462,1,0.0002,Mining Link Limited,HK,Manufacturing,Electronics and Computer Components
+57773,1,0.0002,1Access Sweden AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+208421,1,0.0002,KIFWORK,FR,"Media, Publishing, and Broadcasting",Other
+200750,1,0.0002,Klikom.net Sp.z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+205232,1,0.0002,Felix Alcantara,US,"Freight, Shipment, and Postal Services",Other
+199514,1,0.0002,Rifqi Arief Pamungkas,ID,Service,None
+14445,1,0.0002,PeaceWeb,US,Community Groups and Nonprofits,Other
+200198,1,0.0002,DSM (GB) Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+5400,1,0.0002,British Telecommunications PLC,GB,Computer and Information Technology,Internet Service Provider (ISP)
+211501,1,0.0002,High Tide Group Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
+208041,1,0.0002,Rafal Rajba trading as INTERTELL,PL,Computer and Information Technology,Internet Service Provider (ISP)
+213354,1,0.0002,INTERNATIONAL HOSTING SOLUTIONS LLP,GB,Computer and Information Technology,Hosting and Cloud Provider
+61049,1,0.0002,Exascale Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+204720,1,0.0002,GLOBAL CLOUD NETWORK LLC,RU,"Retail Stores, Wholesale, and E-commerce Sites",Other
+60022,1,0.0002,Sona Business B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+31617,1,0.0002,REEVO S.P.A.,IT,Computer and Information Technology,Software Development
+198333,1,0.0002,DATAGROUP SE,DE,Computer and Information Technology,None
+5582,1,0.0002,Wojewodztwo Lubelskie,PL,Computer and Information Technology,Internet Service Provider (ISP)
+206430,1,0.0002,INFOTEC TECNOLOGIA INTEGRAL Y TELECOMUNICACIONES SL,ES,"Media, Publishing, and Broadcasting",Radio and Television Providers
+206548,1,0.0002,ZCOM.cz s.r.o,CZ,Computer and Information Technology,Software Development
+210152,1,0.0002,Jon Arve Vanvik,NO,Education and Research,Other
+200157,1,0.0002,99999 Informatika Ltd.,HU,None,None
+12630,1,0.0002,Otaverkko Oy,FI,Computer and Information Technology,Internet Service Provider (ISP)
+210644,1,0.0002,AEZA INTERNATIONAL LTD,GB,None,None
+55081,1,0.0002,24 SHELLS,US,Computer and Information Technology,Internet Service Provider (ISP)
+61323,1,0.0002,ANS ACADEMY LIMITED,GB,Computer and Information Technology,None
+60703,1,0.0002,MULTIDIST SARL,FR,Computer and Information Technology,Software Development
+196733,1,0.0002,Eskisehir Bilisim Iletisim San. ve Tic. A.S.,TR,Computer and Information Technology,None
+202235,1,0.0002,UK On-line Agri-sales Limited,GB,Computer and Information Technology,None
+15967,1,0.0002,Nazwa.pl Sp.z.o.o.,PL,Service,"Law, Business, and Consulting Services"
+201029,1,0.0002,Redge Technologies sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+51430,1,0.0002,AltusHost B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+30811,1,0.0002,Optimizely AB,SE,Computer and Information Technology,Other
+263110,1,0.0002,Louvetel Comunicação Comercial Ltda ME,BR,Computer and Information Technology,Internet Service Provider (ISP)
+266732,1,0.0002,FIBERTEL PERU S.A.,PE,Computer and Information Technology,Internet Service Provider (ISP)
+271991,1,0.0002,RODRIGUEZ PEDRO ALBERTO JUAN,AR,None,None
+23145,1,0.0002,IBM,US,Manufacturing,Electronics and Computer Components
+25923,1,0.0002,"ChoicePoint, Inc.",US,Computer and Information Technology,Software Development
+399358,1,0.0002,"Anthropic, PBC",US,None,None
+209181,1,0.0002,Zenex 5ive Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+200081,1,0.0002,Netversor GmbH,DE,Service,"Law, Business, and Consulting Services"
+61178,1,0.0002,MRGROUP INVESTMENTS LIMITED,CY,Service,"Law, Business, and Consulting Services"
+1921,1,0.0002,ipcom GmbH,AT,Computer and Information Technology,None
+210937,1,0.0002,Xiufeng Guo,DE,Computer and Information Technology,Software Development
+44477,1,0.0002,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
+6369,1,0.0002,Netrunner Inc,US,Computer and Information Technology,Internet Service Provider (ISP)
+205987,1,0.0002,Adrian Paschkowski,DE,"Retail Stores, Wholesale, and E-commerce Sites",Other
+203635,1,0.0002,Material Global Limited,GB,Manufacturing,Chemical and Pharmaceutical Manufacturing
+43317,1,0.0002,SIA VEESP,LV,Computer and Information Technology,Internet Service Provider (ISP)
+209146,1,0.0002,hosTELyon SAS,FR,Computer and Information Technology,None
+43357,1,0.0002,Owl Limited,VU,Computer and Information Technology,Internet Service Provider (ISP)
+36791,1,0.0002,Portland Internet Hosting LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+47447,1,0.0002,23M GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+60310,1,0.0002,"Nightfall Networks, LLC",US,Education and Research,Other
+216157,1,0.0002,None,None,None,None
+202990,1,0.0002,Web42 Solutions Ltd,GB,Computer and Information Technology,Hosting and Cloud Provider
+216452,1,0.0002,Edvin Basil Samuval,IN,None,None
+58339,1,0.0002,MARIA STYLE LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites",None
+63213,1,0.0002,Astute Internet,CA,Computer and Information Technology,Internet Service Provider (ISP)
+47720,1,0.0002,CORK INTERNET EXCHANGE LIMITED,IE,Computer and Information Technology,Internet Service Provider (ISP)
+25145,1,0.0002,TEKNOTEL TELEKOMUNIKASYON SANAYI VE TICARET A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
+32931,1,0.0002,Peaktera,US,Computer and Information Technology,Internet Service Provider (ISP)
+4657,1,0.0002,Starhub Ltd.,SG,Computer and Information Technology,Internet Service Provider (ISP)
+140731,1,0.0002,TOHU Public Internet,CN,Education and Research,None
+151814,1,0.0002,Baoshuo Network,CN,None,None
+131910,1,0.0002,SORACOM. INC.,JP,None,None
+33480,1,0.0002,Web Werks,US,Computer and Information Technology,Internet Service Provider (ISP)
+151407,1,0.0002,Hytron Network Services Limited,HK,None,None
+150445,1,0.0002,Getechbrothers,LT,Computer and Information Technology,Internet Service Provider (ISP)
+135605,1,0.0002,MOACK.Co.LTD,KR,Computer and Information Technology,None
+150347,1,0.0002,Planisware Singapore Pte. Ltd,SG,Computer and Information Technology,Software Development
+133375,1,0.0002,"CHUAN KAI INTERNATIONAL CO., LTD",TW,Travel and Accommodation,Other
+54197,1,0.0002,TGs4 Networks Inc.,CA,None,None
+36992,1,0.0002,ETISALAT MISR,EG,Computer and Information Technology,Internet Service Provider (ISP)
+4788,1,0.0002,TM TECHNOLOGY SERVICES SDN BHD,MY,Computer and Information Technology,Internet Service Provider (ISP)
+207487,1,0.0002,Gustav Caplan,US,"Retail Stores, Wholesale, and E-commerce Sites",Other
+201836,1,0.0002,Garant-Plus-Inform LLC,UA,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+141444,1,0.0002,Wicked Networks Limited,HK,Other,None
+141173,1,0.0002,SteveYi Experiment Network,TW,Education and Research,None
+141039,1,0.0002,TEFINCOM S.A.,PA,Computer and Information Technology,None
+202528,1,0.0002,Lilith Network INC.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+133480,1,0.0002,Intergrid Group Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
+30081,1,0.0002,"CacheNetworks, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+396113,1,0.0002,BAI Communications Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+394923,1,0.0002,Artfiles LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+139693,1,0.0002,Free Range Cloud Hosting Inc,CA,Computer and Information Technology,Internet Service Provider (ISP)
+202911,1,0.0002,PaoPaoYu Network LTD.,CA,None,None
+400797,1,0.0002,Ping Identity Corporation,US,Computer and Information Technology,Internet Service Provider (ISP)
+147057,1,0.0002,DNT Solutions,PK,None,None
+6939,1,0.0002,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+398668,1,0.0002,Skydance Productions LLC,US,"Media, Publishing, and Broadcasting",None
+203283,1,0.0002,HighEndNetwork LLC,US,None,None
+396319,1,0.0002,Oxylabs,US,Computer and Information Technology,Internet Service Provider (ISP)
+16625,1,0.0002,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+4538,1,0.0002,China Education and Research Network Center,CN,Education and Research,"Colleges, Universities, and Professional Schools"
+56434,1,0.0002,Modesco LLC,RU,Education and Research,Elementary and Secondary Schools
+43260,1,0.0002,DGN TEKNOLOJI A.S.,TR,Computer and Information Technology,Hosting and Cloud Provider
+201949,1,0.0002,Seed Technologies LTD.,GB,Computer and Information Technology,Internet Service Provider (ISP)
+8100,1,0.0002,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
+8075,1,0.0002,Microsoft Corporation,US,Computer and Information Technology,Software Development
+207242,1,0.0002,"NOEL, s.r.o.",CZ,Manufacturing,Machinery
+48043,1,0.0002,Ozyorsk Telecom CJSC.,RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
+50007,1,0.0002,LVNET LTD,CY,Construction and Real Estate,Real Estate (Residential and/or Commercial)
+207083,1,0.0002,HostSlim B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+50582,1,0.0002,Bent Oystein Bostad,NO,"Retail Stores, Wholesale, and E-commerce Sites",None
+3356,1,0.0002,"Level 3 Parent, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+203361,1,0.0002,MASSELIN COMMUNICATION SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+42034,1,0.0002,DN-Systems Enterprise Internet Solutions GmbH,DE,Computer and Information Technology,None
+924,1,0.0002,Cloudie Networks LLC,US,None,None
+211480,1,0.0002,Sami Yessou,IT,None,None
+57795,1,0.0002,NG-BLU Networks B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+8769,1,0.0002,IT-Total Sweden AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+12552,1,0.0002,GlobalConnect AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+39824,1,0.0002,JSC Alma Telecommunications,KZ,Computer and Information Technology,Internet Service Provider (ISP)
+207252,1,0.0002,Felix Gassan,DE,None,None
+199684,1,0.0002,Shangren Lu,CN,None,None
+205068,1,0.0002,ADVCOM SARL,FR,Computer and Information Technology,Software Development
+36040,1,0.0002,Google LLC,US,Computer and Information Technology,Software Development
+48352,1,0.0002,LIS Logistische Informationssysteme GmbH,DE,Computer and Information Technology,Software Development
+59848,1,0.0002,"LLC ""LURE IT""",RU,Computer and Information Technology,Internet Service Provider (ISP)
+49367,1,0.0002,Seflow s.r.l.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+204094,1,0.0002,"I4W - Web Solutions, Lda",PT,Computer and Information Technology,Internet Service Provider (ISP)
+211547,1,0.0002,Cedgetec GmbH,DE,Computer and Information Technology,Software Development
+207289,1,0.0002,Westfalen Weser Netz GmbH,DE,Service,"Law, Business, and Consulting Services"
+49544,1,0.0002,i3D.net B.V,NL,Computer and Information Technology,Internet Service Provider (ISP)
+206499,1,0.0002,Marek Ziolkowski,PL,Computer and Information Technology,Internet Service Provider (ISP)
+207729,1,0.0002,Oitis Com Oy,FI,Computer and Information Technology,Software Development
+39384,1,0.0002,"Dream Fusion - IT Services, Lda",PT,Computer and Information Technology,Internet Service Provider (ISP)
+56485,1,0.0002,Oleksandr Siedinkin,UA,Computer and Information Technology,None
+51711,1,0.0002,Insys Ltd,GB,"Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",None
+212144,1,0.0002,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
+209306,1,0.0002,Jin Shaohai,CN,Education and Research,None
+208078,1,0.0002,Dominic Ritchey,US,None,None
+35579,1,0.0002,KELAG-Karntner Elektrizitats - Aktiengesellschaft,AT,Computer and Information Technology,Internet Service Provider (ISP)
+203314,1,0.0002,HATS NETWORK INC.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+200187,1,0.0002,CloudKleyer Frankfurt GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+201633,1,0.0002,Perfect Sense AB,SE,Service,Other
+52041,1,0.0002,"Scaleblade, Ltd.",GB,Computer and Information Technology,Internet Service Provider (ISP)
+211051,1,0.0002,Dazhong Technology Network Studio of Tieling County,CN,None,None
+211759,1,0.0002,Miku Network Technology Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+202888,1,0.0002,UPSTREAM NETWORK LTD,GB,None,None
+200393,1,0.0002,Klett IT GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+216435,1,0.0002,Plim Mobile Telecom LLC,US,None,None
+41108,1,0.0002,First Root UG (haftungsbeschraenkt),DE,Computer and Information Technology,Internet Service Provider (ISP)
+15317,1,0.0002,Serverel Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+199669,1,0.0002,Okay-Telecom Ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+202662,1,0.0002,Hytron Network Services Limited,HK,None,None
+206981,1,0.0002,Christopher Mountford,GB,Education and Research,None
+396362,1,0.0002,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+51259,1,0.0002,Arcus Novus UAB,LT,Manufacturing,Electronics and Computer Components
+205989,1,0.0002,relaxt Webdienstleistungsagentur GmbH,AT,Service,Other
+199614,1,0.0002,Fiberocity Ltd,GB,None,None
+199465,1,0.0002,FeiYa Network LTD.,US,"Media, Publishing, and Broadcasting",Online Informational Content
+28573,1,0.0002,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+12306,1,0.0002,Plus.line AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+20546,1,0.0002,SOPRADO GmbH,DE,Computer and Information Technology,Computer and Network Security
+12676,1,0.0002,HKN GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+42673,1,0.0002,Skyware Sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+30742,1,0.0002,Bremen Briteline GmbH,DE,Computer and Information Technology,None
+48638,1,0.0002,Cronos NV,BE,Service,None
+200128,1,0.0002,DNHOST IKE,GR,Computer and Information Technology,Software Development
+203339,1,0.0002,SIA Network Operations Center,LV,Computer and Information Technology,Hosting and Cloud Provider
+196968,1,0.0002,Ilm-Provider UG (haftungsbeschraenkt),DE,Computer and Information Technology,Internet Service Provider (ISP)
+201984,1,0.0002,E-Solutions BV,BE,Computer and Information Technology,Computer and Network Security
+49673,1,0.0002,Truenetwork LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+21378,1,0.0002,PJSC Rostelecom,RU,Computer and Information Technology,None
+38732,1,0.0002,CMC Telecom Infrastructure Company,VN,Computer and Information Technology,Internet Service Provider (ISP)
+399558,1,0.0002,Differ Communications Limited,CA,Construction and Real Estate,None
+58453,1,0.0002,China Mobile International Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+37204,1,0.0002,Telone PVT Ltd,ZW,Computer and Information Technology,Internet Service Provider (ISP)

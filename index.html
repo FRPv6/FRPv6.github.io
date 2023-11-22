@@ -3,57 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-
     <!-- Bootstrap overrides -->
-    <style>
-        .h2, h2 {
-            font-size: 2rem;
-            padding-top: 4rem;
-            margin-top: -2rem;
-        }
-        .h4, h4 {
-            font-size: 1.4rem;
-            padding-top: 4rem;
-            margin-top: -2rem;
-        }
-        h3 {
-            font-size: 1.5rem;
-            padding-top: 3rem;
-            margin-top: -2rem;
-        }
-        .topmargin {
-            margin-top: 0rem;
-        }
-        code {
-            display: block;
-            line-height: 150%;
-        }
-
-         .chart-container
-         {
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: space-between;
-        }
-
-        .pie-chart-container
-        {
-          min-width: calc(50% - 10px); /* 计算一半宽度，减去间距 */
-          height: 400px;
-          margin-bottom: 20px; /* 调整行之间的间距 */
-        }
-
-        .single-chart-container
-        {
-          width: 100%; /* 占据整行宽度 */
-          height: 400px;
-          margin-bottom: 20px; /* 调整行之间的间距 */
-        }
-    </style>
-
+    <link rel="stylesheet" href="index.css">
     <!-- Fork me on GitHub -->
     <link rel="stylesheet" href="css/gh-fork-ribbon.min.css" />
     <style>
@@ -61,15 +14,10 @@
             background-color: #333;
         }
     </style>
-
     <title>Robustspot</title>
-
 </head>
 
-
-
 <body>
-
     <!-- Put nav into container to center it on the page -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
@@ -86,73 +34,633 @@
       </div>
       </div>
     </nav>
-
     <a class="github-fork-ribbon right-bottom fixed" href="https://robustspotproject.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
-
     <br>
-
     <div class="container">
-
-
-
 	<h2 class="topmargin">IPv6 Alias Prefix Service</h2>
+        <div class="description">On this website we presented IPv6 Alias Prefix Service.</div>
+        <h3 id="alias prefix">Alias Prefix</h3>
+        <div class="description">We provide Alias Prefix.</div>
 
-    On this website we presentd IPv6 Alias Prefix Service.
-    <h3 id="alias prefix">Alias Prefix</h3>
-        We provide Alias Prefix.
-    <h4>Router prefix</h4>
-        <div id="Alias Prefix Router prefix line chart"></div>
-    <h4>Seed prefix</h4>
-        <div id="Alias Prefix Seed prefix line chart"></div>
-
-    <h3 id="categorized alias prefix">Categorized Alias Prefix</h3>
-        We provide Categorized Alias Prefix.
-
-   <h4>Router prefix</h4>
-
-   These graphs shows the development of the <b> to be </b> Router prefix over time.
-    <div class="chart-container">
-        <div id="pie-chart-container_1" class="pie-chart-container"></div>
-        <div id="pie-chart-container_2" class="pie-chart-container"></div>
-    </div>
-
-    <div class="chart-container">
-        <div id="pie-chart-container_3" class="pie-chart-container"></div>
-        <div id="pie-chart-container_4" class="pie-chart-container"></div>
-    </div>
-
-
-    <div class="chart-container">
-        <div id="pie-chart-container_5" class="single-chart-container"></div>
-
-    </div>
-
-        <div id="world_map_container"></div>
-
-    <h4>Seed Prefix</h4>
-    <div class="chart-container">
-            <div id="seed_pie-chart-container_1" class="pie-chart-container"></div>
-            <div id="seed_pie-chart-container_2" class="pie-chart-container"></div>
-    </div>
-
-        <div class="chart-container">
-            <div id="seed_pie-chart-container_3" class="pie-chart-container"></div>
-            <div id="seed_pie-chart-container_4" class="pie-chart-container"></div>
-        </div>
-
-
-        <div class="chart-container">
-            <div id="seed_pie-chart-container_5" class="single-chart-container"></div>
+        <!--折线图-->
+        <!--路由前缀-->
+        <h4>Router prefix</h4>
+        <!--折线图-路由-导航栏-->
+        <div class="container">
+            <!-- Content here -->
+            <ul class="nav nav-tabs" id="lineRouterTab" role="tablist">
+<!--                <li class="nav-item" role="presentation">-->
+<!--                <div class="input-group mb-3">-->
+<!--                    <label class="input-group-text" style="color:blue" for="inputGroupSelect01">Options</label>-->
+<!--                    <select class="form-select" style="color:blue;margin-right: 20px">-->
+<!--                        <option selected value="1">Week 1</option>-->
+<!--                        <option value="2">Week 2</option>-->
+<!--                    </select>-->
+<!--                </div>-->
+<!--                </li>-->
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="type1-router-tab" data-bs-toggle="tab" data-bs-target="#type1-router-tab-pane" type="button" role="tab" aria-controls="type1-router-tab-pane" aria-selected="true">Type 1</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="type2-router-tab" data-bs-toggle="tab" data-bs-target="#type2-router-tab-pane" type="button" role="tab" aria-controls="type2-router-tab-pane" aria-selected="false">Type 2</button>
+                </li>
+            </ul>
+            <!--折线图-路由-面板区-->
+            <div class="tab-content" id="lineRouterTabContent">
+                <div class="tab-pane fade show active" id="type1-router-tab-pane" role="tabpanel" aria-labelledby="type1-router-tab" tabindex="0">
+                    <div class="line-chart" id="line-router-type1"></div>
+                    <!--<div id="Alias Prefix Router prefix line chart"></div>-->
+                </div>
+                <div class="tab-pane fade" id="type2-router-tab-pane" role="tabpanel" aria-labelledby="type2-router-tab" tabindex="0">
+                    <div class="line-chart" id="line-router-type2"></div>
+                    <!--<div id="Alias Prefix Seed prefix line chart"></div>-->
+                </div>
+            </div>
 
         </div>
 
+        <!--种子前缀-->
+        <h4>Seed prefix</h4>
+        <!--折线图-种子-导航栏-->
+        <ul class="nav nav-tabs" id="lineSeedTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="type1-seed-tab" data-bs-toggle="tab" data-bs-target="#type1-seed-tab-pane" type="button" role="tab" aria-controls="type1-seed-tab-pane" aria-selected="true">Type 1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="type2-seed-tab" data-bs-toggle="tab" data-bs-target="#type2-seed-tab-pane" type="button" role="tab" aria-controls="type2-seed-tab-pane" aria-selected="false">Type 2</button>
+            </li>
+        </ul>
+        <!--折线图-种子-面板区-->
+        <div class="tab-content" id="lineSeedTabContent">
+            <div class="tab-pane fade show active" id="type1-seed-tab-pane" role="tabpanel" aria-labelledby="type1-seed-tab" tabindex="0">
+                <div class="line-chart" id="line-seed-type1"></div>
+            </div>
+            <div class="tab-pane fade" id="type2-seed-tab-pane" role="tabpanel" aria-labelledby="type2-seed-tab" tabindex="0">
+                <div class="line-chart" id="line-seed-type2"></div>
+            </div>
+        </div>
+
+        <!--Categorized Alias Prefix-->
+        <h3 id="categorized alias prefix">Categorized Alias Prefix</h3>
+        <div class="description">We provide Categorized Alias Prefix.</div>
+        <!--路由前缀-->
+        <h4>Router prefix</h4>
+        <div class="description">These graphs shows the development of the <b> to be </b> Router prefix over time.</div>
+        <!--四个饼状图-->
+        <!--as-饼状图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="pieRouterAsTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-router-as-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-as-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-as-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-as-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--as-饼状图-路由-面板区-->
+        <div class="tab-content" id="pieRouterAsTabContent">
+            <div class="tab-pane fade show active" id="pie-router-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day1-tab" tabindex="0">
+                <div class="container-lg">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="pie-chart-container" id="pie-router-as-day1" ></div>
+                        </div>
+<!--                        <div class="col-lg-6" style="padding-right: 0px">-->
+<!--                            <button onclick="tableShow(this)" style="margin-right: 0px">table show</button>-->
+<!--                        </div>-->
+<!--                        <div class="col-lg-6" style="display: block">-->
+<!--                            <table class="table table-striped table-hover">-->
+<!--                                <thead>-->
+<!--                                <tr>-->
+<!--                                    <th scope="col">#</th>-->
+<!--                                    <th scope="col">First</th>-->
+<!--                                    <th scope="col">Last</th>-->
+<!--                                    <th scope="col">Handle</th>-->
+<!--                                </tr>-->
+<!--                                </thead>-->
+<!--                                <tbody>-->
+<!--                                <tr>-->
+<!--                                    <th scope="row">1</th>-->
+<!--                                    <td>Mark</td>-->
+<!--                                    <td>Otto</td>-->
+<!--                                    <td>@mdo</td>-->
+<!--                                </tr>-->
+<!--                                <tr>-->
+<!--                                    <th scope="row">2</th>-->
+<!--                                    <td>Jacob</td>-->
+<!--                                    <td>Thornton</td>-->
+<!--                                    <td>@fat</td>-->
+<!--                                </tr>-->
+<!--                                <tr>-->
+<!--                                    <th scope="row">3</th>-->
+<!--                                    <td colspan="2">Larry the Bird</td>-->
+<!--                                    <td>@twitter</td>-->
+<!--                                </tr>-->
+<!--                                </tbody>-->
+<!--                            </table>-->
+<!--                           </div>-->
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day2-tab" tabindex="0">
+                <div class="container-lg">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="pie-chart-container" id="pie-router-as-day2" ></div>
+                        </div>
+                        <div class="col-lg-6"></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-as-day3" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-as-day4" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-as-day5" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-as-day6" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-as-day7" ></div>
+            </div>
+        </div>
+        <!--category-饼状图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="pieRouterCategoryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-router-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--category-饼状图-路由-面板区-->
+        <div class="tab-content" id="pieRouterCategoryTabContent">
+            <div class="tab-pane fade show active" id="pie-router-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-category-day7"></div>
+            </div>
+        </div>
+        <!--sub_category-饼状图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="pieRouterSubCategoryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-router-sub-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-sub-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--sub_category-饼状图-路由-面板区-->
+        <div class="tab-content" id="pieRouterSubCategoryTabContent">
+            <div class="tab-pane fade show active" id="pie-router-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-sub-category-day7"></div>
+            </div>
+        </div>
+        <!--org-饼状图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="pieRouterOrgTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-router-org-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-router-org-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--org-饼状图-路由-面板区-->
+        <div class="tab-content" id="pieRouterOrgTabContent">
+            <div class="tab-pane fade show active" id="pie-router-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-router-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-router-org-day7"></div>
+            </div>
+        </div>
+        <!--country-地图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="mapRouterCountryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="map-router-country-day1-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day1-tab-pane" type="button" role="tab" aria-controls="map-router-country-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day2-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day2-tab-pane" type="button" role="tab" aria-controls="map-router-country-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day3-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day3-tab-pane" type="button" role="tab" aria-controls="map-router-country-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day4-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day4-tab-pane" type="button" role="tab" aria-controls="map-router-country-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day5-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day5-tab-pane" type="button" role="tab" aria-controls="map-router-country-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day6-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day6-tab-pane" type="button" role="tab" aria-controls="map-router-country-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-router-country-day7-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day7-tab-pane" type="button" role="tab" aria-controls="map-router-country-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--country-地图-路由-面板区-->
+        <div class="tab-content" id="mapRouterCountryTabContent">
+            <div class="tab-pane fade show active" id="map-router-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day1-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day2-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day3-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day4-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day5-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day6-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="map-router-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day7-tab" tabindex="0">
+                <div class="map-chart-container" id="map-router-country-day7"></div>
+            </div>
+        </div>
+
+<!--    <div class="chart-container">-->
+<!--        <div id="pie-chart-container_1" class="pie-chart-container"></div>-->
+<!--        <div id="pie-chart-container_2" class="pie-chart-container"></div>-->
+<!--    </div>-->
+<!--    <div class="chart-container">-->
+<!--        <div id="pie-chart-container_3" class="pie-chart-container"></div>-->
+<!--        <div id="pie-chart-container_4" class="pie-chart-container"></div>-->
+<!--    </div>-->
+<!--    <div class="chart-container">-->
+<!--        <div id="pie-chart-container_5" class="single-chart-container"></div>-->
+<!--    </div>-->
+
+
+        <!--种子前缀-->
+        <h4>Seed Prefix</h4>
+        <!--四个饼状图-->
+
+        <!--as-饼状图-种子-导航栏-->
+        <ul class="nav nav-tabs" id="pieSeedAsTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-seed-as-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-as-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--as-饼状图-种子-面板区-->
+        <div class="tab-content" id="pieSeedAsTabContent">
+            <div class="tab-pane fade show active" id="pie-seed-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day1" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day2" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day3" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day4" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day5" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day6" ></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-as-day7" ></div>
+            </div>
+        </div>
+        <!--category-饼状图-种子-导航栏-->
+        <ul class="nav nav-tabs" id="pieSeedCategoryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-seed-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--category-饼状图-种子-面板区-->
+        <div class="tab-content" id="pieSeedCategoryTabContent">
+            <div class="tab-pane fade show active" id="pie-seed-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-category-day7"></div>
+            </div>
+        </div>
+        <!--sub_category-饼状图-种子-导航栏-->
+        <ul class="nav nav-tabs" id="pieSeedSubCategoryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-seed-sub-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-sub-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--sub_category-饼状图-种子-面板区-->
+        <div class="tab-content" id="pieSeedSubCategoryTabContent">
+            <div class="tab-pane fade show active" id="pie-seed-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-sub-category-day7"></div>
+            </div>
+        </div>
+        <!--org-饼状图-种子-导航栏-->
+        <ul class="nav nav-tabs" id="pieSeedOrgTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pie-seed-org-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pie-seed-org-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--org-饼状图-种子-面板区-->
+        <div class="tab-content" id="pieSeedOrgTabContent">
+            <div class="tab-pane fade show active" id="pie-seed-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day1-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day2-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day3-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day4-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day5-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day6-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="pie-seed-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day7-tab" tabindex="0">
+                <div class="pie-chart-container" id="pie-seed-org-day7"></div>
+            </div>
+        </div>
+        <!--country-地图-路由-导航栏-->
+        <ul class="nav nav-tabs" id="mapSeedCountryTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="map-seed-country-day1-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day1-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day1-tab-pane" aria-selected="true">Day1</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day2-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day2-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day2-tab-pane" aria-selected="false">Day2</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day3-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day3-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day3-tab-pane" aria-selected="false">Day3</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day4-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day4-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day4-tab-pane" aria-selected="false">Day4</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day5-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day5-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day5-tab-pane" aria-selected="false">Day5</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day6-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day6-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day6-tab-pane" aria-selected="false">Day6</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="map-seed-country-day7-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day7-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day7-tab-pane" aria-selected="false">Day7</button>
+            </li>
+        </ul>
+        <!--country-地图-路由-面板区-->
+        <div class="tab-content" id="mapSeedCountryTabContent">
+            <div class="tab-pane fade show active" id="map-seed-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day1-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day1"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day2-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day2"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day3-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day3"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day4-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day4"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day5-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day5"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day6-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day6"></div>
+            </div>
+            <div class="tab-pane fade" id="map-seed-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day7-tab" tabindex="0">
+                <div class="map-chart-container" id="map-seed-country-day7"></div>
+            </div>
+        </div>
+
+<!--  Alias Detection   -->
     <h3 id="alias detection">Alias Detection</h3>
-        We provide Alias Detection.
+        <div class="description">We provide Alias Detection.</div>
     <br>
     <br>
     <div id="alias detection line chart"></div>
 </div> <!-- /container -->
-
 
 <!-- JS STARTS HERE -->
 <!-- jQuery -->
@@ -176,78 +684,37 @@
 <script src="js/highcharts/exporting.js"></script>
 <script src="js/highcharts/offline-exporting.js"></script>
 <script src="js/highcharts/export-data.js"></script>
-
-
-<script src="world_map.js"  async></script>
+<!--echarts-->
+<script type="text/javascript" src="js/echarts.min.js"></script>
+<!--echarts-world-map-->
+<script type="text/javascript" src="js/world.js"></script>
+    <script type="text/javascript" src="js/china.js"></script>
+<!--获取后端python数据 -->
+<script type="text/javascript" src="/getLineData.js"></script>
+<script type="text/javascript" src="/getPieData.js"></script>
+<script type="text/javascript" src="/getMapData.js"></script>
+<script type="text/javascript" src="/indexFunction.js"></script>
+<!--<script src="world_map.js"  async></script>-->
 
 <!-- Parse JSON for plotting -->
 <script>
 	// Set thousands separator as comma
-	Highcharts.setOptions({
-		lang: {
-			thousandsSep: ','
-		}
-	});
-
-	$.getJSON('alias prefix router prefix line chart.json', function (chart) {
-        Highcharts.chart('Alias Prefix Router prefix line chart', chart);
-	});
-
-	$.getJSON('alias prefix seed prefix line chart.json', function (chart) {
-        Highcharts.chart('Alias Prefix Seed prefix line chart', chart);
-	});
-
-    $.getJSON('router_prefix_day_1_as_sat.json', function (chart) {
+	// Highcharts.setOptions({
+	// 	lang: {
+	// 		thousandsSep: ','
+	// 	}
+	// });
+    //
+	$.getJSON('router_prefix_day_1_as_sat.json', function (chart) {
         Highcharts.chart('pie-chart-container_1', chart);
 	});
 
-	$.getJSON('router_prefix_day_1_category_sat.json', function (chart) {
-        Highcharts.chart('pie-chart-container_2', chart);
-	});
-
-	$.getJSON('router_prefix_day_1_sub_category_sat.json', function (chart) {
-        Highcharts.chart('pie-chart-container_3', chart);
-	});
-
-	$.getJSON('router_prefix_day_1_org_sat.json', function (chart) {
-        Highcharts.chart('pie-chart-container_4', chart);
-	});
-
-	$.getJSON('router_prefix_day_1_country_sat.json', function (chart) {
+    $.getJSON('router_prefix_day_1_country_sat.json', function (chart) {
         Highcharts.chart('pie-chart-container_5', chart);
-	});
-
-
-	$.getJSON('seed_prefix_day_5_as_sat.json', function (chart) {
-        Highcharts.chart('seed_pie-chart-container_1', chart);
-	});
-
-	$.getJSON('seed_prefix_day_5_category_sat.json', function (chart) {
-        Highcharts.chart('seed_pie-chart-container_2', chart);
-	});
-
-	$.getJSON('seed_prefix_day_5_sub_category_sat.json', function (chart) {
-        Highcharts.chart('seed_pie-chart-container_3', chart);
-	});
-
-	$.getJSON('seed_prefix_day_5_org_sat.json', function (chart) {
-        Highcharts.chart('seed_pie-chart-container_4', chart);
-	});
-
-	$.getJSON('seed_prefix_day_5_country_sat.json', function (chart) {
-        Highcharts.chart('seed_pie-chart-container_5', chart);
-	});
-
-
-	$.getJSON('alias detection line chart.json', function (chart) {
+    });
+    $.getJSON('alias detection line chart.json', function (chart) {
         Highcharts.chart('alias detection line chart', chart);
 	});
-
-
-
-
-
-
 
 
 </script>

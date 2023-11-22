@@ -1,0 +1,19 @@
+2600:9000:200e::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:202e::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20c9::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20ce::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2105::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2116::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21b4::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21bf::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:25ee::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0c:0586::/32,210107,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:3d84::/32,30633,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:88c4::/32,7018,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:88c6::/32,7018,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:e107:0007::/48,205544,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a0c:4182::/32,211027,Perfect Cloud Technologies LLC,RU,"Media, Publishing, and Broadcasting",Other
+2a02:e980:00cb::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a04:4e42:004c::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)

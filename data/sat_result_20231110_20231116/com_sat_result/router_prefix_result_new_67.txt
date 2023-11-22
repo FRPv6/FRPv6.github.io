@@ -1,0 +1,658 @@
+2407:0000:3001:01::/56,4761.0,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:2385::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:238d::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2474::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2482::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:eec2::/32,60389.0,Manir LLC,RU,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
+2600:9000:2050::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:20b2::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:24b7::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:24ef::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a03:94e0:2179::/48,56655.0,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:94e0:2660::/48,56655.0,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8280:0009::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:a4c7:7::/36,204916.0,"RACKTECH CO., LTD.",TH,,
+2a11:8f81:66b8::/48,49392.0,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:c900::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:cb00::/48,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:cc00::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:cd00::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ce00::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:cf00::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d100::/48,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:d200::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d300::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d400::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d500::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d600::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:d700::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:da00::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:db00::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:dc00::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e000::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e200::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e300::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e400::/48,34164.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e500::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e600::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:ea00::/48,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f7:b5c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:b644::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:b9d0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:b9d8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:ba48::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:bc88::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:bf08::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c080::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c082::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c188::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c359::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c368::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c369::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c602::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c604::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c7c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c8d0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e380::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e444::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e480::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e484::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e488::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f1c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f1c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f208::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f248::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f288::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f2c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f2c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f304::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f4c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f4c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f504::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f508::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f5c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f908::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fb44::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fb48::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fb4c::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fbc2::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fbcc::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fc04::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:2708::/32,21378.0,PJSC Rostelecom,RU,Computer and Information Technology,
+2a02:2718::/32,30873.0,Public Telecommunication Corporation,YE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:2719::/32,30873.0,Public Telecommunication Corporation,YE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4780:dead::/48,204915.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+2a02:47a0:000a::/48,49673.0,Truenetwork LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:47e::/28,201984.0,E-Solutions BV,BE,Computer and Information Technology,Computer and Network Security
+2a02:4840:0000::/48,52048.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:0001::/48,52048.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:0200::/48,60567.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:0201::/48,60567.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:1000::/48,52048.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:1111::/48,203339.0,SIA Network Operations Center,LV,Computer and Information Technology,Hosting and Cloud Provider
+2a02:4880::/32,12630.0,Otaverkko Oy,FI,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:48e0::/32,12306.0,Plus.line AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4901::/32,200128.0,DNHOST IKE,GR,Computer and Information Technology,Software Development
+2a02:4a00::/32,48638.0,Cronos NV,BE,Service,
+2a02:4a20::/32,30742.0,Bremen Briteline GmbH,DE,Computer and Information Technology,
+2a02:4a40:0100::/48,42673.0,Skyware Sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4c00:01::/40,12676.0,HKN GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4c07::/32,,,,,
+2a02:cb43:3005::/48,20546.0,SOPRADO GmbH,DE,Computer and Information Technology,Computer and Network Security
+2a02:e980:003d::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:00e9::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0154::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:015a::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:015c::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:015e::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:015f::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0172::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01aa::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01cc::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01cd::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01ce::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01cf::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:002a::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:004d::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:0050::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e982:0018::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a04:4e42:0021::/48,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a04:4e80:0000::/48,211400.0,JSC MONOPOLY,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:07::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:09::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:10::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:11::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:12::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:18::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4f8::/28,34907.0,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4fe::/28,200187.0,CloudKleyer Frankfurt GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:508::/28,35579.0,KELAG-Karntner Elektrizitats - Aktiengesellschaft,AT,Computer and Information Technology,Internet Service Provider (ISP)
+2a05:b0c6:03::/40,8100.0,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
+2a05:b0c6:1::/36,205432.0,William Weber,HR,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a05:b0c6:200a::/48,208753.0,Marco d'Angelo,IT,Community Groups and Nonprofits,
+2a05:b0c6:200f::/48,208753.0,Marco d'Angelo,IT,Community Groups and Nonprofits,
+2a05:b0c6:55::/40,208078.0,Dominic Ritchey,US,,
+2a05:e580:09::/40,63399.0,"Dialpad, Inc.",US,"Media, Publishing, and Broadcasting",Other
+2a06:1a00::/32,39824.0,JSC Alma Telecommunications,KZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:990::/28,12552.0,GlobalConnect AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:9c4::/28,8769.0,IT-Total Sweden AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:9cc7:ff01::/48,8666.0,FiberLink GmbH,AT,Computer and Information Technology,Hosting and Cloud Provider
+2a06:9cc7:ff02::/48,8666.0,FiberLink GmbH,AT,Computer and Information Technology,Hosting and Cloud Provider
+2a06:9cc7:ff11::/48,8666.0,FiberLink GmbH,AT,Computer and Information Technology,Hosting and Cloud Provider
+2a06:9cc7:ff12::/48,8666.0,FiberLink GmbH,AT,Computer and Information Technology,Hosting and Cloud Provider
+2a06:9e0::/28,57795.0,NG-BLU Networks B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:9f43:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a06:9f44:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a06:9f45::/32,205432.0,William Weber,HR,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a06:9f45:12::/40,211480.0,Sami Yessou,IT,,
+2a06:9f47:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a06:9f80:1::/36,924.0,Cloudie Networks LLC,US,,
+2a06:a000:0153::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
+2a06:a000:0154::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
+2a06:f14::/28,42034.0,DN-Systems Enterprise Internet Solutions GmbH,DE,Computer and Information Technology,
+2a06:f1c::/28,203361.0,MASSELIN COMMUNICATION SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:aa00:0002::/48,3356.0,"Level 3 Parent, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:e14::/28,50582.0,Bent Oystein Bostad,NO,"Retail Stores, Wholesale, and E-commerce Sites",
+2a09:3c0::/28,207083.0,HostSlim B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:4040:0000::/48,50007.0,LVNET LTD,CY,Construction and Real Estate,Real Estate (Residential and/or Commercial)
+2a09:54c7:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a09:8280:005e::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8280:0200::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8340:0000::/48,42275.0,Three Fourteen SASU,FR,Service,Other
+2a09:83c5::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8400:0001::/48,44016.0,XS Usenet B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8400:0002::/48,44016.0,XS Usenet B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:b280:1030::/48,210025.0,ALICE CAT RESEARCH LTD,GB,Education and Research,
+2a09:bac0:0038::/48,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0a:0340:10::/40,48043.0,Ozyorsk Telecom CJSC.,RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
+2a0a:4440::/32,207242.0,"NOEL, s.r.o.",CZ,Manufacturing,Machinery
+2a0a:4944:0014::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:4944:0015::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:6040:a105::/48,8075.0,Microsoft Corporation,US,Computer and Information Technology,Software Development
+2a0a:6040:a106::/48,203843.0,"WANG,XING-KAI",TW,Service,"Law, Business, and Consulting Services"
+2a0a:6040:a31::/44,200690.0,Junxiao Shi,US,,
+2a0a:6040:a311::/48,200690.0,Junxiao Shi,US,,
+2a0a:6040:a312::/48,200690.0,Junxiao Shi,US,,
+2a0a:6040:a313::/48,200690.0,Junxiao Shi,US,,
+2a0a:6040:a316::/48,200690.0,Junxiao Shi,US,,
+2a0a:6040:e543::/48,200959.0,Yaoxuan Chen,CN,,
+2a0a:6040:e544::/48,200959.0,Yaoxuan Chen,CN,,
+2a0b:2900:23::/40,48582.0,ngena GmbH,DE,Computer and Information Technology,
+2a0c:9e02:01::/40,3320.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e02:04::/40,3320.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e02:07::/40,3320.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2682:9::/36,207252.0,Felix Gassan,DE,,
+2a0d:2683:0002::/48,199684.0,Shangren Lu,CN,,
+2a0d:2784::/32,62068.0,SpectraIP B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:3000::/32,205544.0,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a0d:3001::/32,205544.0,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a0d:3002::/32,205544.0,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a0d:3003::/32,205544.0,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a0d:308::/28,205068.0,ADVCOM SARL,FR,Computer and Information Technology,Software Development
+2a0d:5600:0045::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0059::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0a32::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:664::/28,40970.0,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:a942:01f6::/48,150698.0,VCORE COMPANY LIMITED,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:aa01::/32,206499.0,Marek Ziolkowski,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:aa06:0404::/48,209306.0,Jin Shaohai,CN,Education and Research,
+2a0f:48c::/28,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
+2a0f:7800:08::/40,59538.0,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+2a0f:7800:0b::/40,59538.0,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+2a0f:9cc::/28,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
+2a0f:9d0::/28,51711.0,Insys Ltd,GB,"Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+2a0f:c10::/28,56485.0,Oleksandr Siedinkin,UA,Computer and Information Technology,
+2a0f:c707::/32,39384.0,"Dream Fusion - IT Services, Lda",PT,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:ca80:0618::/48,208046.0,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a0f:ca80:0619::/48,208046.0,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a0f:ca80:deed::/48,204755.0,MAV Studios UK LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites","Clothing, Fashion, Luggage"
+2a0f:ca81:133::/44,212085.0,Alexander Bruegmann,DE,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a0f:ca81:1334::/48,212085.0,Alexander Bruegmann,DE,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a0f:ca81:1338::/48,212085.0,Alexander Bruegmann,DE,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a0f:ca81:1339::/48,212085.0,Alexander Bruegmann,DE,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a0f:cfc0::/32,207729.0,Oitis Com Oy,FI,Computer and Information Technology,Software Development
+2a0f:d00::/28,35048.0,Biterika Group LLC,RU,Computer and Information Technology,Software Development
+2a0f:d000::/32,35048.0,Biterika Group LLC,RU,Computer and Information Technology,Software Development
+2a0f:d001::/32,35048.0,Biterika Group LLC,RU,Computer and Information Technology,Software Development
+2a0f:d002::/32,35048.0,Biterika Group LLC,RU,Computer and Information Technology,Software Development
+2a0f:e382::/32,49544.0,i3D.net B.V,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:e383::/32,137409.0,GSL Networks Pty LTD,AU,Computer and Information Technology,
+2a0f:e387::/32,137409.0,GSL Networks Pty LTD,AU,Computer and Information Technology,
+2a0f:f4c1:0002::/48,36040.0,Google LLC,US,Computer and Information Technology,Software Development
+2a10:044::/28,207289.0,Westfalen Weser Netz GmbH,DE,Service,"Law, Business, and Consulting Services"
+2a10:2f00:018f::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:c5c1:f016::/48,211547.0,Cedgetec GmbH,DE,Computer and Information Technology,Software Development
+2a11:06c0:0002::/48,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c0:0003::/48,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c0:0004::/48,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c0:0005::/48,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c6:5::/36,210916.0,Freifunk im Ennepe-Ruhr-Kreis e.V.,DE,"Media, Publishing, and Broadcasting",Music and Video Industry
+2a11:06c6:6::/36,210916.0,Freifunk im Ennepe-Ruhr-Kreis e.V.,DE,"Media, Publishing, and Broadcasting",Music and Video Industry
+2a11:0840:0022::/48,204094.0,"I4W - Web Solutions, Lda",PT,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:0840:0023::/48,49367.0,Seflow s.r.l.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1680:0010::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1680:001e::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1680:001f::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1800::/32,201364.0,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+2a11:1806::/32,201364.0,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+2a11:1807::/32,201364.0,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+2a11:5705:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a11:5706:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a11:6ac::/28,59848.0,"LLC ""LURE IT""",RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:7a4::/28,204790.0,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:924::/28,22773.0,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:c30::/28,204790.0,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:c34::/28,22773.0,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:c60::/28,48352.0,LIS Logistische Informationssysteme GmbH,DE,Computer and Information Technology,Software Development
+2a12:5240:0001::/48,209626.0,Enflow B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:530::/28,204790.0,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:5343:0006::/48,201949.0,Seed Technologies LTD.,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:5940:0002::/48,210644.0,AEZA INTERNATIONAL LTD,GB,,
+2a12:724::/28,400842.0,Tunbroker LLC,US,,
+2a12:7244::/32,400842.0,Tunbroker LLC,US,,
+2a12:7245::/32,400842.0,Tunbroker LLC,US,,
+2a12:7246::/32,400842.0,Tunbroker LLC,US,,
+2a12:864::/28,49581.0,Ferdinand Zink trading as Tube-Hosting,DE,Computer and Information Technology,Software Development
+2a12:86c0::/32,200157.0,99999 Informatika Ltd.,HU,,
+2a12:884::/28,208124.0,Negin Narmafzar Asak Research and Information Cooperative Company,IR,Computer and Information Technology,
+2a12:89c::/28,49581.0,Ferdinand Zink trading as Tube-Hosting,DE,Computer and Information Technology,Software Development
+2a12:dfc::/28,39591.0,Global-e ICT solutions B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:f280::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a12:f283::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a12:f284::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a12:f285::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a12:f286::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a13:4c00:1cb1::/48,204318.0,Benjamin Cartwright-Cox,GB,,
+2a13:4c00:1cbe::/48,204318.0,Benjamin Cartwright-Cox,GB,,
+2a13:4c00:1dd0::/48,204318.0,Benjamin Cartwright-Cox,GB,,
+2a13:96c::/28,60021.0,EDGE CLOUD NETWORK TECHNOLOGY PTE LTD.,SG,Computer and Information Technology,Technology Consulting Services
+2a13:a5c3:30::/40,198304.0,Pinjia Zhao,CN,,
+2a13:aac7:0f::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:10::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:11::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:12::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:cf02::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf03::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf04::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf05::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf06::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf07::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cfc::/28,47540.0,Wipak Walsrode Geschaeftsfuhrungs GmbH trading as Wipak Walsrode GmbH & Co. KG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2c0f:f7a8:0001::/48,23764.0,China Telecom Global Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:209c::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2128::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2491::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2493::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a02:26f7:c084::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c088::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c208::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c410::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:c7c2::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:da08::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e348::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e384::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e388::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e3c0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e400::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e440::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:e448::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f184::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f188::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f204::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f244::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f284::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f3c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f444::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f448::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f484::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f488::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f648::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:f688::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fb8c::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fb90::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fbc4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fbc8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:26f7:fc0c::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:271b::/32,30873.0,Public Telecommunication Corporation,YE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4780:0028::/48,47583.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+2a02:4780:0bad::/48,204915.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+2a02:4840:0002::/48,52048.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:4840:0101::/48,203557.0,DataClub S.A.,BZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:cb43:2003::/48,41179.0,Myra Security GmbH,DE,Computer and Information Technology,Computer and Network Security
+2a02:e980:0038::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0054::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:005a::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:005b::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:00fe::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:014f::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0155::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0158::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0159::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0165::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:016c::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01c7::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01c8::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01c9::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01ca::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01cb::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0203::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0206::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0207::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0208::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:002e::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:0048::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:004b::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:004c::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e982:0011::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e982:0012::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e982:0013::/48,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a04:2dc0:000e::/48,39216.0,AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.,IQ,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4e42:0019::/48,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a04:4e42:0089::/48,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a04:4e80:0001::/48,211400.0,JSC MONOPOLY,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0::/32,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:01::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:02::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:03::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:04::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:06::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:08::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:13::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:14::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:15::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4ec0:16::/40,202503.0,"DESIS INFORMATICA, SL",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:9140:3043::/48,201958.0,ADP GSI FRANCE SAS,FR,Computer and Information Technology,Software Development
+2a04:a900:0005::/48,48619.0,Service Online LLC,UA,Computer and Information Technology,Hosting and Cloud Provider
+2a04:a98::/28,206833.0,Snell Cuenca Minera S.L,ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a05:928::/28,31019.0,Paulus M. Hoogsteder,NL,Education and Research,
+2a05:b0c4:0001::/48,198412.0,Rage4 Networks Limited,GB,Computer and Information Technology,Software Development
+2a05:b0c6::/32,205432.0,William Weber,HR,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a05:b0c6:0a::/40,202685.0,Aggros Operations Ltd.,GB,,
+2a05:b0c6:200b::/48,208753.0,Marco d'Angelo,IT,Community Groups and Nonprofits,
+2a05:b0c6:3::/36,202685.0,Aggros Operations Ltd.,GB,,
+2a05:b0c6:4::/36,202685.0,Aggros Operations Ltd.,GB,,
+2a05:b0c6:5001::/48,211358.0,Patrizio Palumbo,IT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a05:b0c6:5006::/48,211358.0,Patrizio Palumbo,IT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a05:b0c6:5009::/48,211358.0,Patrizio Palumbo,IT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a05:b0c6:500f::/48,211358.0,Patrizio Palumbo,IT,Construction and Real Estate,Buildings (Residential or Commercial)
+2a05:b0c6:5::/36,205432.0,William Weber,HR,Manufacturing,Chemical and Pharmaceutical Manufacturing
+2a05:b0c6:a0::/40,202685.0,Aggros Operations Ltd.,GB,,
+2a05:dfc1:5a14::/48,209686.0,Xingyu Guo,CN,Computer and Information Technology,Internet Service Provider (ISP)
+2a05:e580:04::/40,63399.0,"Dialpad, Inc.",US,"Media, Publishing, and Broadcasting",Other
+2a06:1301:4050::/48,24940.0,Hetzner Online GmbH,DE,Computer and Information Technology,
+2a06:1780::/32,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
+2a06:18c::/28,60584.0,Prime Studio s.r.o.,CZ,Computer and Information Technology,Software Development
+2a06:2bc::/28,204171.0,TD-K A/S,DK,Computer and Information Technology,
+2a06:448::/28,200430.0,WEBO LLC,RU,Computer and Information Technology,Computer and Network Security
+2a06:9d4::/28,31543.0,myNet GmbH,AT,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:9d8::/28,57574.0,Agriculture bank,IR,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
+2a06:9f45:1fa3::/48,199052.0,AquaHost LTD,GB,,
+2a06:9f87::/32,1239.0,Sprint,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:a000:0101::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
+2a06:ee05::/32,25623.0,"TowardEX Technologies International, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:ee40:0022::/48,47215.0,dogado GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:eec::/28,56722.0,Van Berkel en Bos U.N. Studio BV,NL,Construction and Real Estate,Other
+2a06:ef0::/28,213222.0,Tida Data Processing Ltd,IR,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:ef40::/32,50495.0,web2objects GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:ef8::/28,197204.0,TeleMaks Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:efc0::/32,34762.0,Combell NV,BE,Computer and Information Technology,Software Development
+2a07:7940:fffe::/48,211691.0,Acronis SAS,FR,Computer and Information Technology,
+2a07:a6c::/28,3267.0,"Federal State Institution ""Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences""",RU,Education and Research,"Colleges, Universities, and Professional Schools"
+2a07:a880:4601::/48,42675.0,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:a880:4602::/48,42675.0,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:a880:4603::/48,42675.0,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:a880:4604::/48,42675.0,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:a880:4701::/48,42675.0,Obehosting AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:a8c0::/32,34939.0,"nextdns, Inc.",US,Computer and Information Technology,
+2a07:a8c1::/32,34939.0,"nextdns, Inc.",US,Computer and Information Technology,
+2a07:a980::/32,1764.0,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,AT,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:aa0::/28,3549.0,"Level 3 Parent, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:dfc0::/32,212944.0,Thurgroup Partners GmbH,CH,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a07:e040::/32,211895.0,Serverius Holding B.V.,NL,Computer and Information Technology,
+2a07:e041::/32,206075.0,Maximilian Jacobsen,DE,Computer and Information Technology,
+2a09:038::/28,204860.0,NetX Networks a.s.,CZ,Manufacturing,Electronics and Computer Components
+2a09:03c::/28,211170.0,Stromnetz Berlin GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:01e0::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:0300::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:0303::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:03e0::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:0401::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:04c0:0c00::/48,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:38c::/28,30823.0,aurologic GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:3a00:2000::/48,200299.0,BaseServ Limited,GB,Computer and Information Technology,Software Development
+2a09:3a00:30::/40,49981.0,WorldStream B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:3a00:3a::/40,59795.0,"Lucas Rolff, trading as Hosting4Real",NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:3b4::/28,57773.0,1Access Sweden AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:5080:0000::/48,42652.0,inexio Informationstechnologie und Telekommunikation Gmbh,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:5080:0002::/48,42652.0,inexio Informationstechnologie und Telekommunikation Gmbh,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:5302:ffff::/48,205090.0,FIRST SERVER LIMITED,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a09:54c1:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a09:54c2:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a09:6e41:0000::/48,197706.0,Keminet SHPK,AL,Computer and Information Technology,
+2a09:8280:0027::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8280:0030::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8280:0058::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8280:0070::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:8340:0001::/48,42275.0,Three Fourteen SASU,FR,Service,Other
+2a09:8340:0003::/48,42275.0,Three Fourteen SASU,FR,Service,Other
+2a09:8340:55d0::/48,42275.0,Three Fourteen SASU,FR,Service,Other
+2a09:83c::/28,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c0::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c1::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c2::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c3::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c4::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c6::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:83c7::/32,209368.0,Noinet Societa Cooperativa,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:b240::/32,21269.0,Christian Wittenhorst trading as Progon Network Engineering,CH,Computer and Information Technology,
+2a09:b280:0000::/48,210025.0,ALICE CAT RESEARCH LTD,GB,Education and Research,
+2a09:b280:1000::/48,210025.0,ALICE CAT RESEARCH LTD,GB,Education and Research,
+2a09:b280:1010::/48,210025.0,ALICE CAT RESEARCH LTD,GB,Education and Research,
+2a09:b280:1020::/48,210025.0,ALICE CAT RESEARCH LTD,GB,Education and Research,
+2a09:bac0:0026::/48,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:bac0:0027::/48,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:bac0:0028::/48,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:c5c0::/32,205718.0,ALCORT INGENIERIA Y ASESORIA S.L.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:c740::/32,205718.0,ALCORT INGENIERIA Y ASESORIA S.L.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:c88::/28,39913.0,Manuel Wannemacher,DE,Service,Other
+2a09:ca0::/28,34534.0,Harmony Hosting SARL,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:ca00:0000::/48,34534.0,Harmony Hosting SARL,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:0280:27::/40,199656.0,ZYC Network LLC,US,,
+2a0a:02c1::/32,51803.0,Info Space Plus Ltd.,UA,Computer and Information Technology,
+2a0a:3240:0000::/48,3194.0,SatGate Company for Trading of Computers Systems and Communications Appliances WLL,IQ,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:414::/28,60111.0,ASOM-Net Forening,DK,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:4940:0008::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:4940:0009::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:4940:0010::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:4940:0011::/48,208972.0,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:6040:4772::/48,211944.0,kiwax sarl,FR,Other,
+2a0a:6040:4773::/48,211891.0,KIFCORP SAS,FR,"Retail Stores, Wholesale, and E-commerce Sites",Other
+2a0a:6040:4774::/48,210344.0,WEBISERE,FR,"Media, Publishing, and Broadcasting",Other
+2a0a:6040:4775::/48,208333.0,CALFAB,FR,Computer and Information Technology,
+2a0a:6040:4776::/48,208421.0,KIFWORK,FR,"Media, Publishing, and Broadcasting",Other
+2a0a:6040:9e::/40,60391.0,Papa-Razzi Media Group A.s.b.l.,LU,Community Groups and Nonprofits,
+2a0a:6040:a0::/40,205232.0,Felix Alcantara,US,"Freight, Shipment, and Postal Services",Other
+2a0a:6040:a101::/48,203843.0,"WANG,XING-KAI",TW,Service,"Law, Business, and Consulting Services"
+2a0a:6040:a102::/48,203843.0,"WANG,XING-KAI",TW,Service,"Law, Business, and Consulting Services"
+2a0a:6040:a104::/48,203843.0,"WANG,XING-KAI",TW,Service,"Law, Business, and Consulting Services"
+2a0a:6040:dd1::/44,199514.0,Rifqi Arief Pamungkas,ID,Service,
+2a0a:6040:df00::/48,49548.0,NSA Networks LLC,US,Computer and Information Technology,Software Development
+2a0a:6040:df1::/44,49548.0,NSA Networks LLC,US,Computer and Information Technology,Software Development
+2a0a:6040:dfa::/44,49548.0,NSA Networks LLC,US,Computer and Information Technology,Software Development
+2a0a:6040:dfe::/44,49548.0,NSA Networks LLC,US,Computer and Information Technology,Software Development
+2a0a:6040:dfff::/48,49548.0,NSA Networks LLC,US,Computer and Information Technology,Software Development
+2a0a:6040:e0::/40,210152.0,Jon Arve Vanvik,NO,Education and Research,Other
+2a0a:6580::/32,206548.0,ZCOM.cz s.r.o,CZ,Computer and Information Technology,Software Development
+2a0a:fa47::/32,210107.0,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0a:fa8::/28,5582.0,Wojewodztwo Lubelskie,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:2900:216c::/48,48582.0,ngena GmbH,DE,Computer and Information Technology,
+2a0b:2900:21::/40,48582.0,ngena GmbH,DE,Computer and Information Technology,
+2a0b:318::/28,198333.0,DATAGROUP SE,DE,Computer and Information Technology,
+2a0b:31c0:0001::/48,205726.0,Daan Jurriaan van Gorkum trading as Vusam V.O.F,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:31c0:0002::/48,205726.0,Daan Jurriaan van Gorkum trading as Vusam V.O.F,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0b:738::/28,31617.0,REEVO S.P.A.,IT,Computer and Information Technology,Software Development
+2a0b:8f80:0100::/48,29290.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+2a0b:8f80:0101::/48,29290.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+2a0b:8f80:0102::/48,29290.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+2a0b:8f80:0103::/48,29290.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+2a0b:8f80:0104::/48,29290.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+2a0b:f300:047c::/48,62240.0,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:4480:0002::/48,204720.0,GLOBAL CLOUD NETWORK LLC,RU,"Retail Stores, Wholesale, and E-commerce Sites",Other
+2a0c:564::/28,203498.0,JSC Intellin,RU,Computer and Information Technology,
+2a0c:5640::/32,203498.0,JSC Intellin,RU,Computer and Information Technology,
+2a0c:8305::/32,61049.0,Exascale Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:8440:0000::/48,208041.0,Rafal Rajba trading as INTERTELL,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:848::/28,5400.0,British Telecommunications PLC,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9b8::/28,205816.0,Elkaim Elie,FR,Service,Other
+2a0c:9bc::/28,25415.0,ADDIX GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9c8::/28,204760.0,MOMIT SRL,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e00::/32,7018.0,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e01::/32,7018.0,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e02:02::/40,3320.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0c:9e02:03::/40,3320.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2682::/32,208985.0,Niklas Polte,DE,"Media, Publishing, and Broadcasting",Online Informational Content
+2a0d:2682:a::/36,197634.0,Alec Hoefler,AT,Community Groups and Nonprofits,Other
+2a0d:2685::/32,945.0,hkgo LLC,TW,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2687::/32,209650.0,Wu Zhiyuan,CN,Education and Research,
+2a0d:26c0::/32,209041.0,CoreIT AB,SE,Computer and Information Technology,
+2a0d:2786::/32,62068.0,SpectraIP B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2787::/32,62068.0,SpectraIP B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:27c::/28,197706.0,Keminet SHPK,AL,Computer and Information Technology,
+2a0d:280::/28,25003.0,Internet Binat Ltd,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2d43::/32,62075.0,Julian Lannert,DE,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0d:2d44::/32,62075.0,Julian Lannert,DE,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0d:2d45::/32,50395.0,Julian Lannert,DE,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+2a0d:2dc::/28,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:2e00:1000::/48,33932.0,"Minorisa de Sistemas Informaticos y de Gestion, S.L.",ES,Construction and Real Estate,Other
+2a0d:314::/28,198668.0,Tlapnet s.r.o.,CZ,Manufacturing,Electronics and Computer Components
+2a0d:42c1::/32,197706.0,Keminet SHPK,AL,Computer and Information Technology,
+2a0d:430::/28,204920.0,Vestas Wind Systems A/S,DK,Manufacturing,Automotive and Transportation
+2a0d:55c::/28,58011.0,CHEOPS TECHNOLOGY FRANCE S.A.,FR,Computer and Information Technology,
+2a0d:5600:0001::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0002::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0003::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0042::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0043::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:004d::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:004e::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:004f::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0057::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:0058::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5600:005a::/48,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:5642:0140::/48,35487.0,"Misaka Network, Inc.",US,Other,
+2a0d:6c4::/28,40970.0,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:6cc::/28,49191.0,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:8e80:2659::/48,41155.0,Orbit Telekom Sanayi ve Ticaret Limited Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:8e80:8080::/48,41155.0,Orbit Telekom Sanayi ve Ticaret Limited Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:8e80:8a80::/48,41155.0,Orbit Telekom Sanayi ve Ticaret Limited Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:8f4::/28,208906.0,"SYNOT ICT Services, a.s.",CZ,Service,"Law, Business, and Consulting Services"
+2a0d:8f8::/28,204790.0,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:8fc::/28,44050.0,Petersburg Internet Network ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:e6c0::/32,41114.0,ORNE THD SPL,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0d:e8c::/28,35829.0,"auth-servers, LLC",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0d:e8c0:0001::/48,35829.0,"auth-servers, LLC",US,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:568::/28,41230.0,ASK4 Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:97c0:0700::/48,48987.0,Jiaxun Yang,GB,"Freight, Shipment, and Postal Services",Postal Services and Couriers
+2a0e:a942:01f1::/48,150698.0,VCORE COMPANY LIMITED,VN,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:aa00:aa00::/48,41378.0,Kirino LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:aa06:00::/40,4842.0,Tianhai InfoTech,CN,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:aa06:0492::/48,24239.0,TWD2 Education and Research Network,CN,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:b107:19cd::/48,204611.0,Giuseppe Augiero,IT,Service,"Law, Business, and Consulting Services"
+2a0e:b54::/28,30823.0,aurologic GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:bbc0:8006::/48,22604.0,Disney Streaming Services,US,"Media, Publishing, and Broadcasting",
+2a0e:e387::/32,7018.0,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:e5c::/28,34665.0,Petersburg Internet Network ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:e64::/28,202844.0,Airsip Telecomunicaciones S.L.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:f200:0174::/48,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:f200:0184::/48,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:f600:0000::/48,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
+2a0f:0f44::/32,206150.0,IPXO LIMITED,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:374::/28,60262.0,Panq B.V.,NL,Computer and Information Technology,
+2a0f:3784:01::/40,213204.0,Marvin Gaube,DE,"Media, Publishing, and Broadcasting","Print Media (Newspapers, Magazines, Books)"
+2a0f:464::/28,200750.0,Klikom.net Sp.z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:7800:0103::/48,59538.0,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+2a0f:7800:0104::/48,59538.0,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+2a0f:7800:0105::/48,59538.0,UPSTREAM NETWORK LTD,GB,Construction and Real Estate,Buildings (Residential or Commercial)
+2a0f:85c1:0264::/48,205398.0,Tyler Obrien,US,Service,"Law, Business, and Consulting Services"
+2a0f:9a8::/28,49981.0,WorldStream B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9ac::/28,216349.0,"Getechbrothers, MB",LT,,
+2a0f:be01:0000::/48,203819.0,Emily Kohlmeier,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:be01:00fe::/48,203819.0,Emily Kohlmeier,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:ca00:8000::/48,42209.0,NysaNet sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:ca80:0000::/48,208046.0,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a0f:ca80:1337::/48,208046.0,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a0f:ca80:1338::/48,208046.0,ColocationX Ltd.,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a0f:ca80:1339::/48,204755.0,MAV Studios UK LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites","Clothing, Fashion, Luggage"
+2a0f:ca80:b00b::/48,204755.0,MAV Studios UK LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites","Clothing, Fashion, Luggage"
+2a0f:ca80:beef::/48,204755.0,MAV Studios UK LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites","Clothing, Fashion, Luggage"
+2a0f:cdc6:2001::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:cdc6:203::/44,216024.0,,,,
+2a0f:ce0::/28,208261.0,Pomme Telecom SASU,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:cf0::/28,30813.0,Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:cf8::/28,204916.0,"RACKTECH CO., LTD.",TH,,
+2a0f:e24::/28,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
+2a0f:e28::/28,50629.0,LWLcom GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:e2c::/28,8422.0,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:e384::/32,137409.0,GSL Networks Pty LTD,AU,Computer and Information Technology,
+2a0f:f20::/28,208257.0,CELENETWORKS SL,ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:02c::/28,60636.0,Coolnet Communications ltd,IL,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:2f00:017e::/48,209225.0,Ledermann Technologies GmbH,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:068::/28,204916.0,"RACKTECH CO., LTD.",TH,,
+2a11:06c0::/32,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c5::/32,211083.0,ServerGurus UG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:06c6:1::/36,210916.0,Freifunk im Ennepe-Ruhr-Kreis e.V.,DE,"Media, Publishing, and Broadcasting",Music and Video Industry
+2a11:0840:0017::/48,136258.0,"BrainStorm Network, Inc",CA,Computer and Information Technology,Other
+2a11:0840:0018::/48,136258.0,"BrainStorm Network, Inc",CA,Computer and Information Technology,Other
+2a11:1680:0000::/48,14445.0,PeaceWeb,US,Community Groups and Nonprofits,Other
+2a11:1680:0006::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1680:0007::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1680:0008::/48,42831.0,UK Dedicated Servers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:1801::/32,201364.0,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+2a11:1802::/32,201364.0,TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI,TR,Service,"Law, Business, and Consulting Services"
+2a11:5701:001::/44,200198.0,DSM (GB) Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:5701:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a11:5702:b00b::/48,212149.0,Hammy Web Services LLC,US,Service,
+2a11:620::/28,204790.0,Falco ISP Services B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:75c::/28,211501.0,High Tide Group Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a11:9c00:00::/40,213354.0,INTERNATIONAL HOSTING SOLUTIONS LLP,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a11:9c4::/28,22773.0,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:bb44::/32,28753.0,Leaseweb Deutschland GmbH,DE,Computer and Information Technology,
+2a11:bd80::/32,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a11:e684::/32,60022.0,Sona Business B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:3200:2::/36,25198.0,INTERKVM HOST SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:3200:4::/36,25198.0,INTERKVM HOST SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:32c::/28,206430.0,INFOTEC TECNOLOGIA INTEGRAL Y TELECOMUNICACIONES SL,ES,"Media, Publishing, and Broadcasting",Radio and Television Providers
+2a12:4d8::/28,34907.0,IP SERVICES Sp. zo.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:4e8::/28,210434.0,Hizakura Limited,GB,,
+2a12:5040:0001::/48,205876.0,Hoasted B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:5240:0000::/48,209626.0,Enflow B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:5844:1141::/48,209768.0,white2net Srl,BE,,
+2a12:7240::/32,400842.0,Tunbroker LLC,US,,
+2a12:7241::/32,400842.0,Tunbroker LLC,US,,
+2a12:7242::/32,400842.0,Tunbroker LLC,US,,
+2a12:83c6::/32,43202.0,Elektrorazpredelenie Yug EAD,BG,Utilities (Excluding Internet Service),"Electric Power Generation, Transmission, Distribution"
+2a12:83c7::/32,43202.0,Elektrorazpredelenie Yug EAD,BG,Utilities (Excluding Internet Service),"Electric Power Generation, Transmission, Distribution"
+2a12:8400::/32,198722.0,TxRx Communications Ltd,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:844::/28,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:df00:1::/36,210462.0,Mining Link Limited,HK,Manufacturing,Electronics and Computer Components
+2a12:f08::/28,22773.0,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:f18::/28,133944.0,"trafficforce, UAB",LT,Computer and Information Technology,Computer and Network Security
+2a12:f24::/28,210434.0,Hizakura Limited,GB,,
+2a12:f281::/32,209097.0,NETSYST SAS,FR,Computer and Information Technology,Software Development
+2a13:4ac0:0004::/48,211381.0,Podaon SIA,LV,,
+2a13:4ac0:0008::/48,210895.0,Podaon SIA,LV,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:4ac0:000c::/48,210895.0,Podaon SIA,LV,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:4c00::/32,204318.0,Benjamin Cartwright-Cox,GB,,
+2a13:958::/28,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:a5c3:11::/40,198304.0,Pinjia Zhao,CN,,
+2a13:a5c3:2::/36,198304.0,Pinjia Zhao,CN,,
+2a13:aac7:0a::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:0b::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:0c::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:aac7:0d::/40,60539.0,Huicast Telecom Limited,HK,Computer and Information Technology,
+2a13:ce80:0000::/48,199285.0,"Conarx, Ltd",GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:ce80:f000::/48,199285.0,"Conarx, Ltd",GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf0::/28,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf00::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:cf01::/32,32489.0,Amanah Tech Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2c0f:f758::/32,37204.0,Telone PVT Ltd,ZW,Computer and Information Technology,Internet Service Provider (ISP)
