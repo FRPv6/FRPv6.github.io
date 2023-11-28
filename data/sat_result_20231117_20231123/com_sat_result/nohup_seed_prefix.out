@@ -1,0 +1,288 @@
+++++++++++++++++++++day 1
+df_alias_prefix_pre:  29722
+df_alias_prefix_pre:  19720
+df_alias_prefix_pre:  32323
+df_alias_prefix_pre:  31374
+df_all:  33031
+++++++++++++++++++++day 2
+df_alias_prefix_pre:  31204
+df_alias_prefix_pre:  24088
+df_alias_prefix_pre:  29856
+df_alias_prefix_pre:  28962
+df_all:  32930
+++++++++++++++++++++day 3
+df_alias_prefix_pre:  28653
+df_alias_prefix_pre:  29048
+df_alias_prefix_pre:  29928
+df_alias_prefix_pre:  29696
+df_all:  33150
+++++++++++++++++++++day 4
+df_alias_prefix_pre:  28282
+df_alias_prefix_pre:  23592
+df_alias_prefix_pre:  30060
+df_alias_prefix_pre:  29490
+df_all:  32051
+++++++++++++++++++++day 5
+df_alias_prefix_pre:  31787
+df_alias_prefix_pre:  23694
+df_alias_prefix_pre:  31766
+df_alias_prefix_pre:  31603
+df_all:  33574
+++++++++++++++++++++day 6
+df_alias_prefix_pre:  30025
+df_alias_prefix_pre:  23773
+df_alias_prefix_pre:  30049
+df_alias_prefix_pre:  29340
+df_all:  31775
+++++++++++++++++++++day 7
+df_alias_prefix_pre:  29746
+df_alias_prefix_pre:  21941
+df_alias_prefix_pre:  30942
+df_alias_prefix_pre:  30470
+df_all:  32588
+7
+############################################### day  1
+raw seed aliased prefix: 33031
+current router prefix: 4393
+all: 37424
+all after del dup: 34602
+number of directly del dup: 2822
+alias prefix number after gen short: 33114
+seed prefix after del router prefix: 30166
+number of del contain: 43
+&&&&&&&&& 1
+Number of aliased prefix (all):  30166
+------------------------------------
+                         prefix  as org_name country category sub_category
+1829         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1830         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2053          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2093         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2094         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+30124             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+30135            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+30136            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+30137          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
+30142  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+
+[487 rows x 6 columns]
+Number of aliased prefix (cannot get as):  487
+------------------------------------
+Number of aliased prefix (can get as):  29679
+############################################### day  2
+raw seed aliased prefix: 32930
+current router prefix: 4395
+all: 37325
+all after del dup: 34509
+number of directly del dup: 2816
+alias prefix number after gen short: 33022
+seed prefix after del router prefix: 30070
+number of del contain: 44
+&&&&&&&&& 2
+Number of aliased prefix (all):  30070
+------------------------------------
+                         prefix  as org_name country category sub_category
+1783         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1784         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2004          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2043         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2044         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+30028             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+30039            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+30040            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+30041          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
+30046  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+
+[485 rows x 6 columns]
+Number of aliased prefix (cannot get as):  485
+------------------------------------
+Number of aliased prefix (can get as):  29585
+############################################### day  3
+raw seed aliased prefix: 33150
+current router prefix: 5108
+all: 38258
+all after del dup: 35415
+number of directly del dup: 2843
+alias prefix number after gen short: 33324
+seed prefix after del router prefix: 29794
+number of del contain: 513
+&&&&&&&&& 3
+Number of aliased prefix (all):  29794
+------------------------------------
+                         prefix  as org_name country category sub_category
+1848         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1849         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2076          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2116         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2117         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+29752             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+29763            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+29764            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+29765          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
+29770  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+
+[491 rows x 6 columns]
+Number of aliased prefix (cannot get as):  491
+------------------------------------
+Number of aliased prefix (can get as):  29303
+############################################### day  4
+raw seed aliased prefix: 32051
+current router prefix: 4398
+all: 36449
+all after del dup: 33785
+number of directly del dup: 2664
+alias prefix number after gen short: 32330
+seed prefix after del router prefix: 29339
+number of del contain: 48
+&&&&&&&&& 4
+Number of aliased prefix (all):  29339
+------------------------------------
+                         prefix  as org_name country category sub_category
+1821         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1822         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2046          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2088         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2089         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+29283  2a13:2b40:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+29300             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+29311            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+29312            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+29313          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
+
+[411 rows x 6 columns]
+Number of aliased prefix (cannot get as):  411
+------------------------------------
+Number of aliased prefix (can get as):  28928
+############################################### day  5
+raw seed aliased prefix: 33574
+current router prefix: 4402
+all: 37976
+all after del dup: 35158
+number of directly del dup: 2818
+alias prefix number after gen short: 33668
+seed prefix after del router prefix: 30706
+number of del contain: 50
+&&&&&&&&& 5
+Number of aliased prefix (all):  30706
+------------------------------------
+                         prefix  as org_name country category sub_category
+1944         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1945         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2174          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2216         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2217         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+30664             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+30675            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+30676            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+30677          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
+30682  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+
+[501 rows x 6 columns]
+Number of aliased prefix (cannot get as):  501
+------------------------------------
+Number of aliased prefix (can get as):  30205
+############################################### day  6
+raw seed aliased prefix: 31775
+current router prefix: 4414
+all: 36189
+all after del dup: 33510
+number of directly del dup: 2679
+alias prefix number after gen short: 32057
+seed prefix after del router prefix: 29054
+number of del contain: 42
+&&&&&&&&& 6
+Number of aliased prefix (all):  29054
+------------------------------------
+                         prefix  as org_name country category sub_category
+1779         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1780         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+1997          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2038         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2039         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+28998  2a13:2b40:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+29000  2a13:2cc0:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+29015             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+29026            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+29027            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+
+[396 rows x 6 columns]
+Number of aliased prefix (cannot get as):  396
+------------------------------------
+Number of aliased prefix (can get as):  28658
+############################################### day  7
+raw seed aliased prefix: 32588
+current router prefix: 4529
+all: 37117
+all after del dup: 34345
+number of directly del dup: 2772
+alias prefix number after gen short: 32858
+seed prefix after del router prefix: 29771
+number of del contain: 45
+&&&&&&&&& 7
+Number of aliased prefix (all):  29771
+------------------------------------
+                         prefix  as org_name country category sub_category
+1908         2001:2507:001::/44 NaN      NaN     NaN      NaN          NaN
+1909         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
+2236          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
+2278         2001:9784:203::/44 NaN      NaN     NaN      NaN          NaN
+2279         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
+...                         ...  ..      ...     ...      ...          ...
+29718  2a13:2cc0:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+29734             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
+29744            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
+29745            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
+29748  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+
+[400 rows x 6 columns]
+Number of aliased prefix (cannot get as):  400
+------------------------------------
+Number of aliased prefix (can get as):  29371
+################################ start compare 1 and 2
+df_alias_prefix_pre:  30166
+df_alias_prefix_next:  30070
+result_co:  29932
+result_loss:  234
+result_new:  138
+--------------------- end compare 1 and 2
+################################ start compare 2 and 3
+df_alias_prefix_pre:  30070
+df_alias_prefix_next:  29794
+result_co:  29488
+result_loss:  582
+result_new:  306
+--------------------- end compare 2 and 3
+################################ start compare 3 and 4
+df_alias_prefix_pre:  29794
+df_alias_prefix_next:  29339
+result_co:  28677
+result_loss:  1117
+result_new:  662
+--------------------- end compare 3 and 4
+################################ start compare 4 and 5
+df_alias_prefix_pre:  29339
+df_alias_prefix_next:  30706
+result_co:  29304
+result_loss:  35
+result_new:  1402
+--------------------- end compare 4 and 5
+################################ start compare 5 and 6
+df_alias_prefix_pre:  30706
+df_alias_prefix_next:  29054
+result_co:  29034
+result_loss:  1672
+result_new:  20
+--------------------- end compare 5 and 6
+################################ start compare 6 and 7
+df_alias_prefix_pre:  29054
+df_alias_prefix_next:  29771
+result_co:  28645
+result_loss:  409
+result_new:  1126
+--------------------- end compare 6 and 7

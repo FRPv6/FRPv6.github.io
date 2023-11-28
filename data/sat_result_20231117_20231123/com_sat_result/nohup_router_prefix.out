@@ -1,0 +1,154 @@
+++++++++++++++++++++day 1
+df_alias_prefix_pre:  4291
+df_alias_prefix_pre:  2843
+df_alias_prefix_pre:  4309
+df_alias_prefix_pre:  4338
+df_all:  4393
+++++++++++++++++++++day 2
+df_alias_prefix_pre:  4296
+df_alias_prefix_pre:  3197
+df_alias_prefix_pre:  4355
+df_alias_prefix_pre:  4303
+df_all:  4395
+++++++++++++++++++++day 3
+df_alias_prefix_pre:  4098
+df_alias_prefix_pre:  3563
+df_alias_prefix_pre:  4335
+df_alias_prefix_pre:  4367
+df_all:  5108
+++++++++++++++++++++day 4
+df_alias_prefix_pre:  4338
+df_alias_prefix_pre:  3588
+df_alias_prefix_pre:  4371
+df_alias_prefix_pre:  4382
+df_all:  4398
+++++++++++++++++++++day 5
+df_alias_prefix_pre:  4363
+df_alias_prefix_pre:  3592
+df_alias_prefix_pre:  4354
+df_alias_prefix_pre:  4380
+df_all:  4402
+++++++++++++++++++++day 6
+df_alias_prefix_pre:  4387
+df_alias_prefix_pre:  3567
+df_alias_prefix_pre:  4369
+df_alias_prefix_pre:  4306
+df_all:  4414
+++++++++++++++++++++day 7
+df_alias_prefix_pre:  4345
+df_alias_prefix_pre:  3352
+df_alias_prefix_pre:  4456
+df_alias_prefix_pre:  4487
+df_all:  4529
+7
+############################################### day  1
+&&&&&&&&& 1
+Number of aliased prefix (all):  4393
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4393
+############################################### day  2
+&&&&&&&&& 2
+Number of aliased prefix (all):  4395
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4395
+############################################### day  3
+&&&&&&&&& 3
+Number of aliased prefix (all):  5108
+------------------------------------
+              prefix  as org_name country category sub_category
+3092  2a02:4c07::/32 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  1
+------------------------------------
+Number of aliased prefix (can get as):  5107
+############################################### day  4
+&&&&&&&&& 4
+Number of aliased prefix (all):  4398
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4398
+############################################### day  5
+&&&&&&&&& 5
+Number of aliased prefix (all):  4402
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4402
+############################################### day  6
+&&&&&&&&& 6
+Number of aliased prefix (all):  4414
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4414
+############################################### day  7
+&&&&&&&&& 7
+Number of aliased prefix (all):  4529
+------------------------------------
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
+------------------------------------
+Number of aliased prefix (can get as):  4529
+################################ start compare 1 and 2
+df_alias_prefix_pre:  4393
+df_alias_prefix_next:  4395
+result_co:  4394
+result_loss:  9
+result_new:  11
+--------------------- end compare 1 and 2
+################################ start compare 2 and 3
+df_alias_prefix_pre:  4395
+df_alias_prefix_next:  5108
+result_co:  4384
+result_loss:  11
+result_new:  729
+--------------------- end compare 2 and 3
+################################ start compare 3 and 4
+df_alias_prefix_pre:  5108
+df_alias_prefix_next:  4398
+result_co:  4378
+result_loss:  730
+result_new:  20
+--------------------- end compare 3 and 4
+################################ start compare 4 and 5
+df_alias_prefix_pre:  4398
+df_alias_prefix_next:  4402
+result_co:  4391
+result_loss:  7
+result_new:  11
+--------------------- end compare 4 and 5
+################################ start compare 5 and 6
+df_alias_prefix_pre:  4402
+df_alias_prefix_next:  4414
+result_co:  4405
+result_loss:  2
+result_new:  9
+--------------------- end compare 5 and 6
+################################ start compare 6 and 7
+df_alias_prefix_pre:  4414
+df_alias_prefix_next:  4529
+result_co:  4410
+result_loss:  12
+result_new:  128
+--------------------- end compare 6 and 7

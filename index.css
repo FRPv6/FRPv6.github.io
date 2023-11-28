@@ -28,7 +28,6 @@ code {
 /*导航栏*/
 tab-content{
     margin: 0 auto; /* 水平居中 */
-
 }
 /*折线图*/
 .line-chart{
@@ -39,14 +38,50 @@ tab-content{
 .container{
     width: 1280px;
 }
+.container-lg{
+    margin-top: 1rem;
+}
+.col-lg-12 {
+    border-bottom: 0.1rem solid #ebf0f4;
+    margin-top: 2rem;
+}
 /*导航栏*/
 .nav {
     margin-bottom: 8px;
+
+}
+.nav-tabs{
+    /*background-color: #0d6efd;*/
+    margin-top: 0.5rem;
+    border-radius: 0.375rem;
+    border-color:#dee2e6;
+}
+.nav-tabs .nav-link{
+    /*color: #ffffff;*/
+}
+.tab-content{
+
+}
+/*select*/
+.form-select{
+    width: 6rem;
+    height: 2.085rem;
+    /*background-color: #0dcaf0;*/
+    text-align: center;
 }
 /*四个饼状图*/
 .pie-chart-container{
     height: 400px;
     width: 1280px;
+}
+.pie-chart-container h4{
+    font-size: 1.4rem;
+    padding-top: 0rem;
+    margin-top: 0rem;
+}
+.st-table{
+    /*width: 1280px;*/
+    /*height: 400px;*/
 }
 /*地图*/
 .map-chart-container{

@@ -62,7 +62,7 @@ def generate_map_chart(path, type_name, csv_file_name):
 
 if __name__== '__main__':
     # Specify the variables for each iteration
-    file_path = "../data/sat_result_20231110_20231116/"
+    file_path = "../data/sat_result_20231117_20231123/"
     prefix_types = ["router", "seed"]
     type_name = "Country-Num"
     # Iterate through different combinations

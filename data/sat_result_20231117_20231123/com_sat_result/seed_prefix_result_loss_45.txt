@@ -1,0 +1,35 @@
+2001:0428:4402:043::/60,209.0,"CenturyLink Communications, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:1f07:0306::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0559:0019:2085::/64,7922.0,"Comcast Cable Communications, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0579:2438:0000::/64,22773.0,Cox Communications Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:067c:274c:0152::/64,42034.0,DN-Systems Enterprise Internet Solutions GmbH,DE,Computer and Information Technology,
+2001:06b0:0048:0006::/64,1653.0,Vetenskapsradet / SUNET,SE,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0780:0132:0180::/64,12337.0,noris network AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0780:0229:0003::/64,12337.0,noris network AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:6001:2d08::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:6001:4e2f::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:6001:5bce::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:19f0:9002:1c15::/64,20473.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:4dd0:3564:0000::/64,8422.0,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2001:4dd0:3564:0001::/64,8422.0,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2400:cb00:0200:2005::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:140f:0003:11::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:15::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:1000:07::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:ac00:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:014::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:9000:22d7:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22f1:00f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2410:00c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2410:00e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26b8::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:26fd::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:010::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:012::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30bc:00f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2606:2800:60d::/44,,,,,
+2804:014c:de44:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:12a2:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4030:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2806:0265:5380:0000:0000:0000:0000:00::/120,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0043:0000:0000:0000:0d::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)

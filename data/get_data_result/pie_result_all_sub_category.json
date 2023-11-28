@@ -1,0 +1,2210 @@
+{
+  "result": [
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1491,
+          0.33942
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1215,
+          0.27658
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          635,
+          0.14469
+        ],
+        [
+          4,
+          "Software Development",
+          438,
+          0.09972
+        ],
+        [
+          5,
+          "None",
+          382,
+          0.08709
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.0204899999999999
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01573
+        ],
+        [
+          8,
+          "Buildings (Residential or Commercial)",
+          16,
+          0.00365
+        ],
+        [
+          9,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00365
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00296
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00228
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.00115
+        ],
+        [
+          13,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00068
+        ],
+        [
+          14,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00068
+        ],
+        [
+          15,
+          "Electronics and Computer Components",
+          2,
+          0.00046
+        ],
+        [
+          16,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          2,
+          0.00046
+        ],
+        [
+          17,
+          "Elementary and Secondary Schools",
+          1,
+          0.00023
+        ],
+        [
+          18,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.00023
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 19
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1489,
+          0.33882
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1215,
+          0.27645
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          639,
+          0.14554
+        ],
+        [
+          4,
+          "Software Development",
+          439,
+          0.0999
+        ],
+        [
+          5,
+          "None",
+          380,
+          0.08661
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.0204899999999999
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01573
+        ],
+        [
+          8,
+          "Buildings (Residential or Commercial)",
+          16,
+          0.00365
+        ],
+        [
+          9,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00365
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00296
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00228
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.00115
+        ],
+        [
+          13,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.00068
+        ],
+        [
+          14,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00068
+        ],
+        [
+          15,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00068
+        ],
+        [
+          16,
+          "Electronics and Computer Components",
+          2,
+          0.00046
+        ],
+        [
+          17,
+          "Elementary and Secondary Schools",
+          1,
+          0.00023
+        ],
+        [
+          18,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.00023
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 19
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1525,
+          0.29862
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1319,
+          0.25829
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          907,
+          0.1781
+        ],
+        [
+          4,
+          "None",
+          524,
+          0.10288
+        ],
+        [
+          5,
+          "Software Development",
+          468,
+          0.09171
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          112,
+          0.02197
+        ],
+        [
+          7,
+          "Other",
+          94,
+          0.01847
+        ],
+        [
+          8,
+          "Buildings (Residential or Commercial)",
+          31,
+          0.0060799999999999
+        ],
+        [
+          9,
+          "Online Music and Video Streaming Services",
+          31,
+          0.00607
+        ],
+        [
+          10,
+          "Investment, Portfolio Management, Pensions and Funds",
+          18,
+          0.00354
+        ],
+        [
+          11,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00255
+        ],
+        [
+          12,
+          "Chemical and Pharmaceutical Manufacturing",
+          12,
+          0.00235
+        ],
+        [
+          13,
+          "Real Estate (Residential and/or Commercial)",
+          8,
+          0.00158
+        ],
+        [
+          14,
+          "Online Informational Content",
+          7,
+          0.00138
+        ],
+        [
+          15,
+          "Music and Video Industry",
+          6,
+          0.00117
+        ],
+        [
+          16,
+          "Clothing, Fashion, Luggage",
+          5,
+          0.00098
+        ],
+        [
+          17,
+          "Machinery",
+          4,
+          0.0008
+        ],
+        [
+          18,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00079
+        ],
+        [
+          19,
+          "Electronics and Computer Components",
+          3,
+          0.0006
+        ],
+        [
+          20,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          3,
+          0.00059
+        ],
+        [
+          21,
+          "Radio and Television Providers",
+          2,
+          0.0004
+        ],
+        [
+          22,
+          "Print Media (Newspapers, Magazines, Books)",
+          2,
+          0.00039
+        ],
+        [
+          23,
+          "Personal Care and Lifestyle (Barber Shops, Nail Salons, Diet Centers, Laundry, etc)",
+          1,
+          0.0002
+        ],
+        [
+          24,
+          "Automotive and Transportation",
+          1,
+          0.0002
+        ],
+        [
+          25,
+          "Law Enforcement, Public Safety, and Justice",
+          1,
+          0.0002
+        ],
+        [
+          26,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          1,
+          0.0002
+        ],
+        [
+          27,
+          "Elementary and Secondary Schools",
+          1,
+          0.0002
+        ],
+        [
+          28,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.0002
+        ],
+        [
+          29,
+          "Casinos and Gambling",
+          1,
+          0.0002
+        ],
+        [
+          30,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          1,
+          0.0002
+        ],
+        [
+          31,
+          "Technology Consulting Services",
+          1,
+          0.0002
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 31
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1502,
+          0.34152
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1215,
+          0.27626
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          639,
+          0.14534
+        ],
+        [
+          4,
+          "Software Development",
+          434,
+          0.09868
+        ],
+        [
+          5,
+          "None",
+          376,
+          0.08549
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.0204799999999999
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01569
+        ],
+        [
+          8,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00364
+        ],
+        [
+          9,
+          "Buildings (Residential or Commercial)",
+          15,
+          0.00341
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00296
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00227
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.00113
+        ],
+        [
+          13,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.00068
+        ],
+        [
+          14,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00068
+        ],
+        [
+          15,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00068
+        ],
+        [
+          16,
+          "Electronics and Computer Components",
+          2,
+          0.00046
+        ],
+        [
+          17,
+          "Elementary and Secondary Schools",
+          1,
+          0.00023
+        ],
+        [
+          18,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.00023
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 19
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1506,
+          0.34212
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1215,
+          0.27601
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          639,
+          0.14522
+        ],
+        [
+          4,
+          "Software Development",
+          437,
+          0.09926
+        ],
+        [
+          5,
+          "None",
+          373,
+          0.08474
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.02044
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01567
+        ],
+        [
+          8,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00363
+        ],
+        [
+          9,
+          "Buildings (Residential or Commercial)",
+          15,
+          0.00341
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00295
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00227
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.00113
+        ],
+        [
+          13,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.00068
+        ],
+        [
+          14,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00068
+        ],
+        [
+          15,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00068
+        ],
+        [
+          16,
+          "Electronics and Computer Components",
+          2,
+          0.00046
+        ],
+        [
+          17,
+          "Elementary and Secondary Schools",
+          1,
+          0.00023
+        ],
+        [
+          18,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.00023
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 19
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1505,
+          0.34097
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1215,
+          0.27526
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          646,
+          0.14651
+        ],
+        [
+          4,
+          "Software Development",
+          437,
+          0.09902
+        ],
+        [
+          5,
+          "None",
+          378,
+          0.08572
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.0204
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01565
+        ],
+        [
+          8,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00363
+        ],
+        [
+          9,
+          "Buildings (Residential or Commercial)",
+          15,
+          0.0034
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00295
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00227
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.00113
+        ],
+        [
+          13,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.00068
+        ],
+        [
+          14,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00068
+        ],
+        [
+          15,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00068
+        ],
+        [
+          16,
+          "Electronics and Computer Components",
+          2,
+          0.00046
+        ],
+        [
+          17,
+          "Elementary and Secondary Schools",
+          1,
+          0.00023
+        ],
+        [
+          18,
+          "Colleges, Universities, and Professional Schools",
+          1,
+          0.00023
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00023
+        ],
+        [
+          20,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 20
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Hosting and Cloud Provider",
+          1505,
+          0.33228
+        ],
+        [
+          2,
+          "Computer and Network Security",
+          1305,
+          0.28814
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          651,
+          0.14365
+        ],
+        [
+          4,
+          "Software Development",
+          445,
+          0.09826
+        ],
+        [
+          5,
+          "None",
+          389,
+          0.08582
+        ],
+        [
+          6,
+          "Law, Business, and Consulting Services",
+          90,
+          0.01987
+        ],
+        [
+          7,
+          "Other",
+          69,
+          0.01522
+        ],
+        [
+          8,
+          "Investment, Portfolio Management, Pensions and Funds",
+          16,
+          0.00353
+        ],
+        [
+          9,
+          "Buildings (Residential or Commercial)",
+          15,
+          0.00331
+        ],
+        [
+          10,
+          "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
+          13,
+          0.00287
+        ],
+        [
+          11,
+          "Online Music and Video Streaming Services",
+          10,
+          0.00221
+        ],
+        [
+          12,
+          "Online Informational Content",
+          5,
+          0.0011
+        ],
+        [
+          13,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.00066
+        ],
+        [
+          14,
+          "Real Estate (Residential and/or Commercial)",
+          3,
+          0.00066
+        ],
+        [
+          15,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          3,
+          0.00066
+        ],
+        [
+          16,
+          "Electronics and Computer Components",
+          2,
+          0.00044
+        ],
+        [
+          17,
+          "Colleges, Universities, and Professional Schools",
+          2,
+          0.00044
+        ],
+        [
+          18,
+          "Elementary and Secondary Schools",
+          1,
+          0.00022
+        ],
+        [
+          19,
+          "Chemical and Pharmaceutical Manufacturing",
+          1,
+          0.00022
+        ],
+        [
+          20,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          1,
+          0.00022
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 20
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9818,
+          0.33079
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7387,
+          0.2488699999999999
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5912,
+          0.19876
+        ],
+        [
+          4,
+          "None",
+          2919,
+          0.09815
+        ],
+        [
+          5,
+          "Software Development",
+          2873,
+          0.09678
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          378,
+          0.01273
+        ],
+        [
+          7,
+          "Phone Provider",
+          167,
+          0.00563
+        ],
+        [
+          8,
+          "Other",
+          52,
+          0.00173
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          47,
+          0.00156
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          32,
+          0.00106
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          26,
+          0.00085
+        ],
+        [
+          12,
+          "Online Informational Content",
+          20,
+          0.00067
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          8,
+          0.00026
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00013
+        ],
+        [
+          18,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00013
+        ],
+        [
+          19,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          20,
+          "Law Enforcement, Public Safety, and Justice",
+          3,
+          0.0001
+        ],
+        [
+          21,
+          "Investment, Portfolio Management, Pensions and Funds",
+          3,
+          9e-05
+        ],
+        [
+          22,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          2,
+          7e-05
+        ],
+        [
+          23,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          24,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          25,
+          "Food, Grocery, Beverages",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 25
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9811,
+          0.33162
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7373,
+          0.24921
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5837,
+          0.19695
+        ],
+        [
+          4,
+          "None",
+          2917,
+          0.09849
+        ],
+        [
+          5,
+          "Software Development",
+          2880,
+          0.09735
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          378,
+          0.01278
+        ],
+        [
+          7,
+          "Phone Provider",
+          168,
+          0.00568
+        ],
+        [
+          8,
+          "Other",
+          51,
+          0.00171
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          45,
+          0.0015
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          35,
+          0.0011899999999999
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          23,
+          0.00077
+        ],
+        [
+          12,
+          "Online Informational Content",
+          20,
+          0.00067
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          8,
+          0.00026
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00014
+        ],
+        [
+          18,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00014
+        ],
+        [
+          19,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          20,
+          "Law Enforcement, Public Safety, and Justice",
+          3,
+          0.0001
+        ],
+        [
+          21,
+          "Investment, Portfolio Management, Pensions and Funds",
+          3,
+          9e-05
+        ],
+        [
+          22,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          23,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          24,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          1,
+          3e-05
+        ],
+        [
+          25,
+          "Food, Grocery, Beverages",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 25
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9638,
+          0.32891
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7403,
+          0.25261
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5843,
+          0.19896
+        ],
+        [
+          4,
+          "Software Development",
+          2885,
+          0.09843
+        ],
+        [
+          5,
+          "None",
+          2806,
+          0.09554
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          332,
+          0.01132
+        ],
+        [
+          7,
+          "Phone Provider",
+          168,
+          0.00573
+        ],
+        [
+          8,
+          "Other",
+          54,
+          0.00182
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          47,
+          0.00158
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          34,
+          0.00117
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          25,
+          0.00083
+        ],
+        [
+          12,
+          "Online Informational Content",
+          20,
+          0.00068
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          8,
+          0.00026
+        ],
+        [
+          14,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00014
+        ],
+        [
+          18,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00014
+        ],
+        [
+          19,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          20,
+          "Law Enforcement, Public Safety, and Justice",
+          3,
+          0.0001
+        ],
+        [
+          21,
+          "Investment, Portfolio Management, Pensions and Funds",
+          3,
+          9e-05
+        ],
+        [
+          22,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          2,
+          7e-05
+        ],
+        [
+          23,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          24,
+          "Machinery",
+          2,
+          6e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 24
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9862,
+          0.34091
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7372,
+          0.25481
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5464,
+          0.1883
+        ],
+        [
+          4,
+          "Software Development",
+          2886,
+          0.09976
+        ],
+        [
+          5,
+          "None",
+          2594,
+          0.08941
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          359,
+          0.01242
+        ],
+        [
+          7,
+          "Phone Provider",
+          167,
+          0.00577
+        ],
+        [
+          8,
+          "Other",
+          54,
+          0.0018499999999999
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          48,
+          0.00164
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          37,
+          0.0012799999999999
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          26,
+          0.00087
+        ],
+        [
+          12,
+          "Online Informational Content",
+          19,
+          0.00065
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          7,
+          0.00024
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00014
+        ],
+        [
+          18,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          19,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          2,
+          7e-05
+        ],
+        [
+          20,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          2,
+          7e-05
+        ],
+        [
+          21,
+          "Investment, Portfolio Management, Pensions and Funds",
+          2,
+          6e-05
+        ],
+        [
+          22,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          23,
+          "Food, Grocery, Beverages",
+          1,
+          3e-05
+        ],
+        [
+          24,
+          "Radio and Television Providers",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 24
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9933,
+          0.32885
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7429,
+          0.24594
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          6152,
+          0.20344
+        ],
+        [
+          4,
+          "None",
+          3000,
+          0.09924
+        ],
+        [
+          5,
+          "Software Development",
+          2902,
+          0.0960599999999999
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          383,
+          0.01267
+        ],
+        [
+          7,
+          "Phone Provider",
+          168,
+          0.00556
+        ],
+        [
+          8,
+          "Other",
+          57,
+          0.00188
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          50,
+          0.00164
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          37,
+          0.00123
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          26,
+          0.00085
+        ],
+        [
+          12,
+          "Online Informational Content",
+          20,
+          0.00066
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          8,
+          0.00026
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00013
+        ],
+        [
+          18,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00013
+        ],
+        [
+          19,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          20,
+          "Law Enforcement, Public Safety, and Justice",
+          3,
+          0.0001
+        ],
+        [
+          21,
+          "Investment, Portfolio Management, Pensions and Funds",
+          3,
+          9e-05
+        ],
+        [
+          22,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          2,
+          7e-05
+        ],
+        [
+          23,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          24,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          25,
+          "Food, Grocery, Beverages",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 25
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          9827,
+          0.3429
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7337,
+          0.25597
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5323,
+          0.18503
+        ],
+        [
+          4,
+          "Software Development",
+          2867,
+          0.0999999999999999
+        ],
+        [
+          5,
+          "None",
+          2566,
+          0.08925
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          354,
+          0.01234
+        ],
+        [
+          7,
+          "Phone Provider",
+          167,
+          0.00583
+        ],
+        [
+          8,
+          "Other",
+          49,
+          0.0016899999999999
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          47,
+          0.00162
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          34,
+          0.00118
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          25,
+          0.00085
+        ],
+        [
+          12,
+          "Online Informational Content",
+          18,
+          0.00062
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          8,
+          0.00027
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00014
+        ],
+        [
+          18,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00014
+        ],
+        [
+          19,
+          "Investment, Portfolio Management, Pensions and Funds",
+          3,
+          9e-05
+        ],
+        [
+          20,
+          "Insurance Carriers and Agencies",
+          2,
+          7e-05
+        ],
+        [
+          21,
+          "Law Enforcement, Public Safety, and Justice",
+          2,
+          7e-05
+        ],
+        [
+          22,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          23,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          24,
+          "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 24
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        [
+          1,
+          "Online Music and Video Streaming Services",
+          10148,
+          0.3455
+        ],
+        [
+          2,
+          "Hosting and Cloud Provider",
+          7431,
+          0.25298
+        ],
+        [
+          3,
+          "Internet Service Provider (ISP)",
+          5619,
+          0.19094
+        ],
+        [
+          4,
+          "Software Development",
+          2878,
+          0.09797
+        ],
+        [
+          5,
+          "None",
+          2604,
+          0.08845
+        ],
+        [
+          6,
+          "Computer and Network Security",
+          305,
+          0.0103699999999999
+        ],
+        [
+          7,
+          "Phone Provider",
+          167,
+          0.00569
+        ],
+        [
+          8,
+          "Other",
+          52,
+          0.00176
+        ],
+        [
+          9,
+          "Law, Business, and Consulting Services",
+          49,
+          0.00165
+        ],
+        [
+          10,
+          "Military, Defense, National Security, and International Affairs",
+          37,
+          0.00127
+        ],
+        [
+          11,
+          "Colleges, Universities, and Professional Schools",
+          24,
+          0.0008
+        ],
+        [
+          12,
+          "Online Informational Content",
+          18,
+          0.00061
+        ],
+        [
+          13,
+          "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+          9,
+          0.00029
+        ],
+        [
+          14,
+          "Recreation, Sports, and Performing Arts",
+          6,
+          0.0002
+        ],
+        [
+          15,
+          "Government and Regulatory Agencies, Administrations, Departments, and Services",
+          5,
+          0.00017
+        ],
+        [
+          16,
+          "Banks, Credit Card Companies, Mortgage Providers",
+          4,
+          0.00014
+        ],
+        [
+          17,
+          "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
+          4,
+          0.00014
+        ],
+        [
+          18,
+          "Metal, Glass, Wood, and Paper Manufacturing",
+          3,
+          0.0001
+        ],
+        [
+          19,
+          "Insurance Carriers and Agencies",
+          3,
+          0.0001
+        ],
+        [
+          20,
+          "Radio and Television Providers",
+          2,
+          7e-05
+        ],
+        [
+          21,
+          "Machinery",
+          2,
+          6e-05
+        ],
+        [
+          22,
+          "Law Enforcement, Public Safety, and Justice",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "sub_category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 22
+    }
+  ],
+  "code": 1001,
+  "msg": "success"
+}

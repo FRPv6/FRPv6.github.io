@@ -1,8 +1,8 @@
 import pandas as pd
 import json
 
-file_path_week1 = "../data/sat_result_20231103_20231109/com_sat_result/"
-file_path_week2 = "../data/sat_result_20231110_20231116/com_sat_result/"
+file_path_week1 = "../data/sat_result_20231110_20231116/com_sat_result/"
+file_path_week2 = "../data/sat_result_20231117_20231123/com_sat_result/"
 file_name_router = "router_prefix_sat_change.csv"
 file_name_seed = "seed_prefix_sat_change.csv"
 

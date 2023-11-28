@@ -1,0 +1,1634 @@
+{
+  "result": [
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3857,
+          0.8782
+        ],
+        [
+          2,
+          "None",
+          283,
+          0.06449
+        ],
+        [
+          3,
+          "Service",
+          133,
+          0.0302799999999999
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          29,
+          0.00661
+        ],
+        [
+          5,
+          "Education and Research",
+          22,
+          0.00502
+        ],
+        [
+          6,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00434
+        ],
+        [
+          7,
+          "Finance and Insurance",
+          19,
+          0.00433
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00252
+        ],
+        [
+          9,
+          "Manufacturing",
+          5,
+          0.00115
+        ],
+        [
+          10,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          5,
+          0.00115
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.00114
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00046
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00046
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3858,
+          0.87804
+        ],
+        [
+          2,
+          "None",
+          283,
+          0.06447
+        ],
+        [
+          3,
+          "Service",
+          133,
+          0.0302799999999999
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          29,
+          0.00661
+        ],
+        [
+          5,
+          "Education and Research",
+          22,
+          0.00502
+        ],
+        [
+          6,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00434
+        ],
+        [
+          7,
+          "Finance and Insurance",
+          19,
+          0.00433
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00252
+        ],
+        [
+          9,
+          "Manufacturing",
+          6,
+          0.00137
+        ],
+        [
+          10,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          5,
+          0.00115
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.00114
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00046
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00046
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          4356,
+          0.85366
+        ],
+        [
+          2,
+          "None",
+          322,
+          0.06316
+        ],
+        [
+          3,
+          "Service",
+          176,
+          0.03453
+        ],
+        [
+          4,
+          "Media, Publishing, and Broadcasting",
+          56,
+          0.01099
+        ],
+        [
+          5,
+          "Construction and Real Estate",
+          54,
+          0.01061
+        ],
+        [
+          6,
+          "Education and Research",
+          41,
+          0.00806
+        ],
+        [
+          7,
+          "Manufacturing",
+          23,
+          0.00455
+        ],
+        [
+          8,
+          "Finance and Insurance",
+          22,
+          0.00433
+        ],
+        [
+          9,
+          "Other",
+          17,
+          0.00333
+        ],
+        [
+          10,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          14,
+          0.00276
+        ],
+        [
+          11,
+          "Community Groups and Nonprofits",
+          10,
+          0.00197
+        ],
+        [
+          12,
+          "Freight, Shipment, and Postal Services",
+          9,
+          0.0017699999999999
+        ],
+        [
+          13,
+          "Travel and Accommodation",
+          2,
+          0.0004
+        ],
+        [
+          14,
+          "Health Care Services",
+          2,
+          0.00039
+        ],
+        [
+          15,
+          "Museums, Libraries, and Entertainment",
+          1,
+          0.0002
+        ],
+        [
+          16,
+          "Government and Public Administration",
+          1,
+          0.0002
+        ],
+        [
+          17,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          1,
+          0.0002
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3862,
+          0.87817
+        ],
+        [
+          2,
+          "None",
+          283,
+          0.06435
+        ],
+        [
+          3,
+          "Service",
+          133,
+          0.03026
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          28,
+          0.00637
+        ],
+        [
+          5,
+          "Education and Research",
+          22,
+          0.00502
+        ],
+        [
+          6,
+          "Finance and Insurance",
+          19,
+          0.00432
+        ],
+        [
+          7,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00431
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00249
+        ],
+        [
+          9,
+          "Manufacturing",
+          6,
+          0.00137
+        ],
+        [
+          10,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          5,
+          0.00114
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.00113
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00045
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00045
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3870,
+          0.87919
+        ],
+        [
+          2,
+          "None",
+          280,
+          0.06362
+        ],
+        [
+          3,
+          "Service",
+          133,
+          0.03021
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          28,
+          0.00636
+        ],
+        [
+          5,
+          "Education and Research",
+          22,
+          0.00501
+        ],
+        [
+          6,
+          "Finance and Insurance",
+          19,
+          0.00431
+        ],
+        [
+          7,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00431
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00249
+        ],
+        [
+          9,
+          "Manufacturing",
+          6,
+          0.00137
+        ],
+        [
+          10,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.00113
+        ],
+        [
+          11,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          4,
+          0.00091
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00045
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00045
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3880,
+          0.87924
+        ],
+        [
+          2,
+          "None",
+          281,
+          0.0637
+        ],
+        [
+          3,
+          "Service",
+          134,
+          0.03038
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          28,
+          0.00635
+        ],
+        [
+          5,
+          "Education and Research",
+          22,
+          0.00501
+        ],
+        [
+          6,
+          "Finance and Insurance",
+          19,
+          0.00431
+        ],
+        [
+          7,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00431
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00249
+        ],
+        [
+          9,
+          "Manufacturing",
+          6,
+          0.00137
+        ],
+        [
+          10,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.00113
+        ],
+        [
+          11,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          4,
+          0.00091
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00045
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00045
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00023
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          3988,
+          0.8804
+        ],
+        [
+          2,
+          "None",
+          285,
+          0.06291
+        ],
+        [
+          3,
+          "Service",
+          135,
+          0.0298
+        ],
+        [
+          4,
+          "Construction and Real Estate",
+          28,
+          0.00618
+        ],
+        [
+          5,
+          "Education and Research",
+          23,
+          0.00507
+        ],
+        [
+          6,
+          "Finance and Insurance",
+          19,
+          0.00419
+        ],
+        [
+          7,
+          "Media, Publishing, and Broadcasting",
+          19,
+          0.00419
+        ],
+        [
+          8,
+          "Other",
+          11,
+          0.00242
+        ],
+        [
+          9,
+          "Manufacturing",
+          6,
+          0.00132
+        ],
+        [
+          10,
+          "Freight, Shipment, and Postal Services",
+          5,
+          0.0011
+        ],
+        [
+          11,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          5,
+          0.0011
+        ],
+        [
+          12,
+          "Community Groups and Nonprofits",
+          2,
+          0.00044
+        ],
+        [
+          13,
+          "Health Care Services",
+          2,
+          0.00044
+        ],
+        [
+          14,
+          "Travel and Accommodation",
+          1,
+          0.00022
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 14
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          17055,
+          0.57402
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9848,
+          0.3318
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1992,
+          0.0670999999999999
+        ],
+        [
+          4,
+          "None",
+          407,
+          0.01367
+        ],
+        [
+          5,
+          "Education and Research",
+          99,
+          0.0033
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          55,
+          0.00184
+        ],
+        [
+          7,
+          "Service",
+          52,
+          0.00172
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.00149
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          40,
+          0.00133
+        ],
+        [
+          10,
+          "Other",
+          33,
+          0.00111
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00044
+        ],
+        [
+          12,
+          "Finance and Insurance",
+          11,
+          0.00035
+        ],
+        [
+          13,
+          "Construction and Real Estate",
+          10,
+          0.00033
+        ],
+        [
+          14,
+          "Manufacturing",
+          7,
+          0.00023
+        ],
+        [
+          15,
+          "Health Care Services",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          16971,
+          0.57323
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9841,
+          0.33263
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1993,
+          0.06735
+        ],
+        [
+          4,
+          "None",
+          412,
+          0.01388
+        ],
+        [
+          5,
+          "Education and Research",
+          91,
+          0.00307
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          55,
+          0.00187
+        ],
+        [
+          7,
+          "Service",
+          49,
+          0.00162
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.00149
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          43,
+          0.00146
+        ],
+        [
+          10,
+          "Other",
+          33,
+          0.00112
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00044
+        ],
+        [
+          12,
+          "Construction and Real Estate",
+          10,
+          0.00033
+        ],
+        [
+          13,
+          "Finance and Insurance",
+          10,
+          0.00033
+        ],
+        [
+          14,
+          "Manufacturing",
+          7,
+          0.00023
+        ],
+        [
+          15,
+          "Health Care Services",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          16971,
+          0.57851
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9668,
+          0.32993
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1992,
+          0.06797
+        ],
+        [
+          4,
+          "None",
+          289,
+          0.00982
+        ],
+        [
+          5,
+          "Education and Research",
+          98,
+          0.00332
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          57,
+          0.0019399999999999
+        ],
+        [
+          7,
+          "Service",
+          52,
+          0.00174
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.0015
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          42,
+          0.00144
+        ],
+        [
+          10,
+          "Other",
+          35,
+          0.00119
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00044
+        ],
+        [
+          12,
+          "Finance and Insurance",
+          11,
+          0.0003599999999999
+        ],
+        [
+          13,
+          "Construction and Real Estate",
+          10,
+          0.00033
+        ],
+        [
+          14,
+          "Manufacturing",
+          8,
+          0.00026
+        ],
+        [
+          15,
+          "Health Care Services",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          16536,
+          0.57086
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9890,
+          0.34186
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1959,
+          0.0677
+        ],
+        [
+          4,
+          "None",
+          170,
+          0.00582
+        ],
+        [
+          5,
+          "Education and Research",
+          92,
+          0.00314
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          57,
+          0.00196
+        ],
+        [
+          7,
+          "Service",
+          52,
+          0.00177
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.0015199999999999
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          42,
+          0.00145
+        ],
+        [
+          10,
+          "Other",
+          36,
+          0.00124
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00045
+        ],
+        [
+          12,
+          "Health Care Services",
+          9,
+          0.00031
+        ],
+        [
+          13,
+          "Construction and Real Estate",
+          7,
+          0.00024
+        ],
+        [
+          14,
+          "Manufacturing",
+          7,
+          0.00023
+        ],
+        [
+          15,
+          "Finance and Insurance",
+          7,
+          0.00023
+        ],
+        [
+          16,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          17390,
+          0.57539
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9963,
+          0.32985
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1994,
+          0.066
+        ],
+        [
+          4,
+          "None",
+          460,
+          0.01523
+        ],
+        [
+          5,
+          "Education and Research",
+          103,
+          0.00339
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          57,
+          0.00189
+        ],
+        [
+          7,
+          "Service",
+          55,
+          0.0018
+        ],
+        [
+          8,
+          "Government and Public Administration",
+          45,
+          0.0015
+        ],
+        [
+          9,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.00146
+        ],
+        [
+          10,
+          "Other",
+          37,
+          0.00122
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00043
+        ],
+        [
+          12,
+          "Finance and Insurance",
+          11,
+          0.00035
+        ],
+        [
+          13,
+          "Construction and Real Estate",
+          10,
+          0.00033
+        ],
+        [
+          14,
+          "Health Care Services",
+          9,
+          0.0003
+        ],
+        [
+          15,
+          "Manufacturing",
+          7,
+          0.00023
+        ],
+        [
+          16,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          16336,
+          0.56904
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          9853,
+          0.34379
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1949,
+          0.06798
+        ],
+        [
+          4,
+          "None",
+          158,
+          0.00544
+        ],
+        [
+          5,
+          "Education and Research",
+          91,
+          0.00315
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          54,
+          0.00188
+        ],
+        [
+          7,
+          "Service",
+          49,
+          0.00168
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.00154
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          41,
+          0.00142
+        ],
+        [
+          10,
+          "Other",
+          34,
+          0.00119
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00045
+        ],
+        [
+          12,
+          "Finance and Insurance",
+          9,
+          0.0003
+        ],
+        [
+          13,
+          "Construction and Real Estate",
+          8,
+          0.00027
+        ],
+        [
+          14,
+          "Manufacturing",
+          7,
+          0.00023
+        ],
+        [
+          15,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Health Care Services",
+          5,
+          0.00017
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    },
+    {
+      "title": "Category-Num",
+      "data": [
+        [
+          1,
+          "Computer and Information Technology",
+          16680,
+          0.56736
+        ],
+        [
+          2,
+          "Media, Publishing, and Broadcasting",
+          10173,
+          0.34635
+        ],
+        [
+          3,
+          "Retail Stores, Wholesale, and E-commerce Sites",
+          1992,
+          0.06781
+        ],
+        [
+          4,
+          "None",
+          157,
+          0.0052899999999999
+        ],
+        [
+          5,
+          "Education and Research",
+          91,
+          0.00307
+        ],
+        [
+          6,
+          "Community Groups and Nonprofits",
+          55,
+          0.00187
+        ],
+        [
+          7,
+          "Service",
+          50,
+          0.00168
+        ],
+        [
+          8,
+          "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+          44,
+          0.0015
+        ],
+        [
+          9,
+          "Government and Public Administration",
+          43,
+          0.00147
+        ],
+        [
+          10,
+          "Other",
+          36,
+          0.00123
+        ],
+        [
+          11,
+          "Freight, Shipment, and Postal Services",
+          13,
+          0.00044
+        ],
+        [
+          12,
+          "Construction and Real Estate",
+          9,
+          0.00029
+        ],
+        [
+          13,
+          "Health Care Services",
+          8,
+          0.00027
+        ],
+        [
+          14,
+          "Finance and Insurance",
+          8,
+          0.00027
+        ],
+        [
+          15,
+          "Museums, Libraries, and Entertainment",
+          6,
+          0.0002
+        ],
+        [
+          16,
+          "Manufacturing",
+          5,
+          0.00016
+        ],
+        [
+          17,
+          "Utilities (Excluding Internet Service)",
+          1,
+          3e-05
+        ]
+      ],
+      "columns": [
+        {
+          "title": "num"
+        },
+        {
+          "title": "category"
+        },
+        {
+          "title": "number of aliased prefix"
+        },
+        {
+          "title": "ratio of aliased prefix",
+          "class": "center"
+        }
+      ],
+      "name": "ratio of aliased prefix",
+      "dataLength": 17
+    }
+  ],
+  "code": 1001,
+  "msg": "success"
+}

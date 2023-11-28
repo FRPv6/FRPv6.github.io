@@ -1,7 +1,7 @@
 let file_name="data/get_data_result/map_result_country.json"
 let dataNameMap=[]
 class_list=["router","seed"]
-$.ajaxSetup({async:false});
+$.ajaxSetup({async:false}); // 改异步为同步
 // $.getJSON("data/get_data_result/country_iso_map.json",function (data){
 //     dataNameMap=data
 // })

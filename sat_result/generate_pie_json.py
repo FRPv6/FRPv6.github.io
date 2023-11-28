@@ -57,7 +57,7 @@ def generate_pie_chart(path, type_name, csv_file_name):
 if __name__ == "__main__":
 
     # Specify the variables for each iteration
-    file_path = "../data/sat_result_20231110_20231116/"
+    file_path = "../data/sat_result_20231117_20231123/"
     # type_list = ["as", "category", "sub_category", "org"]
     prefix_types = ["router", "seed"]
     type_names = ["AS-Num-Org", "Category-Num", "Sub_category-Num", "Org-AS-Num",

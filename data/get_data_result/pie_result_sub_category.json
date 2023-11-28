@@ -4,170 +4,32 @@
       "title": "Sub_category-Num",
       "data": [
         {
-          "name": "Hosting and Cloud Provider-1483",
-          "value": 0.33829
+          "name": "Hosting and Cloud Provider-1491",
+          "value": 0.33942
         },
         {
-          "name": "Computer and Network Security-1222",
-          "value": 0.27875
-        },
-        {
-          "name": "Internet Service Provider (ISP)-632",
-          "value": 0.14425
-        },
-        {
-          "name": "Software Development-440",
-          "value": 0.10038
-        },
-        {
-          "name": "None-373",
-          "value": 0.08514
-        },
-        {
-          "name": "Law, Business, and Consulting Services-90",
-          "value": 0.02053
-        },
-        {
-          "name": "Other-72",
-          "value": 0.01644
-        },
-        {
-          "name": "Investment, Portfolio Management, Pensions and Funds-16",
-          "value": 0.00366
-        },
-        {
-          "name": "Buildings (Residential or Commercial)-16",
-          "value": 0.00365
-        },
-        {
-          "name": "Others",
-          "y": 0.005939999999999834
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Hosting and Cloud Provider-1474",
-          "value": 0.3366
-        },
-        {
-          "name": "Computer and Network Security-1221",
-          "value": 0.27883
-        },
-        {
-          "name": "Internet Service Provider (ISP)-636",
-          "value": 0.14536
-        },
-        {
-          "name": "Software Development-438",
-          "value": 0.10005
-        },
-        {
-          "name": "None-375",
-          "value": 0.08577
-        },
-        {
-          "name": "Law, Business, and Consulting Services-90",
-          "value": 0.02056
-        },
-        {
-          "name": "Other-71",
-          "value": 0.01625
-        },
-        {
-          "name": "Buildings (Residential or Commercial)-16",
-          "value": 0.00366
-        },
-        {
-          "name": "Investment, Portfolio Management, Pensions and Funds-16",
-          "value": 0.00366
-        },
-        {
-          "name": "Others",
-          "y": 0.006289999999999907
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Hosting and Cloud Provider-1468",
-          "value": 0.33624
-        },
-        {
-          "name": "Computer and Network Security-1221",
-          "value": 0.27966
-        },
-        {
-          "name": "Internet Service Provider (ISP)-631",
-          "value": 0.14463
-        },
-        {
-          "name": "Software Development-437",
-          "value": 0.1001
-        },
-        {
-          "name": "None-376",
-          "value": 0.08619
-        },
-        {
-          "name": "Law, Business, and Consulting Services-90",
-          "value": 0.02061
-        },
-        {
-          "name": "Other-71",
-          "value": 0.01628
-        },
-        {
-          "name": "Investment, Portfolio Management, Pensions and Funds-16",
-          "value": 0.00367
-        },
-        {
-          "name": "Buildings (Residential or Commercial)-16",
-          "value": 0.00367
-        },
-        {
-          "name": "Others",
-          "y": 0.005970000000000031
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Hosting and Cloud Provider-1485",
-          "value": 0.3380499999999999
-        },
-        {
-          "name": "Computer and Network Security-1221",
-          "value": 0.27794
+          "name": "Computer and Network Security-1215",
+          "value": 0.27658
         },
         {
           "name": "Internet Service Provider (ISP)-635",
           "value": 0.14469
         },
         {
-          "name": "Software Development-440",
-          "value": 0.10017
+          "name": "Software Development-438",
+          "value": 0.09972
         },
         {
-          "name": "None-377",
-          "value": 0.08594
+          "name": "None-382",
+          "value": 0.08709
         },
         {
           "name": "Law, Business, and Consulting Services-90",
           "value": 0.0204899999999999
         },
         {
-          "name": "Other-71",
-          "value": 0.01619
+          "name": "Other-69",
+          "value": 0.01573
         },
         {
           "name": "Buildings (Residential or Commercial)-16",
@@ -179,7 +41,7 @@
         },
         {
           "name": "Others",
-          "y": 0.00627000000000022
+          "value": 0.006020000000000136
         }
       ],
       "name": "ratio of aliased prefix"
@@ -188,78 +50,32 @@
       "title": "Sub_category-Num",
       "data": [
         {
-          "name": "Hosting and Cloud Provider-1494",
-          "value": 0.30524
+          "name": "Hosting and Cloud Provider-1489",
+          "value": 0.33882
         },
         {
-          "name": "Computer and Network Security-1317",
-          "value": 0.26909
+          "name": "Computer and Network Security-1215",
+          "value": 0.27645
         },
         {
-          "name": "Internet Service Provider (ISP)-814",
-          "value": 0.16585
-        },
-        {
-          "name": "None-476",
-          "value": 0.09703
-        },
-        {
-          "name": "Software Development-468",
-          "value": 0.09557
-        },
-        {
-          "name": "Law, Business, and Consulting Services-98",
-          "value": 0.02001
-        },
-        {
-          "name": "Other-90",
-          "value": 0.01832
-        },
-        {
-          "name": "Online Music and Video Streaming Services-31",
-          "value": 0.00633
-        },
-        {
-          "name": "Buildings (Residential or Commercial)-27",
-          "value": 0.00551
-        },
-        {
-          "name": "Others",
-          "y": 0.013580000000000036
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Hosting and Cloud Provider-1481",
-          "value": 0.33714
-        },
-        {
-          "name": "Computer and Network Security-1221",
-          "value": 0.27794
-        },
-        {
-          "name": "Internet Service Provider (ISP)-640",
-          "value": 0.14583
+          "name": "Internet Service Provider (ISP)-639",
+          "value": 0.14554
         },
         {
           "name": "Software Development-439",
-          "value": 0.09995
+          "value": 0.0999
         },
         {
-          "name": "None-378",
-          "value": 0.08618
+          "name": "None-380",
+          "value": 0.08661
         },
         {
           "name": "Law, Business, and Consulting Services-90",
           "value": 0.0204899999999999
         },
         {
-          "name": "Other-71",
-          "value": 0.01619
+          "name": "Other-69",
+          "value": 0.01573
         },
         {
           "name": "Buildings (Residential or Commercial)-16",
@@ -271,7 +87,99 @@
         },
         {
           "name": "Others",
-          "y": 0.006020000000000025
+          "value": 0.006200000000000094
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Hosting and Cloud Provider-1525",
+          "value": 0.29862
+        },
+        {
+          "name": "Computer and Network Security-1319",
+          "value": 0.25829
+        },
+        {
+          "name": "Internet Service Provider (ISP)-907",
+          "value": 0.1781
+        },
+        {
+          "name": "None-524",
+          "value": 0.10288
+        },
+        {
+          "name": "Software Development-468",
+          "value": 0.09171
+        },
+        {
+          "name": "Law, Business, and Consulting Services-112",
+          "value": 0.02197
+        },
+        {
+          "name": "Other-94",
+          "value": 0.01847
+        },
+        {
+          "name": "Buildings (Residential or Commercial)-31",
+          "value": 0.0060799999999999
+        },
+        {
+          "name": "Online Music and Video Streaming Services-31",
+          "value": 0.00607
+        },
+        {
+          "name": "Others",
+          "value": 0.014270000000000116
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Hosting and Cloud Provider-1502",
+          "value": 0.34152
+        },
+        {
+          "name": "Computer and Network Security-1215",
+          "value": 0.27626
+        },
+        {
+          "name": "Internet Service Provider (ISP)-639",
+          "value": 0.14534
+        },
+        {
+          "name": "Software Development-434",
+          "value": 0.09868
+        },
+        {
+          "name": "None-376",
+          "value": 0.08549
+        },
+        {
+          "name": "Law, Business, and Consulting Services-90",
+          "value": 0.0204799999999999
+        },
+        {
+          "name": "Other-69",
+          "value": 0.01569
+        },
+        {
+          "name": "Investment, Portfolio Management, Pensions and Funds-16",
+          "value": 0.00364
+        },
+        {
+          "name": "Buildings (Residential or Commercial)-15",
+          "value": 0.00341
+        },
+        {
+          "name": "Others",
+          "value": 0.006530000000000147
         }
       ],
       "name": "ratio of aliased prefix"
@@ -281,43 +189,43 @@
       "data": [
         {
           "name": "Hosting and Cloud Provider-1506",
-          "value": 0.29991
+          "value": 0.34212
         },
         {
-          "name": "Computer and Network Security-1343",
-          "value": 0.26743
+          "name": "Computer and Network Security-1215",
+          "value": 0.27601
         },
         {
-          "name": "Internet Service Provider (ISP)-872",
-          "value": 0.17382
+          "name": "Internet Service Provider (ISP)-639",
+          "value": 0.14522
         },
         {
-          "name": "None-495",
-          "value": 0.09868
+          "name": "Software Development-437",
+          "value": 0.09926
         },
         {
-          "name": "Software Development-477",
-          "value": 0.095
+          "name": "None-373",
+          "value": 0.08474
         },
         {
-          "name": "Law, Business, and Consulting Services-103",
-          "value": 0.02053
+          "name": "Law, Business, and Consulting Services-90",
+          "value": 0.02044
         },
         {
-          "name": "Other-89",
-          "value": 0.01775
+          "name": "Other-69",
+          "value": 0.01567
         },
         {
-          "name": "Online Music and Video Streaming Services-31",
-          "value": 0.00617
+          "name": "Investment, Portfolio Management, Pensions and Funds-16",
+          "value": 0.00363
         },
         {
-          "name": "Buildings (Residential or Commercial)-25",
-          "value": 0.00499
+          "name": "Buildings (Residential or Commercial)-15",
+          "value": 0.00341
         },
         {
           "name": "Others",
-          "y": 0.011730000000000018
+          "value": 0.006550000000000056
         }
       ],
       "name": "ratio of aliased prefix"
@@ -326,44 +234,136 @@
       "title": "Sub_category-Num",
       "data": [
         {
-          "name": "Online Music and Video Streaming Services-9822",
-          "value": 0.34439
+          "name": "Hosting and Cloud Provider-1505",
+          "value": 0.34097
         },
         {
-          "name": "Hosting and Cloud Provider-7280",
-          "value": 0.25532
+          "name": "Computer and Network Security-1215",
+          "value": 0.27526
         },
         {
-          "name": "Internet Service Provider (ISP)-5346",
-          "value": 0.18819
+          "name": "Internet Service Provider (ISP)-646",
+          "value": 0.14651
         },
         {
-          "name": "Software Development-2843",
-          "value": 0.0997
+          "name": "Software Development-437",
+          "value": 0.09902
         },
         {
-          "name": "None-2524",
-          "value": 0.08882
+          "name": "None-378",
+          "value": 0.08572
         },
         {
-          "name": "Computer and Network Security-335",
-          "value": 0.01176
+          "name": "Law, Business, and Consulting Services-90",
+          "value": 0.0204
+        },
+        {
+          "name": "Other-69",
+          "value": 0.01565
+        },
+        {
+          "name": "Investment, Portfolio Management, Pensions and Funds-16",
+          "value": 0.00363
+        },
+        {
+          "name": "Buildings (Residential or Commercial)-15",
+          "value": 0.0034
+        },
+        {
+          "name": "Others",
+          "value": 0.006489999999999996
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Hosting and Cloud Provider-1505",
+          "value": 0.33228
+        },
+        {
+          "name": "Computer and Network Security-1305",
+          "value": 0.28814
+        },
+        {
+          "name": "Internet Service Provider (ISP)-651",
+          "value": 0.14365
+        },
+        {
+          "name": "Software Development-445",
+          "value": 0.09826
+        },
+        {
+          "name": "None-389",
+          "value": 0.08582
+        },
+        {
+          "name": "Law, Business, and Consulting Services-90",
+          "value": 0.01987
+        },
+        {
+          "name": "Other-69",
+          "value": 0.01522
+        },
+        {
+          "name": "Investment, Portfolio Management, Pensions and Funds-16",
+          "value": 0.00353
+        },
+        {
+          "name": "Buildings (Residential or Commercial)-15",
+          "value": 0.00331
+        },
+        {
+          "name": "Others",
+          "value": 0.00704999999999989
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Online Music and Video Streaming Services-9818",
+          "value": 0.33079
+        },
+        {
+          "name": "Hosting and Cloud Provider-7387",
+          "value": 0.2488699999999999
+        },
+        {
+          "name": "Internet Service Provider (ISP)-5912",
+          "value": 0.19876
+        },
+        {
+          "name": "None-2919",
+          "value": 0.09815
+        },
+        {
+          "name": "Software Development-2873",
+          "value": 0.09678
+        },
+        {
+          "name": "Computer and Network Security-378",
+          "value": 0.01273
         },
         {
           "name": "Phone Provider-167",
-          "value": 0.00586
+          "value": 0.00563
         },
         {
-          "name": "Law, Business, and Consulting Services-46",
-          "value": 0.00164
+          "name": "Other-52",
+          "value": 0.00173
         },
         {
-          "name": "Other-44",
+          "name": "Law, Business, and Consulting Services-47",
           "value": 0.00156
         },
         {
           "name": "Others",
-          "y": 0.0015900000000000913
+          "value": 0.003940000000000166
         }
       ],
       "name": "ratio of aliased prefix"
@@ -372,228 +372,44 @@
       "title": "Sub_category-Num",
       "data": [
         {
-          "name": "Online Music and Video Streaming Services-9874",
-          "value": 0.34201
+          "name": "Online Music and Video Streaming Services-9811",
+          "value": 0.33162
         },
         {
-          "name": "Hosting and Cloud Provider-7297",
-          "value": 0.25271
+          "name": "Hosting and Cloud Provider-7373",
+          "value": 0.24921
         },
         {
-          "name": "Internet Service Provider (ISP)-5451",
-          "value": 0.18828
+          "name": "Internet Service Provider (ISP)-5837",
+          "value": 0.19695
         },
         {
-          "name": "Software Development-2873",
-          "value": 0.09949
+          "name": "None-2917",
+          "value": 0.09849
         },
         {
-          "name": "None-2639",
-          "value": 0.09115
+          "name": "Software Development-2880",
+          "value": 0.09735
         },
         {
-          "name": "Computer and Network Security-356",
-          "value": 0.0123299999999999
-        },
-        {
-          "name": "Phone Provider-167",
-          "value": 0.00578
-        },
-        {
-          "name": "Other-48",
-          "value": 0.00165
-        },
-        {
-          "name": "Law, Business, and Consulting Services-46",
-          "value": 0.00157
-        },
-        {
-          "name": "Others",
-          "y": 0.003850000000000242
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Online Music and Video Streaming Services-9873",
-          "value": 0.34421
-        },
-        {
-          "name": "Hosting and Cloud Provider-7258",
-          "value": 0.25299
-        },
-        {
-          "name": "Internet Service Provider (ISP)-5368",
-          "value": 0.18655
-        },
-        {
-          "name": "Software Development-2861",
-          "value": 0.09973
-        },
-        {
-          "name": "None-2601",
-          "value": 0.09037
-        },
-        {
-          "name": "Computer and Network Security-353",
-          "value": 0.0123
-        },
-        {
-          "name": "Phone Provider-167",
-          "value": 0.00582
-        },
-        {
-          "name": "Other-49",
-          "value": 0.00169
-        },
-        {
-          "name": "Law, Business, and Consulting Services-44",
-          "value": 0.00151
-        },
-        {
-          "name": "Others",
-          "y": 0.003689999999999971
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Online Music and Video Streaming Services-9873",
-          "value": 0.32981
-        },
-        {
-          "name": "Hosting and Cloud Provider-7384",
-          "value": 0.24665
-        },
-        {
-          "name": "Internet Service Provider (ISP)-6057",
-          "value": 0.20205
-        },
-        {
-          "name": "None-2955",
-          "value": 0.09855
-        },
-        {
-          "name": "Software Development-2890",
-          "value": 0.0965299999999999
-        },
-        {
-          "name": "Computer and Network Security-381",
-          "value": 0.0127199999999999
+          "name": "Computer and Network Security-378",
+          "value": 0.01278
         },
         {
           "name": "Phone Provider-168",
-          "value": 0.00561
+          "value": 0.00568
         },
         {
-          "name": "Other-52",
-          "value": 0.00172
-        },
-        {
-          "name": "Law, Business, and Consulting Services-50",
-          "value": 0.00165
-        },
-        {
-          "name": "Others",
-          "y": 0.003510000000000235
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Online Music and Video Streaming Services-9685",
-          "value": 0.3267299999999999
-        },
-        {
-          "name": "Hosting and Cloud Provider-7379",
-          "value": 0.24892
-        },
-        {
-          "name": "Internet Service Provider (ISP)-5978",
-          "value": 0.20121
-        },
-        {
-          "name": "None-2964",
-          "value": 0.09977
-        },
-        {
-          "name": "Software Development-2897",
-          "value": 0.09772
-        },
-        {
-          "name": "Computer and Network Security-337",
-          "value": 0.01138
-        },
-        {
-          "name": "Phone Provider-168",
-          "value": 0.00567
-        },
-        {
-          "name": "Other-54",
-          "value": 0.00181
-        },
-        {
-          "name": "Law, Business, and Consulting Services-50",
-          "value": 0.00166
-        },
-        {
-          "name": "Others",
-          "y": 0.00389000000000006
-        }
-      ],
-      "name": "ratio of aliased prefix"
-    },
-    {
-      "title": "Sub_category-Num",
-      "data": [
-        {
-          "name": "Online Music and Video Streaming Services-9797",
-          "value": 0.3445
-        },
-        {
-          "name": "Hosting and Cloud Provider-7279",
-          "value": 0.2560199999999999
-        },
-        {
-          "name": "Internet Service Provider (ISP)-5243",
-          "value": 0.18495
-        },
-        {
-          "name": "Software Development-2855",
-          "value": 0.10042
-        },
-        {
-          "name": "None-2542",
-          "value": 0.08967
-        },
-        {
-          "name": "Computer and Network Security-351",
-          "value": 0.01234
-        },
-        {
-          "name": "Phone Provider-167",
-          "value": 0.00587
+          "name": "Other-51",
+          "value": 0.00171
         },
         {
           "name": "Law, Business, and Consulting Services-45",
-          "value": 0.00161
-        },
-        {
-          "name": "Other-45",
-          "value": 0.0015999999999999
+          "value": 0.0015
         },
         {
           "name": "Others",
-          "y": 0.0018200000000001548
+          "value": 0.0035200000000003007
         }
       ],
       "name": "ratio of aliased prefix"
@@ -602,36 +418,36 @@
       "title": "Sub_category-Num",
       "data": [
         {
-          "name": "Online Music and Video Streaming Services-9676",
-          "value": 0.33074
+          "name": "Online Music and Video Streaming Services-9638",
+          "value": 0.32891
         },
         {
-          "name": "Hosting and Cloud Provider-7344",
-          "value": 0.25099
+          "name": "Hosting and Cloud Provider-7403",
+          "value": 0.25261
         },
         {
-          "name": "Internet Service Provider (ISP)-5871",
-          "value": 0.20033
+          "name": "Internet Service Provider (ISP)-5843",
+          "value": 0.19896
         },
         {
-          "name": "Software Development-2886",
-          "value": 0.09861
+          "name": "Software Development-2885",
+          "value": 0.09843
         },
         {
-          "name": "None-2762",
-          "value": 0.09422
+          "name": "None-2806",
+          "value": 0.09554
         },
         {
-          "name": "Computer and Network Security-321",
-          "value": 0.01099
+          "name": "Computer and Network Security-332",
+          "value": 0.01132
         },
         {
           "name": "Phone Provider-168",
-          "value": 0.00574
+          "value": 0.00573
         },
         {
-          "name": "Other-55",
-          "value": 0.00187
+          "name": "Other-54",
+          "value": 0.00182
         },
         {
           "name": "Law, Business, and Consulting Services-47",
@@ -639,7 +455,191 @@
         },
         {
           "name": "Others",
-          "y": 0.0037199999999999456
+          "value": 0.003929999999999878
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Online Music and Video Streaming Services-9862",
+          "value": 0.34091
+        },
+        {
+          "name": "Hosting and Cloud Provider-7372",
+          "value": 0.25481
+        },
+        {
+          "name": "Internet Service Provider (ISP)-5464",
+          "value": 0.1883
+        },
+        {
+          "name": "Software Development-2886",
+          "value": 0.09976
+        },
+        {
+          "name": "None-2594",
+          "value": 0.08941
+        },
+        {
+          "name": "Computer and Network Security-359",
+          "value": 0.01242
+        },
+        {
+          "name": "Phone Provider-167",
+          "value": 0.00577
+        },
+        {
+          "name": "Other-54",
+          "value": 0.0018499999999999
+        },
+        {
+          "name": "Law, Business, and Consulting Services-48",
+          "value": 0.00164
+        },
+        {
+          "name": "Others",
+          "value": 0.003850000000000131
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Online Music and Video Streaming Services-9933",
+          "value": 0.32885
+        },
+        {
+          "name": "Hosting and Cloud Provider-7429",
+          "value": 0.24594
+        },
+        {
+          "name": "Internet Service Provider (ISP)-6152",
+          "value": 0.20344
+        },
+        {
+          "name": "None-3000",
+          "value": 0.09924
+        },
+        {
+          "name": "Software Development-2902",
+          "value": 0.0960599999999999
+        },
+        {
+          "name": "Computer and Network Security-383",
+          "value": 0.01267
+        },
+        {
+          "name": "Phone Provider-168",
+          "value": 0.00556
+        },
+        {
+          "name": "Other-57",
+          "value": 0.00188
+        },
+        {
+          "name": "Law, Business, and Consulting Services-50",
+          "value": 0.00164
+        },
+        {
+          "name": "Others",
+          "value": 0.003490000000000215
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Online Music and Video Streaming Services-9827",
+          "value": 0.3429
+        },
+        {
+          "name": "Hosting and Cloud Provider-7337",
+          "value": 0.25597
+        },
+        {
+          "name": "Internet Service Provider (ISP)-5323",
+          "value": 0.18503
+        },
+        {
+          "name": "Software Development-2867",
+          "value": 0.0999999999999999
+        },
+        {
+          "name": "None-2566",
+          "value": 0.08925
+        },
+        {
+          "name": "Computer and Network Security-354",
+          "value": 0.01234
+        },
+        {
+          "name": "Phone Provider-167",
+          "value": 0.00583
+        },
+        {
+          "name": "Other-49",
+          "value": 0.0016899999999999
+        },
+        {
+          "name": "Law, Business, and Consulting Services-47",
+          "value": 0.00162
+        },
+        {
+          "name": "Others",
+          "value": 0.004190000000000249
+        }
+      ],
+      "name": "ratio of aliased prefix"
+    },
+    {
+      "title": "Sub_category-Num",
+      "data": [
+        {
+          "name": "Online Music and Video Streaming Services-10148",
+          "value": 0.3455
+        },
+        {
+          "name": "Hosting and Cloud Provider-7431",
+          "value": 0.25298
+        },
+        {
+          "name": "Internet Service Provider (ISP)-5619",
+          "value": 0.19094
+        },
+        {
+          "name": "Software Development-2878",
+          "value": 0.09797
+        },
+        {
+          "name": "None-2604",
+          "value": 0.08845
+        },
+        {
+          "name": "Computer and Network Security-305",
+          "value": 0.0103699999999999
+        },
+        {
+          "name": "Phone Provider-167",
+          "value": 0.00569
+        },
+        {
+          "name": "Other-52",
+          "value": 0.00176
+        },
+        {
+          "name": "Law, Business, and Consulting Services-49",
+          "value": 0.00165
+        },
+        {
+          "name": "Others",
+          "value": 0.0034200000000002007
         }
       ],
       "name": "ratio of aliased prefix"

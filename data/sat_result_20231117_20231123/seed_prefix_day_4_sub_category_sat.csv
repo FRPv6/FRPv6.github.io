@@ -1,0 +1,25 @@
+sub_category,number of aliased prefix,ratio of aliased prefix
+Online Music and Video Streaming Services,9862,0.34091
+Hosting and Cloud Provider,7372,0.25481
+Internet Service Provider (ISP),5464,0.1883
+Software Development,2886,0.09976
+None,2594,0.08941
+Computer and Network Security,359,0.01242
+Phone Provider,167,0.00577
+Other,54,0.0018499999999999999
+"Law, Business, and Consulting Services",48,0.00164
+"Military, Defense, National Security, and International Affairs",37,0.0012799999999999999
+"Colleges, Universities, and Professional Schools",26,0.00087
+Online Informational Content,19,0.00065
+"Civil Engineering Construction (Utility Lines, Roads and Bridges)",7,0.00024
+"Recreation, Sports, and Performing Arts",6,0.0002
+"Metal, Glass, Wood, and Paper Manufacturing",5,0.00017
+"Government and Regulatory Agencies, Administrations, Departments, and Services",5,0.00017
+"Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",4,0.00014
+Insurance Carriers and Agencies,3,0.0001
+"Investment, Portfolio Management, Pensions and Funds",2,6e-05
+"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",2,7e-05
+Machinery,2,6e-05
+"Banks, Credit Card Companies, Mortgage Providers",2,7e-05
+"Food, Grocery, Beverages",1,3e-05
+Radio and Television Providers,1,3e-05

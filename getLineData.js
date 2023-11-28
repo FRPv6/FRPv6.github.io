@@ -125,7 +125,7 @@ $.getJSON('data/get_data_result/line_result.json', function (chart) {
                 {
                     type: 'category',
                     boundaryGap: false,
-                    name: "时间",
+                    // name: "时间",
                     data: that.dataxAxis,
                     axisTick: {
                         alignWithLabel: true,
@@ -141,11 +141,13 @@ $.getJSON('data/get_data_result/line_result.json', function (chart) {
                 {
                     name: "左侧Y轴",
                     type:"value",
+                    scale:true,
                     position: 'left',
                 },
                 {
                     name: "右侧Y轴",
                     type:"value",
+                    scale: true,
                     position: 'right',
                 },
             ],
