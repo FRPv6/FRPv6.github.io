@@ -94,8 +94,8 @@ this.dataxAxis=[]
 //     ],
 // })
 $.getJSON('data/get_data_result/line_result.json', function (chart) {
-    let element_id_list = ["line-router-type1", "line-router-type2", "line-seed-type1", "line-seed-type2"]
-    for(let i=0;i<4;i++){
+    let element_id_list = ["line-sum-type1", "line-sum-type2", "line-router-type1", "line-router-type2", "line-seed-type1", "line-seed-type2"]
+    for(let i=0;i<6;i++){
         let dataArray=chart["result"][i]
         let that=this
         let element_id=element_id_list[i]

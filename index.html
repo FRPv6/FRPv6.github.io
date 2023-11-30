@@ -43,6 +43,42 @@
         <div class="description">We provide Alias Prefix.</div>
 
         <!--折线图-->
+        <!--求和结果-->
+        <h4>Sum prefix</h4>
+        <!--折线图-Sum-导航栏-->
+        <div class="container">
+            <!-- Content here -->
+            <ul class="nav nav-pills" id="lineAllTab" role="tablist">
+                <!--                <li class="nav-item" role="presentation">-->
+                <!--                <div class="input-group mb-3">-->
+                <!--                    <label class="input-group-text" style="color:blue" for="inputGroupSelect01">Options</label>-->
+                <!--                    <select class="form-select" style="color:blue;margin-right: 20px">-->
+                <!--                        <option selected value="1">Week 1</option>-->
+                <!--                        <option value="2">Week 2</option>-->
+                <!--                    </select>-->
+                <!--                </div>-->
+                <!--                </li>-->
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="type1-sum-tab" data-bs-toggle="pill" data-bs-target="#type1-sum-tab-pane" type="button" role="tab" aria-controls="type1-sum-tab-pane" aria-selected="true">Type 1</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="type2-sum-tab" data-bs-toggle="pill" data-bs-target="#type2-sum-tab-pane" type="button" role="tab" aria-controls="type2-sum-tab-pane" aria-selected="false">Type 2</button>
+                </li>
+            </ul>
+            <!--折线图-Sum-面板区-->
+            <div class="tab-content" id="lineSumTabContent">
+                <div class="tab-pane fade show active" id="type1-sum-tab-pane" role="tabpanel" aria-labelledby="type1-sum-tab" tabindex="0">
+                    <div class="line-chart" id="line-sum-type1"></div>
+                    <!--<div id="Alias Prefix Router prefix line chart"></div>-->
+                </div>
+                <div class="tab-pane fade" id="type2-sum-tab-pane" role="tabpanel" aria-labelledby="type2-sum-tab" tabindex="0">
+                    <div class="line-chart" id="line-sum-type2"></div>
+                    <!--<div id="Alias Prefix Seed prefix line chart"></div>-->
+                </div>
+            </div>
+
+        </div>
+
         <!--路由前缀-->
         <h4>Router prefix</h4>
         <!--折线图-路由-导航栏-->
@@ -103,6 +139,348 @@
         <!--Categorized Alias Prefix-->
         <h3 id="categorized alias prefix">Categorized Alias Prefix</h3>
         <div class="description">We provide Categorized Alias Prefix.</div>
+        <!--所有结果-->
+        <h4>Sum prefix</h4>
+        <div class="description">These graphs shows the development of the <b> to be </b> Router prefix over time.</div>
+        <!--sum-四个饼状图-->
+        <div class="container-lg">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="d-flex align-items-start">
+                        <!--as-饼状图-sum-导航栏-->
+                        <div class="nav nav-pills me-3" id="pieSumAsTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-sum-as-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day1-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-sum-as-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day2-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-sum-as-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day3-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-sum-as-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day4-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-sum-as-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day5-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-sum-as-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day6-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-sum-as-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-as-day7-tab-pane" type="button" role="tab" aria-controls="pie-sum-as-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
+                        <!--as-饼状图-sum-面板区-->
+                        <div class="tab-content" id="pieSumAsTabContent">
+                            <div class="tab-pane fade show active" id="pie-sum-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day1"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day2" ></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day3" ></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day4" ></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day5" ></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day6" ></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-as-day7" ></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="d-flex align-items-start">
+                        <!--category-饼状图-sum-导航栏-->
+                        <div class="nav nav-pills me-3" id="pieSumCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-sum-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-sum-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-sum-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-sum-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-sum-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-sum-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-sum-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-sum-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
+                        <!--category-饼状图-sum-面板区-->
+                        <div class="tab-content" id="pieSumCategoryTabContent">
+                            <div class="tab-pane fade show active" id="pie-sum-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day1"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day2"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day3"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day4"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day5"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day6"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-category-day7"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-12">
+                    <div class="d-flex align-items-start">
+                        <!--sub_category-饼状图-sum-导航栏-->
+                        <div class="nav nav-pills me-3" id="pieSumSubCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-sum-sub-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-sum-sub-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-sum-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
+                        <!--sub_category-饼状图-sum-面板区-->
+                        <div class="tab-content" id="pieSumSubCategoryTabContent">
+                            <div class="tab-pane fade show active" id="pie-sum-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day1"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day2"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day3"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day4"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day5"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day6"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-sub-category-day7"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-12">
+                    <div class="d-flex align-items-start">
+                        <!--org-饼状图-sum-导航栏-->
+                        <div class="nav nav-pills me-3" id="pieSumOrgTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-sum-org-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-sum-org-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-sum-org-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-sum-org-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-sum-org-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-sum-org-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-sum-org-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-sum-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-sum-org-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
+                        <!--org-饼状图-sum-面板区-->
+                        <div class="tab-content" id="pieSumOrgTabContent">
+                            <div class="tab-pane fade show active" id="pie-sum-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day1"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day2"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day3"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day4"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day5"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day6"></div>
+                            </div>
+                            <div class="tab-pane fade" id="pie-sum-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="pie-chart-container" id="pie-sum-org-day7"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-12">
+                    <div class="d-flex align-items-start">
+                        <!--country-地图-sum-导航栏-->
+                        <div class="nav nav-pills me-3" id="mapSumCountryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="map-sum-country-day1-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day1-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="map-sum-country-day2-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day2-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="map-sum-country-day3-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day3-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="map-sum-country-day4-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day4-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="map-sum-country-day5-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day5-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="map-sum-country-day6-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day6-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="map-sum-country-day7-tab" data-bs-toggle="pill" data-bs-target="#map-sum-country-day7-tab-pane" type="button" role="tab" aria-controls="map-sum-country-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
+                        <!--country-地图-sum-面板区-->
+                        <div class="tab-content" id="mapSumCountryTabContent">
+                            <div class="tab-pane fade show active" id="map-sum-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day1"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day2"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day3"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day4"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day5"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day6"></div>
+                            </div>
+                            <div class="tab-pane fade" id="map-sum-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
+                                <div class="map-chart-container" id="map-sum-country-day7"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!--路由前缀-->
         <h4>Router prefix</h4>
         <div class="description">These graphs shows the development of the <b> to be </b> Router prefix over time.</div>
@@ -128,24 +506,48 @@
                                     <option selected value="1">Type 1</option>
                                     <option value="2">Type 2</option>
                                 </select>
-                                <div class="pie-chart-container" id="pie-router-as-day1" value="1" ></div>
+                                <div class="pie-chart-container" id="pie-router-as-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-as-day7" ></div>
                             </div>
                         </div>
@@ -154,50 +556,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--category-饼状图-路由-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieRouterCategoryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-router-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieRouterCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-router-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-router-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-router-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-router-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-router-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-router-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-router-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-router-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--category-饼状图-路由-面板区-->
                         <div class="tab-content" id="pieRouterCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-router-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-category-day7"></div>
                             </div>
                         </div>
@@ -207,50 +623,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--sub_category-饼状图-路由-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieRouterSubCategoryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-router-sub-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-sub-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieRouterSubCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-router-sub-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-router-sub-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-router-sub-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-router-sub-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-router-sub-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-router-sub-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-router-sub-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-router-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--sub_category-饼状图-路由-面板区-->
                         <div class="tab-content" id="pieRouterSubCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-router-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day7"></div>
                             </div>
                         </div>
@@ -260,50 +690,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--org-饼状图-路由-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieRouterOrgTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-router-org-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-router-org-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-router-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieRouterOrgTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-router-org-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-router-org-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-router-org-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-router-org-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-router-org-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-router-org-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-router-org-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-router-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-router-org-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--org-饼状图-路由-面板区-->
                         <div class="tab-content" id="pieRouterOrgTabContent">
                             <div class="tab-pane fade show active" id="pie-router-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-router-org-day7"></div>
                             </div>
                         </div>
@@ -313,50 +757,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--country-地图-路由-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="mapRouterCountryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="map-router-country-day1-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day1-tab-pane" type="button" role="tab" aria-controls="map-router-country-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day2-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day2-tab-pane" type="button" role="tab" aria-controls="map-router-country-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day3-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day3-tab-pane" type="button" role="tab" aria-controls="map-router-country-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day4-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day4-tab-pane" type="button" role="tab" aria-controls="map-router-country-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day5-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day5-tab-pane" type="button" role="tab" aria-controls="map-router-country-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day6-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day6-tab-pane" type="button" role="tab" aria-controls="map-router-country-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-router-country-day7-tab" data-bs-toggle="tab" data-bs-target="#map-router-country-day7-tab-pane" type="button" role="tab" aria-controls="map-router-country-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="mapRouterCountryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="map-router-country-day1-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day1-tab-pane" type="button" role="tab" aria-controls="map-router-country-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="map-router-country-day2-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day2-tab-pane" type="button" role="tab" aria-controls="map-router-country-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="map-router-country-day3-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day3-tab-pane" type="button" role="tab" aria-controls="map-router-country-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="map-router-country-day4-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day4-tab-pane" type="button" role="tab" aria-controls="map-router-country-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="map-router-country-day5-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day5-tab-pane" type="button" role="tab" aria-controls="map-router-country-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="map-router-country-day6-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day6-tab-pane" type="button" role="tab" aria-controls="map-router-country-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="map-router-country-day7-tab" data-bs-toggle="pill" data-bs-target="#map-router-country-day7-tab-pane" type="button" role="tab" aria-controls="map-router-country-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--country-地图-路由-面板区-->
                         <div class="tab-content" id="mapRouterCountryTabContent">
                             <div class="tab-pane fade show active" id="map-router-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-router-country-day7"></div>
                             </div>
                         </div>
@@ -385,50 +843,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--as-饼状图-种子-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieSeedAsTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-seed-as-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-as-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-as-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieSeedAsTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-seed-as-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-seed-as-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-seed-as-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-seed-as-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-seed-as-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-seed-as-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-seed-as-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-as-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-as-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--as-饼状图-种子-面板区-->
                         <div class="tab-content" id="pieSeedAsTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day1" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day7" ></div>
                             </div>
                         </div>
@@ -437,50 +909,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--category-饼状图-种子-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieSeedCategoryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-seed-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieSeedCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-seed-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-seed-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-seed-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-seed-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-seed-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-seed-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-seed-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--category-饼状图-种子-面板区-->
                         <div class="tab-content" id="pieSeedCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day7"></div>
                             </div>
                         </div>
@@ -489,50 +975,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--sub_category-饼状图-种子-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieSeedSubCategoryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-seed-sub-category-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-sub-category-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieSeedSubCategoryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-seed-sub-category-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-seed-sub-category-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-sub-category-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-sub-category-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--sub_category-饼状图-种子-面板区-->
                         <div class="tab-content" id="pieSeedSubCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day7"></div>
                             </div>
                         </div>
@@ -541,50 +1041,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--org-饼状图-种子-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="pieSeedOrgTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pie-seed-org-day1-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day2-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day3-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day4-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day5-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day6-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pie-seed-org-day7-tab" data-bs-toggle="tab" data-bs-target="#pie-seed-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="pieSeedOrgTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="pie-seed-org-day1-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day1-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="pie-seed-org-day2-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day2-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="pie-seed-org-day3-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day3-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="pie-seed-org-day4-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day4-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="pie-seed-org-day5-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day5-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="pie-seed-org-day6-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day6-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="pie-seed-org-day7-tab" data-bs-toggle="pill" data-bs-target="#pie-seed-org-day7-tab-pane" type="button" role="tab" aria-controls="pie-seed-org-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--org-饼状图-种子-面板区-->
                         <div class="tab-content" id="pieSeedOrgTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day7"></div>
                             </div>
                         </div>
@@ -593,50 +1107,64 @@
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
                         <!--country-地图-路由-导航栏-->
-                        <ul class="nav nav-tabs me-3" id="mapSeedCountryTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="map-seed-country-day1-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day1-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day1-tab-pane" aria-selected="true">Day1</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day2-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day2-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day2-tab-pane" aria-selected="false">Day2</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day3-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day3-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day3-tab-pane" aria-selected="false">Day3</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day4-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day4-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day4-tab-pane" aria-selected="false">Day4</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day5-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day5-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day5-tab-pane" aria-selected="false">Day5</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day6-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day6-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day6-tab-pane" aria-selected="false">Day6</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="map-seed-country-day7-tab" data-bs-toggle="tab" data-bs-target="#map-seed-country-day7-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day7-tab-pane" aria-selected="false">Day7</button>
-                            </li>
-                        </ul>
+                        <div class="nav nav-pills me-3" id="mapSeedCountryTab" role="tablist" aria-orientation="vertical">
+                            <button class="nav-link active" id="map-seed-country-day1-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day1-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day1-tab-pane" aria-selected="true">Day1</button>
+                            <button class="nav-link" id="map-seed-country-day2-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day2-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day2-tab-pane" aria-selected="false">Day2</button>
+                            <button class="nav-link" id="map-seed-country-day3-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day3-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day3-tab-pane" aria-selected="false">Day3</button>
+                            <button class="nav-link" id="map-seed-country-day4-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day4-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day4-tab-pane" aria-selected="false">Day4</button>
+                            <button class="nav-link" id="map-seed-country-day5-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day5-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day5-tab-pane" aria-selected="false">Day5</button>
+                            <button class="nav-link" id="map-seed-country-day6-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day6-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day6-tab-pane" aria-selected="false">Day6</button>
+                            <button class="nav-link" id="map-seed-country-day7-tab" data-bs-toggle="pill" data-bs-target="#map-seed-country-day7-tab-pane" type="button" role="tab" aria-controls="map-seed-country-day7-tab-pane" aria-selected="false">Day7</button>
+                        </div>
                         <!--country-地图-路由-面板区-->
                         <div class="tab-content" id="mapSeedCountryTabContent">
                             <div class="tab-pane fade show active" id="map-seed-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day1-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day1" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day2-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day2" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day3-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day3" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day4-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day4" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day5-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day5" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day6-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day6" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day7-tab" tabindex="0">
+                                <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day7" aria-label="Default select example">
+                                    <option selected value="1">Type 1</option>
+                                    <option value="2">Type 2</option>
+                                </select>
                                 <div class="map-chart-container" id="map-seed-country-day7"></div>
                             </div>
                         </div>
@@ -686,10 +1214,11 @@
 <script type="text/javascript" src="js/world.js"></script>
     <script type="text/javascript" src="js/china.js"></script>
 <!--获取后端python数据 -->
+<script type="text/javascript" src="/indexFunction.js"></script>
 <script type="text/javascript" src="/getLineData.js"></script>
 <script type="text/javascript" src="/getPieData.js"></script>
 <script type="text/javascript" src="/getMapData.js"></script>
-<script type="text/javascript" src="/indexFunction.js"></script>
+
 <!--<script src="world_map.js"  async></script>-->
 
 <!-- Parse JSON for plotting -->

@@ -1,297 +1,113 @@
+2001:0470:72fd:0000::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:72fd:0002::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:72fd:0003::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
-2001:1600:0003:0005:0000:0000:0000:01::/120,29222.0,Infomaniak Network SA,CH,Computer and Information Technology,
+2001:0df1:7800:0002:0000:0000:0004:41::/120,58487.0,Rumahweb,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2001:4860:0000:0001:0000:0000:0000:0f::/120,15169.0,Google LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:4860:0000:0001:0000:0000:0000:22::/120,15169.0,Google LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2400:cb00:0403:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2400:cb00:0403:0001::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2400:cb00:0404:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2400:cb00:0437:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2400:cb00:0529:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2400:cb00:0529:0001::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2400:cb00:0530:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2407:c080:0803:1000:0000:0000:0000:00::/120,55990.0,Huawei,CN,Computer and Information Technology,
-2600:140f:0003:12::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:140f:0003:16::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:1418:0003:0180::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:9000:2011::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2051::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2056::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2063::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:20c7::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2108::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2400:cb00:0636:1024:0000:0000:a29e:5d::/120,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2409:8028:0070:0002:0000:0000:0000:70::/120,56041.0,China Mobile Communications Corporation,CN,Computer and Information Technology,Internet Service Provider (ISP)
+2600:1403:9c00:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1404:bc00:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:0011:0000:0000:0000:1701:f0::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:1000:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:4c00:050d:0eb1:0000:0000:0000:02::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:050d:0eb1:0000:0000:0000:03::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:0512:4cc5:0000:0000:0000:01::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
 2600:9000:211b::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:212b::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2142::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:218b::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:21aa::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:21bc::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:21dc::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:21e1::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:21f9::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2331::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2369::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:26b8::/48,,,,,
-2600:9000:26d7::/48,,,,,
-2600:9000:26db::/48,,,,,
-2600:9000:30a9:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:3163:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2602:fed2:709::/44,8772.0,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
-2606:bc40:0f17::/48,,,,,
-2610:00a1:1002:0000:0000:0000:0000:00::/120,397220.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-2804:014c:5d31:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:87e1:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:08c1:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:08c2:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:9023:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:9023:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:90b9:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:90b9:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:ed28:1000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:0049:0000:0000:0000:1e::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:00d1:0000:0000:0000:1f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:9fe0:0001:0007:0000:0000:0000:00::/120,15600.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:010::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:011::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:012::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:26f7:b380::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a06:4880:9b0a:a34f::/64,211298.0,Constantine Cybersecurity Ltd.,GB,Computer and Information Technology,
-2a06:98c1:0051:6924::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a5:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2605:d000:03e8:03e8:4000:0000:0000:00::/120,15108.0,Allo Communications LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2620:011a:c01b:0::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2620:011a:c01b:1::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2620:011a:c01b:2::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2620:011a:c01b:d::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2804:014c:0474:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:04ee:1000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:3b75:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5530:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5b31:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7574:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7d9b:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:85c0:1000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:6e25::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:bbd0:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:bbd2:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:bf50:0000:0000:0000:0000:1b::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de43:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de44:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:05::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:f420:0000:0000:0000:0000:1::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c51:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4cb6:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4cbe:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4ce6:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:5865:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:8095:0000:0000:0000:0000:05::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:9021:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:e650:1000:0000:0000:0000:06::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:e664:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:ed28:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2806:0261:0380:0000:0000:0000:0000:0::/116,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+2806:0262:8300:0000:0000:0000:0000:00::/120,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+2806:0264:4380:0005:0000:0000:0000:0::/116,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:1ee0:0001:0010:0000:0000:5052:7a::/120,41357.0,34SP.com Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001a:0000:0000:0000:07::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001e:0000:0000:0000:31::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0030:0000:0000:0000:2a::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0034:0000:0000:0000:41::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0035:0000:0000:0000:48::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0047:0000:0000:0000:14::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0048:0000:0000:0000:0b::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0049:0000:0000:0000:11::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0049:0000:0000:0000:19::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:004c:0000:0000:0000:2::/116,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:004d:0000:0000:0000:1f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:004d:0000:0000:0000:21::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00a0:0000:0000:0000:3f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00d0:0000:0000:0000:09::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:00a8:0dc0:0331:0001:0000:0000:01::/120,39122.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+2a01:07e0:0000:0134:0000:0000:0000:11::/120,44066.0,firstcolo GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:5a60:0008:0000:0000:0000:0000:00::/120,200487.0,OOO VPS,RU,Computer and Information Technology,Hosting and Cloud Provider
+2a02:26f0:00df:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0118:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:011a:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:e600:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:3102:8001:807a:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:f680:fff2:0000:0000:0000:0000:1::/116,1547.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:f680:fff3:0000:0000:0000:0000:10::/120,1547.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:f680:fff3:0000:0000:0000:0000:4::/116,1547.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:0c43:0f00:0000:000f:0000:ac14:91::/120,61098.0,Akenes SA,CH,Computer and Information Technology,
+2a04:2b00:14ee:0000:0000:0000:0000:00::/120,1921.0,ipcom GmbH,AT,Computer and Information Technology,
+2a04:4540:0100:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:04::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:07::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:0b::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:06::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:07::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0900:0099:0000:0000:0000:07::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1100:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1600:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:3500:0099:0000:0000:0000:04::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:3500:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:4700:0099:0000:0000:0000:15::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:5300:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:7200:0099:0000:0000:0000:16::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:7300:0099:0000:0000:0000:10::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:7400:0099:0000:0000:0000:10::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:8200:0099:0000:0000:0000:0::/116,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:a000:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:9447::/32,62240.0,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a0d:5600:4b::/40,,,,,
-2a0d:5600:69::/40,,,,,
-2a0d:610::/28,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
-2a0d:6f83:0000:0000::/64,,,,,
-2a0d:6f83:f8e2:4e23::/64,,,,,
-2a0d:6f86:0000:0000::/64,,,,,
-2a0d:6f87:0e4c:ac0e::/64,,,,,
-2a0d:8340:249b:6c79::/64,205125.0,Network Management Ltd,SC,Computer and Information Technology,Software Development
-2a0d:8b00:f::/36,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0d:c945:0284:2093::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0296:0751::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0306:5570::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0310:1071::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0314:0204::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0314:9854::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0362:6280::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0707:1871::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0708:3786::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0731:2182::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0745:7869::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:0757:1514::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1637:4501::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1667:4369::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1688:0746::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1690:3253::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1717:6722::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:1726:9328::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3097:5065::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3100:6409::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3100:8021::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3101:2547::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3101:3616::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3105:9934::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3106:5878::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3106:7207::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3186:1699::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3186:7680::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3186:7801::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3187:3913::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3192:5285::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3195:8259::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3202:1818::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3450:7027::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3450:9550::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3789:4685::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3896:2386::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3897:5728::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3902:3283::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3902:8715::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3911:0202::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3912:5445::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3912:6840::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3914:4601::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3916:5085::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3921:2241::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3921:6780::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3922:1772::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3926:8156::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3930:4333::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3931:2312::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3937:1956::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:3938:4590::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4058:8666::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4062:4578::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4065:0626::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4067:4691::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4068:6376::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4068:7204::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4072:6220::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4074:1374::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4079:0664::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4079:0878::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4081:6432::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:4083:4526::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5015:9444::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5016:2063::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5017:5842::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5786:7972::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5787:5218::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5792:9837::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5798:2629::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5800:8523::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5801:9599::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5804:5462::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5810:6340::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5810:7496::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5873:3723::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5873:7359::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5879:7489::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5888:8661::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5894:7172::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5895:0969::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5895:8620::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5898:2084::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5898:5435::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:5900:1859::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:6646:0617::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7056:0170::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7056:2140::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7060:0005::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7060:9595::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7066:1827::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7070:9319::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7071:2698::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7090:9957::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7094:1751::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7095:1323::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7096:6617::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7097:0207::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7100:6963::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7102:6784::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7286:7672::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7771:8835::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7776:6364::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:7777:6569::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8845:4879::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8853:8671::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8900:9425::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8932:3787::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8935:0957::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8938:5518::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8939:2466::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8940:8837::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8942:2404::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8944:3813::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8946:7957::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8953:0396::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8954:7148::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8956:2281::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8956:4237::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8962:8725::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8963:0982::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8963:1650::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:8964:2530::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9020:9557::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9026:0569::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9033:6235::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9035:4024::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9051:5663::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:c945:9054:2347::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0e:2b03:0000:0000::/64,212786.0,DIGITAL NETWORK S.R.L.,MD,Computer and Information Technology,Hosting and Cloud Provider
-2a0e:48c4::/32,7018.0,"AT&T Services, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:7b84:1990:d079::/64,29014.0,ScaleUp Technologies GmbH & Co. KG,DE,Computer and Information Technology,
-2a0e:eec2::/32,60389.0,Manir LLC,RU,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
-2a0e:f200:0154:22::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f200:0174:18::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f200:0174:1b::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f200:0184:0::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f200:0184:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:7805::/32,202888.0,UPSTREAM NETWORK LTD,GB,,
-2a0f:9400:732::/44,8772.0,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9400:734::/44,8772.0,NetAssist LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:0e33::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:0e37::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:0e93::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:0fb5::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:3263::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:3b85::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:4e1f::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:60c5::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:663d::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:7501::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:8194::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:843f::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:87fe::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9407:8c6c::/48,53356.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:9ac0:0000:0000::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:0001::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:0003::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:0004::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:0008::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:000a::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:000d::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:0000:0025::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:6c31:da40::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:6c87:cafa::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:be28:c539::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac0:e824:db3b::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac1:55ae:d259::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:35d4:496a::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:4805:4852::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:49c0:9e9c::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:924e:1f40::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:98fd:e71f::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:ab3a:bbad::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:b8dd:ab61::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac2:ea1c:cf56::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac3:4471:8366::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac3:57e6:6213::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac3:d1ca:9ac5::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac4:0000:0000::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac4:90d2:fcef::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac4:d714:f9da::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac5:0000:0000::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac5:8a00:bb23::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac5:c6e6:b91e::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac5:ff22:7aa9::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac6:0000:0000::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac6:7104:bead::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac6:74a7:7ad4::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac6:a03b:1dae::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac7:1974:1273::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac7:6d17:0fe0::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac7:9491:5222::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9ac7:cdb2:1318::/64,216349.0,"Getechbrothers, MB",LT,,
-2a0f:9b40:0000:0000::/64,,,,,
-2a0f:9b40:8314:f35b::/64,,,,,
-2a0f:9b40:9bef:d5b7::/64,,,,,
-2a0f:9b40:dd78:88c9::/64,,,,,
-2a0f:9b40:e225:1a6f::/64,,,,,
-2a0f:9b41:02f6:f06e::/64,,,,,
-2a0f:9b41:f363:bfa5::/64,,,,,
-2a0f:9b41:f6fb:9bff::/64,,,,,
-2a0f:9b42:041e:5db4::/64,,,,,
-2a0f:9b42:4741:fc56::/64,,,,,
-2a0f:9b42:d9a9:1ca5::/64,,,,,
-2a0f:9b42:fdc9:a095::/64,,,,,
-2a0f:9b43:04a7:2475::/64,,,,,
-2a0f:9b43:8eb0:db06::/64,,,,,
-2a0f:9b43:90c3:b66d::/64,,,,,
-2a0f:9b43:adff:fa33::/64,,,,,
-2a0f:9b44:f766:de74::/64,,,,,
-2a0f:9b45:c61f:4de7::/64,,,,,
-2a0f:9b46:6447:6655::/64,,,,,
-2a0f:c081:6d96::/48,,,,,
-2a0f:c081:b11e::/48,,,,,
-2a0f:c087:f51c::/48,,,,,
-2a0f:c583::/32,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf83:508d:0777::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf83:94c0:0867::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf87:3301:1864::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf87:39ff:a800::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf87:a24b:2b20::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf87:c5aa:1186::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf87:c728:b53b::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:dec0:ff00:0000::/64,53667.0,FranTech Solutions,US,Computer and Information Technology,Hosting and Cloud Provider
-2a0f:dfc0::/32,57043.0,HOSTKEY B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
-2a11:200:60::/36,,,,,
+2a0e:fdc1:1000:1001:0000:0000:0000:01::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)

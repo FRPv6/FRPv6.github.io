@@ -1,0 +1,4884 @@
+{
+  "result": [
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18455.0,
+            0.5989160771078081
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9606.0,
+            0.3117414162393717
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1889.0,
+            0.0613033036931265
+          ],
+          [
+            4,
+            "None",
+            357.0,
+            0.0115856428895956
+          ],
+          [
+            5,
+            "Service",
+            178.0,
+            0.0057765950541961
+          ],
+          [
+            6,
+            "Education and Research",
+            87.0,
+            0.0028233919646913
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.001703190643806
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015896446008856
+          ],
+          [
+            9,
+            "Other",
+            40.0,
+            0.0012981112481339
+          ],
+          [
+            10,
+            "Construction and Real Estate",
+            37.0,
+            0.0012007529045239
+          ],
+          [
+            11,
+            "Manufacturing",
+            5.0,
+            0.0011381743683132
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006490556240669
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            18.0,
+            0.0005841500616602
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            16.0,
+            0.0005192444992535
+          ],
+          [
+            15,
+            "Health Care Services",
+            12.0,
+            0.0003894333744401
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002276348736626
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002270920858408
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004806,
+            0.6775207845246184
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            309.553511,
+            0.2088923642314418
+          ],
+          [
+            3,
+            "None",
+            103.020381,
+            0.0695200351034426
+          ],
+          [
+            4,
+            "Education and Research",
+            35.014915,
+            0.0236287043040935
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0121467389512226
+          ],
+          [
+            6,
+            "Construction and Real Estate",
+            4.104553000000001,
+            0.0027698273475026
+          ],
+          [
+            7,
+            "Manufacturing",
+            3.00003,
+            0.0021527941683556
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013496675781901
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763839999999997,
+            0.0007938454137063
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.0007175908802097
+          ],
+          [
+            11,
+            "Other",
+            1.0005969999999995,
+            0.000675221134781
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003968,
+            2.6776788885148883e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.11639143647702e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.11639143647702e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.698201535543631e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18495.0,
+            0.5994943437814009
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9598.0,
+            0.3111082298790963
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1893.0,
+            0.0613594372953875
+          ],
+          [
+            4,
+            "None",
+            357.0,
+            0.0115717480794787
+          ],
+          [
+            5,
+            "Service",
+            177.0,
+            0.0057372532494894
+          ],
+          [
+            6,
+            "Education and Research",
+            87.0,
+            0.0028200058344948
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.0017009374055034
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015875415784699
+          ],
+          [
+            9,
+            "Manufacturing",
+            6.0,
+            0.0013651877133105
+          ],
+          [
+            10,
+            "Other",
+            40.0,
+            0.0012965544066642
+          ],
+          [
+            11,
+            "Construction and Real Estate",
+            37.0,
+            0.0011993128261644
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006482772033321
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            18.0,
+            0.0005834494829989
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            16.0,
+            0.0005186217626657
+          ],
+          [
+            15,
+            "Health Care Services",
+            13.0,
+            0.0004213801821658
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002275312855517
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002267916540671
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004806,
+            0.6775191161501495
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            308.55716,
+            0.208219495639546
+          ],
+          [
+            3,
+            "None",
+            103.020381,
+            0.0695198639124558
+          ],
+          [
+            4,
+            "Education and Research",
+            35.014915,
+            0.0236286461191228
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0121467090402448
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028683187603118
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            4.104553000000001,
+            0.0027698205268864
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013496642546745
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763839999999997,
+            0.0007938434588859
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.0007170743120206
+          ],
+          [
+            11,
+            "Other",
+            1.0005969999999995,
+            0.0006752194720694
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003968,
+            2.6776722948114985e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.116381299987434e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.116381299987434e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.7176523733041198e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18835.0,
+            0.6034537998205818
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9443.0,
+            0.3025438933743432
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1899.0,
+            0.0608419838523644
+          ],
+          [
+            4,
+            "None",
+            397.0,
+            0.012719466871716
+          ],
+          [
+            5,
+            "Service",
+            220.0,
+            0.0070485710624118
+          ],
+          [
+            6,
+            "Education and Research",
+            106.0,
+            0.0033961296937075
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            62.0,
+            0.0019864154812251
+          ],
+          [
+            8,
+            "Government and Public Administration",
+            46.0,
+            0.0014737921312315
+          ],
+          [
+            9,
+            "Other",
+            46.0,
+            0.0014737921312315
+          ],
+          [
+            10,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            43.0,
+            0.0013776752531077
+          ],
+          [
+            11,
+            "Community Groups and Nonprofits",
+            24.0,
+            0.0007689350249903
+          ],
+          [
+            12,
+            "Manufacturing",
+            24.0,
+            0.0007689350249903
+          ],
+          [
+            13,
+            "Finance and Insurance",
+            23.0,
+            0.0007368960656157
+          ],
+          [
+            14,
+            "Freight, Shipment, and Postal Services",
+            22.0,
+            0.0007048571062411
+          ],
+          [
+            15,
+            "Health Care Services",
+            13.0,
+            0.0004165064718697
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            2.0,
+            0.0003916193459956
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            7.0,
+            0.0002242727156221
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            2022.76644,
+            0.5508078814999063
+          ],
+          [
+            2,
+            "Service",
+            1154.0677170000006,
+            0.3142575345022056
+          ],
+          [
+            3,
+            "None",
+            173.36460199999996,
+            0.0472079164783327
+          ],
+          [
+            4,
+            "Education and Research",
+            55.019477,
+            0.0149820369610259
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            50.62206,
+            0.0137846016595772
+          ],
+          [
+            6,
+            "Construction and Real Estate",
+            38.19139,
+            0.010399677491899
+          ],
+          [
+            7,
+            "Finance and Insurance",
+            36.000015,
+            0.0098029567843308
+          ],
+          [
+            8,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            32.004075,
+            0.0087148453729112
+          ],
+          [
+            9,
+            "Manufacturing",
+            25.250365,
+            0.0068757814929683
+          ],
+          [
+            10,
+            "Freight, Shipment, and Postal Services",
+            18.003982,
+            0.0049025606653739
+          ],
+          [
+            11,
+            "Community Groups and Nonprofits",
+            16.067551,
+            0.0043752622903916
+          ],
+          [
+            12,
+            "Government and Public Administration",
+            16.000015,
+            0.0043568719511268
+          ],
+          [
+            13,
+            "Museums, Libraries, and Entertainment",
+            16.0,
+            0.0043568678665632
+          ],
+          [
+            14,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            16.0,
+            0.0043568678665632
+          ],
+          [
+            15,
+            "Travel and Accommodation",
+            1.000015,
+            0.0002785530534798
+          ],
+          [
+            16,
+            "Other",
+            1.0045799999999998,
+            0.000273551395087
+          ],
+          [
+            17,
+            "Health Care Services",
+            0.00061,
+            1.6610558741272319e-07
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18597.0,
+            0.5996710950599767
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9662.0,
+            0.3115568167161099
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1889.0,
+            0.0609119050690055
+          ],
+          [
+            4,
+            "None",
+            358.0,
+            0.0115439184831678
+          ],
+          [
+            5,
+            "Service",
+            178.0,
+            0.0057397136592286
+          ],
+          [
+            6,
+            "Education and Research",
+            87.0,
+            0.0028053656649039
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.0016908394078304
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015781167806417
+          ],
+          [
+            9,
+            "Manufacturing",
+            6.0,
+            0.0013642564802182
+          ],
+          [
+            10,
+            "Other",
+            39.0,
+            0.0012575777118534
+          ],
+          [
+            11,
+            "Construction and Real Estate",
+            36.0,
+            0.0011608409647878
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006449116471043
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            18.0,
+            0.0005804204823939
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            16.0,
+            0.0005159293176834
+          ],
+          [
+            15,
+            "Health Care Services",
+            12.0,
+            0.0003869469882626
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002273760800363
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002254452543773
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004806,
+            0.6784633582795253
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            306.557282,
+            0.2071582544304708
+          ],
+          [
+            3,
+            "None",
+            103.957881,
+            0.070250274342694
+          ],
+          [
+            4,
+            "Education and Research",
+            35.014915,
+            0.0236615767960498
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0121636376170711
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028725669999883
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            3.104553,
+            0.0020979236770075
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013515452493496
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763839999999997,
+            0.0007949498194596
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.0007181363639743
+          ],
+          [
+            11,
+            "Other",
+            1.0005809999999995,
+            0.0006761496971267
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003968,
+            2.681404102415379e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.1221182017978353e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.1221182017978353e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.7176520496927968e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18498.0,
+            0.5985826618774877
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9660.0,
+            0.3125910105814969
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1890.0,
+            0.061159110765945
+          ],
+          [
+            4,
+            "None",
+            351.0,
+            0.0113581205708183
+          ],
+          [
+            5,
+            "Service",
+            177.0,
+            0.0057275992622075
+          ],
+          [
+            6,
+            "Education and Research",
+            87.0,
+            0.0028152606543054
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.0016980491302215
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015848458548734
+          ],
+          [
+            9,
+            "Manufacturing",
+            6.0,
+            0.0013630168105406
+          ],
+          [
+            10,
+            "Other",
+            39.0,
+            0.0012620133967575
+          ],
+          [
+            11,
+            "Construction and Real Estate",
+            36.0,
+            0.0011649354431608
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006471863573115
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            17.0,
+            0.0005501084037148
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            15.0,
+            0.0004853897679836
+          ],
+          [
+            15,
+            "Health Care Services",
+            13.0,
+            0.0004206711322525
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002271694684234
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002264065506962
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004806,
+            0.6798396314378333
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            305.561551,
+            0.2069042408681584
+          ],
+          [
+            3,
+            "None",
+            101.95786200000002,
+            0.0690385094872439
+          ],
+          [
+            4,
+            "Education and Research",
+            35.014915,
+            0.0237095746615649
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0121883117394912
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028829102735729
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            3.104553,
+            0.0021021793468379
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013542868792788
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763849999999996,
+            0.0007965630642897
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.000720722162977
+          ],
+          [
+            11,
+            "Other",
+            1.0005809999999995,
+            0.0006775212769884
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003953,
+            2.676686453106237e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.130479980760952e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.130479980760952e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.679191168722851e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18562.0,
+            0.5997221414493877
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9640.0,
+            0.311460049756066
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1890.0,
+            0.0610642628671125
+          ],
+          [
+            4,
+            "None",
+            352.0,
+            0.0113728150948273
+          ],
+          [
+            5,
+            "Service",
+            178.0,
+            0.0057510258149979
+          ],
+          [
+            6,
+            "Education and Research",
+            87.0,
+            0.0028108946399147
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.0016957455627991
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015826958586125
+          ],
+          [
+            9,
+            "Manufacturing",
+            6.0,
+            0.0013593112822836
+          ],
+          [
+            10,
+            "Other",
+            39.0,
+            0.0012600562178927
+          ],
+          [
+            11,
+            "Construction and Real Estate",
+            36.0,
+            0.0011631288165164
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006461826758424
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            18.0,
+            0.0005815644082582
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            16.0,
+            0.0005169461406739
+          ],
+          [
+            15,
+            "Health Care Services",
+            13.0,
+            0.0004200187392975
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002265518803806
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002260994083732
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004821,
+            0.6788898018570027
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            307.565275,
+            0.2079700457960694
+          ],
+          [
+            3,
+            "None",
+            102.02036200000002,
+            0.0689843135161197
+          ],
+          [
+            4,
+            "Education and Research",
+            35.014915,
+            0.0236764487671616
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0121712828077875
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028744856875378
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            3.104553,
+            0.0020992422814517
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013523947338146
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763839999999997,
+            0.0007954494679341
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.0007186160322642
+          ],
+          [
+            11,
+            "Other",
+            1.0005809999999995,
+            0.0006765746763599
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003953,
+            2.6729467136101845e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.1247090698259866e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.1247090698259866e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.717653067403077e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            18930.0,
+            0.5966903073286052
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9956.0,
+            0.3138219070133963
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1977.0,
+            0.0623167848699763
+          ],
+          [
+            4,
+            "None",
+            356.0,
+            0.0112214342001576
+          ],
+          [
+            5,
+            "Service",
+            179.0,
+            0.0056422379826635
+          ],
+          [
+            6,
+            "Education and Research",
+            88.0,
+            0.0027738376674546
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45.0,
+            0.0016546550963376
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42.0,
+            0.0015443447565818
+          ],
+          [
+            9,
+            "Manufacturing",
+            6.0,
+            0.0013247957606535
+          ],
+          [
+            10,
+            "Other",
+            38.0,
+            0.001197793538219
+          ],
+          [
+            11,
+            "Construction and Real Estate",
+            36.0,
+            0.0011347517730496
+          ],
+          [
+            12,
+            "Finance and Insurance",
+            20.0,
+            0.0006304176516942
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            18.0,
+            0.0005673758865248
+          ],
+          [
+            14,
+            "Community Groups and Nonprofits",
+            16.0,
+            0.0005043341213553
+          ],
+          [
+            15,
+            "Health Care Services",
+            11.0,
+            0.0003467297084318
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.0,
+            0.0002207992934422
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            6.0,
+            0.0002206206795116
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004836,
+            0.6834215765603724
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            297.567295,
+            0.2025527194589184
+          ],
+          [
+            3,
+            "None",
+            101.211799,
+            0.0688944164000934
+          ],
+          [
+            4,
+            "Education and Research",
+            36.014915,
+            0.0245151906708423
+          ],
+          [
+            5,
+            "Finance and Insurance",
+            18.000015,
+            0.0122525292591422
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028948945185425
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            3.104553,
+            0.0021132552650127
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.0013614223174053
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1763849999999996,
+            0.0008007599789509
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            1.0,
+            0.0007237182017491
+          ],
+          [
+            11,
+            "Other",
+            1.0005659999999998,
+            0.0006810807763606
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003968,
+            2.700999754737793e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.00061,
+            4.1522425665071926e-07
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.00061,
+            4.1522425665071926e-07
+          ],
+          [
+            15,
+            "Government and Public Administration",
+            1.5e-05,
+            1.7175760800050454e-07
+          ],
+          [
+            16,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3857,
+            0.878008
+          ],
+          [
+            2,
+            "None",
+            283,
+            0.064424
+          ],
+          [
+            3,
+            "Service",
+            133,
+            0.030277
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            29,
+            0.006602
+          ],
+          [
+            5,
+            "Education and Research",
+            22,
+            0.00501
+          ],
+          [
+            6,
+            "Finance and Insurance",
+            19,
+            0.004325
+          ],
+          [
+            7,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.004325
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.002504
+          ],
+          [
+            9,
+            "Manufacturing",
+            5,
+            0.001139
+          ],
+          [
+            10,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            5,
+            0.001139
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.001138
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000455
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000455
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000228
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004791,
+            0.7204649999999999
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            265.22978,
+            0.190334
+          ],
+          [
+            3,
+            "None",
+            91.02032300000002,
+            0.065317
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.012917
+          ],
+          [
+            5,
+            "Education and Research",
+            5.014907,
+            0.0036
+          ],
+          [
+            6,
+            "Manufacturing",
+            3.00003,
+            0.002153
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            2.104553000000001,
+            0.00151
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001435
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.000841
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000718
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000718
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003967,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3858,
+            0.877847
+          ],
+          [
+            2,
+            "None",
+            283,
+            0.064398
+          ],
+          [
+            3,
+            "Service",
+            133,
+            0.030265
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            29,
+            0.0065989999999999
+          ],
+          [
+            5,
+            "Education and Research",
+            22,
+            0.0050089999999999
+          ],
+          [
+            6,
+            "Finance and Insurance",
+            19,
+            0.004324
+          ],
+          [
+            7,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.004324
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.002503
+          ],
+          [
+            9,
+            "Manufacturing",
+            6,
+            0.001367
+          ],
+          [
+            10,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            5,
+            0.001139
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.001138
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000455
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000455
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000228
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004791,
+            0.7199460000000001
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            265.23367,
+            0.190183
+          ],
+          [
+            3,
+            "None",
+            91.02032300000002,
+            0.065269
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.012907
+          ],
+          [
+            5,
+            "Education and Research",
+            5.014907,
+            0.003596
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.002868
+          ],
+          [
+            7,
+            "Construction and Real Estate",
+            2.104553000000001,
+            0.001509
+          ],
+          [
+            8,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001434
+          ],
+          [
+            9,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.000841
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000717
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000717
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003967,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            4356,
+            0.852986
+          ],
+          [
+            2,
+            "None",
+            322,
+            0.06306
+          ],
+          [
+            3,
+            "Service",
+            176,
+            0.034465
+          ],
+          [
+            4,
+            "Media, Publishing, and Broadcasting",
+            56,
+            0.010968
+          ],
+          [
+            5,
+            "Construction and Real Estate",
+            54,
+            0.0105759999999999
+          ],
+          [
+            6,
+            "Education and Research",
+            41,
+            0.0080299999999999
+          ],
+          [
+            7,
+            "Manufacturing",
+            23,
+            0.004506
+          ],
+          [
+            8,
+            "Finance and Insurance",
+            22,
+            0.004309
+          ],
+          [
+            9,
+            "Other",
+            17,
+            0.003329
+          ],
+          [
+            10,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            14,
+            0.0027429999999999
+          ],
+          [
+            11,
+            "Community Groups and Nonprofits",
+            10,
+            0.0019579999999999
+          ],
+          [
+            12,
+            "Freight, Shipment, and Postal Services",
+            9,
+            0.001763
+          ],
+          [
+            13,
+            "Travel and Accommodation",
+            2,
+            0.000392
+          ],
+          [
+            14,
+            "Health Care Services",
+            2,
+            0.000392
+          ],
+          [
+            15,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            1,
+            0.000196
+          ],
+          [
+            16,
+            "Government and Public Administration",
+            1,
+            0.000196
+          ],
+          [
+            17,
+            "Museums, Libraries, and Entertainment",
+            1,
+            0.000196
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 17
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            1984.442767,
+            0.5528010000000001
+          ],
+          [
+            2,
+            "Service",
+            1154.0677020000005,
+            0.321467
+          ],
+          [
+            3,
+            "None",
+            161.36454399999997,
+            0.044948
+          ],
+          [
+            4,
+            "Media, Publishing, and Broadcasting",
+            50.617843,
+            0.014099
+          ],
+          [
+            5,
+            "Construction and Real Estate",
+            36.19139,
+            0.010082
+          ],
+          [
+            6,
+            "Finance and Insurance",
+            36.000015,
+            0.010029
+          ],
+          [
+            7,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            32.004074,
+            0.008915
+          ],
+          [
+            8,
+            "Manufacturing",
+            25.250365,
+            0.007035
+          ],
+          [
+            9,
+            "Education and Research",
+            25.019469,
+            0.00697
+          ],
+          [
+            10,
+            "Freight, Shipment, and Postal Services",
+            18.003982,
+            0.005015
+          ],
+          [
+            11,
+            "Community Groups and Nonprofits",
+            16.067429,
+            0.004475
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            16.0,
+            0.004457
+          ],
+          [
+            13,
+            "Government and Public Administration",
+            16.0,
+            0.004457
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            16.0,
+            0.004457
+          ],
+          [
+            15,
+            "Other",
+            1.0041369999999998,
+            0.00028
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1.000015,
+            0.000279
+          ],
+          [
+            17,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 17
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3862,
+            0.8781100000000002
+          ],
+          [
+            2,
+            "None",
+            283,
+            0.064343
+          ],
+          [
+            3,
+            "Service",
+            133,
+            0.030238
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            28,
+            0.006365
+          ],
+          [
+            5,
+            "Education and Research",
+            22,
+            0.005
+          ],
+          [
+            6,
+            "Finance and Insurance",
+            19,
+            0.0043199999999999
+          ],
+          [
+            7,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.0043199999999999
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.002501
+          ],
+          [
+            9,
+            "Manufacturing",
+            6,
+            0.0013629999999999
+          ],
+          [
+            10,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.001137
+          ],
+          [
+            11,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            5,
+            0.0011359999999999
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000455
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000455
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000227
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004791,
+            0.721012
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            263.233762,
+            0.189029
+          ],
+          [
+            3,
+            "None",
+            91.95782300000002,
+            0.066038
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.012926
+          ],
+          [
+            5,
+            "Education and Research",
+            5.014907,
+            0.003601
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.002872
+          ],
+          [
+            7,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001436
+          ],
+          [
+            8,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.000842
+          ],
+          [
+            9,
+            "Construction and Real Estate",
+            1.104553,
+            0.000793
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000718
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000718
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003967,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3870,
+            0.8791389999999999
+          ],
+          [
+            2,
+            "None",
+            280,
+            0.063603
+          ],
+          [
+            3,
+            "Service",
+            133,
+            0.030214
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            28,
+            0.006361
+          ],
+          [
+            5,
+            "Education and Research",
+            22,
+            0.004997
+          ],
+          [
+            6,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.004316
+          ],
+          [
+            7,
+            "Finance and Insurance",
+            19,
+            0.0043159999999999
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.002498
+          ],
+          [
+            9,
+            "Manufacturing",
+            6,
+            0.0013629999999999
+          ],
+          [
+            10,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.0011359999999999
+          ],
+          [
+            11,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            4,
+            0.000908
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000454
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000454
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000227
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004791,
+            0.7236079999999999
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            260.23782,
+            0.187559
+          ],
+          [
+            3,
+            "None",
+            89.95780800000001,
+            0.064836
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.012972
+          ],
+          [
+            5,
+            "Education and Research",
+            5.014907,
+            0.0036149999999999
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.0028829999999999
+          ],
+          [
+            7,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001441
+          ],
+          [
+            8,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.0008449999999999
+          ],
+          [
+            9,
+            "Construction and Real Estate",
+            1.104553,
+            0.0007959999999999
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000721
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000721
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003952,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3880,
+            0.8790479999999998
+          ],
+          [
+            2,
+            "None",
+            281,
+            0.063667
+          ],
+          [
+            3,
+            "Service",
+            134,
+            0.030361
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            28,
+            0.006345
+          ],
+          [
+            5,
+            "Education and Research",
+            22,
+            0.004987
+          ],
+          [
+            6,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.004306
+          ],
+          [
+            7,
+            "Finance and Insurance",
+            19,
+            0.004305
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.002492
+          ],
+          [
+            9,
+            "Manufacturing",
+            6,
+            0.001361
+          ],
+          [
+            10,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.001133
+          ],
+          [
+            11,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            4,
+            0.000907
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000453
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000453
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000227
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004806,
+            0.721494
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            264.241803,
+            0.189894
+          ],
+          [
+            3,
+            "None",
+            90.02030800000001,
+            0.064691
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.0129349999999999
+          ],
+          [
+            5,
+            "Education and Research",
+            5.014907,
+            0.0036049999999999
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.002875
+          ],
+          [
+            7,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001437
+          ],
+          [
+            8,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.000842
+          ],
+          [
+            9,
+            "Construction and Real Estate",
+            1.104553,
+            0.000794
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000719
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000719
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003952,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            3988,
+            0.880564
+          ],
+          [
+            2,
+            "None",
+            285,
+            0.0629339999999999
+          ],
+          [
+            3,
+            "Service",
+            135,
+            0.0298099999999999
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            28,
+            0.006182
+          ],
+          [
+            5,
+            "Education and Research",
+            23,
+            0.005079
+          ],
+          [
+            6,
+            "Media, Publishing, and Broadcasting",
+            19,
+            0.004196
+          ],
+          [
+            7,
+            "Finance and Insurance",
+            19,
+            0.004195
+          ],
+          [
+            8,
+            "Other",
+            11,
+            0.00243
+          ],
+          [
+            9,
+            "Manufacturing",
+            6,
+            0.001325
+          ],
+          [
+            10,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            5,
+            0.001105
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            5,
+            0.001104
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            2,
+            0.000442
+          ],
+          [
+            13,
+            "Health Care Services",
+            2,
+            0.000442
+          ],
+          [
+            14,
+            "Travel and Accommodation",
+            1,
+            0.000221
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 14
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Service",
+            1004.004821,
+            0.726616
+          ],
+          [
+            2,
+            "Computer and Information Technology",
+            254.243801,
+            0.183999
+          ],
+          [
+            3,
+            "None",
+            89.20783900000002,
+            0.064563
+          ],
+          [
+            4,
+            "Finance and Insurance",
+            18.000015,
+            0.013026
+          ],
+          [
+            5,
+            "Education and Research",
+            6.014907,
+            0.0043539999999999
+          ],
+          [
+            6,
+            "Manufacturing",
+            4.000030000000001,
+            0.002895
+          ],
+          [
+            7,
+            "Freight, Shipment, and Postal Services",
+            2.000046,
+            0.001447
+          ],
+          [
+            8,
+            "Media, Publishing, and Broadcasting",
+            1.1721649999999997,
+            0.000848
+          ],
+          [
+            9,
+            "Construction and Real Estate",
+            1.104553,
+            0.000799
+          ],
+          [
+            10,
+            "Other",
+            1.0001539999999998,
+            0.000724
+          ],
+          [
+            11,
+            "Travel and Accommodation",
+            1.0,
+            0.000724
+          ],
+          [
+            12,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            0.003967,
+            3e-06
+          ],
+          [
+            13,
+            "Community Groups and Nonprofits",
+            0.000488,
+            0.0
+          ],
+          [
+            14,
+            "Health Care Services",
+            0.000488,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14598,
+            0.5525420000000001
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9587,
+            0.362857
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1884,
+            0.071308
+          ],
+          [
+            4,
+            "None",
+            74,
+            0.002804
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.00246
+          ],
+          [
+            6,
+            "Service",
+            45,
+            0.001704
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45,
+            0.0017029999999999
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.00159
+          ],
+          [
+            9,
+            "Other",
+            29,
+            0.001098
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.00053
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.000492
+          ],
+          [
+            12,
+            "Health Care Services",
+            10,
+            0.000379
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000303
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000227
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            44.323731,
+            0.5018
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.33964
+          ],
+          [
+            3,
+            "None",
+            12.000058,
+            0.135856
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022643
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.004219,
+            4.8e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000443,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14637,
+            0.553277
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9579,
+            0.362073
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1888,
+            0.071365
+          ],
+          [
+            4,
+            "None",
+            74,
+            0.0028009999999999
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.0024579999999999
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            45,
+            0.0017
+          ],
+          [
+            7,
+            "Service",
+            44,
+            0.001664
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001588
+          ],
+          [
+            9,
+            "Other",
+            29,
+            0.001096
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.000529
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.000491
+          ],
+          [
+            12,
+            "Health Care Services",
+            11,
+            0.000415
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000303
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000227
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            43.32349000000001,
+            0.4960949999999999
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.34353
+          ],
+          [
+            3,
+            "None",
+            12.000058,
+            0.1374119999999999
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022902
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.004219,
+            4.8e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000443,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14479,
+            0.554625
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9387,
+            0.359587
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1885,
+            0.0722079999999999
+          ],
+          [
+            4,
+            "None",
+            75,
+            0.0028739999999999
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.0024889999999999
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            45,
+            0.001725
+          ],
+          [
+            7,
+            "Service",
+            44,
+            0.001684
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001609
+          ],
+          [
+            9,
+            "Other",
+            29,
+            0.001111
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.000536
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.000498
+          ],
+          [
+            12,
+            "Health Care Services",
+            11,
+            0.000421
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000306
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.00023
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ],
+          [
+            16,
+            "Manufacturing",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 16
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            38.323673,
+            0.4654939999999999
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.364393
+          ],
+          [
+            3,
+            "None",
+            12.000058,
+            0.145756
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.024293
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.004217,
+            5.1e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000443,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ],
+          [
+            16,
+            "Manufacturing",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 16
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14735,
+            0.553683
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9643,
+            0.362328
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1884,
+            0.0707909999999999
+          ],
+          [
+            4,
+            "None",
+            75,
+            0.002819
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.0024429999999999
+          ],
+          [
+            6,
+            "Service",
+            45,
+            0.001693
+          ],
+          [
+            7,
+            "Government and Public Administration",
+            45,
+            0.001691
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001578
+          ],
+          [
+            9,
+            "Other",
+            28,
+            0.001052
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.000526
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.000488
+          ],
+          [
+            12,
+            "Health Care Services",
+            10,
+            0.000376
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000301
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000226
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            43.32352,
+            0.4960949999999999
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.34353
+          ],
+          [
+            3,
+            "None",
+            12.000058,
+            0.1374119999999999
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022902
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.004219,
+            4.8e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000427,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14628,
+            0.5519879999999999
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9641,
+            0.363798
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1886,
+            0.071167
+          ],
+          [
+            4,
+            "None",
+            71,
+            0.002678
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.002453
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            45,
+            0.001699
+          ],
+          [
+            7,
+            "Service",
+            44,
+            0.001661
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001585
+          ],
+          [
+            9,
+            "Other",
+            28,
+            0.001057
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            13,
+            0.00049
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            12,
+            0.000453
+          ],
+          [
+            12,
+            "Health Care Services",
+            11,
+            0.000415
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000302
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000227
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            45.323731,
+            0.507377
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.335838
+          ],
+          [
+            3,
+            "None",
+            12.000054,
+            0.134336
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022389
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.00422,
+            4.7e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000427,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14682,
+            0.5532850000000001
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9621,
+            0.3625499999999999
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1886,
+            0.071071
+          ],
+          [
+            4,
+            "None",
+            71,
+            0.002675
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.00245
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            45,
+            0.001695
+          ],
+          [
+            7,
+            "Service",
+            44,
+            0.001659
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001583
+          ],
+          [
+            9,
+            "Other",
+            28,
+            0.001055
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.000527
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.00049
+          ],
+          [
+            12,
+            "Health Care Services",
+            11,
+            0.000414
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.000302
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000226
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.8e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            43.323472,
+            0.4960949999999999
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.343531
+          ],
+          [
+            3,
+            "None",
+            12.000054,
+            0.1374119999999999
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022902
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.004219,
+            4.8e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000427,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            14942,
+            0.549447
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            9937,
+            0.365386
+          ],
+          [
+            3,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1972,
+            0.0725109999999999
+          ],
+          [
+            4,
+            "None",
+            71,
+            0.0026149999999999
+          ],
+          [
+            5,
+            "Education and Research",
+            65,
+            0.002391
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            45,
+            0.001655
+          ],
+          [
+            7,
+            "Service",
+            44,
+            0.001619
+          ],
+          [
+            8,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            42,
+            0.001544
+          ],
+          [
+            9,
+            "Other",
+            27,
+            0.000993
+          ],
+          [
+            10,
+            "Community Groups and Nonprofits",
+            14,
+            0.0005149999999999
+          ],
+          [
+            11,
+            "Freight, Shipment, and Postal Services",
+            13,
+            0.000478
+          ],
+          [
+            12,
+            "Health Care Services",
+            9,
+            0.0003309999999999
+          ],
+          [
+            13,
+            "Construction and Real Estate",
+            8,
+            0.0002949999999999
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            6,
+            0.000221
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            1,
+            3.7e-05
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "category_alias_num"
+          },
+          {
+            "title": "category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "category_ratio",
+        "dataLength": 15
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            43.323494,
+            0.4960739999999999
+          ],
+          [
+            2,
+            "Education and Research",
+            30.000008,
+            0.343515
+          ],
+          [
+            3,
+            "None",
+            12.00396,
+            0.1374529999999999
+          ],
+          [
+            4,
+            "Construction and Real Estate",
+            2.0,
+            0.022901
+          ],
+          [
+            5,
+            "Media, Publishing, and Broadcasting",
+            0.00422,
+            4.8e-05
+          ],
+          [
+            6,
+            "Other",
+            0.000412,
+            5e-06
+          ],
+          [
+            7,
+            "Community Groups and Nonprofits",
+            0.000122,
+            1e-06
+          ],
+          [
+            8,
+            "Health Care Services",
+            0.000122,
+            1e-06
+          ],
+          [
+            9,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            1e-06,
+            0.0
+          ],
+          [
+            10,
+            "Government and Public Administration",
+            1.5e-05,
+            0.0
+          ],
+          [
+            11,
+            "Service",
+            1.5e-05,
+            0.0
+          ],
+          [
+            12,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            0.0,
+            0.0
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            0.0,
+            0.0
+          ],
+          [
+            14,
+            "Museums, Libraries, and Entertainment",
+            0.0,
+            0.0
+          ],
+          [
+            15,
+            "Finance and Insurance",
+            0.0,
+            0.0
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "sta_category_alias_num"
+          },
+          {
+            "title": "sat_category_ratio",
+            "class": "center"
+          }
+        ],
+        "name": "sat_category_ratio",
+        "dataLength": 15
+      }
+    ]
+  ],
+  "code": 1001,
+  "msg": "success"
+}

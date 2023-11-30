@@ -1,5 +1,8 @@
-2001:0470:0000:0060:0000:0000:4834:75::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:00b5:0000:0000:4834:56::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:0170:0000:0000:b869:d2::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:019b:0000:0000:b869:80::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:0000:019d:0000:0000:b869:82::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:0208:0000:0000:403e:8c::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:0007:0203::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:0008:0203::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:001d:01fb::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
@@ -8,14 +11,9 @@
 2001:0470:f119:0100::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0470:f24e:0098::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
 2001:0550:0000:1000:0000:0000:9a1a:07::/120,174.0,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
-2001:06b0:001e:0001:0000:0000:0000:01::/120,1653.0,Vetenskapsradet / SUNET,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2001:4dd0:af8f:0001:0000:0000:0000:34::/120,8422.0,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2400:8e20::/32,149428.0,"Code200, UAB",LT,Computer and Information Technology,Internet Service Provider (ISP)
-2400:cb00:0590:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2400:cb00:0636:1024:0000:0000:a29e:5d::/120,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2400:cb00:0711:0000::/64,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2408:8120:0002:0000:0000:0000:0000:02::/120,9929.0,CHINA UNICOM Industrial Internet Backbone,CN,Computer and Information Technology,Internet Service Provider (ISP)
-2600:1401:4000:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2001:1600:0003:0005:0000:0000:0000:05::/120,29222.0,Infomaniak Network SA,CH,Computer and Information Technology,
+2001:1600:0003:0005:0000:0000:0000:07::/120,29222.0,Infomaniak Network SA,CH,Computer and Information Technology,
+2404:e801:1007:0000:0000:0000:0000:10::/120,55430.0,Starhub Ltd.,SG,Computer and Information Technology,Internet Service Provider (ISP)
 2600:1406:5800:0300::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2600:1406:5800:031::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2600:1406:5800:038::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
@@ -123,26 +121,26 @@
 2600:1406:5800:07bf::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2600:1406:5800:0800::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2600:1408:7400:0000:0000:0000:6006:2a::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:140b:5000:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:140f:0003:12::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:1417:007a:029c::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:1417:7800:0487::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:1417:f800:01e::/60,25019.0,Saudi Telecom Company JSC,SA,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:1419:d400:033::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:141b:1c00:1089::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:141b:e800:048b::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2600:4c00:0300:000b:0000:0000:0000:01::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:140f:0003:11::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:15::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:0010:0000:0000:0000:17c5:ce::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0076:0000:0000:0000:17d2:d7::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:c400:0000:0000:0000:0212:fb::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:141c:f000:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:3c03:0001:0000:0000:0000:2d4f:f7::/120,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2600:4c00:0080:00ab:0000:0000:0000:01::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:0300:0058:0000:0000:0000:02::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
 2600:9000:2022::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2027::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:206b::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2070::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2072::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2080::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2097::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2099::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:20e8::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:20f1::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:20fa::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:20ff::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2115::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2131::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2166::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
@@ -150,119 +148,88 @@
 2600:9000:21b8::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:21cd::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:21f4::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2270:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2309::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:231d::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2332::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2336::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2349::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:2369::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:245e::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:246c::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:24cd::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2510::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:253c:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2533:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:25ed::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:2607::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:26d4::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
 2600:9000:26dd::/48,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:30a9:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:30bf:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:310c:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:3145:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:3163:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:3163:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2600:9000:31af:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
-2602:fd32:0001:0001:0000:0000:0002:01::/120,17378.0,"TierPoint, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
-2602:feda:0038:2e56::/64,46997.0,Black Mesa Corporation,US,Health Care Services,Other
-2602:ff62:0001::/48,61317.0,Hivelocity Inc,US,Computer and Information Technology,
-2604:6600:0025:1::/52,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
-2604:ca00:0222:32::/56,36492.0,Google LLC,US,Computer and Information Technology,Software Development
-2604:ca00:d000:3::/52,36492.0,Google LLC,US,Computer and Information Technology,Software Development
-2605:6440:1018:103::/60,396356.0,Latitude.sh,US,Computer and Information Technology,Internet Service Provider (ISP)
-2605:ef80:0001:1::/52,36492.0,Google LLC,US,Computer and Information Technology,Software Development
-2606:0040:015b:1e53::/64,36492.0,Google LLC,US,Computer and Information Technology,Software Development
-2606:0040:0acc:66dc::/64,36492.0,Google LLC,US,Computer and Information Technology,Software Development
-2607:0740:0045:1::/52,13213.0,UK-2 Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
-2607:6b80:0006:2::/52,55081.0,24 SHELLS,US,Computer and Information Technology,Internet Service Provider (ISP)
-2607:6b80:0006:5::/52,55081.0,24 SHELLS,US,Computer and Information Technology,Internet Service Provider (ISP)
-2607:f1c0:100f:f000:0000:0000:0000:02::/120,8560.0,IONOS SE,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2607:f740:000c:0045::/64,36236.0,"NetActuate, Inc",US,Computer and Information Technology,Internet Service Provider (ISP)
-2607:f798:0d04:028a::/64,812.0,Rogers Communications Canada Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2607:ff48:aa81:9403::/64,8100.0,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
-2610:00a1:1001:0000:0000:0000:0000:00::/120,397220.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-2610:00a1:1017:0000:0000:0000:0000:00::/120,397232.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-2800:09a7:3010:01e::/60,14522.0,Satnet,EC,Computer and Information Technology,Internet Service Provider (ISP)
-2803:f800:50::/40,,,,,
-2804:014c:5d31:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2606:0040:8::/36,36492.0,Google LLC,US,Computer and Information Technology,Software Development
+2607:f330:5fa1:1021:0000:0000:0000:00::/120,15130.0,United States Department of Justice,US,Government and Public Administration,"Law Enforcement, Public Safety, and Justice"
+2607:fa18:2100:000::/60,6315.0,"XMission, L.C.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2620:0000:0e00:0003:0000:0000:0000:00::/120,38.0,University of Illinois,US,Health Care Services,
+2620:0000:1cff:dead:beef:ffff:ffff:fb::/120,32934.0,"Facebook, Inc.",US,"Retail Stores, Wholesale, and E-commerce Sites",
+2620:011a:c01b:2::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2620:011a:c01b:4::/52,54113.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2620:0135:60fe:0000:0000:0000:0000:1e::/120,22697.0,Roblox,US,Computer and Information Technology,Internet Service Provider (ISP)
+2800:06c0:0005:0000:0000:0000:0000:01::/120,27823.0,Dattatec.com,AR,Computer and Information Technology,
+2803:6603:d001:0000:0000:0000:0000:08::/120,28075.0,ARLINK S.A.,AR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:3b72:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:4562:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5b31:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:6161:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014c:7574:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:7576:1000:0000:0000:0000:06::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:7576:1000:0000:0000:0000:08::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:7578:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:85c0:1000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7d89:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7d89:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7d93:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:9fe0::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014c:de41:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:de43:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:de44:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014c:de44:0000:0000:0000:0000:06::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de42:0000:0000:0000:0000:07::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:05::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014c:f420:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014c:f428:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:08c0:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014d:08c2:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:08c5:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:12a1:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:32d0:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:4030:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:4c58:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:4c71:0000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:08c6:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:08ca:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:32d3:0000:0000:0000:0000:36::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c50:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c52:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c71:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c71:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4cb4:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014d:4cb6:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:4cbb:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:4cea:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:54a1:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:54ae:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014d:54b1:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014d:5868:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:7223:1000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:7630:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:7e31:1000:0000:0000:0000:09::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:7e31:1000:0000:0000:0000:0a::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:8091:0000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:8092:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:90b1:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:90be:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:aca0:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:586d:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:7223:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:7e31:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:7e31:1000:0000:0000:0000:07::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:8095:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:8096:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:90bc:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:a042:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
 2804:014d:ae92:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2804:014d:ed2c:1000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
-2806:0262:8300:0000:0000:0000:0000:05::/120,13999.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0800:0752:0000:0000:0000:0000:01::/120,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0801:022d:dea6::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0801:022f:e702::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0801:022f:fcaf::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0801:0240:7c52::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:0801:0241:b31d::/64,1257.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:13b7:0000:0003::/64,34762.0,Combell NV,BE,Computer and Information Technology,Software Development
-2a00:6020:1000:0032:0000:0000:0000:02::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:0032:0000:0000:0000:08::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:0037:0000:0000:0000:07::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:0041:0000:0000:0000:16::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:6020:1000:0047:0000:0000:0000:19::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:7ee0:0001:0000:0003:0024:0000:0::/116,210403.0,Groupe LWS SARL,FR,,
-2a00:9fe0:0001:000c:0000:0000:0000:00::/120,15600.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001e:0000:0000:0000:43::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001f:0000:0000:0000:2f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0033:0000:0000:0000:07::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0035:0000:0000:0000:48::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0049:0000:0000:0000:47::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00a0:0000:0000:0000:05::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00d0:0000:0000:0000:13::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00d1:0000:0000:0000:2c::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:9fe0:0001:0007:0000:0000:0000:00::/120,15600.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
 2a00:9fe0:0001:0011:0000:0000:0000:0::/116,15600.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:010::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:012::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:a040:0000:015::/60,12849.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:b980:0116:0005:0000:0000:0000:01::/120,41000.0,Freethought Internet Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a00:bba0:1000:1001:0000:0000:0000:0::/116,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
-2a01:71c0:0001:0001:0123:0000:0000:00::/120,198066.0,"Grupo Loading Systems, S.L.",ES,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:1811:2d81:a160::/64,6848.0,Telenet BVBA,BE,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:2149:ff7f:0b00:0000:0000:0000:06::/120,1241.0,Nova Telecommunications & Media Single Member S.A,GR,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:2178:0000:0000:0000:0000:2d8c:64::/120,29075.0,IELO-LIAZO SERVICES SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:26f0:011a:037::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:6d00:0593::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:6d00:0594::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:6d00:0596::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:6d00:0597::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:6d00:0598::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:ab00:028e::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:b700:028f::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a00:f940:0002:0004:0002:0000:0000:50::/120,197695.0,"Domain names registrar REG.RU, Ltd",RU,Computer and Information Technology,
+2a00:f940:0002:0004:0002:0000:0000:54::/120,197695.0,"Domain names registrar REG.RU, Ltd",RU,Computer and Information Technology,
+2a01:5a60:0005:0000:0000:0000:0000:00::/120,200487.0,OOO VPS,RU,Computer and Information Technology,Hosting and Cloud Provider
+2a02:1368:6100:0916:feed:0000:0000:06::/120,51873.0,Arcade Solutions AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:2488:1c00:0000:0000:0000:0000:29::/120,29413.0,KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:002c:0000:0000:0000:0213:60::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00ad:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:011a:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:012d:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3100:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:c900:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:c900:0280::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:c900:0281::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
@@ -299,7 +266,6 @@
 2a02:26f0:c900:0496::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:c900:04a5::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:c900:04ac::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f0:cb00:01::/56,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:26f0:cb00:02::/56,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:26f0:cc00:0186::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:cc00:0187::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
@@ -428,79 +394,55 @@
 2a02:26f0:e200:038c::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:e200:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:e200:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-2a02:26f7:b5c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:b644::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:b9d0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:b9d8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:ba48::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:bc88::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:bf08::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c082::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c084::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c088::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c602::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c604::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c7c2::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c7c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:c8d0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:da08::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e348::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e380::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e384::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e388::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e3c0::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e400::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:e440::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f184::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f188::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f1c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f1c8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f204::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f208::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f244::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f248::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f284::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f288::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f404::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f4c4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:f908::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fb44::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fb48::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fb4c::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fb8c::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fb90::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fbc2::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fbc4::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fbc8::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fbcc::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:26f7:fc04::/48,36183.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2a02:4780:0029::/48,47583.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
-2a02:4780:002a::/48,47583.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+2a02:3102:8001:8004:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:3102:8001:804a:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:3102:8001:805a:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:3102:8001:806c:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:3102:8001:80a3:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:e980:0056:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:005c:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:005d:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:0107:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:0167:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:016e:0000:0000:0000:0000:00::/120,19551.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
-2a06:e881:5403::/48,,,,,
-2a06:e881:5404::/48,,,,,
-2a06:f900:000d:0302::/64,56630.0,Melbikomas UAB,LT,Computer and Information Technology,
-2a07:a343:bc7::/44,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
-2a07:ac80:0002:0000::/64,44812.0,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
-2a07:ac81:0000:0074::/64,44812.0,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:70c0:0000:3053::/64,51115.0,HLL LLC,RU,Computer and Information Technology,
+2a03:f480:0001:000a:0000:0000:0000:00::/120,198068.0,P.A.G.M. OU,EE,Computer and Information Technology,
+2a03:f680:fff2:0000:0000:0000:0000:0::/116,1547.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:f680:fff5:0000:0000:0000:0000:1::/116,1547.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:07::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:0b::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0100:0099:0000:0000:0000:0d::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0200:0099:0000:0000:0000:04::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:09::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0700:0099:0000:0000:0000:04::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0700:0099:0000:0000:0000:06::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0800:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0900:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0900:0099:0000:0000:0000:0a::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0b00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0b00:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1100:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1100:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1500:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1500:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1600:0099:0000:0000:0000:06::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1700:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:6e00:0099:0000:0000:0000:0::/116,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:7400:0099:0000:0000:0000:10::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:7400:0099:0000:0000:0000:13::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:07::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:ac87:0000:0074::/64,44812.0,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:0407:e::/36,204916.0,"RACKTECH CO., LTD.",TH,,
 2a09:04c0:05e0:0176::/64,58057.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:3b00:0000:0000::/64,,,,,
-2a09:3b04:0000:0000::/64,,,,,
-2a09:8280:0058::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:8280:0070::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0a:fa47:a::/36,210107.0,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
-2a0a:fa47:b::/36,210107.0,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
-2a0b:9800:0000:0000::/64,209641.0,I-SERVERS LTD,GB,Education and Research,
 2a0d:2dc0:0000:0000::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc0:1892:4499::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc0:242c:94fa::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc0:8cf6:6b13::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
-2a0d:2dc0:9225:e16c::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc1:0000:0000::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc1:0d66:8853::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:2dc1:34e3:823d::/64,213220.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
@@ -562,7 +504,6 @@
 2a0d:5600:0042:4288::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0042:4a54::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0042:6bc7::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
-2a0d:5600:0042:76d4::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0042:8d87::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0042:9338::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0042:b584::/64,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
@@ -612,82 +553,11 @@
 2a0d:5600:0073:5::/52,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0073:6::/52,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:5600:0073:9::/52,9009.0,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
-2a0d:c944:35ed:a9bb::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a0d:e0c1:0000:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a0d:e0c1:4000:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a0d:ee00:008f:0668:0000:0000:0001:1::/116,42487.0,Vialis SEM,FR,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:1b40:1003:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a0e:1b41:0000:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a0e:1b42:0000:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a0e:be01:8000:0000::/64,205227.0,"IT business solutions, MB",LT,Computer and Information Technology,Hosting and Cloud Provider
-2a0e:f200:0144:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f200:0144:2::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:b107:1172:00::/56,142055.0,Anillc Network,CN,Computer and Information Technology,Hosting and Cloud Provider
+2a0e:f200:0164:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:f201:0001:0::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:f201:0001:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:f201:0001:2::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0e:f201:0001:3::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:3e80:0002:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:3e80:0003:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:3e80:0004:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a0f:48c::/28,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
-2a0f:4f80:0000:0000::/64,210644.0,AEZA INTERNATIONAL LTD,GB,,
-2a0f:5680:0000:0007:0000:0000:0000:00::/120,60906.0,Playdom B.V.,CW,Computer and Information Technology,Hosting and Cloud Provider
-2a0f:7d00:1::/36,60781.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,
-2a0f:7f00::/32,197992.0,DEFSOLUTION LLC,US,,
-2a0f:c087:89ca::/48,,,,,
-2a0f:cf81:1de9:1eaa::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf81:21b4:ec70::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:cf81:2f01:1a88::/64,204916.0,"RACKTECH CO., LTD.",TH,,
-2a0f:e040:0000:000d::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:000e::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:000f::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:0010::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:0011::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:0012::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a0f:e040:0000:0013::/64,199925.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
-2a10:0bc4:0000:0000::/64,63023.0,GTHost,US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:0f47:0000:0000::/64,205745.0,CONTRUST SOLUTIONS S.R.L.,MD,,
-2a10:17c0:0001::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
-2a10:17c0:f435::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
-2a10:17c0:fff0::/48,40676.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
-2a10:68c0:0000:15::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:68c0:0000:16::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:68c0:0000:17::/56,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:68c0:0002:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:68c0:0003:0000::/64,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a10:c343::/32,204916.0,"RACKTECH CO., LTD.",TH,,
-2a10:cc46:120::/44,,,,,
-2a11:200:60::/36,,,,,
-2a11:3bc1:1dc2:6cda::/64,212238.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a11:8ec::/28,,,,,
-2a11:fc80:2277:0000::/64,210644.0,AEZA INTERNATIONAL LTD,GB,,
-2a11:fc80:5277:0000::/64,210644.0,AEZA INTERNATIONAL LTD,GB,,
-2a11:fc80:6267:0000::/64,210644.0,AEZA INTERNATIONAL LTD,GB,,
-2a12:7700:d739:0b6f::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a12:7702:8a99:ed34::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a12:7703:4e02:2d8d::/64,212144.0,"trafficforce, UAB",LT,Computer and Information Technology,Software Development
-2a12:d5c0::/32,,,,,
-2a12:d6c::/28,,,,,
-2a12:dd40:0::/36,945.0,hkgo LLC,TW,Computer and Information Technology,Internet Service Provider (ISP)
-2a12:ecc7::/32,,,,,
-2a12:f18::/28,133944.0,"trafficforce, UAB",LT,Computer and Information Technology,Computer and Network Security
-2a12:f44::/28,49981.0,WorldStream B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:0200:0000:0000::/64,197992.0,DEFSOLUTION LLC,US,,
-2a13:2984::/32,29182.0,JSC IOT,RU,Computer and Information Technology,
-2a13:2d45::/32,198231.0,SIXNET OPERATION LTD,GB,,
-2a13:2d46::/32,198231.0,SIXNET OPERATION LTD,GB,,
-2a13:2d47::/32,198231.0,SIXNET OPERATION LTD,GB,,
-2a13:3880:0000:0000::/64,25198.0,INTERKVM HOST SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:7e0::/28,43641.0,SOLLUTIUM EU Sp z.o.o.,PL,Computer and Information Technology,Software Development
-2a13:8340:0000:0000::/64,197992.0,DEFSOLUTION LLC,US,,
-2a13:8c44:0000:0000::/64,25198.0,INTERKVM HOST SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:928::/28,,,,,
-2a13:d100:0000:0000::/64,,,,,
-2a13:dac0:0000:0000::/64,216271.0,NETLABS LLC,UA,,
-2c0f:ee78:8004:8002::/64,61317.0,Hivelocity Inc,US,Computer and Information Technology,
-2c0f:fc00:b011:0180::/64,3741.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-2c0f:fc00:b011:0187::/64,3741.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-2c0f:fc00:b011:0188::/64,3741.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-2c0f:fc00:b011:0189::/64,3741.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-2c0f:fc00:b011:018d::/64,3741.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-2c0f:ff40:0030:0281::/64,10474.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:1e00:def9:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:1e01:0001:2::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:1e81:0002:2::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)

@@ -1,323 +1,423 @@
 ++++++++++++++++++++day 1
-df_alias_prefix_pre:  40645
+df_alias_prefix_pre:  39606
 df_all_prefix:  52498
-df_alias_prefix_pre:  40777
+df_alias_prefix_pre:  39904
 df_all_prefix:  52498
-df_alias_prefix_pre:  37415
+df_alias_prefix_pre:  35581
 df_all_prefix:  52498
-df_alias_prefix_pre:  41077
+df_alias_prefix_pre:  40423
 df_all_prefix:  52498
-df_all:  42850
-df_all_router_prefix:  52498
+df_all:  41266
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 2
-df_alias_prefix_pre:  43014
+df_alias_prefix_pre:  39082
 df_all_prefix:  52498
-df_alias_prefix_pre:  41311
+df_alias_prefix_pre:  40194
 df_all_prefix:  52498
-df_alias_prefix_pre:  40096
+df_alias_prefix_pre:  38557
 df_all_prefix:  52498
-df_alias_prefix_pre:  41055
+df_alias_prefix_pre:  40421
 df_all_prefix:  52498
-df_all:  47070
-df_all_router_prefix:  52498
+df_all:  41242
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 3
-df_alias_prefix_pre:  40707
+df_alias_prefix_pre:  39805
 df_all_prefix:  52498
-df_alias_prefix_pre:  40628
+df_alias_prefix_pre:  40163
 df_all_prefix:  52498
-df_alias_prefix_pre:  37196
+df_alias_prefix_pre:  36008
 df_all_prefix:  52498
-df_alias_prefix_pre:  41040
+df_alias_prefix_pre:  40393
 df_all_prefix:  52498
-df_all:  41911
-df_all_router_prefix:  52498
+df_all:  41232
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 4
-df_alias_prefix_pre:  40857
+df_alias_prefix_pre:  40205
 df_all_prefix:  52498
-df_alias_prefix_pre:  41149
+df_alias_prefix_pre:  40377
 df_all_prefix:  52498
-df_alias_prefix_pre:  40056
+df_alias_prefix_pre:  38661
 df_all_prefix:  52498
-df_alias_prefix_pre:  43348
+df_alias_prefix_pre:  39889
 df_all_prefix:  52498
-df_all:  46235
-df_all_router_prefix:  52498
+df_all:  41118
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 5
-df_alias_prefix_pre:  40733
+df_alias_prefix_pre:  40353
 df_all_prefix:  52498
-df_alias_prefix_pre:  44519
+df_alias_prefix_pre:  39838
 df_all_prefix:  52498
-df_alias_prefix_pre:  38475
+df_alias_prefix_pre:  37302
 df_all_prefix:  52498
-df_alias_prefix_pre:  40914
+df_alias_prefix_pre:  40575
 df_all_prefix:  52498
-df_all:  47041
-df_all_router_prefix:  52498
+df_all:  41306
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 6
-df_alias_prefix_pre:  40602
+df_alias_prefix_pre:  40291
 df_all_prefix:  52498
-df_alias_prefix_pre:  40381
+df_alias_prefix_pre:  39953
 df_all_prefix:  52498
-df_alias_prefix_pre:  40969
+df_alias_prefix_pre:  37505
 df_all_prefix:  52498
-df_alias_prefix_pre:  40969
+df_alias_prefix_pre:  37505
 df_all_prefix:  52498
-df_all:  45275
-df_all_router_prefix:  52498
+df_all:  41105
+df_merge_all_prefix:  52498
 ++++++++++++++++++++day 7
-df_alias_prefix_pre:  39688
+df_alias_prefix_pre:  38478
 df_all_prefix:  52498
-df_alias_prefix_pre:  40474
+df_alias_prefix_pre:  39990
 df_all_prefix:  52498
-df_alias_prefix_pre:  39695
+df_alias_prefix_pre:  38922
 df_all_prefix:  52498
-df_alias_prefix_pre:  41060
+df_alias_prefix_pre:  40283
 df_all_prefix:  52498
-df_all:  42195
-df_all_router_prefix:  52498
-7
+df_all:  41179
+df_merge_all_prefix:  52498
+[1349.837581495831, 1348.8372915080583, 1338.8377468954607, 1347.7749239267616, 1339.8379555792383, 1337.8361552544704, 1338.8373463943756]
 ############################################### day  1
-raw seed aliased prefix: 42850
+raw seed aliased prefix: 41266
 current router prefix: 4359
-all: 47209
-all after del dup: 43720
-number of directly del dup: 3489
-alias prefix number after gen short: 43023
-seed prefix after del router prefix: 39311
-number of del contain: 50
+all: 45625
+all after del dup: 42006
+number of directly del dup: 3619
+alias prefix number after gen short: 41687
+seed prefix after del router prefix: 37594
+number of del contain: 53
 &&&&&&&&& 1
-Number of aliased prefix (all):  39311
+Number of aliased prefix (all):  37594
 ------------------------------------
                          prefix  as org_name country category sub_category
-1767         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
-1945          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
-1986         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
-1999          2400:3f60:10::/40 NaN      NaN     NaN      NaN          NaN
-2256   2400:cb00:0122:0000::/64 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-39276             2a13:928::/28 NaN      NaN     NaN      NaN          NaN
-39281            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
-39282            2a13:b486::/32 NaN      NaN     NaN      NaN          NaN
-39283          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
-39288  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-
-[407 rows x 6 columns]
-Number of aliased prefix (cannot get as):  407
+21761   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21762   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21763   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21764   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21765   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21766   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21767   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21768   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21861   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21862   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+21956    2600:9000:318b:01::/56 NaN      NaN     NaN      NaN          NaN
+21957   2600:9000:318b:021::/60 NaN      NaN     NaN      NaN          NaN
+21958   2600:9000:318b:022::/60 NaN      NaN     NaN      NaN          NaN
+21959   2600:9000:318b:023::/60 NaN      NaN     NaN      NaN          NaN
+21960   2600:9000:318b:029::/60 NaN      NaN     NaN      NaN          NaN
+35349  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+35350  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+35351  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+35352  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+35353  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+35354  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+35355  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+35356  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+35357  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+35358  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+35359  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+35360  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+35361  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+35362  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+35363  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+35364  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37572  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  32
 ------------------------------------
-Number of aliased prefix (can get as):  38904
+Number of aliased prefix (can get as):  37562
 ############################################### day  2
-raw seed aliased prefix: 47070
+raw seed aliased prefix: 41242
 current router prefix: 4335
-all: 51405
-all after del dup: 47907
-number of directly del dup: 3498
-alias prefix number after gen short: 47204
-seed prefix after del router prefix: 43525
-number of del contain: 47
+all: 45577
+all after del dup: 41994
+number of directly del dup: 3583
+alias prefix number after gen short: 41674
+seed prefix after del router prefix: 37609
+number of del contain: 50
 &&&&&&&&& 2
-Number of aliased prefix (all):  43525
+Number of aliased prefix (all):  37609
 ------------------------------------
                          prefix  as org_name country category sub_category
-1832         2001:250:7001::/44 NaN      NaN     NaN      NaN          NaN
-2016          2001:678:c18::/40 NaN      NaN     NaN      NaN          NaN
-2057         2001:978:4203::/44 NaN      NaN     NaN      NaN          NaN
-2089         2400:8a20:140::/44 NaN      NaN     NaN      NaN          NaN
-2337   2400:cb00:0122:0000::/64 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-43472  2a13:1880:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-43491             2a13:928::/28 NaN      NaN     NaN      NaN          NaN
-43496            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
-43497          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
-43502  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-
-[477 rows x 6 columns]
-Number of aliased prefix (cannot get as):  477
+21736   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21737   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21738   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21739   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21740   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21741   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21742   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21743   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21837   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21838   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+21932    2600:9000:318b:01::/56 NaN      NaN     NaN      NaN          NaN
+21933   2600:9000:318b:021::/60 NaN      NaN     NaN      NaN          NaN
+21934   2600:9000:318b:022::/60 NaN      NaN     NaN      NaN          NaN
+21935   2600:9000:318b:023::/60 NaN      NaN     NaN      NaN          NaN
+21936   2600:9000:318b:029::/60 NaN      NaN     NaN      NaN          NaN
+35363  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+35364  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+35365  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+35366  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+35367  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+35368  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+35369  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+35370  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+35371  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+35372  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+35373  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+35374  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+35375  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+35376  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+35377  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+35378  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37587  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  32
 ------------------------------------
-Number of aliased prefix (can get as):  43048
+Number of aliased prefix (can get as):  37577
 ############################################### day  3
-raw seed aliased prefix: 41911
+raw seed aliased prefix: 41232
 current router prefix: 4336
-all: 46247
-all after del dup: 42891
-number of directly del dup: 3356
-alias prefix number after gen short: 42224
-seed prefix after del router prefix: 38512
-number of del contain: 43
+all: 45568
+all after del dup: 42001
+number of directly del dup: 3567
+alias prefix number after gen short: 41681
+seed prefix after del router prefix: 37612
+number of del contain: 53
 &&&&&&&&& 3
-Number of aliased prefix (all):  38512
+Number of aliased prefix (all):  37612
 ------------------------------------
                          prefix  as org_name country category sub_category
-21573       2600:9000:202c::/48 NaN      NaN     NaN      NaN          NaN
-21574       2600:9000:2059::/48 NaN      NaN     NaN      NaN          NaN
-21576       2600:9000:2065::/48 NaN      NaN     NaN      NaN          NaN
-21578       2600:9000:206e::/48 NaN      NaN     NaN      NaN          NaN
-21580       2600:9000:2074::/48 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-38457            2a12:d5c0::/32 NaN      NaN     NaN      NaN          NaN
-38458             2a12:d6c::/28 NaN      NaN     NaN      NaN          NaN
-38462            2a12:ecc7::/32 NaN      NaN     NaN      NaN          NaN
-38486             2a13:928::/28 NaN      NaN     NaN      NaN          NaN
-38491  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-
-[318 rows x 6 columns]
-Number of aliased prefix (cannot get as):  318
+21790   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21791   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21792   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21793   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21794   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21795   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21796   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21797   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21891   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21892   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+21986    2600:9000:318b:01::/56 NaN      NaN     NaN      NaN          NaN
+21987   2600:9000:318b:021::/60 NaN      NaN     NaN      NaN          NaN
+21988   2600:9000:318b:022::/60 NaN      NaN     NaN      NaN          NaN
+21989   2600:9000:318b:023::/60 NaN      NaN     NaN      NaN          NaN
+21990   2600:9000:318b:029::/60 NaN      NaN     NaN      NaN          NaN
+35367  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+35368  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+35369  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+35370  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+35371  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+35372  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+35373  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+35374  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+35375  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+35376  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+35377  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+35378  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+35379  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+35380  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+35381  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+35382  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37590  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  32
 ------------------------------------
-Number of aliased prefix (can get as):  38194
+Number of aliased prefix (can get as):  37580
 ############################################### day  4
-raw seed aliased prefix: 46235
+raw seed aliased prefix: 41118
 current router prefix: 4868
-all: 51103
-all after del dup: 47503
-number of directly del dup: 3600
-alias prefix number after gen short: 46454
-seed prefix after del router prefix: 42322
-number of del contain: 313
+all: 45986
+all after del dup: 42404
+number of directly del dup: 3582
+alias prefix number after gen short: 41737
+seed prefix after del router prefix: 37222
+number of del contain: 314
 &&&&&&&&& 4
-Number of aliased prefix (all):  42322
+Number of aliased prefix (all):  37222
 ------------------------------------
                          prefix  as org_name country category sub_category
-21480       2600:9000:202c::/48 NaN      NaN     NaN      NaN          NaN
-21482       2600:9000:2059::/48 NaN      NaN     NaN      NaN          NaN
-21484       2600:9000:2065::/48 NaN      NaN     NaN      NaN          NaN
-21485       2600:9000:206e::/48 NaN      NaN     NaN      NaN          NaN
-21486       2600:9000:2074::/48 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-42275            2a12:de43::/32 NaN      NaN     NaN      NaN          NaN
-42279  2a13:1880:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-42283            2a13:18c2::/32 NaN      NaN     NaN      NaN          NaN
-42302            2a13:b483::/32 NaN      NaN     NaN      NaN          NaN
-42303          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
-
-[450 rows x 6 columns]
-Number of aliased prefix (cannot get as):  450
+21661   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21662   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21663   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21664   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21665   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21666   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21667   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21668   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21762   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21763   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+21857    2600:9000:318b:01::/56 NaN      NaN     NaN      NaN          NaN
+21858   2600:9000:318b:021::/60 NaN      NaN     NaN      NaN          NaN
+21859   2600:9000:318b:022::/60 NaN      NaN     NaN      NaN          NaN
+21860   2600:9000:318b:023::/60 NaN      NaN     NaN      NaN          NaN
+21861   2600:9000:318b:029::/60 NaN      NaN     NaN      NaN          NaN
+34973  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+34974  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+34975  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+34976  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+34977  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+34978  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+34979  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+34980  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+34981  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+34982  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+34983  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+34984  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+34985  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+34986  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+34987  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+34988  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37200  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  32
 ------------------------------------
-Number of aliased prefix (can get as):  41872
+Number of aliased prefix (can get as):  37190
 ############################################### day  5
-raw seed aliased prefix: 47041
+raw seed aliased prefix: 41306
 current router prefix: 4384
-all: 51425
-all after del dup: 47828
-number of directly del dup: 3597
-alias prefix number after gen short: 47129
-seed prefix after del router prefix: 43394
-number of del contain: 50
+all: 45690
+all after del dup: 42064
+number of directly del dup: 3626
+alias prefix number after gen short: 41745
+seed prefix after del router prefix: 37627
+number of del contain: 53
 &&&&&&&&& 5
-Number of aliased prefix (all):  43394
+Number of aliased prefix (all):  37627
 ------------------------------------
                          prefix  as org_name country category sub_category
-3342          2407:9240:32::/40 NaN      NaN     NaN      NaN          NaN
-21669       2600:9000:202c::/48 NaN      NaN     NaN      NaN          NaN
-21670       2600:9000:2050::/48 NaN      NaN     NaN      NaN          NaN
-21671       2600:9000:2059::/48 NaN      NaN     NaN      NaN          NaN
-21673       2600:9000:2065::/48 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-43349            2a12:ecc7::/32 NaN      NaN     NaN      NaN          NaN
-43368             2a13:6c4::/28 NaN      NaN     NaN      NaN          NaN
-43373             2a13:928::/28 NaN      NaN     NaN      NaN          NaN
-43377          2a13:b487:1::/36 NaN      NaN     NaN      NaN          NaN
-43379  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-
-[473 rows x 6 columns]
-Number of aliased prefix (cannot get as):  473
+21773   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21774   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21775   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21776   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21777   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21778   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21779   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21780   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21873   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21874   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+21968    2600:9000:318b:01::/56 NaN      NaN     NaN      NaN          NaN
+21969   2600:9000:318b:021::/60 NaN      NaN     NaN      NaN          NaN
+21970   2600:9000:318b:022::/60 NaN      NaN     NaN      NaN          NaN
+21971   2600:9000:318b:023::/60 NaN      NaN     NaN      NaN          NaN
+21972   2600:9000:318b:029::/60 NaN      NaN     NaN      NaN          NaN
+35386  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+35387  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+35388  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+35389  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+35390  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+35391  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+35392  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+35393  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+35394  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+35395  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+35396  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+35397  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+35398  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+35399  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+35400  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+35401  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37613  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  32
 ------------------------------------
-Number of aliased prefix (can get as):  42921
+Number of aliased prefix (can get as):  37595
 ############################################### day  6
-raw seed aliased prefix: 45275
+raw seed aliased prefix: 41105
 current router prefix: 4357
-all: 49632
-all after del dup: 46150
-number of directly del dup: 3482
-alias prefix number after gen short: 45469
-seed prefix after del router prefix: 41743
-number of del contain: 50
+all: 45462
+all after del dup: 41886
+number of directly del dup: 3576
+alias prefix number after gen short: 41566
+seed prefix after del router prefix: 37473
+number of del contain: 56
 &&&&&&&&& 6
-Number of aliased prefix (all):  41743
+Number of aliased prefix (all):  37473
 ------------------------------------
                          prefix  as org_name country category sub_category
-21355       2600:9000:202c::/48 NaN      NaN     NaN      NaN          NaN
-21356       2600:9000:2050::/48 NaN      NaN     NaN      NaN          NaN
-21359       2600:9000:2059::/48 NaN      NaN     NaN      NaN          NaN
-21362       2600:9000:206e::/48 NaN      NaN     NaN      NaN          NaN
-21363       2600:9000:2074::/48 NaN      NaN     NaN      NaN          NaN
-...                         ...  ..      ...     ...      ...          ...
-41702            2a12:d5c0::/32 NaN      NaN     NaN      NaN          NaN
-41703             2a12:d6c::/28 NaN      NaN     NaN      NaN          NaN
-41707            2a12:ecc7::/32 NaN      NaN     NaN      NaN          NaN
-41725             2a13:928::/28 NaN      NaN     NaN      NaN          NaN
-41730  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
-
-[431 rows x 6 columns]
-Number of aliased prefix (cannot get as):  431
+21677       2600:9000:26b8::/48 NaN      NaN     NaN      NaN          NaN
+21742   2600:9000:30d4:020::/60 NaN      NaN     NaN      NaN          NaN
+21743   2600:9000:30d4:021::/60 NaN      NaN     NaN      NaN          NaN
+21744   2600:9000:30d4:022::/60 NaN      NaN     NaN      NaN          NaN
+21745   2600:9000:30d4:023::/60 NaN      NaN     NaN      NaN          NaN
+21746   2600:9000:30d4:024::/60 NaN      NaN     NaN      NaN          NaN
+21747   2600:9000:30d4:025::/60 NaN      NaN     NaN      NaN          NaN
+21748   2600:9000:30d4:026::/60 NaN      NaN     NaN      NaN          NaN
+21749   2600:9000:30d4:029::/60 NaN      NaN     NaN      NaN          NaN
+21840   2600:9000:3116:021::/60 NaN      NaN     NaN      NaN          NaN
+21841   2600:9000:3116:027::/60 NaN      NaN     NaN      NaN          NaN
+35232  2a0f:2100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+35233  2a0f:2100:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+35234  2a0f:2100:0171:0e3f::/64 NaN      NaN     NaN      NaN          NaN
+35235  2a0f:2100:0171:2343::/64 NaN      NaN     NaN      NaN          NaN
+35236  2a0f:2100:0171:2846::/64 NaN      NaN     NaN      NaN          NaN
+35237  2a0f:2100:0171:3497::/64 NaN      NaN     NaN      NaN          NaN
+35238  2a0f:2100:0171:3a38::/64 NaN      NaN     NaN      NaN          NaN
+35239  2a0f:2100:0171:43a0::/64 NaN      NaN     NaN      NaN          NaN
+35240  2a0f:2100:0171:5e5e::/64 NaN      NaN     NaN      NaN          NaN
+35241  2a0f:2100:0171:7c36::/64 NaN      NaN     NaN      NaN          NaN
+35242  2a0f:2100:0171:8b26::/64 NaN      NaN     NaN      NaN          NaN
+35243  2a0f:2100:0171:afbf::/64 NaN      NaN     NaN      NaN          NaN
+35244  2a0f:2100:0171:bd27::/64 NaN      NaN     NaN      NaN          NaN
+35245  2a0f:2100:0171:c454::/64 NaN      NaN     NaN      NaN          NaN
+35246  2a0f:2100:0171:d57a::/64 NaN      NaN     NaN      NaN          NaN
+35247  2a0f:2100:0171:e086::/64 NaN      NaN     NaN      NaN          NaN
+37459  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  28
 ------------------------------------
-Number of aliased prefix (can get as):  41312
+Number of aliased prefix (can get as):  37445
 ############################################### day  7
-raw seed aliased prefix: 42195
+raw seed aliased prefix: 41179
 current router prefix: 4384
-all: 46579
-all after del dup: 43132
-number of directly del dup: 3447
-alias prefix number after gen short: 42454
-seed prefix after del router prefix: 38706
-number of del contain: 42
+all: 45563
+all after del dup: 41905
+number of directly del dup: 3658
+alias prefix number after gen short: 41588
+seed prefix after del router prefix: 37470
+number of del contain: 51
 &&&&&&&&& 7
-Number of aliased prefix (all):  38706
+Number of aliased prefix (all):  37470
 ------------------------------------
-                                         prefix  as  ... category sub_category
-1937                         2001:978:4203::/44 NaN  ...      NaN          NaN
-2206                   2400:cb00:0122:0000::/64 NaN  ...      NaN          NaN
-2298   2400:cb00:0176:0001:0000:0000:0000::/112 NaN  ...      NaN          NaN
-2321                   2400:cb00:0191:0000::/64 NaN  ...      NaN          NaN
-2555                   2400:cb00:0394:0000::/64 NaN  ...      NaN          NaN
-...                                         ...  ..  ...      ...          ...
-38653                            2a12:d5c0::/32 NaN  ...      NaN          NaN
-38654                             2a12:d6c::/28 NaN  ...      NaN          NaN
-38660                            2a12:ecc7::/32 NaN  ...      NaN          NaN
-38685                             2a13:928::/28 NaN  ...      NaN          NaN
-38691                  2a13:d100:0000:0000::/64 NaN  ...      NaN          NaN
-
-[336 rows x 6 columns]
-Number of aliased prefix (cannot get as):  336
+                         prefix  as org_name country category sub_category
+21525       2600:9000:2303::/48 NaN      NaN     NaN      NaN          NaN
+37456  2a13:d100:0000:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  2
 ------------------------------------
-Number of aliased prefix (can get as):  38370
+Number of aliased prefix (can get as):  37468
+[17.022715834511622, 18.0229904217014, 19.08594580980222, 23.96051337996702, 20.022754284862607, 20.022785014083787, 19.022740133634365]
 ################################ start compare 1 and 2
-df_alias_prefix_pre:  39311
-df_alias_prefix_next:  43525
-result_co:  39121
-result_loss:  190
-result_new:  4404
+df_alias_prefix_pre:  37594
+df_alias_prefix_next:  37609
+result_co:  37434
+result_loss:  160
+result_new:  175
 --------------------- end compare 1 and 2
 ################################ start compare 2 and 3
-df_alias_prefix_pre:  43525
-df_alias_prefix_next:  38512
-result_co:  38308
-result_loss:  5217
-result_new:  204
+df_alias_prefix_pre:  37609
+df_alias_prefix_next:  37612
+result_co:  37435
+result_loss:  174
+result_new:  177
 --------------------- end compare 2 and 3
 ################################ start compare 3 and 4
-df_alias_prefix_pre:  38512
-df_alias_prefix_next:  42322
-result_co:  37819
-result_loss:  693
-result_new:  4503
+df_alias_prefix_pre:  37612
+df_alias_prefix_next:  37222
+result_co:  37049
+result_loss:  563
+result_new:  173
 --------------------- end compare 3 and 4
 ################################ start compare 4 and 5
-df_alias_prefix_pre:  42322
-df_alias_prefix_next:  43394
-result_co:  41730
-result_loss:  592
-result_new:  1664
+df_alias_prefix_pre:  37222
+df_alias_prefix_next:  37627
+result_co:  37052
+result_loss:  170
+result_new:  575
 --------------------- end compare 4 and 5
 ################################ start compare 5 and 6
-df_alias_prefix_pre:  43394
-df_alias_prefix_next:  41743
-result_co:  41446
-result_loss:  1948
-result_new:  297
+df_alias_prefix_pre:  37627
+df_alias_prefix_next:  37473
+result_co:  37360
+result_loss:  267
+result_new:  113
 --------------------- end compare 5 and 6
 ################################ start compare 6 and 7
-df_alias_prefix_pre:  41743
-df_alias_prefix_next:  38706
-result_co:  37982
-result_loss:  3761
-result_new:  724
+df_alias_prefix_pre:  37473
+df_alias_prefix_next:  37470
+result_co:  37210
+result_loss:  263
+result_new:  260
 --------------------- end compare 6 and 7

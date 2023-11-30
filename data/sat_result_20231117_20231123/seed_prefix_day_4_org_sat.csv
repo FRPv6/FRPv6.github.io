@@ -1,488 +1,321 @@
-org_name,as,number of aliased prefix,ratio of aliased prefix,country,category,sub_category
-Akamai International B.V.,"[20940, 21342]",9833,0.33991,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-"Amazon.com, Inc.",[16509],5620,0.19428,US,Computer and Information Technology,Hosting and Cloud Provider
-"Facebook, Inc.",[32934],1950,0.06741,US,"Retail Stores, Wholesale, and E-commerce Sites",None
-Google LLC,"[36492, 15169, 396982]",1835,0.06344,US,Computer and Information Technology,Software Development
-"Cloudflare, Inc.","[13335, 395747]",1413,0.048839999999999995,US,Computer and Information Technology,Hosting and Cloud Provider
-Hostinger International Limited,[47583],969,0.0335,CY,Computer and Information Technology,Software Development
-"The Constant Company, LLC",[20473],745,0.02575,US,Computer and Information Technology,Internet Service Provider (ISP)
-Hurricane Electric LLC,[6939],685,0.02368,US,Computer and Information Technology,Internet Service Provider (ISP)
-wilhelm.tel GmbH,[15943],262,0.00906,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Claro NXT Telecomunicacoes Ltda,[28573],242,0.00837,BR,Computer and Information Technology,Internet Service Provider (ISP)
-Incapsula Inc,[19551],233,0.00805,US,Computer and Information Technology,Computer and Network Security
-Combell NV,[34762],214,0.0074,BE,Computer and Information Technology,Software Development
-VisualViet Company Limited,[135981],179,0.00619,VN,Computer and Information Technology,Internet Service Provider (ISP)
-M247 Europe SRL,[9009],176,0.00608,RO,Computer and Information Technology,Internet Service Provider (ISP)
-UK-2 Limited,[13213],168,0.00581,GB,Computer and Information Technology,Hosting and Cloud Provider
-HOSTKEY,[395839],167,0.00577,US,Computer and Information Technology,Phone Provider
-Deutsche Glasfaser Wholesale GmbH,[60294],151,0.00522,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Rumahweb,[58487],126,0.00436,ID,Computer and Information Technology,Internet Service Provider (ISP)
-"Akamai Technologies, Inc.","[36183, 63949, 16625]",120,0.00415,US,Computer and Information Technology,Computer and Network Security
-Telefonica Germany GmbH & Co.OHG,[6805],119,0.00411,DE,Computer and Information Technology,Internet Service Provider (ISP)
-"Leaseweb USA, Inc.",[30633],107,0.0037,US,Computer and Information Technology,Internet Service Provider (ISP)
-PT XL Axiata Tbk,[24203],93,0.00321,ID,Computer and Information Technology,Internet Service Provider (ISP)
-Bharti Airtel Limited,"[9498, 45609, 24560]",82,0.0028300000000000005,IN,Computer and Information Technology,Internet Service Provider (ISP)
-Arelion Sweden AB,[1299],73,0.00252,SE,Computer and Information Technology,Internet Service Provider (ISP)
-Performive LLC,[46562],71,0.00245,US,Computer and Information Technology,Internet Service Provider (ISP)
-NetCologne Gesellschaft fur Telekommunikation mbH,[8422],65,0.00225,DE,Computer and Information Technology,Internet Service Provider (ISP)
-TELECOM ITALIA SPARKLE S.p.A.,[6762],63,0.00218,IT,Computer and Information Technology,Internet Service Provider (ISP)
-Reliance Jio Infocomm Limited,[55836],60,0.00207,IN,Computer and Information Technology,Internet Service Provider (ISP)
-Bouygues Telecom SA,[5410],59,0.00204,FR,Computer and Information Technology,Internet Service Provider (ISP)
-RETN Limited,[9002],58,0.002,GB,Computer and Information Technology,Internet Service Provider (ISP)
-Datacamp Limited,"[212238, 60068]",57,0.00197,GB,Computer and Information Technology,Internet Service Provider (ISP)
-"Comcast Cable Communications, LLC",[7922],53,0.00183,US,Computer and Information Technology,Internet Service Provider (ISP)
-LeaseWeb Netherlands B.V.,[60781],49,0.00169,NL,Computer and Information Technology,None
-PrivateSystems Networks,[63410],49,0.00169,US,Computer and Information Technology,Internet Service Provider (ISP)
-Altinea SAS,[41405],47,0.00162,FR,Computer and Information Technology,None
-Vietnam Posts and Telecommunications (VNPT),[45899],47,0.00162,VN,Computer and Information Technology,Internet Service Provider (ISP)
-CHINA UNICOM Industrial Internet Backbone,"[4837, 9929]",47,0.00163,CN,Computer and Information Technology,Internet Service Provider (ISP)
-I-SERVERS LTD,[209641],44,0.00152,GB,Education and Research,None
-InnoGames GmbH,[208058],42,0.00145,DE,"Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",None
-Latitude.sh,[396356],42,0.00145,US,Computer and Information Technology,Internet Service Provider (ISP)
-Telstra Corporation Limited,[1221],41,0.00142,AU,Service,"Law, Business, and Consulting Services"
-Rogers Communications Canada Inc.,[812],40,0.00138,CA,Computer and Information Technology,Internet Service Provider (ISP)
-Bharat Sanchar Nigam Ltd,[9829],40,0.00138,IN,Computer and Information Technology,Internet Service Provider (ISP)
-"RACKTECH CO., LTD.",[204916],39,0.00135,TH,None,None
-"IT business solutions, MB",[205227],38,0.00131,LT,Computer and Information Technology,Hosting and Cloud Provider
-Megacore Technology Company Limited,[140810],38,0.00131,VN,Computer and Information Technology,Internet Service Provider (ISP)
-"GALAXYGATE, LLC",[397031],36,0.00124,US,Other,None
-Latitude.sh LTDA,[262287],36,0.00124,BR,Computer and Information Technology,Hosting and Cloud Provider
-China Mobile,"[24547, 9808, 24444, 24400]",36,0.0012300000000000002,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Republican Unitary Telecommunication Enterprise Beltelecom,[6697],35,0.00121,BY,Computer and Information Technology,Internet Service Provider (ISP)
-Triple T Broadband Public Company Limited,[45758],33,0.00114,TH,Computer and Information Technology,Internet Service Provider (ISP)
-China Mobile Communications Corporation,"[56040, 56046, 56041, 134810, 56048]",32,0.0011,CN,Computer and Information Technology,Internet Service Provider (ISP)
-GTS Telecom SRL,[5606],31,0.00107,RO,Computer and Information Technology,Internet Service Provider (ISP)
-Vodafone Idea Ltd. (VIL),"[55644, 38266, 55410]",31,0.0010600000000000002,IN,Computer and Information Technology,Internet Service Provider (ISP)
-One New Zealand Group Limited,[9500],31,0.00107,NZ,Computer and Information Technology,Internet Service Provider (ISP)
-Bell Canada,[577],30,0.00104,CA,Computer and Information Technology,Internet Service Provider (ISP)
-One.com A/S,[51468],28,0.00097,DK,Computer and Information Technology,None
-CONTRUST SOLUTIONS S.R.L.,[205745],28,0.00097,MD,None,None
-Proximus NV,[5432],28,0.00097,BE,Computer and Information Technology,Internet Service Provider (ISP)
-Delta Ltd,[213220],28,0.00097,RU,Computer and Information Technology,Internet Service Provider (ISP)
-"trafficforce, UAB","[212144, 201341]",26,0.00089,LT,Computer and Information Technology,Software Development
-"Taiwan Fixed Network, Telco and Network Service Provider.",[9924],25,0.00086,TW,Computer and Information Technology,Internet Service Provider (ISP)
-China Telecom,"[140903, 137702, 134756, 140345, 140061]",24,0.00082,CN,Computer and Information Technology,None
-Neustar Security Services,"[397232, 397224, 397226]",24,0.00083,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-TELUS Communications Inc.,[852],24,0.00083,CA,Computer and Information Technology,Internet Service Provider (ISP)
-FranTech Solutions,[53667],23,0.0008,US,Computer and Information Technology,Hosting and Cloud Provider
-KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung,[29413],22,0.00076,DE,Computer and Information Technology,Internet Service Provider (ISP)
-"HAProxy Technologies, Inc.",[11019],21,0.00073,US,Computer and Information Technology,Computer and Network Security
-"No.31,Jin-rong Street",[4134],20,0.00069,CN,Computer and Information Technology,Internet Service Provider (ISP)
-HKBN Enterprise Solutions HK Limited,[9381],20,0.00069,HK,Computer and Information Technology,Internet Service Provider (ISP)
-Dimension Data,"[10474, 3741]",19,0.00066,ZA,Computer and Information Technology,Internet Service Provider (ISP)
-Tele2 Sverige AB,[1257],19,0.00066,SE,Computer and Information Technology,Internet Service Provider (ISP)
-"StackPath, LLC.",[33438],19,0.00066,US,Computer and Information Technology,Computer and Network Security
-Starhub Ltd.,[4657],19,0.00066,SG,Computer and Information Technology,Internet Service Provider (ISP)
-CAT Telecom Public Company Limited,[4651],19,0.00066,TH,Computer and Information Technology,Internet Service Provider (ISP)
-Groupe LWS SARL,[210403],19,0.00066,FR,None,None
-China Mobile International Limited,[58453],19,0.00066,HK,Computer and Information Technology,Internet Service Provider (ISP)
-Association FAImaison,[203432],18,0.00062,FR,Community Groups and Nonprofits,Other
-Free Range Cloud Hosting Inc.,[53356],18,0.00062,CA,Computer and Information Technology,Internet Service Provider (ISP)
-Fiber Operator B.V.,[207375],17,0.00059,NL,Computer and Information Technology,Internet Service Provider (ISP)
-"Fundacao para a Ciencia e a Tecnologia, I.P.",[1930],17,0.00059,PT,Computer and Information Technology,Internet Service Provider (ISP)
-Saudi Telecom Company JSC,[25019],16,0.00055,SA,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-"Grupo Loading Systems, S.L.",[198066],16,0.00055,ES,Computer and Information Technology,Internet Service Provider (ISP)
-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,[210107],16,0.00055,TR,Computer and Information Technology,Internet Service Provider (ISP)
-FUNPAR - Fundacao da UFPR para o DCTC,[10881],16,0.00055,BR,Education and Research,None
-"QTnet,Inc.",[7679],15,0.00052,JP,None,None
-Swisscom (Schweiz) AG,[3303],15,0.00052,CH,Computer and Information Technology,Internet Service Provider (ISP)
-MonoCloud Pty Ltd,[149485],15,0.00052,AU,"Media, Publishing, and Broadcasting",Online Informational Content
-Xplornet Communications Inc.,[22995],15,0.00052,CA,Computer and Information Technology,Internet Service Provider (ISP)
-Kirino LLC,[41378],15,0.00052,US,Computer and Information Technology,Internet Service Provider (ISP)
-SIXNET OPERATION LTD,[198231],15,0.00052,GB,None,None
-Blacknight Internet Solutions Limited,[39122],14,0.00048,IE,Computer and Information Technology,Software Development
-Maxis Broadband Sdn Bhd,[9534],14,0.00048,MY,Computer and Information Technology,Internet Service Provider (ISP)
-TPG Internet Pty Ltd,[7545],14,0.00048,AU,Computer and Information Technology,Internet Service Provider (ISP)
-Securebit AG,[58057],14,0.00048,CH,Computer and Information Technology,Internet Service Provider (ISP)
-24 SHELLS,[55081],14,0.00048,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Atria Convergence Technologies Pvt. Ltd.,",[24309],14,0.00048,IN,Computer and Information Technology,Internet Service Provider (ISP)
-Internet Rimon LTD,[42925],13,0.00045,IL,Computer and Information Technology,Internet Service Provider (ISP)
-Ford Motor Company,[3389],13,0.00045,US,"Freight, Shipment, and Postal Services",None
-Jordan Telecommunications PSC,[8697],13,0.00045,JO,Computer and Information Technology,Internet Service Provider (ISP)
-Local Loop Oy,[204779],13,0.00045,FI,Computer and Information Technology,Software Development
-WorldLink Communications,[17501],13,0.00045,NP,Computer and Information Technology,Internet Service Provider (ISP)
-"ChoicePoint, Inc.",[25923],13,0.00045,US,Computer and Information Technology,Software Development
-National Chung Hsing University,[1659],12,0.00041,TW,Education and Research,"Colleges, Universities, and Professional Schools"
-TM TECHNOLOGY SERVICES SDN BHD,[4788],12,0.00041,MY,Computer and Information Technology,Internet Service Provider (ISP)
-Sprious LLC,[64267],12,0.00041,US,Computer and Information Technology,Internet Service Provider (ISP)
-CONTROLD INC.,[398962],12,0.00041,CA,Community Groups and Nonprofits,Other
-Individual Network Berlin e.V.,[29670],12,0.00041,DE,Community Groups and Nonprofits,None
-Essener Systemhaus,[205807],11,0.00038,DE,Computer and Information Technology,None
-Constantine Cybersecurity Ltd.,[211298],11,0.00038,GB,Computer and Information Technology,None
-"Nocix, LLC",[33387],11,0.00038,US,Computer and Information Technology,Internet Service Provider (ISP)
-Telstra International Limited,[4637],11,0.00038,HK,Computer and Information Technology,Internet Service Provider (ISP)
-"NOS COMUNICACOES, S.A.",[2860],11,0.00038,PT,Computer and Information Technology,Internet Service Provider (ISP)
-OVH SAS,[16276],10,0.00035,FR,Computer and Information Technology,Hosting and Cloud Provider
-"Mega Cable, S.A. de C.V.",[13999],10,0.00035,MX,Computer and Information Technology,Internet Service Provider (ISP)
-LLC Vpsville,[59504],10,0.00035,RU,Computer and Information Technology,Software Development
-IMPERVA INC,[62571],9,0.00031,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-JSC IOT,[29182],9,0.00031,RU,Computer and Information Technology,None
-AltusHost B.V.,[51430],9,0.00031,NL,Computer and Information Technology,Internet Service Provider (ISP)
-DIGITAL NETWORK S.R.L.,[212786],9,0.00031,MD,Computer and Information Technology,Hosting and Cloud Provider
-Latvijas Mobilais Telefons SIA,[24921],9,0.00031,LV,Computer and Information Technology,Internet Service Provider (ISP)
-JSC RTComm.RU,[8342],9,0.00031,RU,Computer and Information Technology,Internet Service Provider (ISP)
-"Tianjij,300000",[58542],9,0.00031,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Clouvider Limited,[62240],9,0.00031,GB,Computer and Information Technology,Internet Service Provider (ISP)
-Intergrid Group Pty Ltd,[133480],8,0.00028,AU,Computer and Information Technology,Internet Service Provider (ISP)
-"LLC ""MASTERHOST""",[25532],8,0.00028,RU,Computer and Information Technology,Software Development
-IP SERVER LLC,[44812],8,0.00028,RU,Computer and Information Technology,Internet Service Provider (ISP)
-"Limelight Networks, Inc.",[22822],8,0.00028,US,Computer and Information Technology,Internet Service Provider (ISP)
-NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI,[202505],8,0.00028,TR,Computer and Information Technology,Hosting and Cloud Provider
-LoudTronix Inc.,[205212],8,0.00028,CA,Community Groups and Nonprofits,Other
-Arcade Solutions AG,[51873],8,0.00028,CH,Computer and Information Technology,Internet Service Provider (ISP)
-China Unicom,"[138421, 4808, 136959, 140716, 17816]",8,0.00026000000000000003,CN,Computer and Information Technology,None
-QuadraNet Enterprises LLC,[8100],8,0.00028,US,Computer and Information Technology,Computer and Network Security
-Data102,[17185],8,0.00028,US,Computer and Information Technology,Internet Service Provider (ISP)
-SCALEWAY S.A.S.,[12876],8,0.00028,FR,Computer and Information Technology,None
-Petersburg Internet Network ltd.,[34665],8,0.00028,RU,Computer and Information Technology,Internet Service Provider (ISP)
-"Eagle Sky Co., Lt",[55303],8,0.00028,BZ,Computer and Information Technology,Hosting and Cloud Provider
-"TierPoint, LLC",[17378],7,0.00024,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Beijing Educational Information Network Service Center Co., Ltd",[9806],7,0.00024,CN,Computer and Information Technology,None
-GNET Internet Telekomunikasyon A.S.,[42846],7,0.00024,TR,Computer and Information Technology,Internet Service Provider (ISP)
-China Telecom (Group),"[4835, 4811, 4812]",7,0.00024,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Satnet,[14522],7,0.00024,EC,Computer and Information Technology,Internet Service Provider (ISP)
-3xK Tech GmbH,"[198571, 200373]",7,0.00024,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Hivelocity Inc,[61317],7,0.00024,US,Computer and Information Technology,None
-Deutsche Telekom AG,[3320],7,0.00024,DE,Computer and Information Technology,Internet Service Provider (ISP)
-CLDIN B.V.,[48635],7,0.00024,NL,Computer and Information Technology,Hosting and Cloud Provider
-telematis Netzwerke GmbH,[61967],6,0.00021,DE,Computer and Information Technology,None
-Turk Telekomunikasyon Anonim Sirketi,[9121],6,0.00021,TR,Computer and Information Technology,Internet Service Provider (ISP)
-firstcolo GmbH,[44066],6,0.00021,DE,Computer and Information Technology,Internet Service Provider (ISP)
-"GridFury, LLC",[40630],6,0.00021,US,Computer and Information Technology,Internet Service Provider (ISP)
-DEFSOLUTION LLC,[197992],6,0.00021,US,None,None
-PT. Telekomunikasi Selular,[23693],6,0.00021,ID,Computer and Information Technology,Internet Service Provider (ISP)
-"Chunghwa Telecom Co., Ltd.",[3462],6,0.00021,TW,Computer and Information Technology,Internet Service Provider (ISP)
-EuroByte LLC,[210079],6,0.00021,RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
-VOCUS PTY LTD,[9443],6,0.00021,AU,Computer and Information Technology,Internet Service Provider (ISP)
-"AT&T Services, Inc.",[7018],6,0.00021,US,Computer and Information Technology,Internet Service Provider (ISP)
-Vetenskapsradet / SUNET,[1653],6,0.00021,SE,Computer and Information Technology,Internet Service Provider (ISP)
-Orange S.A.,[3215],6,0.00021,FR,Computer and Information Technology,Internet Service Provider (ISP)
-China Education and Research Network Center,[4538],6,0.00021,CN,Education and Research,"Colleges, Universities, and Professional Schools"
-Cox Communications Inc.,[22773],6,0.00021,US,Computer and Information Technology,Internet Service Provider (ISP)
-EGIHosting,[18779],6,0.00021,US,Computer and Information Technology,Internet Service Provider (ISP)
-SatGate LLC,[30721],6,0.00021,RU,Computer and Information Technology,Internet Service Provider (ISP)
-Black Mesa Corporation,[46997],6,0.00021,US,Health Care Services,Other
-Societe Francaise Du Radiotelephone - SFR SA,[15557],5,0.00017,FR,Computer and Information Technology,Internet Service Provider (ISP)
-NTX Technologies s.r.o.,[50113],5,0.00017,CZ,Computer and Information Technology,Internet Service Provider (ISP)
-Plim Mobile Telecom LLC,[216435],5,0.00017,US,None,None
-ANS ACADEMY LIMITED,[61323],5,0.00017,GB,Computer and Information Technology,None
-Eons Data Communications Limited,[138997],5,0.00017,HK,Computer and Information Technology,Internet Service Provider (ISP)
-"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",[131486],5,0.00017,CN,"Museums, Libraries, and Entertainment","Recreation, Sports, and Performing Arts"
-Roblox,[22697],5,0.00017,US,Computer and Information Technology,Internet Service Provider (ISP)
-hkgo LLC,[945],5,0.00017,TW,Computer and Information Technology,Internet Service Provider (ISP)
-WhatsApp,[11917],5,0.00017,US,"Retail Stores, Wholesale, and E-commerce Sites",None
-Dattatec.com,[27823],5,0.00017,AR,Computer and Information Technology,None
-Free SAS,[12322],5,0.00017,FR,Computer and Information Technology,Internet Service Provider (ISP)
-Verizon Business,"[701, 6167]",5,0.00017,US,Computer and Information Technology,Internet Service Provider (ISP)
-RADISHCLOUD TECHNOLOGY LLC,[201217],5,0.00017,US,None,None
-STARK INDUSTRIES SOLUTIONS LTD,[44477],5,0.00017,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
-CHINANET SHAANXI province Cloud Base network,[134768],5,0.00017,CN,Government and Public Administration,"Government and Regulatory Agencies, Administrations, Departments, and Services"
-Cogent Communications,[174],5,0.00017,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Getechbrothers, MB",[202044],5,0.00017,LT,Computer and Information Technology,Internet Service Provider (ISP)
-"Fly.io, Inc.",[40509],5,0.00017,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Domain names registrar REG.RU, Ltd",[197695],5,0.00017,RU,Computer and Information Technology,None
-Init7 (Switzerland) Ltd.,[13030],4,0.00014,CH,Computer and Information Technology,Internet Service Provider (ISP)
-INTERKVM HOST SRL,[25198],4,0.00014,RO,Computer and Information Technology,Internet Service Provider (ISP)
-M-net Telekommunikations GmbH,[8767],4,0.00014,DE,Computer and Information Technology,Internet Service Provider (ISP)
-LightWave Networks,"[12167, 26527]",4,0.00013000000000000002,US,Computer and Information Technology,Internet Service Provider (ISP)
-Playdom B.V.,[60906],4,0.00014,CW,Computer and Information Technology,Hosting and Cloud Provider
-Voxility LLP,[3223],4,0.00014,GB,Computer and Information Technology,Internet Service Provider (ISP)
-KEVAG Telekom GmbH,[12360],4,0.00014,DE,Computer and Information Technology,Internet Service Provider (ISP)
-MAYBANK Data Center (Co-Location),"[45430, 131445]",4,0.00014,TH,Computer and Information Technology,Internet Service Provider (ISP)
-Psychz Networks,[40676],4,0.00014,US,Computer and Information Technology,Hosting and Cloud Provider
-National Applied Research Laboratories,[7539],4,0.00014,TW,Computer and Information Technology,None
-Internet Initiative Japan Inc.,[2497],4,0.00014,JP,None,None
-Telfly Technology Limited,[41717],4,0.00014,HK,None,None
-Coriolis Telecom SAS,[60032],4,0.00014,FR,Computer and Information Technology,Internet Service Provider (ISP)
-"Joe's Datacenter, LLC",[19969],4,0.00014,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
-Melbikomas UAB,[56630],4,0.00014,LT,Computer and Information Technology,None
-TerraHost AS,[56655],4,0.00014,NO,Computer and Information Technology,Internet Service Provider (ISP)
-WideOpenWest Finance LLC,[16724],4,0.00014,US,Computer and Information Technology,Internet Service Provider (ISP)
-eTOP sp. z o.o.,[20853],4,0.00014,PL,Computer and Information Technology,Internet Service Provider (ISP)
-RegioNet Schweinfurt GmbH,[44974],4,0.00014,DE,Computer and Information Technology,Internet Service Provider (ISP)
-xTom,"[6233, 949]",4,0.00013000000000000002,US,Computer and Information Technology,Hosting and Cloud Provider
-Network Management Ltd,[205125],4,0.00014,SC,Computer and Information Technology,Software Development
-Guanzhong Chen,[200351],4,0.00014,CA,Education and Research,Other
-"XMission, L.C.",[6315],4,0.00014,US,Computer and Information Technology,Internet Service Provider (ISP)
-uPress Inc,[209622],4,0.00014,US,Computer and Information Technology,Software Development
-H4Y Technologies LLC,[397373],4,0.00014,US,Computer and Information Technology,Internet Service Provider (ISP)
-S.J.M. Steffann,[208492],4,0.00014,NL,Community Groups and Nonprofits,"Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)"
-Dialog Axiata Plc,[18001],3,0.0001,LK,Computer and Information Technology,Internet Service Provider (ISP)
-"KNIGHT POINT SYSTEMS, LLC",[394346],3,0.0001,US,Computer and Information Technology,None
-34SP.com Limited,[41357],3,0.0001,GB,Computer and Information Technology,Internet Service Provider (ISP)
-KPN B.V.,[1136],3,0.0001,NL,Computer and Information Technology,Internet Service Provider (ISP)
-Fatih Unlu,[206271],3,0.0001,TR,"Media, Publishing, and Broadcasting",Online Informational Content
-WorldStream B.V.,[49981],3,0.0001,NL,Computer and Information Technology,Internet Service Provider (ISP)
-vv Network Inc,[200827],3,0.0001,US,Computer and Information Technology,None
-socialimprove LLC,[48261],3,0.0001,US,Computer and Information Technology,Internet Service Provider (ISP)
-21vianet(China) Inc.,[17428],3,0.0001,CN,Computer and Information Technology,Software Development
-"WENZHOU, ZHEJIANG Province, P.R.China.",[134771],3,0.0001,CN,Computer and Information Technology,Internet Service Provider (ISP)
-University of Illinois,[38],3,0.0001,US,Health Care Services,None
-GLOBAL INTERNET SOLUTIONS LLC,[207713],3,0.0001,RU,Finance and Insurance,Insurance Carriers and Agencies
-GANDI SAS,[209453],3,0.0001,FR,Computer and Information Technology,Internet Service Provider (ISP)
-noris network AG,[12337],3,0.0001,DE,Computer and Information Technology,Internet Service Provider (ISP)
-LIBANTELECOM,[42003],3,0.0001,LB,Computer and Information Technology,Internet Service Provider (ISP)
-Corporate / Direct Member IDNIC,[55818],3,0.0001,ID,Computer and Information Technology,Internet Service Provider (ISP)
-Huawei,[55990],3,0.0001,CN,Computer and Information Technology,None
-NEXUSGUARD LIMITED,[45474],3,0.0001,HK,Computer and Information Technology,Internet Service Provider (ISP)
-BITel Gesellschaft fuer Telekommunikation mbH,[198967],3,0.0001,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Vodafone Libertel B.V.,[33915],3,0.0001,NL,Computer and Information Technology,Internet Service Provider (ISP)
-IONOS SE,[8560],3,0.0001,DE,Computer and Information Technology,Internet Service Provider (ISP)
-ITL LLC,[21100],3,0.0001,UA,Computer and Information Technology,None
-Bach Kim Network solutions Join stock company,[135967],3,0.0001,VN,Computer and Information Technology,Hosting and Cloud Provider
-HOSTKEY B.V.,[57043],3,0.0001,NL,Computer and Information Technology,Internet Service Provider (ISP)
-ipcom GmbH,[1921],3,0.0001,AT,Computer and Information Technology,None
-"Shenzhen lesuyun Network Technology Co., Ltd",[149513],3,0.0001,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Shenzhen Tencent Computer Systems Company Limited,[45090],2,7e-05,CN,Computer and Information Technology,Other
-NAU Country Insurance Company,[397277],2,7e-05,US,"Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",None
-OOO VPS,[200487],2,7e-05,RU,Computer and Information Technology,Hosting and Cloud Provider
-Office of Info.Tech. Admin. for Educational Development,"[132879, 4621]",2,6e-05,TH,Computer and Information Technology,Internet Service Provider (ISP)
-ATW Internet Kft.,[41075],2,7e-05,HU,Computer and Information Technology,Internet Service Provider (ISP)
-Signet B.V.,[35470],2,7e-05,NL,Computer and Information Technology,Hosting and Cloud Provider
-"SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED",[149042],2,7e-05,HK,None,None
-"Qingdao,266000",[58541],2,7e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Nova Telecommunications & Media Single Member S.A,[1241],2,7e-05,GR,Computer and Information Technology,Internet Service Provider (ISP)
-ungleich glarus ag,[207996],2,7e-05,CH,Computer and Information Technology,Internet Service Provider (ISP)
-SoftLayer Technologies Inc.,[36351],2,7e-05,US,Computer and Information Technology,Software Development
-Netservers Limited,[35826],2,7e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-Plus.line AG,[12306],2,7e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-A2B IP B.V.,[51088],2,7e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-"Robert Meyer trading as ""Mittwald CM Service GmbH & Co. KG""",[15817],2,7e-05,DE,Computer and Information Technology,Hosting and Cloud Provider
-Al Asmary Abdullah Ibrahim A,[210499],2,7e-05,SA,Computer and Information Technology,Software Development
-AEZA INTERNATIONAL LTD,[210644],2,7e-05,GB,None,None
-Newserverlife LLC,[49791],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-ScaleUp Technologies GmbH & Co. KG,[29014],2,7e-05,DE,Computer and Information Technology,None
-"Sinewave, Inc.",[29749],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-NAV COMMUNICATIONS SRL,[6718],2,7e-05,RO,Computer and Information Technology,Internet Service Provider (ISP)
-xTom GmbH,[3214],2,7e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-"Automattic, Inc",[2635],2,7e-05,US,"Media, Publishing, and Broadcasting",None
-"Lightower Fiber Networks I, LLC",[46887],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Euronet Telekomunikasyon A.S.,[201178],2,7e-05,TR,Computer and Information Technology,None
-Hengyang,"[63838, 63835]",2,6e-05,CN,Computer and Information Technology,None
-i3D.net B.V,[49544],2,7e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-"GENERAL COMMUNICATION, INC.",[8047],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-FunkFeuer Wien - Verein zur Foerderung freier Netze,[35492],2,7e-05,AT,Community Groups and Nonprofits,None
-Freethought Internet Limited,[41000],2,7e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-VNIDC TECHNOLOGY COMPANY LIMITED,[140824],2,7e-05,VN,None,None
-Free Pro SAS,[30781],2,7e-05,FR,Computer and Information Technology,Internet Service Provider (ISP)
-"Fork Networking, LLC",[46841],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Fibrebay Network LLC,[60939],2,7e-05,US,None,None
-VNSUN CLOUD COMPANY LIMITED,[149151],2,7e-05,VN,None,None
-"Fastly, Inc.",[54113],2,7e-05,US,Computer and Information Technology,Software Development
-Zenlayer Inc,[21859],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,[680],2,7e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Vinters IT Ltd,[62217],2,7e-05,GB,Computer and Information Technology,None
-ICT Center - Dong Thap Department of Information and Communications,[135934],2,7e-05,VN,Service,"Law, Business, and Consulting Services"
-CERNET2 IX at South China University of Technology,[24357],2,7e-05,CN,Education and Research,"Colleges, Universities, and Professional Schools"
-Denpa Ltd.,[131662],2,7e-05,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
-DataWeb Global Group B.V.,[39572],2,7e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-Vodafone Group PLC,[1273],2,7e-05,EU,Computer and Information Technology,Internet Service Provider (ISP)
-DN-Systems Enterprise Internet Solutions GmbH,[42034],2,7e-05,DE,Computer and Information Technology,None
-DMIT Cloud Services,[906],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-DGN TEKNOLOJI A.S.,[43260],2,7e-05,TR,Computer and Information Technology,Hosting and Cloud Provider
-CLARO S.A.,[4230],2,7e-05,BR,Computer and Information Technology,Internet Service Provider (ISP)
-CONSCIA DANMARK A/S,[59626],2,7e-05,DK,Computer and Information Technology,None
-Web2Objects LLC,[62874],2,7e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Charter Communications, Inc",[33363],2,7e-05,US,"Media, Publishing, and Broadcasting",None
-Charter Communications Inc,[11426],2,7e-05,US,"Media, Publishing, and Broadcasting",None
-CentralNic Ltd,"[203961, 204055]",2,6e-05,GB,Computer and Information Technology,None
-Turkiye Cumhuriyet Merkez Bankasi Anonim Sirketi,[33856],2,7e-05,TR,Finance and Insurance,"Banks, Credit Card Companies, Mortgage Providers"
-Rage4 Networks Limited,[198412],2,7e-05,GB,Computer and Information Technology,Software Development
-KAPPER NETWORK-COMMUNICATIONS GmbH,[48943],2,7e-05,AT,Computer and Information Technology,Internet Service Provider (ISP)
-"LLC ""Internet Tehnologii""",[45027],2,7e-05,RU,Computer and Information Technology,Software Development
-Kontel LLC,[204490],2,7e-05,RU,Computer and Information Technology,Hosting and Cloud Provider
-Telenet BVBA,[6848],2,7e-05,BE,Computer and Information Technology,Internet Service Provider (ISP)
-TT DOTCOM SDN BHD,[9930],2,7e-05,MY,Computer and Information Technology,Internet Service Provider (ISP)
-LINE Corporation,[38631],2,7e-05,JP,None,None
-Telnab Networks LLC,[197619],2,7e-05,US,None,None
-Infomaniak Network SA,[29222],2,7e-05,CH,Computer and Information Technology,None
-myLoc managed IT AG,[24961],2,7e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-IKS Service GmbH,[15725],2,7e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Telconet S.A,[27947],2,7e-05,EC,Computer and Information Technology,Internet Service Provider (ISP)
-"LLC ""KomTehCentr""",[12668],2,7e-05,RU,Computer and Information Technology,Internet Service Provider (ISP)
-IELO-LIAZO SERVICES SAS,[29075],2,7e-05,FR,Computer and Information Technology,Internet Service Provider (ISP)
-"IDC, China Telecommunications Corporation",[23724],2,7e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Art of Automation B.V.,[60893],2,7e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-Renater,[2200],1,3e-05,FR,Computer and Information Technology,Internet Service Provider (ISP)
-Web42 Solutions Ltd,[202990],1,3e-05,GB,Computer and Information Technology,Hosting and Cloud Provider
-Virtueon Solutions LLC,[197598],1,3e-05,US,None,None
-"nextdns, Inc.",[34939],1,3e-05,US,Computer and Information Technology,None
-Royal Thai Armed Force Headquarters,[38040],1,3e-05,TH,Computer and Information Technology,Internet Service Provider (ISP)
-Rohmad Kumiadin,[210842],1,3e-05,ID,None,None
-"WestHost, Inc.",[29854],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-XHOST INTERNET SOLUTIONS LP,[208091],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-"State of North Dakota, ITD",[19530],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-TEKNOTEL TELEKOMUNIKASYON SANAYI VE TICARET A.S.,[25145],1,3e-05,TR,Computer and Information Technology,Internet Service Provider (ISP)
-"tzulo, inc.",[11878],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Super Godzilla Communications GK,[138652],1,3e-05,JP,Computer and Information Technology,Internet Service Provider (ISP)
-Strato AG,[6724],1,3e-05,DE,Computer and Information Technology,None
-Renaissance Phuket Resort & Spa,[38794],1,3e-05,TH,Computer and Information Technology,Internet Service Provider (ISP)
-XFIBER AS,[8896],1,3e-05,NO,Computer and Information Technology,Internet Service Provider (ISP)
-Sys-DataCom s.r.o.,[44002],1,3e-05,CZ,Computer and Information Technology,Internet Service Provider (ISP)
-Virtual Systems LLC,[30860],1,3e-05,UA,Computer and Information Technology,Internet Service Provider (ISP)
-xTom Hong Kong Limited,[9312],1,3e-05,HK,Computer and Information Technology,Internet Service Provider (ISP)
-Web Werks India Pvt. Ltd.,[133296],1,3e-05,IN,Computer and Information Technology,Internet Service Provider (ISP)
-Voyager Internet Ltd.,[56030],1,3e-05,NZ,Computer and Information Technology,Internet Service Provider (ISP)
-Sigai Network LTD,[199467],1,3e-05,GB,None,None
-Zemlyaniy Dmitro Leonidovich,[42159],1,3e-05,UA,Computer and Information Technology,Internet Service Provider (ISP)
-Vialis SEM,[42487],1,3e-05,FR,Computer and Information Technology,Internet Service Provider (ISP)
-Tier.Net Technologies LLC,[397423],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Shanghai Luogu Network Technology Co., Ltd.",[151464],1,3e-05,CN,None,None
-Tri-State Generation and Transmission Association Inc.,[11250],1,3e-05,US,Utilities (Excluding Internet Service),None
-"Serveroid, LLC",[199274],1,3e-05,RU,Computer and Information Technology,Internet Service Provider (ISP)
-Serverius Holding B.V.,[50673],1,3e-05,NL,Computer and Information Technology,None
-"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",[1547],1,3e-05,MD,Computer and Information Technology,Internet Service Provider (ISP)
-UAB Rakrejus,[62282],1,3e-05,LT,Computer and Information Technology,None
-UPSTREAM NETWORK LTD,[202888],1,3e-05,GB,None,None
-"UnReal Servers, LLC",[64236],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Universitas Brawijaya,[46019],1,3e-05,ID,Education and Research,"Colleges, Universities, and Professional Schools"
-Universitatea TRANSILVANIA Brasov,[25304],1,3e-05,RO,Education and Research,"Colleges, Universities, and Professional Schools"
-TNNet Oy,[30798],1,3e-05,FI,Computer and Information Technology,Internet Service Provider (ISP)
-mnihyc Network Global,[140938],1,3e-05,CN,Education and Research,None
-Sama Tech s.r.o.,[200222],1,3e-05,SK,Computer and Information Technology,Internet Service Provider (ISP)
-Sony Network Communications Inc.,[2527],1,3e-05,JP,Computer and Information Technology,Internet Service Provider (ISP)
-"Salesforce.com, Inc.",[14340],1,3e-05,US,Computer and Information Technology,Hosting and Cloud Provider
-Telmex Colombia S.A.,[14080],1,3e-05,CO,Computer and Information Technology,Internet Service Provider (ISP)
-Spaceship Landings LLC,[400743],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-SYSTEM36 LLC,[48606],1,3e-05,US,Computer and Information Technology,Software Development
-TelemaxX Telekommunikation GmbH,[12843],1,3e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-SOLLUTIUM EU Sp z.o.o.,[43641],1,3e-05,PL,Computer and Information Technology,Software Development
-Telekomunikasi Indonesia (PT),[7713],1,3e-05,ID,Computer and Information Technology,Internet Service Provider (ISP)
-manitu GmbH,[34240],1,3e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-"Unlimited Net, LLC",[11990],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-"1GSERVERS, LLC",[14315],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Qwilt Inc.,[20253],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-F3 Netze e.V.,[205100],1,3e-05,DE,Service,"Law, Business, and Consulting Services"
-ChinaTelecom Cybersecurity Tech,[58777],1,3e-05,CN,Computer and Information Technology,None
-CloudConnX Limited,[57907],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-"Code200, UAB",[149428],1,3e-05,LT,Computer and Information Technology,Internet Service Provider (ISP)
-Cybera Inc,[15296],1,3e-05,CA,Computer and Information Technology,None
-DA International Group Ltd.,[203380],1,3e-05,BG,Computer and Information Technology,Hosting and Cloud Provider
-DEMENIN B.V.,[47926],1,3e-05,NL,"Retail Stores, Wholesale, and E-commerce Sites",None
-DNA Oyj,[16086],1,3e-05,FI,Computer and Information Technology,Internet Service Provider (ISP)
-Developed Methods LLC,[400519],1,3e-05,US,Service,Other
-Dmitrii Vladimirovich Malkov,[210695],1,3e-05,RU,None,None
-DoclerWeb Informatikai Kft.,[47381],1,3e-05,HU,Manufacturing,Machinery
-EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,[8966],1,3e-05,AE,Computer and Information Technology,Internet Service Provider (ISP)
-ERBCOM TELECOMUNICACOES EIRELI - ME,[268972],1,3e-05,BR,Computer and Information Technology,Internet Service Provider (ISP)
-Economia a.s.,[43614],1,3e-05,CZ,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
-Empresa de Recursos Tecnologicos S.A E.S.P,[27845],1,3e-05,CO,Computer and Information Technology,Internet Service Provider (ISP)
-FIBRAWORLD TELECOM S.A.U.,[200738],1,3e-05,ES,Computer and Information Technology,Internet Service Provider (ISP)
-"CenturyLink Communications, LLC",[209],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Fastweb SpA,[12874],1,3e-05,IT,Computer and Information Technology,Internet Service Provider (ISP)
-Fiberocity Ltd,[199614],1,3e-05,GB,None,None
-"FreeBit Co.,Ltd.",[10013],1,3e-05,JP,None,None
-GLOBAL-ICT HONGKONG CO.LIMITED,[138190],1,3e-05,HK,Service,None
-Go-Trex Holding BV,[199752],1,3e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-GoCodeIT Inc,[835],1,3e-05,CA,Computer and Information Technology,Internet Service Provider (ISP)
-"Great Lakes Comnet, Inc.",[30517],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Greschitz Management GmbH,[51560],1,3e-05,AT,Computer and Information Technology,Internet Service Provider (ISP)
-"Guangzhou Shujie Suyuan Culture Communication Co., Ltd.",[138979],1,3e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-HA SON TECHNOLOGY ONE MEMBER LIMITED COMPANY,[150838],1,3e-05,VN,None,None
-HLL LLC,[51115],1,3e-05,RU,Computer and Information Technology,None
-Hong Kong University of Science and Technology,[3363],1,3e-05,HK,Education and Research,"Colleges, Universities, and Professional Schools"
-Host Europe GmbH,[29066],1,3e-05,DE,Computer and Information Technology,None
-"HostHatch, LLC",[63473],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-China Education and Research Network (CERNET),[38255],1,3e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-Cellcom Fixed Line Communication L.P,[1680],1,3e-05,IL,Computer and Information Technology,Internet Service Provider (ISP)
-Hosting Solution Ltd.,[14576],1,3e-05,US,"Media, Publishing, and Broadcasting",None
-BSE Software GmbH,[9044],1,3e-05,CH,Computer and Information Technology,Internet Service Provider (ISP)
-A. Angeloni & Cia Ltda,[52910],1,3e-05,BR,"Retail Stores, Wholesale, and E-commerce Sites","Food, Grocery, Beverages"
-AKILE LTD,[61112],1,3e-05,GB,"Media, Publishing, and Broadcasting",Online Informational Content
-"ARP NETWORKS, INC.",[25795],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-AS43668 LLC,[43668],1,3e-05,UA,Computer and Information Technology,Internet Service Provider (ISP)
-Achmea Interne Diensten N.V.,[201017],1,3e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-"Alibaba (US) Technology Co., Ltd.",[37963],1,3e-05,US,Computer and Information Technology,None
-Allo Communications LLC,[15108],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Altibox AS,[29695],1,3e-05,NO,Computer and Information Technology,Internet Service Provider (ISP)
-Anchnet Asia Limited,[137443],1,3e-05,HK,Computer and Information Technology,Hosting and Cloud Provider
-"Andrews IT Engineering Mernoki, Informaciotechnikai es Szolgaltato Korlatolt Felelossegu Tarsasag",[59448],1,3e-05,HU,Computer and Information Technology,None
-ArtPlanet LLC,[49542],1,3e-05,RU,Computer and Information Technology,Hosting and Cloud Provider
-Artfiles LLC,[394923],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Ashton Holmes, Sole Proprietorship",[33760],1,3e-05,US,None,None
-Availo Networks AB,[16150],1,3e-05,SE,Computer and Information Technology,Internet Service Provider (ISP)
-Bahnhof AB,[8473],1,3e-05,SE,Computer and Information Technology,Internet Service Provider (ISP)
-"CacheNetworks, Inc.",[30081],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-"Beijing Baidu Netcom Science and Technology Co., Ltd.",[38365],1,3e-05,CN,Computer and Information Technology,None
-Beijing Jingdong Shangke Information Technology Co. Ltd.,[137753],1,3e-05,CN,"Museums, Libraries, and Entertainment","Recreation, Sports, and Performing Arts"
-Bend-La Pine Schools,[35929],1,3e-05,US,Education and Research,"Colleges, Universities, and Professional Schools"
-Blueficity,[32024],1,3e-05,US,Service,"Law, Business, and Consulting Services"
-British Telecommunications PLC,[2856],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-CERN - European Organization for Nuclear Research,[513],1,3e-05,CH,Computer and Information Technology,None
-CERNET2 IX at Shanghai Jiaotong University,[24364],1,3e-05,CN,Education and Research,"Colleges, Universities, and Professional Schools"
-CERNET2 IX at Zhengzhou University,[24360],1,3e-05,CN,Computer and Information Technology,None
-CHINANET Guangdong province network,[58466],1,3e-05,CN,Computer and Information Technology,Software Development
-CHINANET Jiangx province IDC network,[134238],1,3e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-CHINANET Liaoning province Dalian MAN network,[134762],1,3e-05,CN,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
-"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China.",[137697],1,3e-05,CN,Computer and Information Technology,None
-COMMUNITY NETWORK CENTER INCORPORATED.,[9354],1,3e-05,JP,None,None
-"Cable Television Laboratories, Inc.",[20381],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-HostRoyale Technologies Pvt Ltd,[134450],1,3e-05,IN,Computer and Information Technology,Internet Service Provider (ISP)
-Hutchison 3G UK Limited,[206067],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-Quickline AG,[15600],1,3e-05,CH,Computer and Information Technology,Internet Service Provider (ISP)
-Oman Telecommunications Company (S.A.O.G),[28885],1,3e-05,OM,Computer and Information Technology,None
-Nazwa.pl Sp.z.o.o.,[15967],1,3e-05,PL,Service,"Law, Business, and Consulting Services"
-Nearoute Limited,[51847],1,3e-05,HK,Computer and Information Technology,Internet Service Provider (ISP)
-Nej.cz s.r.o.,[49767],1,3e-05,CZ,"Media, Publishing, and Broadcasting",Radio and Television Providers
-NeocomISP Limited,[9902],1,3e-05,KH,Computer and Information Technology,Internet Service Provider (ISP)
-"NetActuate, Inc",[36236],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-NetBase BV,[213192],1,3e-05,NL,Computer and Information Technology,Hosting and Cloud Provider
-NetNet,[3663],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Netrunner Inc,[6369],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Netwerkvereniging Coloclue,[8283],1,3e-05,NL,Computer and Information Technology,Hosting and Cloud Provider
-Network Technology Harald Firing Karlsen,[48144],1,3e-05,NO,Computer and Information Technology,Software Development
-Northern Data AG,[59437],1,3e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-OPTAGE Inc.,[17511],1,3e-05,JP,None,None
-ORANGE BUSINESS SERVICES AS,[25148],1,3e-05,NO,Computer and Information Technology,Other
-ORANGE MOLDOVA S.A.,[25454],1,3e-05,MD,Computer and Information Technology,Internet Service Provider (ISP)
-Ooredoo Q.S.C.,[8781],1,3e-05,QA,Computer and Information Technology,Internet Service Provider (ISP)
-"NTT DOCOMO, INC.",[9605],1,3e-05,JP,None,None
-Osirnet Info Telecom Ltda.,[262459],1,3e-05,BR,Computer and Information Technology,Internet Service Provider (ISP)
-Owl Limited,[43357],1,3e-05,VU,Computer and Information Technology,Internet Service Provider (ISP)
-"PJSC ""Vimpelcom""",[16345],1,3e-05,RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
-PSA AUTOMOBILES SA,[16236],1,3e-05,FR,Computer and Information Technology,Internet Service Provider (ISP)
-PT. INDOSAT Tbk,[4761],1,3e-05,ID,Computer and Information Technology,Internet Service Provider (ISP)
-"PT. Smartfren Telecom, Tbk",[133798],1,3e-05,ID,Computer and Information Technology,Internet Service Provider (ISP)
-PacketHub S.A.,[147049],1,3e-05,PA,Computer and Information Technology,Internet Service Provider (ISP)
-PaoPaoYu Network LTD.,[202911],1,3e-05,CA,None,None
-Perfect Cloud Technologies LLC,[211027],1,3e-05,RU,"Media, Publishing, and Broadcasting",Other
-"Perfect International, Inc",[22439],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Peter Jin Technologies LLC,[398565],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Privex Inc.,[210083],1,3e-05,BZ,Service,"Law, Business, and Consulting Services"
-Proen Corp Public Company Limited,[23884],1,3e-05,TH,Computer and Information Technology,Internet Service Provider (ISP)
-Qin Cloud Networks,[7721],1,3e-05,HK,Manufacturing,Machinery
-National Infrastructures for Research and Technology S.A.,[5408],1,3e-05,GR,Education and Research,None
-"NINGBO, ZHEJIANG Province, P.R.China.",[136188],1,3e-05,CN,Computer and Information Technology,Internet Service Provider (ISP)
-"Hutchison CP Telecommunications, PT",[45727],1,3e-05,ID,Computer and Information Technology,Internet Service Provider (ISP)
-LEASEWEB UK LIMITED,[205544],1,3e-05,GB,Computer and Information Technology,None
-Hydra Communications Ltd,[25369],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-ICT BULUT BILISIM A.S.,[47952],1,3e-05,TR,Computer and Information Technology,None
-INSYS LLC,[28890],1,3e-05,RU,Computer and Information Technology,Internet Service Provider (ISP)
-Industrial Cyber Security Center of Excellence,[63770],1,3e-05,JP,None,None
-InterXion Hrvatska d.o.o.,[199244],1,3e-05,HR,Computer and Information Technology,Internet Service Provider (ISP)
-Internet Names For Business Inc.,[30447],1,3e-05,CA,Computer and Information Technology,Internet Service Provider (ISP)
-"Internet Systems Consortium, Inc.",[3557],1,3e-05,US,Community Groups and Nonprofits,None
-Iron Mountain Data Center,[12025],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Jonas Pasche,[205766],1,3e-05,DE,Computer and Information Technology,Internet Service Provider (ISP)
-Jump Networks Ltd,[8943],1,3e-05,GB,Computer and Information Technology,Internet Service Provider (ISP)
-KSC Commercial Internet Co.Ltd.,[7693],1,3e-05,TH,Computer and Information Technology,None
-KVIKTEL LLC,[34959],1,3e-05,RU,Computer and Information Technology,Internet Service Provider (ISP)
-KaasHosting B.V.,[211786],1,3e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-Kew Solutions Unipessoal Lda,[209968],1,3e-05,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
-"Level 3 Parent, LLC",[3549],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-NForce Entertainment B.V.,[43350],1,3e-05,NL,Computer and Information Technology,Internet Service Provider (ISP)
-Liden Data Internetwork AB,[13189],1,3e-05,SE,Computer and Information Technology,Internet Service Provider (ISP)
-Louvetel Comunicação Comercial Ltda ME,[263110],1,3e-05,BR,Computer and Information Technology,Internet Service Provider (ISP)
-LueneCom Kommunikationsloesungen GmbH,[201035],1,3e-05,DE,Computer and Information Technology,None
-Luiz Fernando Ribeiro Amaral,[209114],1,3e-05,DE,"Retail Stores, Wholesale, and E-commerce Sites",Other
-MENA LEVANT W.L.L,[59605],1,3e-05,BH,Computer and Information Technology,Internet Service Provider (ISP)
-MIHAILA VALENTIN-EUGEN,[41732],1,3e-05,RO,Computer and Information Technology,Internet Service Provider (ISP)
-MadeIT inc.,[54455],1,3e-05,US,Computer and Information Technology,Hosting and Cloud Provider
-Mammoth Media Pty Ltd,[133159],1,3e-05,AU,Computer and Information Technology,Internet Service Provider (ISP)
-Mediacom Communications Corp,[30036],1,3e-05,US,Computer and Information Technology,Internet Service Provider (ISP)
-Mobile Telecommunication Company Saudi Arabia Joint-Stock company,[43766],1,3e-05,SA,Computer and Information Technology,Internet Service Provider (ISP)
-MythicalKitten LLC,[48581],1,3e-05,US,"Retail Stores, Wholesale, and E-commerce Sites",None
-NASA Ames Research Center,[21556],1,3e-05,US,Service,"Law, Business, and Consulting Services"
-NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,[204679],1,3e-05,PL,Education and Research,"Colleges, Universities, and Professional Schools"
-NETLABS LLC,[216271],1,3e-05,UA,None,None
-xTom Pty Ltd,[8888],1,3e-05,AU,Computer and Information Technology,None
+org_name,org_alias_num,org_all_num,org_ratio,sta_org_alias_num,sta_org_all_num,sat_org_ratio,as,country,category,sub_category
+I-SERVERS LTD,47,26614,0.001766,30.0,87.32851337779826,0.34353,[209641],['GB'],['Education and Research'],['None']
+HOSTKEY,168,26614,0.006312,9.672119,87.32851337779826,0.110756,[395839],['US'],['Computer and Information Technology'],['Phone Provider']
+JSC IOT,10,26614,0.000376,7.0,87.32851337779826,0.080157,[29182],['RU'],['Computer and Information Technology'],['None']
+Delta Ltd,35,26614,0.001315,6.500015,87.32851337779826,0.074432,[213220],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+IP SERVER LLC,8,26614,0.000301,6.0,87.32851337779826,0.068706,[44812],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+DEFSOLUTION LLC,9,26614,0.000338,5.0,87.32851337779826,0.057255,[197992],['US'],['None'],['None']
+HOSTKEY B.V.,6,26614,0.000225,4.0,87.32851337779826,0.045804,[57043],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+ScaleUp Technologies GmbH & Co. KG,4,26614,0.00015,4.0,87.32851337779826,0.045804,[29014],['DE'],['Computer and Information Technology'],['None']
+AEZA INTERNATIONAL LTD,3,26614,0.000113,3.0,87.32851337779826,0.034353,[210644],['GB'],['None'],['None']
+"RACKTECH CO., LTD.",4,26614,0.00015,3.0,87.32851337779826,0.034353,[204916],['TH'],['None'],['None']
+Phan Nhat Nghi,2,26614,7.5e-05,2.0,87.32851337779826,0.022902,[199925],['VG'],['Construction and Real Estate'],['Other']
+socialimprove LLC,4,26614,0.00015,2.0,87.32851337779826,0.022902,[48261],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+FranTech Solutions,21,26614,0.000789,1.000015,87.32851337779826,0.011451,[53667],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Telnab Networks LLC,2,26614,7.5e-05,1.0,87.32851337779826,0.011451,[197619],['US'],['None'],['None']
+LeaseWeb Netherlands B.V.,35,26614,0.001315,1.0,87.32851337779826,0.011451,[60781],['NL'],['Computer and Information Technology'],['None']
+Sprious LLC,12,26614,0.000451,0.75,87.32851337779826,0.008588,[64267],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+VisualViet Company Limited,178,26614,0.006688,0.551773,87.32851337779826,0.006318,[135981],['VN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+SatGate LLC,8,26614,0.000301,0.5,87.32851337779826,0.005726,[30721],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Google LLC,1831,26614,0.068798,0.132749,87.32851337779826,0.0015199999999999999,"[36492, 396982, 15169]",['US'],"['Computer and Information Technology'
+ 'Media, Publishing, and Broadcasting']","['Software Development' 'Online Music and Video Streaming Services'
+ 'Internet Service Provider (ISP)']"
+Megacore Technology Company Limited,32,26614,0.001202,0.125,87.32851337779826,0.001431,[140810],['VN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Altinea SAS,52,26614,0.001954,0.085693,87.32851337779826,0.000981,[41405],['FR'],['Computer and Information Technology'],['None']
+Super Godzilla Communications GK,2,26614,7.5e-05,0.007812,87.32851337779826,8.9e-05,[138652],['JP'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Kirino LLC,16,26614,0.000601,0.000702,87.32851337779826,8e-06,[41378],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Web2Objects LLC,2,26614,7.5e-05,0.000488,87.32851337779826,6e-06,[62874],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"GALAXYGATE, LLC",28,26614,0.001052,0.000427,87.32851337779826,5e-06,[397031],['US'],['Other'],['None']
+UK-2 Limited,179,26614,0.006726,0.000171,87.32851337779826,2e-06,[13213],['GB'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+M247 Europe SRL,167,26614,0.006275,0.000151,87.32851337779826,2e-06,[9009],['RO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+LoudTronix Inc.,8,26614,0.000301,0.000122,87.32851337779826,1e-06,[205212],['CA'],['Community Groups and Nonprofits'],['Other']
+Datacamp Limited,10,26614,0.000376,0.000122,87.32851337779826,1e-06,"[60068, 212238]",['GB'],"['Media, Publishing, and Broadcasting'
+ 'Computer and Information Technology']","['Online Music and Video Streaming Services'
+ 'Internet Service Provider (ISP)']"
+Black Mesa Corporation,8,26614,0.000301,0.000122,87.32851337779826,1e-06,[46997],['US'],['Health Care Services'],['Other']
+MonoCloud Pty Ltd,15,26614,0.000564,9.8e-05,87.32851337779826,1e-06,[149485],['AU'],"['Media, Publishing, and Broadcasting']",['Online Informational Content']
+Akamai International B.V.,9594,26614,0.360487,7.7e-05,87.32851337779826,1e-06,"[20940, 21342]",['NL'],"['Media, Publishing, and Broadcasting']",['Online Music and Video Streaming Services']
+Bharti Airtel Limited,81,26614,0.0030429999999999997,6.2e-05,87.32851337779826,1e-06,"[45609, 9498]",['IN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Cloudflare, Inc.",1376,26614,0.051702,6.1e-05,87.32851337779826,1e-06,"[13335, 395747]",['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Vinters IT Ltd,12,26614,0.000451,4.6e-05,87.32851337779826,1e-06,[62217],['GB'],['Computer and Information Technology'],['None']
+Hivelocity Inc,3,26614,0.000113,4.6e-05,87.32851337779826,1e-06,[61317],['US'],['Computer and Information Technology'],['None']
+Melbikomas UAB,3,26614,0.000113,4.6e-05,87.32851337779826,1e-06,[56630],['LT'],['Computer and Information Technology'],['None']
+Latitude.sh,40,26614,0.001503,4.4e-05,87.32851337779826,1e-06,[396356],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Latitude.sh LTDA,36,26614,0.001353,3.4e-05,87.32851337779826,0.0,[262287],['BR'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Hurricane Electric LLC,573,26614,0.02153,3.2e-05,87.32851337779826,0.0,[6939],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Fork Networking, LLC",2,26614,7.5e-05,3.1e-05,87.32851337779826,0.0,[46841],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Plim Mobile Telecom LLC,2,26614,7.5e-05,3.1e-05,87.32851337779826,0.0,[216435],['US'],['None'],['None']
+Eons Data Communications Limited,3,26614,0.000113,3.1e-05,87.32851337779826,0.0,[138997],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Performive LLC,70,26614,0.00263,2.4e-05,87.32851337779826,0.0,[46562],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Amazon.com, Inc.",5011,26614,0.188284,2.3e-05,87.32851337779826,0.0,[16509],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+"Leaseweb USA, Inc.",64,26614,0.002405,1.9e-05,87.32851337779826,0.0,[30633],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Fastly, Inc.",1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[54113],['US'],['Computer and Information Technology'],['Software Development']
+F3 Netze e.V.,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[205100],['DE'],['Service'],"['Law, Business, and Consulting Services']"
+SCALEWAY S.A.S.,5,26614,0.000188,1.5e-05,87.32851337779826,0.0,[12876],['FR'],['Computer and Information Technology'],['None']
+"Joe's Datacenter, LLC",4,26614,0.00015,1.5e-05,87.32851337779826,0.0,[19969],['US'],['Government and Public Administration'],"['Military, Defense, National Security, and International Affairs']"
+"LLC ""Internet Tehnologii""",2,26614,7.5e-05,1.5e-05,87.32851337779826,0.0,[45027],['RU'],['Computer and Information Technology'],['Software Development']
+ERBCOM TELECOMUNICACOES EIRELI - ME,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[268972],['BR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TerraHost AS,4,26614,0.00015,1.5e-05,87.32851337779826,0.0,[56655],['NO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Nocix, LLC",11,26614,0.000413,1.5e-05,87.32851337779826,0.0,[33387],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+GoCodeIT Inc,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[835],['CA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+HLL LLC,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[51115],['RU'],['Computer and Information Technology'],['None']
+"Fly.io, Inc.",1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[40509],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+vv Network Inc,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[200827],['US'],['Computer and Information Technology'],['None']
+Virtual Systems LLC,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[30860],['UA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+UPSTREAM NETWORK LTD,1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[202888],['GB'],['None'],['None']
+"XMission, L.C.",1,26614,3.8e-05,1.5e-05,87.32851337779826,0.0,[6315],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+AltusHost B.V.,9,26614,0.000338,1.5e-05,87.32851337779826,0.0,[51430],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+24 SHELLS,14,26614,0.000526,1.2e-05,87.32851337779826,0.0,[55081],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Bouygues Telecom SA,59,26614,0.002217,8e-06,87.32851337779826,0.0,[5410],['FR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Intergrid Group Pty Ltd,8,26614,0.000301,8e-06,87.32851337779826,0.0,[133480],['AU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Bell Canada,30,26614,0.001127,8e-06,87.32851337779826,0.0,[577],['CA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telfly Technology Limited,9,26614,0.000338,8e-06,87.32851337779826,0.0,[41717],['HK'],['None'],['None']
+National Chung Hsing University,10,26614,0.000376,8e-06,87.32851337779826,0.0,[1659],['TW'],['Education and Research'],"['Colleges, Universities, and Professional Schools']"
+QuadraNet Enterprises LLC,9,26614,0.000338,5e-06,87.32851337779826,0.0,[8100],['US'],['Computer and Information Technology'],['Computer and Network Security']
+H4Y Technologies LLC,4,26614,0.00015,4e-06,87.32851337779826,0.0,[397373],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+LightWave Networks,4,26614,0.00015099999999999998,4e-06,87.32851337779826,0.0,"[12167, 26527]",['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+UAB Rakrejus,3,26614,0.000113,3e-06,87.32851337779826,0.0,[62282],['LT'],['Computer and Information Technology'],['None']
+Psychz Networks,3,26614,0.000113,3e-06,87.32851337779826,0.0,[40676],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+VNIDC TECHNOLOGY COMPANY LIMITED,2,26614,7.5e-05,2e-06,87.32851337779826,0.0,[140824],['VN'],['None'],['None']
+VNSUN CLOUD COMPANY LIMITED,2,26614,7.5e-05,2e-06,87.32851337779826,0.0,[149151],['VN'],['None'],['None']
+"Unlimited Net, LLC",2,26614,7.5e-05,2e-06,87.32851337779826,0.0,[11990],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Facebook, Inc.",1880,26614,0.07064,1e-06,87.32851337779826,0.0,[32934],['US'],"['Retail Stores, Wholesale, and E-commerce Sites']",['None']
+"SERVERFIELD CO., LTD.",1,26614,3.8e-05,1e-06,87.32851337779826,0.0,[134094],['TW'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"tzulo, inc.",1,26614,3.8e-05,1e-06,87.32851337779826,0.0,[11878],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Zenlayer Inc,2,26614,7.5e-05,1e-06,87.32851337779826,0.0,[21859],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+firstcolo GmbH,5,26614,0.000188,0.0,87.32851337779826,0.0,[44066],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Petersburg Internet Network ltd.,7,26614,0.000263,0.0,87.32851337779826,0.0,[34665],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Peter Jin Technologies LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[398565],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+i3D.net B.V,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[49544],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+PacketHub S.A.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[147049],['PA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telstra International Limited,8,26614,0.000301,0.0,87.32851337779826,0.0,[4637],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+eTOP sp. z o.o.,4,26614,0.00015,0.0,87.32851337779826,0.0,[20853],['PL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+PT XL Axiata Tbk,93,26614,0.003494,0.0,87.32851337779826,0.0,[24203],['ID'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Plus.line AG,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[12306],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+PrivateSystems Networks,42,26614,0.001578,0.0,87.32851337779826,0.0,[63410],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Privex Inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[210083],['BZ'],['Service'],"['Law, Business, and Consulting Services']"
+Proximus NV,30,26614,0.001127,0.0,87.32851337779826,0.0,[5432],['BE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"QTnet,Inc.",15,26614,0.000564,0.0,87.32851337779826,0.0,[7679],['JP'],['None'],['None']
+"Qingdao,266000",2,26614,7.5e-05,0.0,87.32851337779826,0.0,[58541],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+WorldStream B.V.,3,26614,0.000113,0.0,87.32851337779826,0.0,[49981],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Quickline AG,4,26614,0.00015,0.0,87.32851337779826,0.0,[15600],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"PT. Smartfren Telecom, Tbk",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[133798],['ID'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Ooredoo Q.S.C.,14,26614,0.000526,0.0,87.32851337779826,0.0,[8781],['QA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"PJSC ""Vimpelcom""",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[16345],['RU'],['Construction and Real Estate'],"['Civil Engineering Construction (Utility Lines, Roads and Bridges)']"
+OBOS OPENNET AS,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[211309],['NO'],['Construction and Real Estate'],"['Civil Engineering Construction (Utility Lines, Roads and Bridges)']"
+Nazwa.pl Sp.z.o.o.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[15967],['PL'],['Service'],"['Law, Business, and Consulting Services']"
+NetBase BV,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[213192],['NL'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+NetCologne Gesellschaft fur Telekommunikation mbH,61,26614,0.002292,0.0,87.32851337779826,0.0,[8422],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Netservers Limited,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[35826],['GB'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Network Management Ltd,3,26614,0.000113,0.0,87.32851337779826,0.0,[205125],['SC'],['Computer and Information Technology'],['Software Development']
+xTom Hong Kong Limited,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[9312],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+xTom GmbH,3,26614,0.000113,0.0,87.32851337779826,0.0,[3214],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Neustar Security Services,24,26614,0.000902,0.0,87.32851337779826,0.0,"[397224, 397226, 397232]",['US'],['Government and Public Administration'],"['Military, Defense, National Security, and International Affairs']"
+"No.31,Jin-rong Street",13,26614,0.000488,0.0,87.32851337779826,0.0,[4134],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+xTom,3,26614,0.000113,0.0,87.32851337779826,0.0,[6233],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Northern Data AG,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[59437],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+wilhelm.tel GmbH,227,26614,0.008529,0.0,87.32851337779826,0.0,[15943],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+P.A.G.M. OU,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[198068],['EE'],['Computer and Information Technology'],['None']
+OCEAN WAVES DATA LIMITED,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[200241],['GB'],['None'],['None']
+OPTAGE Inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[17511],['JP'],['None'],['None']
+ungleich glarus ag,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[207996],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+ORANGE BUSINESS SERVICES AS,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[25148],['NO'],['Computer and Information Technology'],['Other']
+uPress Inc,4,26614,0.00015,0.0,87.32851337779826,0.0,[209622],['US'],['Computer and Information Technology'],['Software Development']
+OVH SAS,6,26614,0.000225,0.0,87.32851337779826,0.0,[16276],['FR'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+One New Zealand Group Limited,31,26614,0.001165,0.0,87.32851337779826,0.0,[9500],['NZ'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+One.com A/S,29,26614,0.00109,0.0,87.32851337779826,0.0,[51468],['DK'],['Computer and Information Technology'],['None']
+RETN Limited,58,26614,0.002179,0.0,87.32851337779826,0.0,[9002],['GB'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Osirnet Info Telecom Ltda.,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[262459],['BR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+myLoc managed IT AG,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[24961],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+WorldLink Communications,14,26614,0.000526,0.0,87.32851337779826,0.0,[17501],['NP'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Republican Unitary Telecommunication Enterprise Beltelecom,32,26614,0.001202,0.0,87.32851337779826,0.0,[6697],['BY'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Reflected Networks, Inc.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[29789],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TM TECHNOLOGY SERVICES SDN BHD,11,26614,0.000413,0.0,87.32851337779826,0.0,[4788],['MY'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+University of Illinois,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[38],['US'],['Health Care Services'],['None']
+United States Department of Justice,3,26614,0.000113,0.0,87.32851337779826,0.0,[15130],['US'],['Government and Public Administration'],"['Law Enforcement, Public Safety, and Justice']"
+"StackPath, LLC.",19,26614,0.000714,0.0,87.32851337779826,0.0,[33438],['US'],['Computer and Information Technology'],['Computer and Network Security']
+Starhub Ltd.,18,26614,0.000676,0.0,87.32851337779826,0.0,[4657],['SG'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Strato AG,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[6724],['DE'],['Computer and Information Technology'],['None']
+Turk Telekomunikasyon Anonim Sirketi,4,26614,0.00015,0.0,87.32851337779826,0.0,[9121],['TR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Swisscom (Schweiz) AG,15,26614,0.000564,0.0,87.32851337779826,0.0,[3303],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TDC Holding A/S,3,26614,0.000113,0.0,87.32851337779826,0.0,[3292],['DK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TELECOM ITALIA SPARKLE S.p.A.,60,26614,0.002254,0.0,87.32851337779826,0.0,[6762],['IT'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TELESISTEMA S.R.L.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[264642],['AR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TELUS Communications Inc.,25,26614,0.000939,0.0,87.32851337779826,0.0,[852],['CA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Triple T Broadband Public Company Limited,32,26614,0.001202,0.0,87.32851337779826,0.0,[45758],['TH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+SoftLayer Technologies Inc.,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[36351],['US'],['Computer and Information Technology'],['Software Development']
+TNNet Oy,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[30798],['FI'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"TierPoint, LLC",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[17378],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Taiwan Fixed Network, Telco and Network Service Provider.",26,26614,0.000977,0.0,87.32851337779826,0.0,[9924],['TW'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+TalkTalk Communications Limited,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[13285],['GB'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Tier.Net Technologies LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[397423],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telconet S.A,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[27947],['EC'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Tele2 Sverige AB,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[1257],['SE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telefonica Germany GmbH & Co.OHG,114,26614,0.004283,0.0,87.32851337779826,0.0,[6805],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Tianjij,300000",9,26614,0.000338,0.0,87.32851337779826,0.0,[58542],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telmex Colombia S.A.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[14080],['CO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"The Constant Company, LLC",577,26614,0.02168,0.0,87.32851337779826,0.0,[20473],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Sony Network Communications Inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[2527],['JP'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"NTT DOCOMO, INC.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[9605],['JP'],['None'],['None']
+WhatsApp,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[11917],['US'],"['Retail Stores, Wholesale, and E-commerce Sites']",['None']
+"Salesforce.com, Inc.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[14340],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+RegioNet Schweinfurt GmbH,4,26614,0.00015,0.0,87.32851337779826,0.0,[44974],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"WENZHOU, ZHEJIANG Province, P.R.China.",3,26614,0.000113,0.0,87.32851337779826,0.0,[134771],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Reliance Jio Infocomm Limited,61,26614,0.002292,0.0,87.32851337779826,0.0,[55836],['IN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Telstra Corporation Limited,40,26614,0.001503,0.0,87.32851337779826,0.0,[1221],['AU'],['Service'],"['Law, Business, and Consulting Services']"
+Roblox,5,26614,0.000188,0.0,87.32851337779826,0.0,[22697],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Rogers Communications Canada Inc.,40,26614,0.001503,0.0,87.32851337779826,0.0,[812],['CA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Rumahweb,125,26614,0.004697,0.0,87.32851337779826,0.0,[58487],['ID'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+S.J.M. Steffann,4,26614,0.00015,0.0,87.32851337779826,0.0,[208492],['NL'],['Community Groups and Nonprofits'],"['Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)']"
+Vodafone Idea Ltd. (VIL),31,26614,0.001165,0.0,87.32851337779826,0.0,"[55410, 55644, 38266]",['IN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Virtueon Solutions LLC,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[197598],['US'],['None'],['None']
+"SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED",2,26614,7.5e-05,0.0,87.32851337779826,0.0,[149042],['HK'],['None'],['None']
+Sama Tech s.r.o.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[200222],['SK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",9,26614,0.000338,0.0,87.32851337779826,0.0,[1547],['MD'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Vietnam Posts and Telecommunications (VNPT),42,26614,0.001578,0.0,87.32851337779826,0.0,[45899],['VN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Vialis SEM,3,26614,0.000113,0.0,87.32851337779826,0.0,[42487],['FR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Vetenskapsradet / SUNET,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[1653],['SE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Satnet,13,26614,0.000488,0.0,87.32851337779826,0.0,[14522],['EC'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Saudi Telecom Company JSC,16,26614,0.000601,0.0,87.32851337779826,0.0,[25019],['SA'],"['Media, Publishing, and Broadcasting']",['Online Music and Video Streaming Services']
+Verizon Business,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[701],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[680],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Securebit AG,13,26614,0.000488,0.0,87.32851337779826,0.0,[58057],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Serveroid, LLC",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[199274],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Shenzhen Tencent Computer Systems Company Limited,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[45090],['CN'],['Computer and Information Technology'],['Other']
+Signet B.V.,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[35470],['NL'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+NTX Technologies s.r.o.,4,26614,0.00015,0.0,87.32851337779826,0.0,[50113],['CZ'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+21vianet(China) Inc.,3,26614,0.000113,0.0,87.32851337779826,0.0,[17428],['CN'],['Computer and Information Technology'],['Software Development']
+"NOS COMUNICACOES, S.A.",11,26614,0.000413,0.0,87.32851337779826,0.0,[2860],['PT'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Claro NXT Telecomunicacoes Ltda,192,26614,0.007214,0.0,87.32851337779826,0.0,[28573],['BR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Cellcom Fixed Line Communication L.P,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[1680],['IL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Charter Communications Inc,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[11426],['US'],"['Media, Publishing, and Broadcasting']",['None']
+"Charter Communications, Inc",2,26614,7.5e-05,0.0,87.32851337779826,0.0,[33363],['US'],"['Media, Publishing, and Broadcasting']",['None']
+China Education and Research Network (CERNET),1,26614,3.8e-05,0.0,87.32851337779826,0.0,[38255],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+China Education and Research Network Center,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[4538],['CN'],['Education and Research'],"['Colleges, Universities, and Professional Schools']"
+China Mobile,33,26614,0.0012400000000000002,0.0,87.32851337779826,0.0,"[9808, 24547, 24444, 24400]",['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+China Mobile Communications Corporation,28,26614,0.001052,0.0,87.32851337779826,0.0,"[56046, 56040, 56041]",['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+China Mobile International Limited,18,26614,0.000676,0.0,87.32851337779826,0.0,[58453],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+China Telecom,23,26614,0.000864,0.0,87.32851337779826,0.0,"[134756, 137702, 140061, 140903]",['CN'],['Computer and Information Technology'],['None']
+China Telecom (Group),5,26614,0.000188,0.0,87.32851337779826,0.0,"[4835, 4812, 4811]",['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+China Unicom,6,26614,0.000227,0.0,87.32851337779826,0.0,"[136959, 138421, 140716, 4808]",['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)' 'None']
+ChinaTelecom Cybersecurity Tech,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[58777],['CN'],['Computer and Information Technology'],['None']
+"ChoicePoint, Inc.",13,26614,0.000488,0.0,87.32851337779826,0.0,[25923],['US'],['Computer and Information Technology'],['Software Development']
+"Chunghwa Telecom Co., Ltd.",3,26614,0.000113,0.0,87.32851337779826,0.0,[3462],['TW'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Cogent Communications,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[174],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+CLDIN B.V.,11,26614,0.000413,0.0,87.32851337779826,0.0,[48635],['NL'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Combell NV,214,26614,0.008041,0.0,87.32851337779826,0.0,[34762],['BE'],['Computer and Information Technology'],['Software Development']
+"Comcast Cable Communications, LLC",44,26614,0.001653,0.0,87.32851337779826,0.0,[7922],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Corporate / Direct Member IDNIC,3,26614,0.000113,0.0,87.32851337779826,0.0,[55818],['ID'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+DMIT Cloud Services,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[906],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Data102,8,26614,0.000301,0.0,87.32851337779826,0.0,[17185],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Dattatec.com,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[27823],['AR'],['Computer and Information Technology'],['None']
+Denpa Ltd.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[131662],['TW'],['Service'],"['Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)']"
+Deutsche Glasfaser Wholesale GmbH,144,26614,0.005411,0.0,87.32851337779826,0.0,[60294],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Deutsche Telekom AG,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[3320],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Dialog Axiata Plc,3,26614,0.000113,0.0,87.32851337779826,0.0,[18001],['LK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Dimension Data,19,26614,0.000714,0.0,87.32851337779826,0.0,"[10474, 3741]",['ZA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Domain names registrar REG.RU, Ltd",2,26614,7.5e-05,0.0,87.32851337779826,0.0,[197695],['RU'],['Computer and Information Technology'],['None']
+ENTEL PERU S.A.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[21575],['PE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Economia a.s.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[43614],['CZ'],"['Media, Publishing, and Broadcasting']",['Online Music and Video Streaming Services']
+COMMUNITY NETWORK CENTER INCORPORATED.,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[9354],['JP'],['None'],['None']
+CLARO S.A.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[4230],['BR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"NINGBO, ZHEJIANG Province, P.R.China.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[136188],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Bach Kim Network solutions Join stock company,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[135967],['VN'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+ALKON SAS,3,26614,0.000113,0.0,87.32851337779826,0.0,[266768],['AR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+ANS ACADEMY LIMITED,4,26614,0.00015,0.0,87.32851337779826,0.0,[61323],['GB'],['Computer and Information Technology'],['None']
+ARLINK S.A.,3,26614,0.000113,0.0,87.32851337779826,0.0,[28075],['AR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Akamai Technologies, Inc.",55,26614,0.002066,0.0,87.32851337779826,0.0,"[63949, 16625]",['US'],['Computer and Information Technology'],['Software Development' 'Computer and Network Security']
+Akenes SA,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[61098],['CH'],['Computer and Information Technology'],['None']
+Allo Communications LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[15108],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Arcade Solutions AG,8,26614,0.000301,0.0,87.32851337779826,0.0,[51873],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Arelion Sweden AB,73,26614,0.002743,0.0,87.32851337779826,0.0,[1299],['SE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Art of Automation B.V.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[60893],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+ArtPlanet LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[49542],['RU'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+"Ashton Holmes, Sole Proprietorship",10,26614,0.000376,0.0,87.32851337779826,0.0,[33760],['US'],['None'],['None']
+"Atria Convergence Technologies Pvt. Ltd.,",14,26614,0.000526,0.0,87.32851337779826,0.0,[24309],['IN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+BIT BV,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[12859],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+BWE CAPITAL LIMITED,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[197730],['VG'],['None'],['None']
+"Beijing Baidu Netcom Science and Technology Co., Ltd.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[38365],['CN'],['Computer and Information Technology'],['None']
+"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[137697],['CN'],['Computer and Information Technology'],['None']
+"Beijing Educational Information Network Service Center Co., Ltd",7,26614,0.000263,0.0,87.32851337779826,0.0,[9806],['CN'],['Computer and Information Technology'],['None']
+"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",5,26614,0.000188,0.0,87.32851337779826,0.0,[131486],['CN'],"['Museums, Libraries, and Entertainment']","['Recreation, Sports, and Performing Arts']"
+Beijing Jingdong Shangke Information Technology Co. Ltd.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[137753],['CN'],"['Museums, Libraries, and Entertainment']","['Recreation, Sports, and Performing Arts']"
+Belcloud LTD,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[44901],['BG'],['Computer and Information Technology'],['None']
+Bharat Sanchar Nigam Ltd,40,26614,0.001503,0.0,87.32851337779826,0.0,[9829],['IN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Blacknight Internet Solutions Limited,10,26614,0.000376,0.0,87.32851337779826,0.0,[39122],['IE'],['Computer and Information Technology'],['Software Development']
+CAT Telecom Public Company Limited,19,26614,0.000714,0.0,87.32851337779826,0.0,[4651],['TH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+CERN - European Organization for Nuclear Research,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[513],['CH'],['Computer and Information Technology'],['None']
+CERNET2 IX at South China University of Technology,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[24357],['CN'],['Education and Research'],"['Colleges, Universities, and Professional Schools']"
+CHINA UNICOM Industrial Internet Backbone,41,26614,0.001541,0.0,87.32851337779826,0.0,[4837],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+CHINANET Guangdong province network,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[58466],['CN'],['Computer and Information Technology'],['Software Development']
+CHINANET Jiangx province IDC network,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[134238],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+CHINANET Liaoning province Dalian MAN network,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[134762],['CN'],['Finance and Insurance'],"['Investment, Portfolio Management, Pensions and Funds']"
+CHINANET SHAANXI province Cloud Base network,5,26614,0.000188,0.0,87.32851337779826,0.0,[134768],['CN'],['Government and Public Administration'],"['Government and Regulatory Agencies, Administrations, Departments, and Services']"
+Edgecast Inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[15133],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Emirates Integrated Telecommunications Company PJSC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[15802],['AE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+EuroByte LLC,4,26614,0.00015,0.0,87.32851337779826,0.0,[210079],['RU'],['Construction and Real Estate'],"['Civil Engineering Construction (Utility Lines, Roads and Bridges)']"
+"LLC ""MASTERHOST""",8,26614,0.000301,0.0,87.32851337779826,0.0,[25532],['RU'],['Computer and Information Technology'],['Software Development']
+Internet Initiative Japan Inc.,4,26614,0.00015,0.0,87.32851337779826,0.0,[2497],['JP'],['None'],['None']
+"JCOM Co., Ltd.",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[9824],['JP'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+JSC RTComm.RU,8,26614,0.000301,0.0,87.32851337779826,0.0,[8342],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Jonas Pasche,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[205766],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Jordan Telecommunications PSC,13,26614,0.000488,0.0,87.32851337779826,0.0,[8697],['JO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Jump Networks Ltd,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[8943],['GB'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+KEVAG Telekom GmbH,4,26614,0.00015,0.0,87.32851337779826,0.0,[12360],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+KIFU (Governmental Info Tech Development Agency),1,26614,3.8e-05,0.0,87.32851337779826,0.0,[1955],['HU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung,21,26614,0.000789,0.0,87.32851337779826,0.0,[29413],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+KaasHosting B.V.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[211786],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Kaopu Cloud HK Limited,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[138915],['HK'],['Computer and Information Technology'],['None']
+Kontel LLC,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[204490],['RU'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+LEASEWEB UK LIMITED,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[205544],['GB'],['Computer and Information Technology'],['None']
+LINE Corporation,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[38631],['JP'],['None'],['None']
+LLC Vpsville,7,26614,0.000263,0.0,87.32851337779826,0.0,[59504],['RU'],['Computer and Information Technology'],['Software Development']
+FIBRAWORLD TELECOM S.A.U.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[200738],['ES'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+23M GmbH,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[47447],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Limelight Networks, Inc.",8,26614,0.000301,0.0,87.32851337779826,0.0,[22822],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Luiz Fernando Ribeiro Amaral,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[209114],['DE'],"['Retail Stores, Wholesale, and E-commerce Sites']",['Other']
+MAYBANK Data Center (Co-Location),2,26614,7.5e-05,0.0,87.32851337779826,0.0,[131445],['TH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+MENA LEVANT W.L.L,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[59605],['BH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+MadeIT inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[54455],['US'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+Maxis Broadband Sdn Bhd,14,26614,0.000526,0.0,87.32851337779826,0.0,[9534],['MY'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Mega Cable, S.A. de C.V.",9,26614,0.000338,0.0,87.32851337779826,0.0,[13999],['MX'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Mobile Telecommunication Company Saudi Arabia Joint-Stock company,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[43766],['SA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+MythicalKitten LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[48581],['US'],"['Retail Stores, Wholesale, and E-commerce Sites']",['None']
+NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[204679],['PL'],['Education and Research'],"['Colleges, Universities, and Professional Schools']"
+NAV COMMUNICATIONS SRL,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[6718],['RO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI,7,26614,0.000263,0.0,87.32851337779826,0.0,[202505],['TR'],['Computer and Information Technology'],['Hosting and Cloud Provider']
+NEXUSGUARD LIMITED,3,26614,0.000113,0.0,87.32851337779826,0.0,[45474],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+InterXion Hrvatska d.o.o.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[199244],['HR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+InnoGames GmbH,42,26614,0.001578,0.0,87.32851337779826,0.0,[208058],['DE'],"['Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)']",['None']
+Init7 (Switzerland) Ltd.,4,26614,0.00015,0.0,87.32851337779826,0.0,[13030],['CH'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Infomaniak Network SA,3,26614,0.000113,0.0,87.32851337779826,0.0,[29222],['CH'],['Computer and Information Technology'],['None']
+Fiber Operator B.V.,13,26614,0.000488,0.0,87.32851337779826,0.0,[207375],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Ford Motor Company,13,26614,0.000488,0.0,87.32851337779826,0.0,[3389],['US'],"['Freight, Shipment, and Postal Services']",['None']
+Free Pro SAS,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[30781],['FR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Free Range Cloud Hosting Inc.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[53356],['CA'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"Fundacao para a Ciencia e a Tecnologia, I.P.",17,26614,0.000639,0.0,87.32851337779826,0.0,[1930],['PT'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+FunkFeuer Wien - Verein zur Foerderung freier Netze,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[35492],['AT'],['Community Groups and Nonprofits'],['None']
+GANDI SAS,3,26614,0.000113,0.0,87.32851337779826,0.0,[209453],['FR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+GNET Internet Telekomunikasyon A.S.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[42846],['TR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+GTS Telecom SRL,31,26614,0.001165,0.0,87.32851337779826,0.0,[5606],['RO'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Go-Trex Holding BV,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[199752],['NL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"GridFury, LLC",4,26614,0.00015,0.0,87.32851337779826,0.0,[40630],['US'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Guanzhong Chen,4,26614,0.00015,0.0,87.32851337779826,0.0,[200351],['CA'],['Education and Research'],['Other']
+"HAProxy Technologies, Inc.",21,26614,0.000789,0.0,87.32851337779826,0.0,[11019],['US'],['Computer and Information Technology'],['Computer and Network Security']
+HKBN Enterprise Solutions HK Limited,20,26614,0.000751,0.0,87.32851337779826,0.0,[9381],['HK'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Hengyang,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[63835],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Hohl IT e.U.,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[40994],['AT'],['Service'],['Other']
+Host Europe GmbH,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[29066],['DE'],['Computer and Information Technology'],['None']
+Hostinger International Limited,938,26614,0.035245,0.0,87.32851337779826,0.0,[47583],['CY'],['Computer and Information Technology'],['Software Development']
+Hostpoint AG,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[29097],['CH'],['Computer and Information Technology'],['None']
+Hot-Net internet services Ltd.,5,26614,0.000188,0.0,87.32851337779826,0.0,[12849],['IL'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+Huawei,3,26614,0.000113,0.0,87.32851337779826,0.0,[55990],['CN'],['Computer and Information Technology'],['None']
+"Hutchison CP Telecommunications, PT",1,26614,3.8e-05,0.0,87.32851337779826,0.0,[45727],['ID'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+"IDC, China Telecommunications Corporation",2,26614,7.5e-05,0.0,87.32851337779826,0.0,[23724],['CN'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+IELO-LIAZO SERVICES SAS,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[29075],['FR'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+IMPERVA INC,9,26614,0.000338,0.0,87.32851337779826,0.0,[62571],['US'],['Government and Public Administration'],"['Military, Defense, National Security, and International Affairs']"
+INSYS LLC,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[28890],['RU'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+IONOS SE,3,26614,0.000113,0.0,87.32851337779826,0.0,[8560],['DE'],['Computer and Information Technology'],['Internet Service Provider (ISP)']
+ITL LLC,2,26614,7.5e-05,0.0,87.32851337779826,0.0,[21100],['UA'],['Computer and Information Technology'],['None']
+Incapsula Inc,218,26614,0.008191,0.0,87.32851337779826,0.0,[19551],['US'],['Computer and Information Technology'],['Computer and Network Security']
+xTom Pty Ltd,1,26614,3.8e-05,0.0,87.32851337779826,0.0,[8888],['AU'],['Computer and Information Technology'],['None']
