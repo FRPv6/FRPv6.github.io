@@ -1,8 +1,9 @@
 import pandas as pd
 import json
+from config import DefaultConfig
+config = DefaultConfig()
 
-
-def generate_pie_chart(path, type_name, csv_file_name):
+def generate_result_temp(path, type_name, csv_file_name):
     # 下拉框class，type1 or type2
     class_ratio_names = ["","sat_"]
     class_num_names = ["", "sta_"]
@@ -83,14 +84,11 @@ def generate_pie_chart(path, type_name, csv_file_name):
     return data_class_array
 
 
-if __name__ == "__main__":
-
-    # Specify the variables for each iteration
-    file_path = "../data/sat_result_20231117_20231123/"
+def generate_table_chart():
     # type_list = ["as", "category", "sub_category", "org"]
     prefix_types = ["sum", "router", "seed"]
-    type_names = ["AS-Num-Org", "Category-Num", "Sub_category-Num", "Org-AS-Num", "Country-Num" ]
-
+    type_names = ["AS-Num-Org", "Category-Num", "Sub_category-Num", "Org-AS-Num", "Country-Num"]
+    file_path = config.file_path_last_week
     # Iterate through different combinations
     for type_name in type_names:
         resultArray = []
@@ -98,7 +96,7 @@ if __name__ == "__main__":
             for day in range(1, 8):
                 csv_file_name = f"{prefix_type}_prefix_day_{day}_{type_name.split('-')[0].lower()}_sat.csv"
 
-                result_temp = generate_pie_chart(file_path, type_name, csv_file_name)
+                result_temp = generate_result_temp(file_path, type_name, csv_file_name)
                 resultArray.append(result_temp)
 
         result = {"result": resultArray, "code": 1001, "msg": "success"}

@@ -21,7 +21,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6071,
             0.1970208346855325
           ],
@@ -35,14 +35,14 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1772,
             0.0575063282923346
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1616,
             0.0524436944246121
           ],
@@ -56,7 +56,7 @@
           [
             8,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0311222171740118
           ],
@@ -70,14 +70,14 @@
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             601,
             0.0195041215032128
           ],
           [
             11,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             600,
             0.0194716687220094
           ],
@@ -105,7 +105,7 @@
           [
             15,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             298,
             0.009670928798598
           ],
@@ -147,21 +147,21 @@
           [
             21,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             206,
             0.0066852729278899
           ],
           [
             22,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0065554618030765
           ],
           [
             23,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             201,
             0.0065230090218731
           ],
@@ -175,7 +175,7 @@
           [
             25,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0058739533978061
           ],
@@ -231,7 +231,7 @@
           [
             33,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             105,
             0.0034075420263516
           ],
@@ -273,7 +273,7 @@
           [
             39,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0028233919646913
           ],
@@ -287,14 +287,14 @@
           [
             41,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             78,
             0.0025313169338612
           ],
           [
             42,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             76,
             0.0024664113714545
           ],
@@ -343,7 +343,7 @@
           [
             49,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             65,
             0.0021094307782176
           ],
@@ -378,7 +378,7 @@
           [
             54,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0016226390601674
           ],
@@ -497,7 +497,7 @@
           [
             71,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013630168105406
           ],
@@ -511,14 +511,14 @@
           [
             73,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             41,
             0.0013305640293373
           ],
           [
             74,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             41,
             0.0013305640293373
           ],
@@ -546,7 +546,7 @@
           [
             78,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             37,
             0.0012007529045239
           ],
@@ -588,7 +588,7 @@
           [
             84,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0011033945609138
           ],
@@ -686,14 +686,14 @@
           [
             98,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.0009086778736937
           ],
           [
             99,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.000843772311287
           ],
@@ -714,7 +714,7 @@
           [
             102,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007788667488803
           ],
@@ -854,7 +854,7 @@
           [
             122,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006815084052703
           ],
@@ -868,21 +868,21 @@
           [
             124,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0006166028428636
           ],
           [
             125,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0006166028428636
           ],
           [
             126,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0006166028428636
           ],
@@ -924,7 +924,7 @@
           [
             132,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             17,
             0.0005516972804569
           ],
@@ -994,7 +994,7 @@
           [
             142,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004867917180502
           ],
@@ -1190,14 +1190,14 @@
           [
             170,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004543389368468
           ],
           [
             171,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.0004543389368468
           ],
@@ -1218,7 +1218,7 @@
           [
             174,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004218861556435
           ],
@@ -1260,14 +1260,14 @@
           [
             180,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003894333744401
           ],
           [
             181,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003894333744401
           ],
@@ -1302,7 +1302,7 @@
           [
             186,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003569805932368
           ],
@@ -1351,28 +1351,28 @@
           [
             193,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003245278120334
           ],
           [
             194,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003245278120334
           ],
           [
             195,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             10,
             0.0003245278120334
           ],
           [
             196,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003245278120334
           ],
@@ -1435,28 +1435,28 @@
           [
             205,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002920750308301
           ],
           [
             206,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             9,
             0.0002920750308301
           ],
           [
             207,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002920750308301
           ],
           [
             208,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             9,
             0.0002920750308301
           ],
@@ -2037,7 +2037,7 @@
           [
             291,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002271694684234
           ],
@@ -2072,14 +2072,14 @@
           [
             296,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.00019471668722
           ],
           [
             297,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.00019471668722
           ],
@@ -2142,7 +2142,7 @@
           [
             306,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.0001622639060167
           ],
@@ -2289,21 +2289,21 @@
           [
             327,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4,
             0.0001298111248133
           ],
           [
             328,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001298111248133
           ],
           [
             329,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001298111248133
           ],
@@ -2471,21 +2471,21 @@
           [
             353,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.735834361004738e-05
           ],
           [
             354,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.735834361004738e-05
           ],
           [
             355,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.735834361004738e-05
           ],
@@ -2821,28 +2821,28 @@
           [
             403,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.490556240669826e-05
           ],
           [
             404,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.490556240669826e-05
           ],
           [
             405,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.490556240669826e-05
           ],
           [
             406,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.490556240669826e-05
           ],
@@ -3539,7 +3539,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             69.3125,
             0.0467733412006706
           ],
@@ -3567,7 +3567,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             35.0,
             0.0236186393799599
           ],
@@ -3581,14 +3581,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.0222690028439622
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0215942142679671
           ],
@@ -3623,7 +3623,7 @@
           [
             16,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000032,
             0.0087726590781696
           ],
@@ -3637,14 +3637,14 @@
           [
             18,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0080978502576265
           ],
           [
             19,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0067481826799885
           ],
@@ -3665,7 +3665,7 @@
           [
             22,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500061,
             0.0064108147099034
           ],
@@ -3679,7 +3679,7 @@
           [
             24,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0061998928372394
           ],
@@ -3721,21 +3721,21 @@
           [
             30,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.0040489096079931
           ],
           [
             31,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.0040489096079931
           ],
           [
             32,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.013001,
             0.0033828646522965
           ],
@@ -3763,14 +3763,14 @@
           [
             36,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0026998189999742
           ],
           [
             37,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0026992730719954
           ],
@@ -3931,7 +3931,7 @@
           [
             60,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013733604470274
           ],
@@ -3945,7 +3945,7 @@
           [
             62,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             1.5,
             0.0010122274019982
           ],
@@ -3959,7 +3959,7 @@
           [
             64,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008857090990225
           ],
@@ -4183,28 +4183,28 @@
           [
             96,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0006748283902728
           ],
           [
             97,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006748182679988
           ],
           [
             98,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006748182679988
           ],
           [
             99,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006748182679988
           ],
@@ -4218,7 +4218,7 @@
           [
             101,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132428,
             8.936483359455232e-05
           ],
@@ -4232,7 +4232,7 @@
           [
             103,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.43732028661648e-05
           ],
@@ -4267,7 +4267,7 @@
           [
             108,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.219773593450439e-05
           ],
@@ -4281,14 +4281,14 @@
           [
             110,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.6761942872298575e-05
           ],
           [
             111,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.02079,
             1.4029471791696187e-05
           ],
@@ -4309,21 +4309,21 @@
           [
             114,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.056495480379007e-05
           ],
           [
             115,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.765053136688519e-06
           ],
           [
             116,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.271680309607053e-06
           ],
@@ -4449,28 +4449,28 @@
           [
             134,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.6466372470915083e-06
           ],
           [
             135,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6358401548035264e-06
           ],
           [
             136,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6358401548035264e-06
           ],
           [
             137,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002515,
             1.6971679440171194e-06
           ],
@@ -4491,7 +4491,7 @@
           [
             140,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.853615676144974e-07
           ],
@@ -4505,7 +4505,7 @@
           [
             142,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001221,
             8.239531052266016e-07
           ],
@@ -4519,7 +4519,7 @@
           [
             144,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             5.972141671789864e-07
           ],
@@ -4540,14 +4540,14 @@
           [
             147,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.1163914347930134e-07
           ],
           [
             148,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.1163914347930134e-07
           ],
@@ -4582,7 +4582,7 @@
           [
             153,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.502306810914056e-07
           ],
@@ -4610,7 +4610,7 @@
           [
             157,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.1594184575963358e-07
           ],
@@ -4757,14 +4757,14 @@
           [
             178,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.3631329013576864e-07
           ],
           [
             179,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.245010271584309e-08
           ],
@@ -4799,14 +4799,14 @@
           [
             184,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.0001309999999999,
             8.840119310784996e-08
           ],
           [
             185,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             0.00011,
             7.423000947987401e-08
           ],
@@ -4911,14 +4911,14 @@
           [
             200,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4.6e-05,
             3.104164032794731e-08
           ],
           [
             201,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.104164032794731e-08
           ],
@@ -5023,35 +5023,35 @@
           [
             216,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.091936630796449e-08
           ],
           [
             217,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.024454803996564e-08
           ],
           [
             218,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.024454803996564e-08
           ],
           [
             219,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.822009323596908e-08
           ],
           [
             220,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.5520820163973657e-08
           ],
@@ -5310,21 +5310,21 @@
           [
             257,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.012227401998282e-08
           ],
           [
             258,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.012227401998282e-08
           ],
           [
             259,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.012227401998282e-08
           ],
@@ -6199,7 +6199,7 @@
           [
             384,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -6437,7 +6437,7 @@
           [
             418,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -6458,7 +6458,7 @@
           [
             421,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -6500,7 +6500,7 @@
           [
             427,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -6563,7 +6563,7 @@
           [
             436,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -7045,7 +7045,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6085,
             0.197238339113805
           ],
@@ -7059,14 +7059,14 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1771,
             0.0574049463550614
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1608,
             0.0521214871479044
           ],
@@ -7080,7 +7080,7 @@
           [
             8,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0310848918997763
           ],
@@ -7094,14 +7094,14 @@
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             605,
             0.0196103854007973
           ],
           [
             11,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             600,
             0.0194483160999643
           ],
@@ -7129,7 +7129,7 @@
           [
             15,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             298,
             0.0096593303296489
           ],
@@ -7171,14 +7171,14 @@
           [
             21,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0065475997536546
           ],
           [
             22,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             202,
             0.0065475997536546
           ],
@@ -7192,14 +7192,14 @@
           [
             24,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             187,
             0.0060613918511555
           ],
           [
             25,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0058669086901559
           ],
@@ -7255,7 +7255,7 @@
           [
             33,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             105,
             0.0034034553174937
           ],
@@ -7297,7 +7297,7 @@
           [
             39,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0028200058344948
           ],
@@ -7311,14 +7311,14 @@
           [
             41,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             78,
             0.0025282810929953
           ],
           [
             42,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             78,
             0.0025282810929953
           ],
@@ -7381,7 +7381,7 @@
           [
             51,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             60,
             0.0019448316099964
           ],
@@ -7402,7 +7402,7 @@
           [
             54,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0016206930083303
           ],
@@ -7521,7 +7521,7 @@
           [
             71,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013613821269975
           ],
@@ -7535,14 +7535,14 @@
           [
             73,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             41,
             0.0013289682668308
           ],
           [
             74,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             41,
             0.0013289682668308
           ],
@@ -7570,7 +7570,7 @@
           [
             78,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             37,
             0.0011993128261644
           ],
@@ -7605,7 +7605,7 @@
           [
             83,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0011020712456646
           ],
@@ -7703,14 +7703,14 @@
           [
             97,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.000907588084665
           ],
           [
             98,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.0008427603643317
           ],
@@ -7731,7 +7731,7 @@
           [
             101,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007779326439985
           ],
@@ -7892,7 +7892,7 @@
           [
             124,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006806910634987
           ],
@@ -7906,21 +7906,21 @@
           [
             126,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0006158633431655
           ],
           [
             127,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0006158633431655
           ],
           [
             128,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0006158633431655
           ],
@@ -8004,7 +8004,7 @@
           [
             140,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             16,
             0.0005186217626657
           ],
@@ -8039,7 +8039,7 @@
           [
             145,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004862079024991
           ],
@@ -8221,14 +8221,14 @@
           [
             171,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004537940423325
           ],
           [
             172,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.0004537940423325
           ],
@@ -8256,7 +8256,7 @@
           [
             176,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004213801821658
           ],
@@ -8291,14 +8291,14 @@
           [
             181,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003889663219992
           ],
           [
             182,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003889663219992
           ],
@@ -8340,7 +8340,7 @@
           [
             188,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003565524618326
           ],
@@ -8389,35 +8389,35 @@
           [
             195,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.000324138601666
           ],
           [
             196,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.000324138601666
           ],
           [
             197,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.000324138601666
           ],
           [
             198,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             10,
             0.000324138601666
           ],
           [
             199,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             10,
             0.000324138601666
           ],
@@ -8466,21 +8466,21 @@
           [
             206,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002917247414994
           ],
           [
             207,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002917247414994
           ],
           [
             208,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             9,
             0.0002917247414994
           ],
@@ -9082,7 +9082,7 @@
           [
             294,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002268970211662
           ],
@@ -9124,14 +9124,14 @@
           [
             300,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001944831609996
           ],
           [
             301,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001944831609996
           ],
@@ -9187,7 +9187,7 @@
           [
             309,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.000162069300833
           ],
@@ -9327,21 +9327,21 @@
           [
             329,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4,
             0.0001296554406664
           ],
           [
             330,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001296554406664
           ],
           [
             331,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001296554406664
           ],
@@ -9530,21 +9530,21 @@
           [
             358,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.724158049982171e-05
           ],
           [
             359,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.724158049982171e-05
           ],
           [
             360,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.724158049982171e-05
           ],
@@ -9852,28 +9852,28 @@
           [
             404,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.482772033321449e-05
           ],
           [
             405,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.482772033321449e-05
           ],
           [
             406,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.482772033321449e-05
           ],
           [
             407,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.482772033321449e-05
           ],
@@ -10584,7 +10584,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             69.3125,
             0.0467732260257241
           ],
@@ -10612,7 +10612,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             35.0,
             0.0236185812212854
           ],
@@ -10626,14 +10626,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.0222689480086405
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0215941610942487
           ],
@@ -10668,7 +10668,7 @@
           [
             16,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000034,
             0.0087726388259563
           ],
@@ -10682,14 +10682,14 @@
           [
             18,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0080978303174331
           ],
           [
             19,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0067481660632244
           ],
@@ -10710,7 +10710,7 @@
           [
             22,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500061,
             0.0064107989238761
           ],
@@ -10724,7 +10724,7 @@
           [
             24,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0061998775705874
           ],
@@ -10766,21 +10766,21 @@
           [
             30,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.0040488996379346
           ],
           [
             31,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.0040488996379346
           ],
           [
             32,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.0129850000000005,
             0.0033828455252452
           ],
@@ -10801,14 +10801,14 @@
           [
             35,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0026998123519242
           ],
           [
             36,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0026992664252897
           ],
@@ -10976,7 +10976,7 @@
           [
             60,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013733570652567
           ],
@@ -10990,7 +10990,7 @@
           [
             62,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             1.5,
             0.0010122249094836
           ],
@@ -11004,7 +11004,7 @@
           [
             64,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008857069180472
           ],
@@ -11228,28 +11228,28 @@
           [
             96,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0006748267285715
           ],
           [
             97,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006748166063224
           ],
           [
             98,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006748166063224
           ],
           [
             99,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006748166063224
           ],
@@ -11270,14 +11270,14 @@
           [
             102,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132184,
             8.919995829012545e-05
           ],
           [
             103,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.4372995105101e-05
           ],
@@ -11312,7 +11312,7 @@
           [
             108,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.219763202655483e-05
           ],
@@ -11326,14 +11326,14 @@
           [
             110,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.676187697353533e-05
           ],
           [
             111,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.0207599999999999,
             1.4009192747253856e-05
           ],
@@ -11354,21 +11354,21 @@
           [
             114,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.0564928788584122e-05
           ],
           [
             115,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.765036478382463e-06
           ],
           [
             116,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.271667328590903e-06
           ],
@@ -11501,28 +11501,28 @@
           [
             135,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.6466307299966103e-06
           ],
           [
             136,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6358336642954514e-06
           ],
           [
             137,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6358336642954514e-06
           ],
           [
             138,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002516,
             1.6978385815072594e-06
           ],
@@ -11543,7 +11543,7 @@
           [
             141,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.853593874950414e-07
           ],
@@ -11557,7 +11557,7 @@
           [
             143,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001221,
             8.239510763196994e-07
           ],
@@ -11571,7 +11571,7 @@
           [
             145,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             5.972126965953595e-07
           ],
@@ -11592,14 +11592,14 @@
           [
             148,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.116381298566885e-07
           ],
           [
             149,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.116381298566885e-07
           ],
@@ -11634,7 +11634,7 @@
           [
             154,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.502298186813465e-07
           ],
@@ -11662,7 +11662,7 @@
           [
             158,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.1594131402318085e-07
           ],
@@ -11809,14 +11809,14 @@
           [
             179,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.363129544771329e-07
           ],
           [
             180,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.24498750661743e-08
           ],
@@ -11851,14 +11851,14 @@
           [
             185,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.0001309999999999,
             8.840097542823966e-08
           ],
           [
             186,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             0.00011,
             7.422982669546842e-08
           ],
@@ -11963,14 +11963,14 @@
           [
             201,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.1041563890832244e-08
           ],
           [
             202,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4.6e-05,
             3.1041563890832244e-08
           ],
@@ -12075,35 +12075,35 @@
           [
             217,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.0919314795995643e-08
           ],
           [
             218,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.0244498189673205e-08
           ],
           [
             219,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.0244498189673205e-08
           ],
           [
             220,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.822004837070588e-08
           ],
           [
             221,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.5520781945416122e-08
           ],
@@ -12369,21 +12369,21 @@
           [
             259,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.0122249094836604e-08
           ],
           [
             260,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.0122249094836604e-08
           ],
           [
             261,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.0122249094836604e-08
           ],
@@ -13258,7 +13258,7 @@
           [
             386,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -13405,7 +13405,7 @@
           [
             407,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -13496,7 +13496,7 @@
           [
             420,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -13552,7 +13552,7 @@
           [
             428,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -13615,7 +13615,7 @@
           [
             437,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -14097,7 +14097,7 @@
           [
             1,
             20940,
-            "['Akamai International B.V.' 'Akamai International B.V.']",
+            "Akamai International B.V.",
             9363,
             0.2999807766243752
           ],
@@ -14111,7 +14111,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6062,
             0.1942201717288222
           ],
@@ -14125,21 +14125,21 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1772,
             0.0567730360117903
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1622,
             0.0519671921056004
           ],
           [
             7,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0307253620402409
           ],
@@ -14153,14 +14153,14 @@
           [
             9,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             602,
             0.0192874535435089
           ],
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             594,
             0.0190311418685121
           ],
@@ -14174,7 +14174,7 @@
           [
             12,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             330,
             0.0105728565936178
           ],
@@ -14209,7 +14209,7 @@
           [
             17,
             34762,
-            "['Combell NV' 'Combell NV']",
+            "Combell NV",
             215,
             0.0068883762655388
           ],
@@ -14230,7 +14230,7 @@
           [
             20,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0064718697936691
           ],
@@ -14244,7 +14244,7 @@
           [
             22,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0057990516468025
           ],
@@ -14258,7 +14258,7 @@
           [
             24,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             167,
             0.0053505062155581
           ],
@@ -14279,14 +14279,14 @@
           [
             27,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             146,
             0.0046776880686915
           ],
           [
             28,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             145,
             0.0046456491093169
           ],
@@ -14321,7 +14321,7 @@
           [
             33,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             106,
             0.0033961296937075
           ],
@@ -14342,7 +14342,7 @@
           [
             36,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0027873894655901
           ],
@@ -14384,14 +14384,14 @@
           [
             42,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             78,
             0.0024990388312187
           ],
           [
             43,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             76,
             0.0024349609124695
           ],
@@ -14440,7 +14440,7 @@
           [
             50,
             8422,
-            "['NetCologne Gesellschaft fur Telekommunikation mbH'\n 'NetCologne Gesellschaft fur Telekommunikation mbH']",
+            "NetCologne Gesellschaft fur Telekommunikation mbH",
             62,
             0.0019864154812251
           ],
@@ -14454,7 +14454,7 @@
           [
             52,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             60,
             0.0019223375624759
           ],
@@ -14517,7 +14517,7 @@
           [
             61,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             51,
             0.0016339869281045
           ],
@@ -14594,7 +14594,7 @@
           [
             72,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             44,
             0.0014097142124823
           ],
@@ -14664,7 +14664,7 @@
           [
             82,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013456362937331
           ],
@@ -14706,7 +14706,7 @@
           [
             88,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             37,
             0.0011854414968601
           ],
@@ -14797,14 +14797,14 @@
           [
             101,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0010893246187363
           ],
           [
             102,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             32,
             0.0010252466999871
           ],
@@ -14874,7 +14874,7 @@
           [
             112,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             29,
             0.0009291298218633
           ],
@@ -14888,7 +14888,7 @@
           [
             114,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.0008330129437395
           ],
@@ -14902,7 +14902,7 @@
           [
             116,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             25,
             0.0008009739843649
           ],
@@ -15063,7 +15063,7 @@
           [
             139,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007689350249903
           ],
@@ -15105,14 +15105,14 @@
           [
             145,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             22,
             0.0007048571062411
           ],
           [
             146,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006728181468665
           ],
@@ -15133,21 +15133,21 @@
           [
             149,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0006087402281173
           ],
           [
             150,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0006087402281173
           ],
           [
             151,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0006087402281173
           ],
@@ -15441,7 +15441,7 @@
           [
             193,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004805843906189
           ],
@@ -15462,14 +15462,14 @@
           [
             196,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004485454312443
           ],
           [
             197,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             14,
             0.0004485454312443
           ],
@@ -15497,7 +15497,7 @@
           [
             201,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004165064718697
           ],
@@ -15819,21 +15819,21 @@
           [
             247,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003844675124951
           ],
           [
             248,
             48635,
-            "['CLDIN B.V.' 'CLDIN B.V.']",
+            "CLDIN B.V.",
             12,
             0.0003844675124951
           ],
           [
             249,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003844675124951
           ],
@@ -15854,14 +15854,14 @@
           [
             252,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003524285531205
           ],
           [
             253,
             3320,
-            "['Deutsche Telekom AG' 'Deutsche Telekom AG']",
+            "Deutsche Telekom AG",
             11,
             0.0003524285531205
           ],
@@ -15917,35 +15917,35 @@
           [
             261,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003203895937459
           ],
           [
             262,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003203895937459
           ],
           [
             263,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             10,
             0.0003203895937459
           ],
           [
             264,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003203895937459
           ],
           [
             265,
             8100,
-            "['QuadraNet Enterprises LLC' 'QuadraNet Enterprises LLC']",
+            "QuadraNet Enterprises LLC",
             10,
             0.0003203895937459
           ],
@@ -16015,7 +16015,7 @@
           [
             275,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002883506343713
           ],
@@ -16050,14 +16050,14 @@
           [
             280,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             8,
             0.0002563116749967
           ],
           [
             281,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             8,
             0.0002563116749967
           ],
@@ -16099,7 +16099,7 @@
           [
             287,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002242727156221
           ],
@@ -18052,14 +18052,14 @@
           [
             566,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001922337562475
           ],
           [
             567,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001922337562475
           ],
@@ -18108,14 +18108,14 @@
           [
             574,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             5,
             0.0001601947968729
           ],
           [
             575,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.0001601947968729
           ],
@@ -18276,28 +18276,28 @@
           [
             598,
             49544,
-            "['i3D.net B.V' 'i3D.net B.V']",
+            "i3D.net B.V",
             4,
             0.0001281558374983
           ],
           [
             599,
             210644,
-            "['AEZA INTERNATIONAL LTD' 'AEZA INTERNATIONAL LTD']",
+            "AEZA INTERNATIONAL LTD",
             4,
             0.0001281558374983
           ],
           [
             600,
             9121,
-            "['Turk Telekomunikasyon Anonim Sirketi'\n 'Turk Telekomunikasyon Anonim Sirketi']",
+            "Turk Telekomunikasyon Anonim Sirketi",
             4,
             0.0001281558374983
           ],
           [
             601,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001281558374983
           ],
@@ -18479,35 +18479,35 @@
           [
             627,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.611687812379854e-05
           ],
           [
             628,
             29075,
-            "['IELO-LIAZO SERVICES SAS' 'IELO-LIAZO SERVICES SAS']",
+            "IELO-LIAZO SERVICES SAS",
             3,
             9.611687812379854e-05
           ],
           [
             629,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.611687812379854e-05
           ],
           [
             630,
             12306,
-            "['Plus.line AG' 'Plus.line AG']",
+            "Plus.line AG",
             3,
             9.611687812379854e-05
           ],
           [
             631,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.611687812379854e-05
           ],
@@ -18766,42 +18766,42 @@
           [
             668,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.407791874919902e-05
           ],
           [
             669,
             12859,
-            "['BIT BV' 'BIT BV']",
+            "BIT BV",
             2,
             6.407791874919902e-05
           ],
           [
             670,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.407791874919902e-05
           ],
           [
             671,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.407791874919902e-05
           ],
           [
             672,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.407791874919902e-05
           ],
           [
             673,
             44477,
-            "['STARK INDUSTRIES SOLUTIONS LTD' 'STARK INDUSTRIES SOLUTIONS LTD']",
+            "STARK INDUSTRIES SOLUTIONS LTD",
             2,
             6.407791874919902e-05
           ],
@@ -19575,7 +19575,7 @@
           [
             7,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             100.3125,
             0.0273155192406746
           ],
@@ -19596,7 +19596,7 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             49.0,
             0.0133429078409276
           ],
@@ -19617,7 +19617,7 @@
           [
             13,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             35.0,
             0.0095306484578054
           ],
@@ -19645,7 +19645,7 @@
           [
             17,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0087137477142373
           ],
@@ -19701,7 +19701,7 @@
           [
             25,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             22.000046,
             0.0059907058423299
           ],
@@ -19715,7 +19715,7 @@
           [
             27,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             19.500061,
             0.0053099493227646
           ],
@@ -19736,7 +19736,7 @@
           [
             30,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             17.020775,
             0.0046348292286972
           ],
@@ -20415,28 +20415,28 @@
           [
             127,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             16.000137000000002,
             0.0043569051721064
           ],
           [
             128,
             29075,
-            "['IELO-LIAZO SERVICES SAS' 'IELO-LIAZO SERVICES SAS']",
+            "IELO-LIAZO SERVICES SAS",
             16.0,
             0.0043568678664253
           ],
           [
             129,
             48635,
-            "['CLDIN B.V.' 'CLDIN B.V.']",
+            "CLDIN B.V.",
             16.0,
             0.0043568678664253
           ],
           [
             130,
             8422,
-            "['NetCologne Gesellschaft fur Telekommunikation mbH'\n 'NetCologne Gesellschaft fur Telekommunikation mbH']",
+            "NetCologne Gesellschaft fur Telekommunikation mbH",
             16.0,
             0.0043568678664253
           ],
@@ -20450,21 +20450,21 @@
           [
             132,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000032,
             0.0035399638552063
           ],
           [
             133,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000076,
             0.0032676715949413
           ],
           [
             134,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0027230424165158
           ],
@@ -20485,7 +20485,7 @@
           [
             137,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0025017952201739
           ],
@@ -20527,7 +20527,7 @@
           [
             143,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.0016338254499095
           ],
@@ -20548,7 +20548,7 @@
           [
             146,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.013123,
             0.0013650946568211
           ],
@@ -20583,21 +20583,21 @@
           [
             151,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0010894372607378
           ],
           [
             152,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4.000046,
             0.0010892294926014
           ],
           [
             153,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0010892169666063
           ],
@@ -20695,7 +20695,7 @@
           [
             167,
             210644,
-            "['AEZA INTERNATIONAL LTD' 'AEZA INTERNATIONAL LTD']",
+            "AEZA INTERNATIONAL LTD",
             3.000015,
             0.0008169168095183
           ],
@@ -20786,21 +20786,21 @@
           [
             180,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0005541816112226
           ],
           [
             181,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             1.4398190000000002,
             0.0003920688209105
           ],
           [
             182,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0003574034017313
           ],
@@ -21332,63 +21332,63 @@
           [
             258,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.003906,
             0.0002733678620194
           ],
           [
             259,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             1.000384,
             0.0002724088064803
           ],
           [
             260,
             49544,
-            "['i3D.net B.V' 'i3D.net B.V']",
+            "i3D.net B.V",
             1.000244,
             0.0002723706838865
           ],
           [
             261,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0002723083262152
           ],
           [
             262,
             44477,
-            "['STARK INDUSTRIES SOLUTIONS LTD' 'STARK INDUSTRIES SOLUTIONS LTD']",
+            "STARK INDUSTRIES SOLUTIONS LTD",
             1.0,
             0.0002723042416515
           ],
           [
             263,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0002723042416515
           ],
           [
             264,
             34762,
-            "['Combell NV' 'Combell NV']",
+            "Combell NV",
             1.0,
             0.0002723042416515
           ],
           [
             265,
             12306,
-            "['Plus.line AG' 'Plus.line AG']",
+            "Plus.line AG",
             1.0,
             0.0002723042416515
           ],
           [
             266,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0002723042416515
           ],
@@ -21430,7 +21430,7 @@
           [
             272,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132428,
             3.606070611343608e-05
           ],
@@ -21444,7 +21444,7 @@
           [
             274,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             3.4046471637939314e-05
           ],
@@ -21528,7 +21528,7 @@
           [
             286,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             1.7027728838956908e-05
           ],
@@ -21542,14 +21542,14 @@
           [
             288,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             1.0799041615418554e-05
           ],
           [
             289,
             3320,
-            "['Deutsche Telekom AG' 'Deutsche Telekom AG']",
+            "Deutsche Telekom AG",
             0.035156,
             9.57312791950312e-06
           ],
@@ -21591,14 +21591,14 @@
           [
             295,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             4.263195207297213e-06
           ],
           [
             296,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010086,
             2.7464605812978853e-06
           ],
@@ -21612,7 +21612,7 @@
           [
             298,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             2.1272407357821814e-06
           ],
@@ -21661,7 +21661,7 @@
           [
             305,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.004288,
             1.167640588201996e-06
           ],
@@ -21843,28 +21843,28 @@
           [
             331,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             1.067977235757516e-06
           ],
           [
             332,
             8100,
-            "['QuadraNet Enterprises LLC' 'QuadraNet Enterprises LLC']",
+            "QuadraNet Enterprises LLC",
             0.003911,
             1.0649818890993487e-06
           ],
           [
             333,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             1.0636203678910909e-06
           ],
           [
             334,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.0027779999999999,
             7.564611833081028e-07
           ],
@@ -21878,7 +21878,7 @@
           [
             336,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001892,
             5.151996252047987e-07
           ],
@@ -21906,7 +21906,7 @@
           [
             340,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             3.572631650468794e-07
           ],
@@ -21920,7 +21920,7 @@
           [
             342,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.0009,
             2.450738174864264e-07
           ],
@@ -22018,14 +22018,14 @@
           [
             356,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             1.661055874074668e-07
           ],
           [
             357,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             1.661055874074668e-07
           ],
@@ -22039,7 +22039,7 @@
           [
             359,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             1.4132590141717258e-07
           ],
@@ -22102,7 +22102,7 @@
           [
             368,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             8.713735732850719e-08
           ],
@@ -22158,7 +22158,7 @@
           [
             376,
             20940,
-            "['Akamai International B.V.' 'Akamai International B.V.']",
+            "Akamai International B.V.",
             0.000258,
             7.02544943461089e-08
           ],
@@ -22235,7 +22235,7 @@
           [
             387,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             5.500545681362015e-08
           ],
@@ -22277,7 +22277,7 @@
           [
             393,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.0001309999999999,
             3.5671855656357625e-08
           ],
@@ -22487,7 +22487,7 @@
           [
             423,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             1.2525995115972906e-08
           ],
@@ -22669,42 +22669,42 @@
           [
             449,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             8.441431491199132e-09
           ],
           [
             450,
             9121,
-            "['Turk Telekomunikasyon Anonim Sirketi'\n 'Turk Telekomunikasyon Anonim Sirketi']",
+            "Turk Telekomunikasyon Anonim Sirketi",
             3.1e-05,
             8.441431491199132e-09
           ],
           [
             451,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             8.169127249547547e-09
           ],
           [
             452,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             8.169127249547547e-09
           ],
           [
             453,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             7.3522145245927934e-09
           ],
           [
             454,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             6.262997557986453e-09
           ],
@@ -23257,28 +23257,28 @@
           [
             533,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             4.084563624773774e-09
           ],
           [
             534,
             12859,
-            "['BIT BV' 'BIT BV']",
+            "BIT BV",
             1.5e-05,
             4.084563624773774e-09
           ],
           [
             535,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             4.084563624773774e-09
           ],
           [
             536,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             4.084563624773774e-09
           ],
@@ -24118,7 +24118,7 @@
           [
             656,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -24384,14 +24384,14 @@
           [
             694,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
           [
             695,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -24573,7 +24573,7 @@
           [
             721,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -24769,7 +24769,7 @@
           [
             749,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -24985,7 +24985,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6232,
             0.2009544692377144
           ],
@@ -24999,21 +24999,21 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1771,
             0.0571069263510899
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1619,
             0.0522055978330968
           ],
           [
             7,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0309235134786534
           ],
@@ -25027,14 +25027,14 @@
           [
             9,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             592,
             0.0190893847542886
           ],
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             574,
             0.0185089642718947
           ],
@@ -25055,7 +25055,7 @@
           [
             13,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             298,
             0.0096091835418547
           ],
@@ -25097,14 +25097,14 @@
           [
             19,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0065136076357539
           ],
           [
             20,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             202,
             0.0065136076357539
           ],
@@ -25118,14 +25118,14 @@
           [
             22,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             193,
             0.0062233973945569
           ],
           [
             23,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0058364504062943
           ],
@@ -25160,7 +25160,7 @@
           [
             28,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             139,
             0.0044821359473752
           ],
@@ -25188,7 +25188,7 @@
           [
             32,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             106,
             0.003418031729653
           ],
@@ -25230,7 +25230,7 @@
           [
             38,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0028053656649039
           ],
@@ -25244,14 +25244,14 @@
           [
             40,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             78,
             0.0025151554237069
           ],
           [
             41,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             77,
             0.0024829098413517
           ],
@@ -25314,7 +25314,7 @@
           [
             50,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             62,
             0.0019992261060234
           ],
@@ -25349,7 +25349,7 @@
           [
             55,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0016122791177608
           ],
@@ -25398,7 +25398,7 @@
           [
             62,
             40509,
-            "['Fly.io, Inc.' 'Fly.io, Inc.']",
+            "Fly.io, Inc.",
             47,
             0.0015155423706952
           ],
@@ -25461,7 +25461,7 @@
           [
             71,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013543144589191
           ],
@@ -25475,14 +25475,14 @@
           [
             73,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             41,
             0.0013220688765639
           ],
           [
             74,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             40,
             0.0012898232942086
           ],
@@ -25510,7 +25510,7 @@
           [
             78,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             37,
             0.001193086547143
           ],
@@ -25545,7 +25545,7 @@
           [
             83,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0010963498000773
           ],
@@ -25636,14 +25636,14 @@
           [
             96,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.000902876305946
           ],
           [
             97,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.0008383851412356
           ],
@@ -25664,7 +25664,7 @@
           [
             100,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007738939765252
           ],
@@ -25825,7 +25825,7 @@
           [
             123,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006771572294595
           ],
@@ -25839,21 +25839,21 @@
           [
             125,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0006126660647491
           ],
           [
             126,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0006126660647491
           ],
           [
             127,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0006126660647491
           ],
@@ -25937,7 +25937,7 @@
           [
             139,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             16,
             0.0005159293176834
           ],
@@ -25979,7 +25979,7 @@
           [
             145,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004836837353282
           ],
@@ -26147,14 +26147,14 @@
           [
             169,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.000451438152973
           ],
           [
             170,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.000451438152973
           ],
@@ -26175,7 +26175,7 @@
           [
             173,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004191925706178
           ],
@@ -26210,14 +26210,14 @@
           [
             178,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003869469882626
           ],
           [
             179,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003869469882626
           ],
@@ -26245,7 +26245,7 @@
           [
             183,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003547014059073
           ],
@@ -26315,28 +26315,28 @@
           [
             193,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             10,
             0.0003224558235521
           ],
           [
             194,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003224558235521
           ],
           [
             195,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003224558235521
           ],
           [
             196,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003224558235521
           ],
@@ -26392,14 +26392,14 @@
           [
             204,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002902102411969
           ],
           [
             205,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002902102411969
           ],
@@ -26434,7 +26434,7 @@
           [
             210,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             8,
             0.0002579646588417
           ],
@@ -27008,7 +27008,7 @@
           [
             292,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002257190764865
           ],
@@ -27036,14 +27036,14 @@
           [
             296,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001934734941313
           ],
           [
             297,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001934734941313
           ],
@@ -27106,7 +27106,7 @@
           [
             306,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.000161227911776
           ],
@@ -27253,21 +27253,21 @@
           [
             327,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4,
             0.0001289823294208
           ],
           [
             328,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001289823294208
           ],
           [
             329,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001289823294208
           ],
@@ -27449,21 +27449,21 @@
           [
             355,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.6736747065652e-05
           ],
           [
             356,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.6736747065652e-05
           ],
           [
             357,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.6736747065652e-05
           ],
@@ -27764,28 +27764,28 @@
           [
             400,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.449116471043467e-05
           ],
           [
             401,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.449116471043467e-05
           ],
           [
             402,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.449116471043467e-05
           ],
           [
             403,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.449116471043467e-05
           ],
@@ -28489,7 +28489,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             71.25,
             0.0481476921272464
           ],
@@ -28517,7 +28517,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             35.0,
             0.0236514978870684
           ],
@@ -28531,14 +28531,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.022299983722093
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.021624256372917
           ],
@@ -28573,7 +28573,7 @@
           [
             16,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000034,
             0.0087848650480805
           ],
@@ -28587,14 +28587,14 @@
           [
             18,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0081091160746778
           ],
           [
             19,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0067575708248766
           ],
@@ -28615,7 +28615,7 @@
           [
             22,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500061,
             0.0064197335048148
           ],
@@ -28629,7 +28629,7 @@
           [
             24,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0062085181953554
           ],
@@ -28678,21 +28678,21 @@
           [
             31,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.004054542494926
           ],
           [
             32,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.004054542494926
           ],
           [
             33,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.0129850000000005,
             0.0033875601181544
           ],
@@ -28713,14 +28713,14 @@
           [
             36,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0027035750174304
           ],
           [
             37,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0027030283299506
           ],
@@ -28874,7 +28874,7 @@
           [
             59,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013752710809672
           ],
@@ -28888,14 +28888,14 @@
           [
             61,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             1.439728,
             0.0009729063928558
           ],
           [
             62,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008869413071213
           ],
@@ -29119,28 +29119,28 @@
           [
             94,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0006757672188439
           ],
           [
             95,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006757570824876
           ],
           [
             96,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006757570824876
           ],
           [
             97,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006757570824876
           ],
@@ -29161,14 +29161,14 @@
           [
             100,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132184,
             8.932427419155012e-05
           ],
           [
             101,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.449058378051582e-05
           ],
@@ -29203,7 +29203,7 @@
           [
             106,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.225644188211895e-05
           ],
@@ -29217,14 +29217,14 @@
           [
             108,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.6799174377296e-05
           ],
           [
             109,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.020943,
             1.4152380578539263e-05
           ],
@@ -29245,21 +29245,21 @@
           [
             112,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.0579652883426956e-05
           ],
           [
             113,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.774464751938888e-06
           ],
           [
             114,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.279014328393675e-06
           ],
@@ -29385,28 +29385,28 @@
           [
             132,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.65031927751664e-06
           ],
           [
             133,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6395071641968374e-06
           ],
           [
             134,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6395071641968374e-06
           ],
           [
             135,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002516,
             1.7002048195389766e-06
           ],
@@ -29427,7 +29427,7 @@
           [
             138,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.865932922238225e-07
           ],
@@ -29441,7 +29441,7 @@
           [
             140,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001221,
             8.250993977174446e-07
           ],
@@ -29455,7 +29455,7 @@
           [
             142,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             5.980450180015876e-07
           ],
@@ -29469,21 +29469,21 @@
           [
             144,
             40509,
-            "['Fly.io, Inc.' 'Fly.io, Inc.']",
+            "Fly.io, Inc.",
             0.000717,
             4.845178281436591e-07
           ],
           [
             145,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.122118203174784e-07
           ],
           [
             146,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.122118203174784e-07
           ],
@@ -29518,7 +29518,7 @@
           [
             151,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.5071792581110054e-07
           ],
@@ -29546,7 +29546,7 @@
           [
             155,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.1624226639605426e-07
           ],
@@ -29693,14 +29693,14 @@
           [
             176,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.3650293066250925e-07
           ],
           [
             177,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.257872030081073e-08
           ],
@@ -29735,14 +29735,14 @@
           [
             182,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.0001309999999999,
             8.85241778058847e-08
           ],
           [
             183,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             0.00011,
             7.433327907364365e-08
           ],
@@ -29840,14 +29840,14 @@
           [
             197,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             4.6e-05,
             3.10848257944328e-08
           ],
           [
             198,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.10848257944328e-08
           ],
@@ -29952,35 +29952,35 @@
           [
             213,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.094846955711776e-08
           ],
           [
             214,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.0272712474630088e-08
           ],
           [
             215,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.0272712474630088e-08
           ],
           [
             216,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.824544122716708e-08
           ],
           [
             217,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.55424128972164e-08
           ],
@@ -30253,21 +30253,21 @@
           [
             256,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.0136356237315044e-08
           ],
           [
             257,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.0136356237315044e-08
           ],
           [
             258,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.0136356237315044e-08
           ],
@@ -31142,7 +31142,7 @@
           [
             383,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -31282,7 +31282,7 @@
           [
             403,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -31380,7 +31380,7 @@
           [
             417,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -31429,7 +31429,7 @@
           [
             424,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -31723,7 +31723,7 @@
           [
             466,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -31981,7 +31981,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6169,
             0.1996246319127592
           ],
@@ -31995,21 +31995,21 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1772,
             0.0573407112578066
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1605,
             0.0519367051742549
           ],
           [
             7,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0310325858330906
           ],
@@ -32023,14 +32023,14 @@
           [
             9,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             590,
             0.0190919975406918
           ],
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             579,
             0.0187360450441704
           ],
@@ -32051,7 +32051,7 @@
           [
             13,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             298,
             0.0096430767239426
           ],
@@ -32093,21 +32093,21 @@
           [
             19,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             202,
             0.006536582208847
           ],
           [
             20,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.006536582208847
           ],
           [
             21,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             196,
             0.0063424263016535
           ],
@@ -32121,7 +32121,7 @@
           [
             23,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0058570365336698
           ],
@@ -32149,7 +32149,7 @@
           [
             27,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             141,
             0.0045626638190466
           ],
@@ -32184,7 +32184,7 @@
           [
             32,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             104,
             0.0033653690580202
           ],
@@ -32226,7 +32226,7 @@
           [
             38,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0028152606543054
           ],
@@ -32240,14 +32240,14 @@
           [
             40,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             79,
             0.0025563861113807
           ],
           [
             41,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             76,
             0.002459308157784
           ],
@@ -32282,7 +32282,7 @@
           [
             46,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             65,
             0.0021033556612626
           ],
@@ -32338,7 +32338,7 @@
           [
             54,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0016179658932789
           ],
@@ -32387,7 +32387,7 @@
           [
             61,
             40509,
-            "['Fly.io, Inc.' 'Fly.io, Inc.']",
+            "Fly.io, Inc.",
             47,
             0.0015208879396822
           ],
@@ -32450,14 +32450,14 @@
           [
             70,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013590913503543
           ],
           [
             71,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             42,
             0.0013590913503543
           ],
@@ -32471,7 +32471,7 @@
           [
             73,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             40,
             0.0012943727146231
           ],
@@ -32499,7 +32499,7 @@
           [
             77,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             37,
             0.0011972947610264
           ],
@@ -32534,7 +32534,7 @@
           [
             82,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0011002168074296
           ],
@@ -32625,14 +32625,14 @@
           [
             95,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.0009060609002362
           ],
           [
             96,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.000841342264505
           ],
@@ -32660,7 +32660,7 @@
           [
             100,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007766236287739
           ],
@@ -32821,7 +32821,7 @@
           [
             123,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006795456751771
           ],
@@ -32835,21 +32835,21 @@
           [
             125,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.000614827039446
           ],
           [
             126,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.000614827039446
           ],
           [
             127,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.000614827039446
           ],
@@ -32926,7 +32926,7 @@
           [
             138,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             16,
             0.0005177490858492
           ],
@@ -32968,7 +32968,7 @@
           [
             144,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004853897679836
           ],
@@ -33143,14 +33143,14 @@
           [
             169,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004530304501181
           ],
           [
             170,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.0004530304501181
           ],
@@ -33178,7 +33178,7 @@
           [
             174,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004206711322525
           ],
@@ -33220,14 +33220,14 @@
           [
             180,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003883118143869
           ],
           [
             181,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003883118143869
           ],
@@ -33248,7 +33248,7 @@
           [
             184,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003559524965213
           ],
@@ -33311,28 +33311,28 @@
           [
             193,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             10,
             0.0003235931786557
           ],
           [
             194,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003235931786557
           ],
           [
             195,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003235931786557
           ],
           [
             196,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003235931786557
           ],
@@ -33388,21 +33388,21 @@
           [
             204,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002912338607902
           ],
           [
             205,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             9,
             0.0002912338607902
           ],
           [
             206,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002912338607902
           ],
@@ -33976,7 +33976,7 @@
           [
             288,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.000226515225059
           ],
@@ -34011,14 +34011,14 @@
           [
             293,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001941559071934
           ],
           [
             294,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001941559071934
           ],
@@ -34081,14 +34081,14 @@
           [
             303,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.0001617965893278
           ],
           [
             304,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             5,
             0.0001617965893278
           ],
@@ -34228,14 +34228,14 @@
           [
             324,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001294372714623
           ],
           [
             325,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001294372714623
           ],
@@ -34424,21 +34424,21 @@
           [
             352,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.70779535967382e-05
           ],
           [
             353,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.70779535967382e-05
           ],
           [
             354,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.70779535967382e-05
           ],
@@ -34704,28 +34704,28 @@
           [
             392,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.471863573115878e-05
           ],
           [
             393,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.471863573115878e-05
           ],
           [
             394,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.471863573115878e-05
           ],
           [
             395,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.471863573115878e-05
           ],
@@ -35450,7 +35450,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             69.25,
             0.0468911047245253
           ],
@@ -35478,7 +35478,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             35.0,
             0.0236994753120344
           ],
@@ -35492,14 +35492,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.0223452195799182
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0216681215074861
           ],
@@ -35541,7 +35541,7 @@
           [
             17,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000032,
             0.0088026839268473
           ],
@@ -35555,14 +35555,14 @@
           [
             19,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0081255655405793
           ],
           [
             20,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0067712786605812
           ],
@@ -35576,14 +35576,14 @@
           [
             22,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500076,
             0.00643276618927
           ],
           [
             23,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.006221112269409
           ],
@@ -35646,21 +35646,21 @@
           [
             32,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.0040627671963487
           ],
           [
             33,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.0040627671963487
           ],
           [
             34,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.0129850000000005,
             0.0033944318356314
           ],
@@ -35681,14 +35681,14 @@
           [
             37,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0027090592606761
           ],
           [
             38,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0027085114642325
           ],
@@ -35842,14 +35842,14 @@
           [
             60,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013780608393753
           ],
           [
             61,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             1.439758,
             0.0009749002621801
           ],
@@ -35863,7 +35863,7 @@
           [
             63,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008887404811192
           ],
@@ -36087,28 +36087,28 @@
           [
             95,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0006771380229761
           ],
           [
             96,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006771278660581
           ],
           [
             97,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006771278660581
           ],
           [
             98,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006771278660581
           ],
@@ -36122,7 +36122,7 @@
           [
             100,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132428,
             8.967068904634572e-05
           ],
@@ -36136,7 +36136,7 @@
           [
             102,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.466197422111376e-05
           ],
@@ -36171,7 +36171,7 @@
           [
             107,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.234215972034684e-05
           ],
@@ -36185,14 +36185,14 @@
           [
             109,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.6853536912133224e-05
           ],
           [
             110,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.021004,
             1.4222393698684912e-05
           ],
@@ -36213,21 +36213,21 @@
           [
             113,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.0601113871006046e-05
           ],
           [
             114,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.78820685723273e-06
           ],
           [
             115,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.289722889646093e-06
           ],
@@ -36353,28 +36353,28 @@
           [
             133,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.6556954906799767e-06
           ],
           [
             134,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6448614448230464e-06
           ],
           [
             135,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6448614448230464e-06
           ],
           [
             136,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002516,
             1.703653711002249e-06
           ],
@@ -36395,7 +36395,7 @@
           [
             139,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.883917602682635e-07
           ],
@@ -36409,7 +36409,7 @@
           [
             141,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001221,
             8.267731244569738e-07
           ],
@@ -36423,7 +36423,7 @@
           [
             143,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             5.99258161461443e-07
           ],
@@ -36437,21 +36437,21 @@
           [
             145,
             40509,
-            "['Fly.io, Inc.' 'Fly.io, Inc.']",
+            "Fly.io, Inc.",
             0.000717,
             4.855006799636775e-07
           ],
           [
             146,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.1304799829545785e-07
           ],
           [
             147,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.1304799829545785e-07
           ],
@@ -36486,7 +36486,7 @@
           [
             152,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.5142936248416825e-07
           ],
@@ -36507,7 +36507,7 @@
           [
             155,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.1668091713860087e-07
           ],
@@ -36654,21 +36654,21 @@
           [
             176,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.367798289437418e-07
           ],
           [
             177,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.000146,
             9.886066844448665e-08
           ],
           [
             178,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.276651764996349e-08
           ],
@@ -36703,7 +36703,7 @@
           [
             183,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             0.00011,
             7.448406526639405e-08
           ],
@@ -36759,7 +36759,7 @@
           [
             191,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             6.1e-05,
             4.130479982954578e-08
           ],
@@ -36808,7 +36808,7 @@
           [
             198,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.114788183867387e-08
           ],
@@ -36906,35 +36906,35 @@
           [
             212,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.099096384780196e-08
           ],
           [
             213,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.0313835981743833e-08
           ],
           [
             214,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.0313835981743833e-08
           ],
           [
             215,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.828245238356945e-08
           ],
           [
             216,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.5573940919336935e-08
           ],
@@ -37186,21 +37186,21 @@
           [
             252,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.0156917990871916e-08
           ],
           [
             253,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.0156917990871916e-08
           ],
           [
             254,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.0156917990871916e-08
           ],
@@ -38054,7 +38054,7 @@
           [
             376,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -38208,7 +38208,7 @@
           [
             398,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -38320,7 +38320,7 @@
           [
             414,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -38355,7 +38355,7 @@
           [
             419,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -38418,7 +38418,7 @@
           [
             428,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -38907,7 +38907,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6213,
             0.2007366482504604
           ],
@@ -38921,21 +38921,21 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1771,
             0.0572194759458498
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1603,
             0.0517915414687732
           ],
           [
             7,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0309844593066459
           ],
@@ -38949,14 +38949,14 @@
           [
             9,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             589,
             0.0190300798035604
           ],
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             582,
             0.0188039158670156
           ],
@@ -38984,7 +38984,7 @@
           [
             14,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             298,
             0.0096281218700526
           ],
@@ -39026,21 +39026,21 @@
           [
             20,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0065264450260088
           ],
           [
             21,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             202,
             0.0065264450260088
           ],
           [
             22,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             197,
             0.0063648993570482
           ],
@@ -39054,7 +39054,7 @@
           [
             24,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0058479532163742
           ],
@@ -39082,7 +39082,7 @@
           [
             28,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             141,
             0.0045555878646893
           ],
@@ -39117,7 +39117,7 @@
           [
             33,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             105,
             0.0033924590481729
           ],
@@ -39159,7 +39159,7 @@
           [
             39,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0028108946399147
           ],
@@ -39173,14 +39173,14 @@
           [
             41,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             79,
             0.0025524215695777
           ],
           [
             42,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             76,
             0.0024554941682013
           ],
@@ -39215,7 +39215,7 @@
           [
             47,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             65,
             0.0021000936964879
           ],
@@ -39271,7 +39271,7 @@
           [
             55,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0016154566896061
           ],
@@ -39376,14 +39376,14 @@
           [
             70,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             42,
             0.0013569836192691
           ],
           [
             71,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013569836192691
           ],
@@ -39397,7 +39397,7 @@
           [
             73,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             41,
             0.001324674485477
           ],
@@ -39418,7 +39418,7 @@
           [
             76,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             38,
             0.0012277470841006
           ],
@@ -39460,7 +39460,7 @@
           [
             82,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0010985105489321
           ],
@@ -39558,14 +39558,14 @@
           [
             96,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.0009046557461794
           ],
           [
             97,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.0008400374785951
           ],
@@ -39593,7 +39593,7 @@
           [
             101,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.0007754192110109
           ],
@@ -39761,7 +39761,7 @@
           [
             125,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006784918096345
           ],
@@ -39775,21 +39775,21 @@
           [
             127,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0006138735420503
           ],
           [
             128,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0006138735420503
           ],
           [
             129,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0006138735420503
           ],
@@ -39873,7 +39873,7 @@
           [
             141,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             16,
             0.0005169461406739
           ],
@@ -39922,7 +39922,7 @@
           [
             148,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004846370068818
           ],
@@ -40090,14 +40090,14 @@
           [
             172,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004523278730897
           ],
           [
             173,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.0004523278730897
           ],
@@ -40118,7 +40118,7 @@
           [
             176,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004200187392975
           ],
@@ -40160,14 +40160,14 @@
           [
             182,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003877096055054
           ],
           [
             183,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003877096055054
           ],
@@ -40195,7 +40195,7 @@
           [
             187,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003554004717133
           ],
@@ -40251,28 +40251,28 @@
           [
             195,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             10,
             0.0003230913379212
           ],
           [
             196,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003230913379212
           ],
           [
             197,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003230913379212
           ],
           [
             198,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003230913379212
           ],
@@ -40321,28 +40321,28 @@
           [
             205,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002907822041291
           ],
           [
             206,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             9,
             0.0002907822041291
           ],
           [
             207,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             9,
             0.0002907822041291
           ],
           [
             208,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002907822041291
           ],
@@ -40937,7 +40937,7 @@
           [
             293,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002261639365448
           ],
@@ -40972,14 +40972,14 @@
           [
             298,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001938548027527
           ],
           [
             299,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001938548027527
           ],
@@ -41035,14 +41035,14 @@
           [
             307,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.0001615456689606
           ],
           [
             308,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             5,
             0.0001615456689606
           ],
@@ -41196,14 +41196,14 @@
           [
             330,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001292365351684
           ],
           [
             331,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001292365351684
           ],
@@ -41371,21 +41371,21 @@
           [
             355,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.69274013763691e-05
           ],
           [
             356,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.69274013763691e-05
           ],
           [
             357,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.69274013763691e-05
           ],
@@ -41665,28 +41665,28 @@
           [
             397,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.461826758424607e-05
           ],
           [
             398,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.461826758424607e-05
           ],
           [
             399,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.461826758424607e-05
           ],
           [
             400,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.461826758424607e-05
           ],
@@ -42383,7 +42383,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             69.3125,
             0.0468678520292104
           ],
@@ -42411,7 +42411,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             36.0,
             0.024342545328066
           ],
@@ -42425,14 +42425,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.0223139998840605
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0216378478213918
           ],
@@ -42467,7 +42467,7 @@
           [
             16,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000032,
             0.0087903852285085
           ],
@@ -42481,14 +42481,14 @@
           [
             18,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0081142128803854
           ],
           [
             19,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.006761818146685
           ],
@@ -42502,7 +42502,7 @@
           [
             21,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500076,
             0.0064237786291686
           ],
@@ -42516,7 +42516,7 @@
           [
             23,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0062124204222668
           ],
@@ -42565,21 +42565,21 @@
           [
             30,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.004057090888011
           ],
           [
             31,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.004057090888011
           ],
           [
             32,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.0129850000000005,
             0.0033896892942059
           ],
@@ -42600,14 +42600,14 @@
           [
             35,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.002705274289762
           ],
           [
             36,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.002704727258674
           ],
@@ -42761,14 +42761,14 @@
           [
             58,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013761354772134
           ],
           [
             59,
             30721,
-            "['SatGate LLC' 'SatGate LLC']",
+            "SatGate LLC",
             1.5,
             0.0010142727220027
           ],
@@ -42782,14 +42782,14 @@
           [
             61,
             54113,
-            "['Fastly, Inc.' 'Fastly, Inc.']",
+            "Fastly, Inc.",
             1.439758,
             0.0009735381771234
           ],
           [
             62,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008874987744796
           ],
@@ -43020,28 +43020,28 @@
           [
             95,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.0006761919573957
           ],
           [
             96,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006761818146685
           ],
           [
             97,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006761818146685
           ],
           [
             98,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006761818146685
           ],
@@ -43062,14 +43062,14 @@
           [
             101,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132184,
             8.938041699014108e-05
           ],
           [
             102,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.454368846981728e-05
           ],
@@ -43104,7 +43104,7 @@
           [
             107,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.228300123485067e-05
           ],
@@ -43118,14 +43118,14 @@
           [
             109,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.681601840612339e-05
           ],
           [
             110,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.021004,
             1.4202522835297182e-05
           ],
@@ -43146,21 +43146,21 @@
           [
             113,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.0586302490450045e-05
           ],
           [
             114,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.778722692051718e-06
           ],
           [
             115,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.2823323361903256e-06
           ],
@@ -43293,28 +43293,28 @@
           [
             134,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.6519850771298588e-06
           ],
           [
             135,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6411661680951628e-06
           ],
           [
             136,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6411661680951628e-06
           ],
           [
             137,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002516,
             1.7012734457059472e-06
           ],
@@ -43335,7 +43335,7 @@
           [
             140,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.871505408450726e-07
           ],
@@ -43349,7 +43349,7 @@
           [
             142,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001221,
             8.256179957102391e-07
           ],
@@ -43363,7 +43363,7 @@
           [
             144,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             5.98420905981623e-07
           ],
@@ -43384,14 +43384,14 @@
           [
             147,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.1247090694778523e-07
           ],
           [
             148,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.1247090694778523e-07
           ],
@@ -43419,7 +43419,7 @@
           [
             152,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.509383618129518e-07
           ],
@@ -43447,7 +43447,7 @@
           [
             156,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.1637818069392017e-07
           ],
@@ -43594,21 +43594,21 @@
           [
             177,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.3658872656303709e-07
           ],
           [
             178,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.000146,
             9.872254494160108e-08
           ],
           [
             179,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.263690860958457e-08
           ],
@@ -43664,7 +43664,7 @@
           [
             187,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             9.5e-05,
             6.423727239350754e-08
           ],
@@ -43706,7 +43706,7 @@
           [
             193,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             6.1e-05,
             4.124709069477853e-08
           ],
@@ -43762,7 +43762,7 @@
           [
             201,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.110436347475102e-08
           ],
@@ -43853,35 +43853,35 @@
           [
             214,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.096163625472352e-08
           ],
           [
             215,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.0285454440055012e-08
           ],
           [
             216,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.0285454440055012e-08
           ],
           [
             217,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.825690899604951e-08
           ],
           [
             218,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.555218173737551e-08
           ],
@@ -44140,21 +44140,21 @@
           [
             255,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.0142727220027508e-08
           ],
           [
             256,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.0142727220027508e-08
           ],
           [
             257,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.0142727220027508e-08
           ],
@@ -45029,7 +45029,7 @@
           [
             382,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -45267,7 +45267,7 @@
           [
             416,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
@@ -45281,7 +45281,7 @@
           [
             418,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -45323,7 +45323,7 @@
           [
             424,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -45610,7 +45610,7 @@
           [
             465,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -45847,7 +45847,7 @@
           [
             3,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             6161,
             0.1942001576044129
           ],
@@ -45861,14 +45861,14 @@
           [
             5,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             1771,
             0.0558234830575256
           ],
           [
             6,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             1647,
             0.0519148936170212
           ],
@@ -45882,7 +45882,7 @@
           [
             8,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             959,
             0.0302285263987391
           ],
@@ -45896,14 +45896,14 @@
           [
             10,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             593,
             0.0186918833727344
           ],
           [
             11,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             589,
             0.0185657998423955
           ],
@@ -45931,7 +45931,7 @@
           [
             15,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             304,
             0.0095823483057525
           ],
@@ -45980,14 +45980,14 @@
           [
             22,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             202,
             0.0063672182821118
           ],
           [
             23,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             202,
             0.0063672182821118
           ],
@@ -46001,14 +46001,14 @@
           [
             25,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             185,
             0.0058313632781717
           ],
           [
             26,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             181,
             0.0057052797478329
           ],
@@ -46057,7 +46057,7 @@
           [
             33,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             107,
             0.0033727344365642
           ],
@@ -46078,7 +46078,7 @@
           [
             36,
             7713,
-            "['Telekomunikasi Indonesia (PT)' 'Telekomunikasi Indonesia (PT)']",
+            "Telekomunikasi Indonesia (PT)",
             98,
             0.0030890464933018
           ],
@@ -46106,14 +46106,14 @@
           [
             40,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             87,
             0.0027423167848699
           ],
           [
             41,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             86,
             0.0027107959022852
           ],
@@ -46127,7 +46127,7 @@
           [
             43,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             76,
             0.0023955870764381
           ],
@@ -46162,7 +46162,7 @@
           [
             48,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             65,
             0.0020488573680063
           ],
@@ -46218,7 +46218,7 @@
           [
             56,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             50,
             0.0015760441292356
           ],
@@ -46323,7 +46323,7 @@
           [
             71,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             42,
             0.0013238770685579
           ],
@@ -46337,14 +46337,14 @@
           [
             73,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             41,
             0.0012923561859732
           ],
           [
             74,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             40,
             0.0012608353033884
           ],
@@ -46358,7 +46358,7 @@
           [
             76,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             38,
             0.001197793538219
           ],
@@ -46407,7 +46407,7 @@
           [
             83,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             34,
             0.0010717100078802
           ],
@@ -46498,14 +46498,14 @@
           [
             96,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             28,
             0.0008825847123719
           ],
           [
             97,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             26,
             0.0008195429472025
           ],
@@ -46533,7 +46533,7 @@
           [
             101,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             24,
             0.000756501182033
           ],
@@ -46701,7 +46701,7 @@
           [
             125,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             21,
             0.0006619385342789
           ],
@@ -46715,21 +46715,21 @@
           [
             127,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             19,
             0.0005988967691095
           ],
           [
             128,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             19,
             0.0005988967691095
           ],
           [
             129,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             19,
             0.0005988967691095
           ],
@@ -46827,7 +46827,7 @@
           [
             143,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             16,
             0.0005043341213553
           ],
@@ -46869,7 +46869,7 @@
           [
             149,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             15,
             0.0004728132387706
           ],
@@ -47058,14 +47058,14 @@
           [
             176,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             14,
             0.0004412923561859
           ],
           [
             177,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             14,
             0.0004412923561859
           ],
@@ -47086,7 +47086,7 @@
           [
             180,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             13,
             0.0004097714736012
           ],
@@ -47128,14 +47128,14 @@
           [
             186,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             12,
             0.0003782505910165
           ],
           [
             187,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             12,
             0.0003782505910165
           ],
@@ -47156,7 +47156,7 @@
           [
             190,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             11,
             0.0003467297084318
           ],
@@ -47212,28 +47212,28 @@
           [
             198,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             10,
             0.0003152088258471
           ],
           [
             199,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             10,
             0.0003152088258471
           ],
           [
             200,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             10,
             0.0003152088258471
           ],
           [
             201,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             10,
             0.0003152088258471
           ],
@@ -47289,21 +47289,21 @@
           [
             209,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             9,
             0.0002836879432624
           ],
           [
             210,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             9,
             0.0002836879432624
           ],
           [
             211,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             9,
             0.0002836879432624
           ],
@@ -47338,7 +47338,7 @@
           [
             216,
             201217,
-            "['RADISHCLOUD TECHNOLOGY LLC' 'RADISHCLOUD TECHNOLOGY LLC']",
+            "RADISHCLOUD TECHNOLOGY LLC",
             8,
             0.0002521670606776
           ],
@@ -47940,7 +47940,7 @@
           [
             302,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             7,
             0.0002206461780929
           ],
@@ -47982,14 +47982,14 @@
           [
             308,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             6,
             0.0001891252955082
           ],
           [
             309,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             6,
             0.0001891252955082
           ],
@@ -48045,14 +48045,14 @@
           [
             317,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             5,
             0.0001576044129235
           ],
           [
             318,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             5,
             0.0001576044129235
           ],
@@ -48213,14 +48213,14 @@
           [
             341,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             4,
             0.0001260835303388
           ],
           [
             342,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             4,
             0.0001260835303388
           ],
@@ -48409,21 +48409,21 @@
           [
             369,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             3,
             9.456264775413712e-05
           ],
           [
             370,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             3,
             9.456264775413712e-05
           ],
           [
             371,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             3,
             9.456264775413712e-05
           ],
@@ -48710,28 +48710,28 @@
           [
             412,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             2,
             6.304176516942474e-05
           ],
           [
             413,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             2,
             6.304176516942474e-05
           ],
           [
             414,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             2,
             6.304176516942474e-05
           ],
           [
             415,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             2,
             6.304176516942474e-05
           ],
@@ -49512,7 +49512,7 @@
           [
             4,
             204916,
-            "['RACKTECH CO., LTD.' 'RACKTECH CO., LTD.']",
+            "RACKTECH CO., LTD.",
             68.5,
             0.04662764194423
           ],
@@ -49540,7 +49540,7 @@
           [
             8,
             44812,
-            "['IP SERVER LLC' 'IP SERVER LLC']",
+            "IP SERVER LLC",
             36.0,
             0.0245050381020771
           ],
@@ -49554,14 +49554,14 @@
           [
             10,
             209641,
-            "['I-SERVERS LTD' 'I-SERVERS LTD']",
+            "I-SERVERS LTD",
             33.0,
             0.0224629515935706
           ],
           [
             11,
             396356,
-            "['Latitude.sh' 'Latitude.sh']",
+            "Latitude.sh",
             32.000044,
             0.0217822860413373
           ],
@@ -49596,7 +49596,7 @@
           [
             16,
             30633,
-            "['Leaseweb USA, Inc.' 'Leaseweb USA, Inc.']",
+            "Leaseweb USA, Inc.",
             13.000032,
             0.0088490633191172
           ],
@@ -49610,14 +49610,14 @@
           [
             18,
             20473,
-            "['The Constant Company, LLC' 'The Constant Company, LLC']",
+            "The Constant Company, LLC",
             12.000046,
             0.0081683773460188
           ],
           [
             19,
             29182,
-            "['JSC IOT' 'JSC IOT']",
+            "JSC IOT",
             10.0,
             0.0068069550283547
           ],
@@ -49631,7 +49631,7 @@
           [
             21,
             213220,
-            "['Delta Ltd' 'Delta Ltd']",
+            "Delta Ltd",
             9.500076,
             0.0064666590097952
           ],
@@ -49645,7 +49645,7 @@
           [
             23,
             59504,
-            "['LLC Vpsville' 'LLC Vpsville']",
+            "LLC Vpsville",
             9.1875,
             0.0062538899323009
           ],
@@ -49701,21 +49701,21 @@
           [
             31,
             60781,
-            "['LeaseWeb Netherlands B.V.' 'LeaseWeb Netherlands B.V.']",
+            "LeaseWeb Netherlands B.V.",
             6.0,
             0.0040841730170128
           ],
           [
             32,
             49542,
-            "['ArtPlanet LLC' 'ArtPlanet LLC']",
+            "ArtPlanet LLC",
             6.0,
             0.0040841730170128
           ],
           [
             33,
             61317,
-            "['Hivelocity Inc' 'Hivelocity Inc']",
+            "Hivelocity Inc",
             5.0129850000000005,
             0.0034123163452816
           ],
@@ -49736,14 +49736,14 @@
           [
             36,
             62217,
-            "['Vinters IT Ltd' 'Vinters IT Ltd']",
+            "Vinters IT Ltd",
             4.000809,
             0.0027233326940036
           ],
           [
             37,
             204490,
-            "['Kontel LLC' 'Kontel LLC']",
+            "Kontel LLC",
             4.0,
             0.0027227820113419
           ],
@@ -49897,7 +49897,7 @@
           [
             59,
             199925,
-            "['Phan Nhat Nghi' 'Phan Nhat Nghi']",
+            "Phan Nhat Nghi",
             2.035156,
             0.0013853215367686
           ],
@@ -49918,7 +49918,7 @@
           [
             62,
             53667,
-            "['FranTech Solutions' 'FranTech Solutions']",
+            "FranTech Solutions",
             1.312515,
             0.0008934230579041
           ],
@@ -50149,28 +50149,28 @@
           [
             95,
             50113,
-            "['NTX Technologies s.r.o.' 'NTX Technologies s.r.o.']",
+            "NTX Technologies s.r.o.",
             1.000015,
             0.000680705713268
           ],
           [
             96,
             49981,
-            "['WorldStream B.V.' 'WorldStream B.V.']",
+            "WorldStream B.V.",
             1.0,
             0.0006806955028354
           ],
           [
             97,
             4538,
-            "['China Education and Research Network Center'\n 'China Education and Research Network Center']",
+            "China Education and Research Network Center",
             1.0,
             0.0006806955028354
           ],
           [
             98,
             47447,
-            "['23M GmbH' '23M GmbH']",
+            "23M GmbH",
             1.0,
             0.0006806955028354
           ],
@@ -50184,7 +50184,7 @@
           [
             100,
             36492,
-            "['Google LLC' 'Google LLC']",
+            "Google LLC",
             0.132184,
             8.997705434680452e-05
           ],
@@ -50198,7 +50198,7 @@
           [
             102,
             140810,
-            "['Megacore Technology Company Limited'\n 'Megacore Technology Company Limited']",
+            "Megacore Technology Company Limited",
             0.125031,
             8.510803941502234e-05
           ],
@@ -50233,7 +50233,7 @@
           [
             107,
             6939,
-            "['Hurricane Electric LLC' 'Hurricane Electric LLC']",
+            "Hurricane Electric LLC",
             0.062532,
             4.256525118330796e-05
           ],
@@ -50247,14 +50247,14 @@
           [
             109,
             45609,
-            "['Bharti Airtel Limited' 'Bharti Airtel Limited']",
+            "Bharti Airtel Limited",
             0.039658,
             2.6995022251449288e-05
           ],
           [
             110,
             16509,
-            "['Amazon.com, Inc.' 'Amazon.com, Inc.']",
+            "Amazon.com, Inc.",
             0.021004,
             1.4297328341556328e-05
           ],
@@ -50275,21 +50275,21 @@
           [
             113,
             174,
-            "['Cogent Communications' 'Cogent Communications']",
+            "Cogent Communications",
             0.015656,
             1.0656968792392204e-05
           ],
           [
             114,
             13335,
-            "['Cloudflare, Inc.' 'Cloudflare, Inc.']",
+            "Cloudflare, Inc.",
             0.010025,
             6.8239724159256425e-06
           ],
           [
             115,
             197730,
-            "['BWE CAPITAL LIMITED' 'BWE CAPITAL LIMITED']",
+            "BWE CAPITAL LIMITED",
             0.007812,
             5.317593268150735e-06
           ],
@@ -50324,7 +50324,7 @@
           [
             120,
             201217,
-            "['RADISHCLOUD TECHNOLOGY LLC' 'RADISHCLOUD TECHNOLOGY LLC']",
+            "RADISHCLOUD TECHNOLOGY LLC",
             0.004242,
             2.8875103230280878e-06
           ],
@@ -50429,28 +50429,28 @@
           [
             135,
             53356,
-            "['Free Range Cloud Hosting Inc.' 'Free Range Cloud Hosting Inc.']",
+            "Free Range Cloud Hosting Inc.",
             0.003922,
             2.669687762120735e-06
           ],
           [
             136,
             58057,
-            "['Securebit AG' 'Securebit AG']",
+            "Securebit AG",
             0.003906,
             2.6587966340753674e-06
           ],
           [
             137,
             28573,
-            "['Claro NXT Telecomunicacoes Ltda' 'Claro NXT Telecomunicacoes Ltda']",
+            "Claro NXT Telecomunicacoes Ltda",
             0.003906,
             2.6587966340753674e-06
           ],
           [
             138,
             9009,
-            "['M247 Europe SRL' 'M247 Europe SRL']",
+            "M247 Europe SRL",
             0.002516,
             1.7126298851340563e-06
           ],
@@ -50478,14 +50478,14 @@
           [
             142,
             15133,
-            "['Edgecast Inc.' 'Edgecast Inc.']",
+            "Edgecast Inc.",
             0.001312,
             8.930724997201439e-07
           ],
           [
             143,
             19551,
-            "['Incapsula Inc' 'Incapsula Inc']",
+            "Incapsula Inc",
             0.001312,
             8.930724997201439e-07
           ],
@@ -50499,7 +50499,7 @@
           [
             145,
             41378,
-            "['Kirino LLC' 'Kirino LLC']",
+            "Kirino LLC",
             0.000885,
             6.024155200093958e-07
           ],
@@ -50520,14 +50520,14 @@
           [
             148,
             46997,
-            "['Black Mesa Corporation' 'Black Mesa Corporation']",
+            "Black Mesa Corporation",
             0.00061,
             4.152242567296401e-07
           ],
           [
             149,
             205212,
-            "['LoudTronix Inc.' 'LoudTronix Inc.']",
+            "LoudTronix Inc.",
             0.00061,
             4.152242567296401e-07
           ],
@@ -50562,7 +50562,7 @@
           [
             154,
             62874,
-            "['Web2Objects LLC' 'Web2Objects LLC']",
+            "Web2Objects LLC",
             0.000519,
             3.532809659716118e-07
           ],
@@ -50583,7 +50583,7 @@
           [
             157,
             47583,
-            "['Hostinger International Limited' 'Hostinger International Limited']",
+            "Hostinger International Limited",
             0.00032,
             2.178225609073522e-07
           ],
@@ -50737,14 +50737,14 @@
           [
             179,
             13213,
-            "['UK-2 Limited' 'UK-2 Limited']",
+            "UK-2 Limited",
             0.000202,
             1.3750049157276605e-07
           ],
           [
             180,
             46562,
-            "['Performive LLC' 'Performive LLC']",
+            "Performive LLC",
             0.000152,
             1.0346571643099229e-07
           ],
@@ -50758,7 +50758,7 @@
           [
             182,
             212238,
-            "['Datacamp Limited' 'Datacamp Limited']",
+            "Datacamp Limited",
             0.000137,
             9.325528388846014e-08
           ],
@@ -50814,7 +50814,7 @@
           [
             190,
             40676,
-            "['Psychz Networks' 'Psychz Networks']",
+            "Psychz Networks",
             9.5e-05,
             6.466607276937019e-08
           ],
@@ -50849,7 +50849,7 @@
           [
             195,
             205544,
-            "['LEASEWEB UK LIMITED' 'LEASEWEB UK LIMITED']",
+            "LEASEWEB UK LIMITED",
             6.1e-05,
             4.1522425672964016e-08
           ],
@@ -50912,7 +50912,7 @@
           [
             204,
             216435,
-            "['Plim Mobile Telecom LLC' 'Plim Mobile Telecom LLC']",
+            "Plim Mobile Telecom LLC",
             4.6e-05,
             3.1311993130431874e-08
           ],
@@ -51010,35 +51010,35 @@
           [
             218,
             33760,
-            "['Ashton Holmes, Sole Proprietorship' 'Ashton Holmes, Sole Proprietorship']",
+            "Ashton Holmes, Sole Proprietorship",
             3.1e-05,
             2.1101560587899745e-08
           ],
           [
             219,
             51430,
-            "['AltusHost B.V.' 'AltusHost B.V.']",
+            "AltusHost B.V.",
             3e-05,
             2.0420865085064268e-08
           ],
           [
             220,
             202888,
-            "['UPSTREAM NETWORK LTD' 'UPSTREAM NETWORK LTD']",
+            "UPSTREAM NETWORK LTD",
             3e-05,
             2.0420865085064268e-08
           ],
           [
             221,
             55081,
-            "['24 SHELLS' '24 SHELLS']",
+            "24 SHELLS",
             2.7e-05,
             1.837877857655784e-08
           ],
           [
             222,
             133480,
-            "['Intergrid Group Pty Ltd' 'Intergrid Group Pty Ltd']",
+            "Intergrid Group Pty Ltd",
             2.3e-05,
             1.5655996565215937e-08
           ],
@@ -51318,21 +51318,21 @@
           [
             262,
             25923,
-            "['ChoicePoint, Inc.' 'ChoicePoint, Inc.']",
+            "ChoicePoint, Inc.",
             1.5e-05,
             1.0210432542532134e-08
           ],
           [
             263,
             61323,
-            "['ANS ACADEMY LIMITED' 'ANS ACADEMY LIMITED']",
+            "ANS ACADEMY LIMITED",
             1.5e-05,
             1.0210432542532134e-08
           ],
           [
             264,
             15967,
-            "['Nazwa.pl Sp.z.o.o.' 'Nazwa.pl Sp.z.o.o.']",
+            "Nazwa.pl Sp.z.o.o.",
             1.5e-05,
             1.0210432542532134e-08
           ],
@@ -52270,7 +52270,7 @@
           [
             398,
             16625,
-            "['Akamai Technologies, Inc.' 'Akamai Technologies, Inc.']",
+            "Akamai Technologies, Inc.",
             0.0,
             0.0
           ],
@@ -52417,7 +52417,7 @@
           [
             419,
             6762,
-            "['TELECOM ITALIA SPARKLE S.p.A.' 'TELECOM ITALIA SPARKLE S.p.A.']",
+            "TELECOM ITALIA SPARKLE S.p.A.",
             0.0,
             0.0
           ],
@@ -52543,14 +52543,14 @@
           [
             437,
             4657,
-            "['Starhub Ltd.' 'Starhub Ltd.']",
+            "Starhub Ltd.",
             0.0,
             0.0
           ],
           [
             438,
             58453,
-            "['China Mobile International Limited' 'China Mobile International Limited']",
+            "China Mobile International Limited",
             0.0,
             0.0
           ],
@@ -52599,7 +52599,7 @@
           [
             445,
             4788,
-            "['TM TECHNOLOGY SERVICES SDN BHD' 'TM TECHNOLOGY SERVICES SDN BHD']",
+            "TM TECHNOLOGY SERVICES SDN BHD",
             0.0,
             0.0
           ],
@@ -52921,7 +52921,7 @@
           [
             491,
             7713,
-            "['Telekomunikasi Indonesia (PT)' 'Telekomunikasi Indonesia (PT)']",
+            "Telekomunikasi Indonesia (PT)",
             0.0,
             0.0
           ],

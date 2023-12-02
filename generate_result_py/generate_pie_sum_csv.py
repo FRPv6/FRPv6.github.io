@@ -1,30 +1,37 @@
 import pandas as pd
 import numpy as np
-
+from config import DefaultConfig
+config=DefaultConfig()
 
 def group_fun_org(a):
-    value=[]
-    # print("#######################################")
-    for i in a:
-        i = i.replace("[", "")
-        i = i.replace("]", "")
-        i = i.replace(" ", "")
-        i = i.split(",")
-        value.append(i)
+    # org_name列表进行合并，不需要去重，取第一个即可
+    for line in a:
+        value=line
+        break
         # print(value)
-
-    return a
+    # new_list = []
+    # for i in value_list:
+    #     if i not in new_list:
+    #         new_list.append(i)
+    return value
 
 
 def group_fun_as(a):
-    # print(type(a))
-    # print(a)
-    for i in a:
-        value=i
+    # 对as号列表进行合并与去重
+    value_list = []
+    for line in a:
+        line = line.replace("[", "")
+        line = line.replace("]", "")
+        line = line.replace(" ", "")
+        line = line.split(",")
+        for i in line:
+            value_list.append(int(i))
         # print(value)
-        break
-    # print("#######################################")
-    return value
+    new_list = []
+    for i in value_list:
+        if i not in new_list:
+            new_list.append(i)
+    return new_list
 
 
 def generate_pie_sum_csv(path_name):
@@ -92,18 +99,12 @@ def generate_pie_sum_csv(path_name):
 
 
 
-if __name__ == '__main__':
-    file_path_week1 = "../data/sat_result_20231103_20231109/"
-    file_path_week2 = "../data/sat_result_20231110_20231116/"
-    file_path_week3 = "../data/sat_result_20231117_20231123/"
-    pathArray = [file_path_week1, file_path_week2, file_path_week3]
-    for path in pathArray:
-        generate_pie_sum_csv(path)
-    # df_all = df_router.merge(df_seed, on=type_name, how='outer', suffixes=("_router", "_seed"))
-    # df_all[f"{type_name}_alias_num"] = df_all[f"{type_name}_alias_num_router"] + df_all[f"{type_name}_alias_num_seed"]
-    # df_all[f"{type_name}_all_num"] = df_all[f"{type_name}_all_num_router"] + df_all[f"{type_name}_all_num+seed"]
-    # df_all[f"sta_{type_name}_alias_num"] = df_all[f"sta_{type_name}_alias_num_router"] + df_all[f"sta_{type_name}_alias_num_seed"]
-    # df_all[f"sta_{type_name}_all_num"] = df_all[f"sta_{type_name}_all_num_router"] + df_all[f"sta_{type_name}_all_num_seed"]
-    # df_all[f"{type_name}_ratio"] = df_all[f"{type_name}_alias_num"] / df_all[f"{type_name}_all_num"]
-    # df_all[f"sta_{type_name}_ratio"] = df_all[f"sta_{type_name}_alias_num"] / df_all[f"sta_{type_name}_all_num"]
-    # df_all.drop([f"{type_name}_alias_num_router",], axis=1, inplace=True)
+
+# df_all = df_router.merge(df_seed, on=type_name, how='outer', suffixes=("_router", "_seed"))
+# df_all[f"{type_name}_alias_num"] = df_all[f"{type_name}_alias_num_router"] + df_all[f"{type_name}_alias_num_seed"]
+# df_all[f"{type_name}_all_num"] = df_all[f"{type_name}_all_num_router"] + df_all[f"{type_name}_all_num+seed"]
+# df_all[f"sta_{type_name}_alias_num"] = df_all[f"sta_{type_name}_alias_num_router"] + df_all[f"sta_{type_name}_alias_num_seed"]
+# df_all[f"sta_{type_name}_all_num"] = df_all[f"sta_{type_name}_all_num_router"] + df_all[f"sta_{type_name}_all_num_seed"]
+# df_all[f"{type_name}_ratio"] = df_all[f"{type_name}_alias_num"] / df_all[f"{type_name}_all_num"]
+# df_all[f"sta_{type_name}_ratio"] = df_all[f"sta_{type_name}_alias_num"] / df_all[f"sta_{type_name}_all_num"]
+# df_all.drop([f"{type_name}_alias_num_router",], axis=1, inplace=True)

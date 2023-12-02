@@ -1,5 +1,7 @@
 import pandas as pd
 import json
+from config import DefaultConfig
+config = DefaultConfig()
 country_iso_dict = {}
 
 
@@ -29,7 +31,7 @@ def locate_country_iso(country):
     return country_iso_dict[country]
 
 
-def generate_map_chart(path, type_name, csv_file_name):
+def generate_result_temp(path, type_name, csv_file_name):
     # 下拉框class，type1 or type2
     class_ratio_names = ["","sat_"]
     class_num_names = ["", "sta_"]
@@ -66,9 +68,9 @@ def generate_map_chart(path, type_name, csv_file_name):
     return data_class_array
 
 
-if __name__== '__main__':
+def generate_map_chart():
     # Specify the variables for each iteration
-    file_path = "../data/sat_result_20231117_20231123/"
+    file_path = config.file_path_last_week
     prefix_types = ["sum", "router", "seed"]
     type_name = "Country-Num"
     # Iterate through different combinations
@@ -78,7 +80,7 @@ if __name__== '__main__':
         for day in range(1, 8):
             csv_file_name = f"{prefix_type}_prefix_day_{day}_country_sat.csv"
 
-            result_temp = generate_map_chart(file_path, type_name, csv_file_name)
+            result_temp = generate_result_temp(file_path, type_name, csv_file_name)
             resultArray.append(result_temp)
 
         result = {"result": resultArray, "code": 1001, "msg": "success"}

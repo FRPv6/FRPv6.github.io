@@ -37,7 +37,7 @@ def csv_to_json(file):
 
 
 
-def generate_line_data():
+def generate_line_chart():
     dataArray = []
     day_num = week_num * 7
     start_date_string = "2023-11-03"
@@ -78,8 +78,4 @@ def generate_line_data():
     # Save JSON data to a file
     with open(f"../data/get_data_result/line_result.json", 'w') as json_file:
         json.dump(result, json_file, indent=2)
-
-
-if __name__ == "__main__":
-    generate_line_data()
 
