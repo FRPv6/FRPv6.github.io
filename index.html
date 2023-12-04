@@ -20,31 +20,35 @@
 <body>
     <!-- Put nav into container to center it on the page -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-      <div class="container">
+      <div class="container-xl">
       <a class="navbar-brand" href="#">↑</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav container">
-          <a class="nav-item nav-link" href="#alias prefix">Alias Prefix</a>
-          <a class="nav-item nav-link" href="#categorized alias prefix">Categorized Alias Prefix</a>
+          <a class="nav-item nav-link" href="#alias prefix">Fully Responsive Prefixes</a>
+          <a class="nav-item nav-link" href="#categorized alias prefix">Categorized Fully Responsive Prefixes</a>
           <a class="nav-item nav-link" href="#alias detection">Alias Detection</a>
         </div>
       </div>
       </div>
     </nav>
-    <a class="github-fork-ribbon right-bottom fixed" href="https://robustspotproject.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+<!--    <a class="github-fork-ribbon right-bottom fixed" href="https://robustspotproject.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>-->
     <br>
-    <div class="container">
-	<h2 class="topmargin">IPv6 Alias Prefix Service</h2>
-        <div class="description">On this website we presented IPv6 Alias Prefix Service.</div>
-        <h3 id="alias prefix">Alias Prefix</h3>
-        <div class="description">We provide Alias Prefix.</div>
+    <div class="container-xl">
+	<h2 class="topmargin">IPv6 Fully Responsive Prefixes Service</h2>
+    <div class="description">On this website we presented IPv6 Fully Responsive Prefixes Service.</div>
 
-        <!--折线图-->
+    <!--折线图-->
+    <!--折线图-->
+    <!--折线图-->
+    <h3 id="alias prefix">Fully Responsive Prefixes</h3>
+    <div class="description">We provide Fully Responsive Prefixes.</div>
+
         <!--求和结果-->
-        <h4>Sum prefix</h4>
+        <div class="divider"></div>
+        <h4>All Fully Responsive Prefixes</h4>
         <!--折线图-Sum-导航栏-->
         <div class="container">
             <!-- Content here -->
@@ -59,10 +63,10 @@
                 <!--                </div>-->
                 <!--                </li>-->
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="type1-sum-tab" data-bs-toggle="pill" data-bs-target="#type1-sum-tab-pane" type="button" role="tab" aria-controls="type1-sum-tab-pane" aria-selected="true">Type 1</button>
+                    <button class="nav-link active" id="type1-sum-tab" data-bs-toggle="pill" data-bs-target="#type1-sum-tab-pane" type="button" role="tab" aria-controls="type1-sum-tab-pane" aria-selected="true">Number of shortest prefixes</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="type2-sum-tab" data-bs-toggle="pill" data-bs-target="#type2-sum-tab-pane" type="button" role="tab" aria-controls="type2-sum-tab-pane" aria-selected="false">Type 2</button>
+                    <button class="nav-link" id="type2-sum-tab" data-bs-toggle="pill" data-bs-target="#type2-sum-tab-pane" type="button" role="tab" aria-controls="type2-sum-tab-pane" aria-selected="false">Number of standardized prefixes</button>
                 </li>
             </ul>
             <!--折线图-Sum-面板区-->
@@ -80,7 +84,8 @@
         </div>
 
         <!--路由前缀-->
-        <h4>Router prefix</h4>
+        <div class="divider"></div>
+        <h4>Fully Responsive Router Prefixes</h4>
         <!--折线图-路由-导航栏-->
         <div class="container">
             <!-- Content here -->
@@ -95,10 +100,10 @@
 <!--                </div>-->
 <!--                </li>-->
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="type1-router-tab" data-bs-toggle="pill" data-bs-target="#type1-router-tab-pane" type="button" role="tab" aria-controls="type1-router-tab-pane" aria-selected="true">Type 1</button>
+                    <button class="nav-link active" id="type1-router-tab" data-bs-toggle="pill" data-bs-target="#type1-router-tab-pane" type="button" role="tab" aria-controls="type1-router-tab-pane" aria-selected="true">Number of shortest prefixes</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="type2-router-tab" data-bs-toggle="pill" data-bs-target="#type2-router-tab-pane" type="button" role="tab" aria-controls="type2-router-tab-pane" aria-selected="false">Type 2</button>
+                    <button class="nav-link" id="type2-router-tab" data-bs-toggle="pill" data-bs-target="#type2-router-tab-pane" type="button" role="tab" aria-controls="type2-router-tab-pane" aria-selected="false">Number of standardized prefixes</button>
                 </li>
             </ul>
             <!--折线图-路由-面板区-->
@@ -116,14 +121,15 @@
         </div>
 
         <!--种子前缀-->
-        <h4>Seed prefix</h4>
+        <div class="divider"></div>
+        <h4>Fully Responsive  Non-router Prefixes</h4>
         <!--折线图-种子-导航栏-->
         <ul class="nav nav-pills" id="lineSeedTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link active" id="type1-seed-tab" data-bs-toggle="pill" data-bs-target="#type1-seed-tab-pane" type="button" role="tab" aria-controls="type1-seed-tab-pane" aria-selected="true">Type 1</button>
+                <button class="nav-link active" id="type1-seed-tab" data-bs-toggle="pill" data-bs-target="#type1-seed-tab-pane" type="button" role="tab" aria-controls="type1-seed-tab-pane" aria-selected="true">Number of shortest prefixes</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link" id="type2-seed-tab" data-bs-toggle="pill" data-bs-target="#type2-seed-tab-pane" type="button" role="tab" aria-controls="type2-seed-tab-pane" aria-selected="false">Type 2</button>
+                <button class="nav-link" id="type2-seed-tab" data-bs-toggle="pill" data-bs-target="#type2-seed-tab-pane" type="button" role="tab" aria-controls="type2-seed-tab-pane" aria-selected="false">Number of standardized prefixes</button>
             </li>
         </ul>
         <!--折线图-种子-面板区-->
@@ -136,12 +142,17 @@
             </div>
         </div>
 
-        <!--Categorized Alias Prefix-->
-        <h3 id="categorized alias prefix">Categorized Alias Prefix</h3>
-        <div class="description">We provide Categorized Alias Prefix.</div>
+    <!--饼状图-->
+    <!--饼状图-->
+    <!--饼状图-->
+    <!--Categorized Alias Prefix-->
+    <div class="divider"></div>
+    <h3 id="categorized alias prefix">Categorized Fully Responsive Prefixes</h3>
+    <div class="description">We provide Categorized Fully Responsive Prefixes.</div>
+
         <!--所有结果-->
-        <h4>Sum prefix</h4>
-        <div class="description">These graphs shows the development of the <b> to be </b> Router prefix over time.</div>
+        <h4>All Fully Responsive Prefixes</h4>
+        <div class="description">These graphs shows the development of the all fully responsive prefixes over time.</div>
         <!--sum-四个饼状图-->
         <div class="container-lg">
             <div class="row">
@@ -161,50 +172,50 @@
                         <div class="tab-content" id="pieSumAsTabContent">
                             <div class="tab-pane fade show active" id="pie-sum-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day7" ></div>
                             </div>
@@ -227,50 +238,50 @@
                         <div class="tab-content" id="pieSumCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-sum-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day7"></div>
                             </div>
@@ -294,50 +305,50 @@
                         <div class="tab-content" id="pieSumSubCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-sum-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day7"></div>
                             </div>
@@ -361,50 +372,50 @@
                         <div class="tab-content" id="pieSumOrgTabContent">
                             <div class="tab-pane fade show active" id="pie-sum-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day7"></div>
                             </div>
@@ -428,50 +439,50 @@
                         <div class="tab-content" id="mapSumCountryTabContent">
                             <div class="tab-pane fade show active" id="map-sum-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day7"></div>
                             </div>
@@ -482,8 +493,8 @@
         </div>
 
         <!--路由前缀-->
-        <h4>Router prefix</h4>
-        <div class="description">These graphs shows the development of the <b> to be </b> Router prefix over time.</div>
+        <h4>Fully Responsive Router Prefixes</h4>
+        <div class="description">These graphs shows the development of the fully responsive router prefixes over time.</div>
         <!--路由-四个饼状图-->
         <div class="container-lg">
             <div class="row">
@@ -503,50 +514,50 @@
                         <div class="tab-content" id="pieRouterAsTabContent">
                             <div class="tab-pane fade show active" id="pie-router-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day7" ></div>
                             </div>
@@ -569,50 +580,50 @@
                         <div class="tab-content" id="pieRouterCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-router-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day7"></div>
                             </div>
@@ -636,50 +647,50 @@
                         <div class="tab-content" id="pieRouterSubCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-router-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day7"></div>
                             </div>
@@ -703,50 +714,50 @@
                         <div class="tab-content" id="pieRouterOrgTabContent">
                             <div class="tab-pane fade show active" id="pie-router-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day7"></div>
                             </div>
@@ -770,50 +781,50 @@
                         <div class="tab-content" id="mapRouterCountryTabContent">
                             <div class="tab-pane fade show active" id="map-router-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day7"></div>
                             </div>
@@ -836,7 +847,9 @@
 <!--    </div>-->
 
         <!--种子前缀-->
-        <h4>Seed Prefix</h4>
+        <h4>Fully Responsive  Non-router Prefixes</h4>
+        <div class="description">These graphs shows the development of the fully responsive non-router prefixes over time.</div>
+
         <!--种子-四个饼状图-->
         <div class="container-lg">
             <div class="row">
@@ -856,50 +869,50 @@
                         <div class="tab-content" id="pieSeedAsTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day1" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day7" ></div>
                             </div>
@@ -922,50 +935,50 @@
                         <div class="tab-content" id="pieSeedCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day7"></div>
                             </div>
@@ -988,50 +1001,50 @@
                         <div class="tab-content" id="pieSeedSubCategoryTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day7"></div>
                             </div>
@@ -1054,50 +1067,50 @@
                         <div class="tab-content" id="pieSeedOrgTabContent">
                             <div class="tab-pane fade show active" id="pie-seed-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day7"></div>
                             </div>
@@ -1120,50 +1133,50 @@
                         <div class="tab-content" id="mapSeedCountryTabContent">
                             <div class="tab-pane fade show active" id="map-seed-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day1" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day2" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day3" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day4" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day5" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day6" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day7" aria-label="Default select example">
-                                    <option selected value="1">Type 1</option>
-                                    <option value="2">Type 2</option>
+                                    <option selected value="1">Number of shortest prefixes</option>
+                                    <option value="2">Number of standardized prefixes</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day7"></div>
                             </div>
@@ -1178,7 +1191,7 @@
     <br>
     <br>
     <div id="alias detection line chart"></div>
-</div> <!-- /container -->
+</div>
 
 <!-- JS STARTS HERE -->
 <!-- jQuery -->

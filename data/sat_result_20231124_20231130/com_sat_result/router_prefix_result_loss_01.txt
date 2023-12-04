@@ -1,0 +1,9 @@
+2600:9000:200b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:201b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:202b::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2130::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:213f::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2168::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a12:dd47:f002::/48,201217,RADISHCLOUD TECHNOLOGY LLC,US,,
+2a13:e107:0007::/48,205544,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
+2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)

@@ -46,7 +46,8 @@ for(let i=0;i<4;i++){
                     legend: {
                         orient: 'vertical',
                         left: 'left',
-                        top:'10%'
+                        top:'10%',
+                        show:false
                     },
                     toolbox: {
                         feature:{

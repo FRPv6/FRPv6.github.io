@@ -1,0 +1,579 @@
+++++++++++++++++++++day 1
+df_alias_prefix_pre:  28356
+df_all_prefix:  37823
+df_alias_prefix_pre:  27397
+df_all_prefix:  37823
+df_alias_prefix_pre:  28554
+df_all_prefix:  37823
+df_alias_prefix_pre:  28671
+df_all_prefix:  37823
+df_all:  30149
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 2
+df_alias_prefix_pre:  27859
+df_all_prefix:  37823
+df_alias_prefix_pre:  26279
+df_all_prefix:  37823
+df_alias_prefix_pre:  28382
+df_all_prefix:  37823
+df_alias_prefix_pre:  28312
+df_all_prefix:  37823
+df_all:  29935
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 3
+df_alias_prefix_pre:  28467
+df_all_prefix:  37823
+df_alias_prefix_pre:  26739
+df_all_prefix:  37823
+df_alias_prefix_pre:  28405
+df_all_prefix:  37823
+df_alias_prefix_pre:  28576
+df_all_prefix:  37823
+df_all:  29905
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 4
+df_alias_prefix_pre:  28272
+df_all_prefix:  37823
+df_alias_prefix_pre:  28222
+df_all_prefix:  37823
+df_alias_prefix_pre:  28213
+df_all_prefix:  37823
+df_alias_prefix_pre:  28229
+df_all_prefix:  37823
+df_all:  30028
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 5
+df_alias_prefix_pre:  28493
+df_all_prefix:  37823
+df_alias_prefix_pre:  28092
+df_all_prefix:  37823
+df_alias_prefix_pre:  28100
+df_all_prefix:  37823
+df_alias_prefix_pre:  28369
+df_all_prefix:  37823
+df_all:  29832
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 6
+df_alias_prefix_pre:  28100
+df_all_prefix:  37823
+df_alias_prefix_pre:  28161
+df_all_prefix:  37823
+df_alias_prefix_pre:  28128
+df_all_prefix:  37823
+df_alias_prefix_pre:  28244
+df_all_prefix:  37823
+df_all:  29757
+df_merge_all_prefix:  37823
+++++++++++++++++++++day 7
+df_alias_prefix_pre:  28188
+df_all_prefix:  37823
+df_alias_prefix_pre:  27928
+df_all_prefix:  37823
+df_alias_prefix_pre:  28091
+df_all_prefix:  37823
+df_alias_prefix_pre:  25581
+df_all_prefix:  37823
+df_all:  29847
+df_merge_all_prefix:  37823
+[1408.0750673098967, 1404.0786525520973, 1405.0127041342214, 1404.0124758116447, 1403.012322093827, 1405.012199909893, 1433.0043994752061]
+############################################### day  1
+raw seed aliased prefix: 30149
+current router prefix: 4530
+all: 34679
+all after del dup: 31700
+number of directly del dup: 2979
+alias prefix number after gen short: 31340
+seed prefix after del router prefix: 27091
+number of del contain: 79
+&&&&&&&&& 1
+Number of aliased prefix (all):  27091
+------------------------------------
+                         prefix  as org_name country category sub_category
+2449   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2450   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+3049   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+15581   2600:9000:310c:002::/60 NaN      NaN     NaN      NaN          NaN
+15582   2600:9000:310c:003::/60 NaN      NaN     NaN      NaN          NaN
+15583   2600:9000:310c:004::/60 NaN      NaN     NaN      NaN          NaN
+15584   2600:9000:310c:005::/60 NaN      NaN     NaN      NaN          NaN
+15585   2600:9000:310c:006::/60 NaN      NaN     NaN      NaN          NaN
+15586   2600:9000:310c:007::/60 NaN      NaN     NaN      NaN          NaN
+15587   2600:9000:310c:008::/60 NaN      NaN     NaN      NaN          NaN
+15588   2600:9000:310c:009::/60 NaN      NaN     NaN      NaN          NaN
+15589   2600:9000:310c:00a::/60 NaN      NaN     NaN      NaN          NaN
+15590   2600:9000:310c:00b::/60 NaN      NaN     NaN      NaN          NaN
+15591   2600:9000:310c:00c::/60 NaN      NaN     NaN      NaN          NaN
+15592   2600:9000:310c:00d::/60 NaN      NaN     NaN      NaN          NaN
+15593   2600:9000:310c:00e::/60 NaN      NaN     NaN      NaN          NaN
+15594   2600:9000:310c:00f::/60 NaN      NaN     NaN      NaN          NaN
+15595    2600:9000:310c:01::/56 NaN      NaN     NaN      NaN          NaN
+15596    2600:9000:310c:02::/56 NaN      NaN     NaN      NaN          NaN
+15597   2600:9000:310c:030::/60 NaN      NaN     NaN      NaN          NaN
+15598   2600:9000:310c:031::/60 NaN      NaN     NaN      NaN          NaN
+16871   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16872   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16873   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16874   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16875   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16876   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16877   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16878   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16879   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16880   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16881   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16882   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16883   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16884   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16885   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16886   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16887   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16888   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16889   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16890   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16891   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16892   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16893   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16894   2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16895   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16896   2600:9000:31af:027::/60 NaN      NaN     NaN      NaN          NaN
+16897   2600:9000:31af:028::/60 NaN      NaN     NaN      NaN          NaN
+16898   2600:9000:31af:02a::/60 NaN      NaN     NaN      NaN          NaN
+16899   2600:9000:31af:02b::/60 NaN      NaN     NaN      NaN          NaN
+16900   2600:9000:31af:02e::/60 NaN      NaN     NaN      NaN          NaN
+16901   2600:9000:31af:02f::/60 NaN      NaN     NaN      NaN          NaN
+16902   2600:9000:31af:030::/60 NaN      NaN     NaN      NaN          NaN
+16903   2600:9000:31af:032::/60 NaN      NaN     NaN      NaN          NaN
+16904   2600:9000:31af:035::/60 NaN      NaN     NaN      NaN          NaN
+16905   2600:9000:31af:036::/60 NaN      NaN     NaN      NaN          NaN
+16906   2600:9000:31af:037::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  57
+------------------------------------
+Number of aliased prefix (can get as):  27034
+############################################### day  2
+raw seed aliased prefix: 29935
+current router prefix: 4517
+all: 34452
+all after del dup: 31559
+number of directly del dup: 2893
+alias prefix number after gen short: 31198
+seed prefix after del router prefix: 26957
+number of del contain: 85
+&&&&&&&&& 2
+Number of aliased prefix (all):  26957
+------------------------------------
+                         prefix  as org_name country category sub_category
+2453   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2454   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+3053   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+15509   2600:9000:310c:002::/60 NaN      NaN     NaN      NaN          NaN
+15510   2600:9000:310c:003::/60 NaN      NaN     NaN      NaN          NaN
+15511   2600:9000:310c:004::/60 NaN      NaN     NaN      NaN          NaN
+15512   2600:9000:310c:005::/60 NaN      NaN     NaN      NaN          NaN
+15513   2600:9000:310c:006::/60 NaN      NaN     NaN      NaN          NaN
+15514   2600:9000:310c:007::/60 NaN      NaN     NaN      NaN          NaN
+15515   2600:9000:310c:008::/60 NaN      NaN     NaN      NaN          NaN
+15516   2600:9000:310c:009::/60 NaN      NaN     NaN      NaN          NaN
+15517   2600:9000:310c:00a::/60 NaN      NaN     NaN      NaN          NaN
+15518   2600:9000:310c:00b::/60 NaN      NaN     NaN      NaN          NaN
+15519   2600:9000:310c:00c::/60 NaN      NaN     NaN      NaN          NaN
+15520   2600:9000:310c:00d::/60 NaN      NaN     NaN      NaN          NaN
+15521   2600:9000:310c:00e::/60 NaN      NaN     NaN      NaN          NaN
+15522   2600:9000:310c:00f::/60 NaN      NaN     NaN      NaN          NaN
+15523    2600:9000:310c:01::/56 NaN      NaN     NaN      NaN          NaN
+15524    2600:9000:310c:02::/56 NaN      NaN     NaN      NaN          NaN
+15525   2600:9000:310c:030::/60 NaN      NaN     NaN      NaN          NaN
+15526   2600:9000:310c:031::/60 NaN      NaN     NaN      NaN          NaN
+16773   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16774   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16775   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16776   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16777   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16778   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16779   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16780   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16781   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16782   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16783   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16784   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16785   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16786   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16787   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16788   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16789   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16790   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16791   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16792   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16793   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16794   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16795   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16796   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16797   2600:9000:31af:026::/60 NaN      NaN     NaN      NaN          NaN
+16798   2600:9000:31af:029::/60 NaN      NaN     NaN      NaN          NaN
+16799   2600:9000:31af:02a::/60 NaN      NaN     NaN      NaN          NaN
+16800   2600:9000:31af:02b::/60 NaN      NaN     NaN      NaN          NaN
+16801   2600:9000:31af:02d::/60 NaN      NaN     NaN      NaN          NaN
+16802   2600:9000:31af:02f::/60 NaN      NaN     NaN      NaN          NaN
+16803   2600:9000:31af:032::/60 NaN      NaN     NaN      NaN          NaN
+16804   2600:9000:31af:035::/60 NaN      NaN     NaN      NaN          NaN
+16805   2600:9000:31af:036::/60 NaN      NaN     NaN      NaN          NaN
+16806   2600:9000:31af:037::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  55
+------------------------------------
+Number of aliased prefix (can get as):  26902
+############################################### day  3
+raw seed aliased prefix: 29905
+current router prefix: 4513
+all: 34418
+all after del dup: 31509
+number of directly del dup: 2909
+alias prefix number after gen short: 31149
+seed prefix after del router prefix: 26912
+number of del contain: 84
+&&&&&&&&& 3
+Number of aliased prefix (all):  26912
+------------------------------------
+                         prefix  as org_name country category sub_category
+2450   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2451   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+3051   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+15467   2600:9000:310c:002::/60 NaN      NaN     NaN      NaN          NaN
+15468   2600:9000:310c:003::/60 NaN      NaN     NaN      NaN          NaN
+15469   2600:9000:310c:004::/60 NaN      NaN     NaN      NaN          NaN
+15470   2600:9000:310c:005::/60 NaN      NaN     NaN      NaN          NaN
+15471   2600:9000:310c:006::/60 NaN      NaN     NaN      NaN          NaN
+15472   2600:9000:310c:007::/60 NaN      NaN     NaN      NaN          NaN
+15473   2600:9000:310c:008::/60 NaN      NaN     NaN      NaN          NaN
+15474   2600:9000:310c:009::/60 NaN      NaN     NaN      NaN          NaN
+15475   2600:9000:310c:00a::/60 NaN      NaN     NaN      NaN          NaN
+15476   2600:9000:310c:00b::/60 NaN      NaN     NaN      NaN          NaN
+15477   2600:9000:310c:00c::/60 NaN      NaN     NaN      NaN          NaN
+15478   2600:9000:310c:00d::/60 NaN      NaN     NaN      NaN          NaN
+15479   2600:9000:310c:00e::/60 NaN      NaN     NaN      NaN          NaN
+15480   2600:9000:310c:00f::/60 NaN      NaN     NaN      NaN          NaN
+15481    2600:9000:310c:01::/56 NaN      NaN     NaN      NaN          NaN
+15482    2600:9000:310c:02::/56 NaN      NaN     NaN      NaN          NaN
+15483   2600:9000:310c:030::/60 NaN      NaN     NaN      NaN          NaN
+15484   2600:9000:310c:031::/60 NaN      NaN     NaN      NaN          NaN
+16723   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16724   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16725   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16726   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16727   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16728   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16729   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16730   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16731   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16732   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16733   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16734   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16735   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16736   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16737   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16738   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16739   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16740   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16741   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16742   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16743   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16744   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16745   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16746   2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16747   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16748   2600:9000:31af:02b::/60 NaN      NaN     NaN      NaN          NaN
+16749   2600:9000:31af:036::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  48
+------------------------------------
+Number of aliased prefix (can get as):  26864
+############################################### day  4
+raw seed aliased prefix: 30028
+current router prefix: 4514
+all: 34542
+all after del dup: 31596
+number of directly del dup: 2946
+alias prefix number after gen short: 31237
+seed prefix after del router prefix: 26999
+number of del contain: 83
+&&&&&&&&& 4
+Number of aliased prefix (all):  26999
+------------------------------------
+                         prefix  as org_name country category sub_category
+2441   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2442   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+2974   2400:cb00:0482:0000::/64 NaN      NaN     NaN      NaN          NaN
+2975   2400:cb00:0482:0001::/64 NaN      NaN     NaN      NaN          NaN
+3049   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+15535   2600:9000:310c:002::/60 NaN      NaN     NaN      NaN          NaN
+15536   2600:9000:310c:003::/60 NaN      NaN     NaN      NaN          NaN
+15537   2600:9000:310c:004::/60 NaN      NaN     NaN      NaN          NaN
+15538   2600:9000:310c:005::/60 NaN      NaN     NaN      NaN          NaN
+15539   2600:9000:310c:006::/60 NaN      NaN     NaN      NaN          NaN
+15540   2600:9000:310c:007::/60 NaN      NaN     NaN      NaN          NaN
+15541   2600:9000:310c:008::/60 NaN      NaN     NaN      NaN          NaN
+15542   2600:9000:310c:009::/60 NaN      NaN     NaN      NaN          NaN
+15543   2600:9000:310c:00a::/60 NaN      NaN     NaN      NaN          NaN
+15544   2600:9000:310c:00b::/60 NaN      NaN     NaN      NaN          NaN
+15545   2600:9000:310c:00c::/60 NaN      NaN     NaN      NaN          NaN
+15546   2600:9000:310c:00d::/60 NaN      NaN     NaN      NaN          NaN
+15547   2600:9000:310c:00e::/60 NaN      NaN     NaN      NaN          NaN
+15548   2600:9000:310c:00f::/60 NaN      NaN     NaN      NaN          NaN
+15549    2600:9000:310c:01::/56 NaN      NaN     NaN      NaN          NaN
+15550    2600:9000:310c:02::/56 NaN      NaN     NaN      NaN          NaN
+15551   2600:9000:310c:030::/60 NaN      NaN     NaN      NaN          NaN
+15552   2600:9000:310c:031::/60 NaN      NaN     NaN      NaN          NaN
+16808   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16809   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16810   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16811   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16812   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16813   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16814   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16815   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16816   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16817   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16818   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16819   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16820   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16821   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16822   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16823   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16824   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16825   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16826   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16827   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16828   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16829   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16830   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16831   2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16832   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16833   2600:9000:31af:026::/60 NaN      NaN     NaN      NaN          NaN
+16834   2600:9000:31af:027::/60 NaN      NaN     NaN      NaN          NaN
+16835   2600:9000:31af:028::/60 NaN      NaN     NaN      NaN          NaN
+16836   2600:9000:31af:029::/60 NaN      NaN     NaN      NaN          NaN
+16837   2600:9000:31af:02b::/60 NaN      NaN     NaN      NaN          NaN
+16838   2600:9000:31af:02c::/60 NaN      NaN     NaN      NaN          NaN
+16839   2600:9000:31af:02e::/60 NaN      NaN     NaN      NaN          NaN
+16840   2600:9000:31af:030::/60 NaN      NaN     NaN      NaN          NaN
+16841   2600:9000:31af:032::/60 NaN      NaN     NaN      NaN          NaN
+16842   2600:9000:31af:037::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  58
+------------------------------------
+Number of aliased prefix (can get as):  26941
+############################################### day  5
+raw seed aliased prefix: 29832
+current router prefix: 4518
+all: 34350
+all after del dup: 31411
+number of directly del dup: 2939
+alias prefix number after gen short: 31054
+seed prefix after del router prefix: 26816
+number of del contain: 77
+&&&&&&&&& 5
+Number of aliased prefix (all):  26816
+------------------------------------
+                         prefix  as org_name country category sub_category
+2439   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2440   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+2974   2400:cb00:0482:0000::/64 NaN      NaN     NaN      NaN          NaN
+2975   2400:cb00:0482:0001::/64 NaN      NaN     NaN      NaN          NaN
+3049   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+15414   2600:9000:310c:002::/60 NaN      NaN     NaN      NaN          NaN
+15415   2600:9000:310c:003::/60 NaN      NaN     NaN      NaN          NaN
+15416   2600:9000:310c:004::/60 NaN      NaN     NaN      NaN          NaN
+15417   2600:9000:310c:005::/60 NaN      NaN     NaN      NaN          NaN
+15418   2600:9000:310c:006::/60 NaN      NaN     NaN      NaN          NaN
+15419   2600:9000:310c:007::/60 NaN      NaN     NaN      NaN          NaN
+15420   2600:9000:310c:008::/60 NaN      NaN     NaN      NaN          NaN
+15421   2600:9000:310c:009::/60 NaN      NaN     NaN      NaN          NaN
+15422   2600:9000:310c:00a::/60 NaN      NaN     NaN      NaN          NaN
+15423   2600:9000:310c:00b::/60 NaN      NaN     NaN      NaN          NaN
+15424   2600:9000:310c:00c::/60 NaN      NaN     NaN      NaN          NaN
+15425   2600:9000:310c:00d::/60 NaN      NaN     NaN      NaN          NaN
+15426   2600:9000:310c:00e::/60 NaN      NaN     NaN      NaN          NaN
+15427   2600:9000:310c:00f::/60 NaN      NaN     NaN      NaN          NaN
+15428    2600:9000:310c:01::/56 NaN      NaN     NaN      NaN          NaN
+15429    2600:9000:310c:02::/56 NaN      NaN     NaN      NaN          NaN
+15430   2600:9000:310c:030::/60 NaN      NaN     NaN      NaN          NaN
+15431   2600:9000:310c:031::/60 NaN      NaN     NaN      NaN          NaN
+16648   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16649   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16650   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16651   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16652   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16653   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16654   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16655   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16656   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16657   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16658   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16659   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16660   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16661   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16662   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16663   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16664   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16665   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16666   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16667   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16668   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16669   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16670   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16671   2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16672   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16673   2600:9000:31af:026::/60 NaN      NaN     NaN      NaN          NaN
+16674   2600:9000:31af:027::/60 NaN      NaN     NaN      NaN          NaN
+16675   2600:9000:31af:035::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  51
+------------------------------------
+Number of aliased prefix (can get as):  26765
+############################################### day  6
+raw seed aliased prefix: 29757
+current router prefix: 4989
+all: 34746
+all after del dup: 31849
+number of directly del dup: 2897
+alias prefix number after gen short: 31165
+seed prefix after del router prefix: 26526
+number of del contain: 334
+&&&&&&&&& 6
+Number of aliased prefix (all):  26526
+------------------------------------
+                         prefix  as org_name country category sub_category
+2437   2400:cb00:0171:0000::/64 NaN      NaN     NaN      NaN          NaN
+2438   2400:cb00:0171:0001::/64 NaN      NaN     NaN      NaN          NaN
+3048   2400:cb00:0517:0000::/64 NaN      NaN     NaN      NaN          NaN
+16628   2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16629   2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16630   2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16631   2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16632   2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16633   2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16634   2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16635   2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16636   2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16637   2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16638   2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16639   2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16640   2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16641   2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16642   2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16643   2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16644   2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16645   2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16646   2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16647   2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16648   2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16649   2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16650   2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16651   2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16652   2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16653   2600:9000:31af:026::/60 NaN      NaN     NaN      NaN          NaN
+16654   2600:9000:31af:027::/60 NaN      NaN     NaN      NaN          NaN
+16655   2600:9000:31af:029::/60 NaN      NaN     NaN      NaN          NaN
+16656   2600:9000:31af:02b::/60 NaN      NaN     NaN      NaN          NaN
+16657   2600:9000:31af:02e::/60 NaN      NaN     NaN      NaN          NaN
+16658   2600:9000:31af:02f::/60 NaN      NaN     NaN      NaN          NaN
+16659   2600:9000:31af:035::/60 NaN      NaN     NaN      NaN          NaN
+16660   2600:9000:31af:037::/60 NaN      NaN     NaN      NaN          NaN
+26475            2a11:7e40::/32 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  37
+------------------------------------
+Number of aliased prefix (can get as):  26489
+############################################### day  7
+raw seed aliased prefix: 29847
+current router prefix: 4523
+all: 34370
+all after del dup: 31400
+number of directly del dup: 2970
+alias prefix number after gen short: 31038
+seed prefix after del router prefix: 26797
+number of del contain: 80
+&&&&&&&&& 7
+Number of aliased prefix (all):  26797
+------------------------------------
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+                        prefix  as org_name country category sub_category
+16673  2600:9000:31af:003::/60 NaN      NaN     NaN      NaN          NaN
+16674  2600:9000:31af:004::/60 NaN      NaN     NaN      NaN          NaN
+16675  2600:9000:31af:006::/60 NaN      NaN     NaN      NaN          NaN
+16676  2600:9000:31af:007::/60 NaN      NaN     NaN      NaN          NaN
+16677  2600:9000:31af:00a::/60 NaN      NaN     NaN      NaN          NaN
+16678  2600:9000:31af:00b::/60 NaN      NaN     NaN      NaN          NaN
+16679  2600:9000:31af:00c::/60 NaN      NaN     NaN      NaN          NaN
+16680  2600:9000:31af:00d::/60 NaN      NaN     NaN      NaN          NaN
+16681  2600:9000:31af:00e::/60 NaN      NaN     NaN      NaN          NaN
+16682  2600:9000:31af:00f::/60 NaN      NaN     NaN      NaN          NaN
+16683  2600:9000:31af:010::/60 NaN      NaN     NaN      NaN          NaN
+16684  2600:9000:31af:011::/60 NaN      NaN     NaN      NaN          NaN
+16685  2600:9000:31af:012::/60 NaN      NaN     NaN      NaN          NaN
+16686  2600:9000:31af:013::/60 NaN      NaN     NaN      NaN          NaN
+16687  2600:9000:31af:018::/60 NaN      NaN     NaN      NaN          NaN
+16688  2600:9000:31af:01a::/60 NaN      NaN     NaN      NaN          NaN
+16689  2600:9000:31af:01b::/60 NaN      NaN     NaN      NaN          NaN
+16690  2600:9000:31af:01d::/60 NaN      NaN     NaN      NaN          NaN
+16691  2600:9000:31af:01e::/60 NaN      NaN     NaN      NaN          NaN
+16692  2600:9000:31af:01f::/60 NaN      NaN     NaN      NaN          NaN
+16693  2600:9000:31af:020::/60 NaN      NaN     NaN      NaN          NaN
+16694  2600:9000:31af:021::/60 NaN      NaN     NaN      NaN          NaN
+16695  2600:9000:31af:022::/60 NaN      NaN     NaN      NaN          NaN
+16696  2600:9000:31af:023::/60 NaN      NaN     NaN      NaN          NaN
+16697  2600:9000:31af:024::/60 NaN      NaN     NaN      NaN          NaN
+16698  2600:9000:31af:037::/60 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  26
+------------------------------------
+Number of aliased prefix (can get as):  26771
+################################ start compare 0 and 1
+df_alias_prefix_pre:  27200
+df_alias_prefix_next:  27091
+result_co:  26660
+result_loss:  540
+result_new:  431
+--------------------- end compare 0 and 1
+################################ start compare 1 and 2
+df_alias_prefix_pre:  27091
+df_alias_prefix_next:  26957
+result_co:  26563
+result_loss:  528
+result_new:  394
+--------------------- end compare 1 and 2
+################################ start compare 2 and 3
+df_alias_prefix_pre:  26957
+df_alias_prefix_next:  26912
+result_co:  26522
+result_loss:  435
+result_new:  390
+--------------------- end compare 2 and 3
+################################ start compare 3 and 4
+df_alias_prefix_pre:  26912
+df_alias_prefix_next:  26999
+result_co:  26534
+result_loss:  378
+result_new:  465
+--------------------- end compare 3 and 4
+################################ start compare 4 and 5
+df_alias_prefix_pre:  26999
+df_alias_prefix_next:  26816
+result_co:  26475
+result_loss:  524
+result_new:  341
+--------------------- end compare 4 and 5
+################################ start compare 5 and 6
+df_alias_prefix_pre:  26816
+df_alias_prefix_next:  26526
+result_co:  26142
+result_loss:  674
+result_new:  384
+--------------------- end compare 5 and 6
+################################ start compare 6 and 7
+df_alias_prefix_pre:  26526
+df_alias_prefix_next:  26797
+result_co:  26093
+result_loss:  433
+result_new:  704
+--------------------- end compare 6 and 7

@@ -1,0 +1,7 @@
+2a09:3d04::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a11:3184::/32,208626,ServTech LTD,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:8f81:000a::/48,208626,ServTech LTD,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:21f8::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2401:fd80:01ff::/48,137502,NOMINET UK,GB,Computer and Information Technology,
+2600:9000:267d::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2688::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider

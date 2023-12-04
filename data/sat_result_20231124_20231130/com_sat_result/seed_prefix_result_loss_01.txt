@@ -1,0 +1,540 @@
+2001:0470:0000:0073:0000:0000:4131:11::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:00e7:0000:0000:4a52:28::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:016f:0000:0000:b869:d1::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:0000:0171:0000:0000:b869:d3::/120,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:7836:1337::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:7836:bf0a::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:78a8:0000::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:78a8:0006::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0470:78a8:b002::/64,6939.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0550:0000:1000:0000:0000:9a1a:01::/120,174.0,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0550:0000:1000:0000:0000:9a1a:07::/120,174.0,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0df1:7800:0002:0000:0000:0001:20::/120,58487.0,Rumahweb,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0f60:0000:0600:0000:0000:0000:02::/120,2519.0,ARTERIA Networks Corporation,JP,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0180::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0181::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0182::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0183::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0184::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0187::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0188::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0189::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:018a::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:018c::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:018d::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:018e::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:018f::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0190::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0191::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0193::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0194::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0196::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0197::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:0199::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:019a::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:019b::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:019d::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:019f::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:01a0::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:01a1::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:01a2::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:01a3::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0026:01a5::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0045:0285::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0045:029f::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:41a8:0045:02bf::/64,6762.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+2001:4860:0000:0001:0000:0000:0000:0b::/120,15169.0,Google LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+2400:cb00:0223:0000::/64,,,,,
+2400:cb00:0223:2005::/64,,,,,
+2400:cb00:0248:0000::/64,,,,,
+2400:cb00:0248:0001::/64,,,,,
+2400:cb00:0636:1024:0000:0000:a29e:5d::/120,13335.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2403:18c0:0003:01d5::/64,906.0,DMIT Cloud Services,US,Computer and Information Technology,Internet Service Provider (ISP)
+2406:9640:0000:0001:0000:0000:0000:00::/120,137443.0,Anchnet Asia Limited,HK,Computer and Information Technology,Hosting and Cloud Provider
+2600:1400:9000:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1400:b000:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1401:4000:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1401:4000:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1401:6000:056::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1401:6000:05d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1401:6000:05e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1405:4000:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1405:7000:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:001a:0581::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:2e00:017::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:2e00:01c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:2e00:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:2e00:02c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:4c00:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:4c00:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:5400:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:5400:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:5400:07f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1406:6c00:04f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1407:7800:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1407:7800:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1407:a800:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1407:d800:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1408:7400:0000:0000:0000:6006:2a::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1408:9000:097::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1409:3800:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1409:8800:04d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1409:8800:04f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1409:d000:06e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1409:d000:06f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140a:c000:01e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:0010:0381::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:0015:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:0a00:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:01b::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:01c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:01e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:02d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:03c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:03d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:2600:03f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:4800:01c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:4800:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:4800:01e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:a800:04f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:ac00:05f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:f400:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:f400:02d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140b:f400:02f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140e:0006:02f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:03d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0003:0b::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0005:06::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:140f:0005:09::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1411:2000:01c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1411:2000:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1411:2000:01f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1413:a000:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1413:a000:05::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:0010:02c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:0010:04::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1415:0011:02c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0018:0281::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0018:02e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0018:02f4::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:003f:01f0::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:005d:03f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0075:30::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:0076:02::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:1000:04f::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:1000:08::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:c800:01d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1417:c800:01e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:0000:06::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:037::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:03c::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:1419:d400:03d::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:141b:5000:a0e::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:141b:5000:a0ff::/64,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:141b:e800:157::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2600:3c03:0001:0000:0000:0000:175c:17::/120,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2600:3c03:0001:0000:0000:0000:8b90:f0::/120,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2600:3c03:0001:0000:0000:0000:aabb:a1::/120,63949.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+2600:4c00:0080:0001:0000:0000:0000:01::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:0500:0001:0000:0000:0000:02::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:4c00:050d:0eb1:0000:0000:0000:02::/120,63410.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+2600:9000:226a:014::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:226a:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:226a:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:226a:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2273:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2273:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2273:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2273:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227b:019::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227b:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227b:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227b:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227f:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:227f:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:228c:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:228d:01c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:228d:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2290:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2290:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2290:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2290:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2291:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2291:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2294:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2294:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2294:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2294:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2298:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2298:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2298:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a0:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a0:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a5:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a9:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a9:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a9:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22a9:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22ae:00e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22ae:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22ae:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22be:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22c4:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22c4:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22c8:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22c8:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22c8:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22d4:013::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22d4:014::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22d4:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22d4:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22d7:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22e0:018::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22e0:01a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22f1:026b::/64,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22f1:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22fc:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:22fc:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:231e:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:231e:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:231e:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:231e:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2321:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2321:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:233f:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23ae:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23b2:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23b2:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23bb:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23c6:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23c8:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23c8:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23d8:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23d8:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23f6:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23f6:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:23f6:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2405:00f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2405:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2405:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2405:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2409:00f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2409:01::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:240d:01b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:240d:01c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:240d:01d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2410:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2410:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2410:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2412:017::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2412:01b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2412:01c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2412:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2422:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2422:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:242a:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:242a:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:242a:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:242a:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:242a:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:24a5:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2516:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2516:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2516:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:253a:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3095:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3098:01c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3098:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3098:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3098:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3098:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:309d:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:309d:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:309d:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a6:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a9:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a9:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30a9:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ae:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ae:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ae:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b0:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b7:038::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b8:01d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b9:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b9:02::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30b9:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30bf:02::/56,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30bf:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c2:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c2:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c2:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c2:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c2:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c3:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c3:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c3:021::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c3:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c3:02e5::/64,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c4:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c4:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c4:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c4:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30c4:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30cd:019::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30cd:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30cd:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30cd:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30cd:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d2:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d6:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d6:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d6:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d6:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30d6:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30da:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e1:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e1:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e2:01a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e2:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e2:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e3:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30e4:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30ee:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f2:014::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f2:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f3:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:022::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f5:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f8:01d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30f8:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fb:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fb:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fb:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fb:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fb:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fc:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fc:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fc:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fc:038::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:30fe:038f::/64,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3102:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3102:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3102:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3102:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3125:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312a:037a::/64,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312b:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312b:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312b:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312e:01b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:312e:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3134:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:313c:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:313c:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:313e:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3140:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3140:023::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3140:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3140:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3145:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:02f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3163:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3169:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:316a:039f::/64,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3172:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3172:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3172:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3175:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3177:02b::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3177:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3177:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3177:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:317a:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:317a:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:317a:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:317e:02c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3182:035::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3182:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3182:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3182:038::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3184:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3184:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3184:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3184:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:024::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:025::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:027::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318a:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:028::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:02a::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:02e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:030::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:318b:039::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:3192:039::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:319e:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31a8:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31a8:038::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31ad:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31ad:032::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31ad:033::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31ad:034::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31af:026::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31af:029::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31af:02d::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:01c::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:01e::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:01f::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:020::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:031::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:036::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:31bd:037::/60,16509.0,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2620:0000:1cff:dead:beef:0000:0000:1::/116,32934.0,"Facebook, Inc.",US,"Retail Stores, Wholesale, and E-commerce Sites",
+2620:0000:1cff:dead:beef:0000:0000:42::/120,32934.0,"Facebook, Inc.",US,"Retail Stores, Wholesale, and E-commerce Sites",
+2620:0135:60fe:0000:0000:0000:0000:1d::/120,22697.0,Roblox,US,Computer and Information Technology,Internet Service Provider (ISP)
+2800:06c0:0005:0000:0000:0000:0000:06::/120,27823.0,Dattatec.com,AR,Computer and Information Technology,
+2803:6603:d001:0000:0000:0000:0000:02::/120,28075.0,ARLINK S.A.,AR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:01d8:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5530:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5531:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5b31:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:5fe7:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:6564:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7576:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:7d9b:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:85c0:1000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:4a92::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:4c5e::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:5972::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:5de5::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:9b88:e2b8::/64,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de40:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de44:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de44:0000:0000:0000:0000:06::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:de45:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:f258:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014c:f420:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:12a1:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:32d4:0000:0000:0000:0000:1::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4030:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c51:0000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c57:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4c71:0000:0000:0000:0000:03::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:4cb4:0000:0000:0000:0000:04::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:54ae:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:586d:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:7223:1000:0000:0000:0000:01::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:7e2e:1000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:8090:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:8093:0000:0000:0000:0000:02::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:a041:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:a048:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:aca0:0000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:ae90:0000:0000:0000:0000:0::/116,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:014d:e651:1000:0000:0000:0000:00::/120,28573.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:04b0:1002:0000:0000:0000:0000:0::/116,262459.0,Osirnet Info Telecom Ltda.,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:04b0:1002:0000:0000:0000:0000:1::/116,262459.0,Osirnet Info Telecom Ltda.,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2804:04b0:1002:0000:0000:0000:0000:2::/116,262459.0,Osirnet Info Telecom Ltda.,BR,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0ca8:0a1f:8000:0000:0000:0a1f:83::/120,30764.0,PODA a.s.,CZ,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:0d70:0000:000b:2002:0000:d91a:3d::/120,29097.0,Hostpoint AG,CH,Computer and Information Technology,
+2a00:1ee0:0001:0010:0000:0000:5052:7a::/120,41357.0,34SP.com Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001a:0000:0000:0000:07::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:001f:0000:0000:0000:2f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0033:0000:0000:0000:09::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0039:0000:0000:0000:1::/116,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0045:0000:0000:0000:0::/116,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0048:0000:0000:0000:0f::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0049:0000:0000:0000:0::/116,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:0049:0000:0000:0000:47::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:6020:1000:00d0:0000:0000:0000:09::/120,60294.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:bba0:1000:1002:0000:0000:0000:09::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+2a00:f940:0002:0004:0002:0000:0000:0f::/120,197695.0,"Domain names registrar REG.RU, Ltd",RU,Computer and Information Technology,
+2a01:00a8:0dc0:0331:0001:0000:0000:01::/120,39122.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+2a01:00a8:0dc0:0331:0001:0000:0000:02::/120,39122.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+2a01:00a8:0dc0:0334:0001:0000:0000:06::/120,39122.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+2a01:07e0:0000:0134:0000:0000:0000:01::/120,44066.0,firstcolo GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:71c1:0169:0001:0193:0000:0000:00::/120,198066.0,"Grupo Loading Systems, S.L.",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a01:71c1:0169:0001:0198:0000:0000:00::/120,198066.0,"Grupo Loading Systems, S.L.",ES,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:002c:0000:0000:0000:0213:60::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00a1:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00a1:036::/60,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:00ad:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0118:0000:0000:0000:0210:87::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:0a00:0000:0000:0000:0217:ac::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:3900:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:5700:07::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:c700:01::/56,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:26f0:f500:03::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:3102:8001:80a8:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a03:f480:0001:000b:0000:0000:0000:00::/120,198068.0,P.A.G.M. OU,EE,Computer and Information Technology,
+2a03:f480:0002:0002:0000:0000:0000:00::/120,198068.0,P.A.G.M. OU,EE,Computer and Information Technology,
+2a04:0c43:0f00:0000:000f:0000:ac14:91::/120,61098.0,Akenes SA,CH,Computer and Information Technology,
+2a04:4540:0100:0099:0000:0000:0000:06::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0200:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0500:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0700:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0800:0099:0000:0000:0000:0a::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0b00:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0c00:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:0d00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:1700:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:3500:0099:0000:0000:0000:04::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:5000:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:6e00:0099:0000:0000:0000:16::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:8c00:0099:0000:0000:0000:06::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:a000:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:01::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:aa00:0099:0000:0000:0000:03::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4540:ab00:0099:0000:0000:0000:05::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:41c0:0001:0005:0000:0000:0000:02::/120,42846.0,GNET Internet Telekomunikasyon A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:41c0:0001:0006:0000:0000:0000:00::/120,42846.0,GNET Internet Telekomunikasyon A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:41c0:0001:0006:0000:0000:0000:01::/120,42846.0,GNET Internet Telekomunikasyon A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:3503:1033:0064:0000:0000:55f7:0::/116,208492.0,S.J.M. Steffann,NL,Community Groups and Nonprofits,"Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)"
+2a0d:ee00:008f:0668:0000:0000:0001:1::/116,42487.0,Vialis SEM,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:fdc1:1000:1001:0000:0000:0000:06::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)

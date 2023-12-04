@@ -139,13 +139,13 @@ $.getJSON('data/get_data_result/line_result.json', function (chart) {
             ],
             yAxis: [
                 {
-                    name: "左侧Y轴",
+                    name: "Left Y-Axis",
                     type:"value",
                     scale:true,
                     position: 'left',
                 },
                 {
-                    name: "右侧Y轴",
+                    name: "Right Y-Axis",
                     type:"value",
                     scale: true,
                     position: 'right',

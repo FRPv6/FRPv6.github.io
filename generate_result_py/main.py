@@ -9,11 +9,11 @@ config = DefaultConfig()
 if __name__ == '__main__':
 
     # 生成折线图sum.csv
-    # pathArray = config.pathArray
-    # for path in pathArray:
-    #     generate_line_sum_csv(path)
+    pathArray = config.pathArray
+    for path in pathArray:
+        generate_line_sum_csv(path)
     # 生成折线图.json
-    # generate_line_chart()
+    generate_line_chart()
 
     # 生成饼状图-地图 sum.csv
     generate_pie_sum_csv(config.file_path_last_week)

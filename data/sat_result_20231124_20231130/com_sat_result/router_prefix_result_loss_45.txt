@@ -1,0 +1,14 @@
+2a06:1287:80::/40,202990,Web42 Solutions Ltd,GB,Computer and Information Technology,Hosting and Cloud Provider
+2a09:3507::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0d:5ec1:4::/36,204916,"RACKTECH CO., LTD.",TH,,
+2a0d:e283::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:c584::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0f:cc84::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a12:7c02::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a09:3d07::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0b:cf41::/32,44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
+2a0b:cf42::/32,44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
+2a02:e981:0005::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a06:a000:02::/40,210842,Rohmad Kumiadin,ID,,
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)

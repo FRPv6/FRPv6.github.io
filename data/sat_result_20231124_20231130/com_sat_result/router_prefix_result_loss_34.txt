@@ -1,0 +1,6 @@
+2a09:a4c7:4::/36,204916,"RACKTECH CO., LTD.",TH,,
+2a12:dd47:8e7::/44,201217,RADISHCLOUD TECHNOLOGY LLC,US,,
+2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
+2407:0000:3001:01::/56,4761,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a12:3fc2:ab43::/48,211759,Miku Network Technology Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)

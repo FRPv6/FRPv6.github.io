@@ -51,24 +51,30 @@ def generate_line_chart():
 
     # 获取数据，series
     for file_name in fileArray:
-        for type_index in range(2):
+        for type_index in range(0, 3, 2):
             data_1 = []
             data_2 = []
+            header_prefix_list = ["", "", "Standardized "]
             for path_name in pathArray:
                 file = path_name + file_name
                 df = pd.read_csv(file)
                 # 获取列标签
                 column_headers = list(df.columns.values)
+                # Fully Responsive Prefixes    All Prefixes
+# Standardized Fully Responsive Prefixes      Standardized All Prefixes
+
                 data_header_1 = column_headers[type_index]  # 第1或 3列
                 data_header_2 = column_headers[type_index + 1]  # 第2或 4列
+                name_header_1 = header_prefix_list[type_index] + "Fully Responsive Prefixes"
+                name_header_2 = header_prefix_list[type_index] + "All Prefixes"
                 data_1 = data_1 + df[data_header_1].tolist()
                 data_2 = data_2 + df[data_header_2].tolist()
-            series_temp_1 = {"name": data_header_1, "data": data_1}
-            series_temp_2 = {"name": data_header_2, "data": data_2}
+            series_temp_1 = {"name": name_header_1, "data": data_1}
+            series_temp_2 = {"name": name_header_2, "data": data_2}
             # data = csv_to_json(file_name)
             data_temp = {
                 "xAxis": xAxis,
-                "legend": [data_header_1, data_header_2],
+                "legend": [name_header_1, name_header_2],
                 "series": [series_temp_1, series_temp_2]
             }
             dataArray.append(data_temp)

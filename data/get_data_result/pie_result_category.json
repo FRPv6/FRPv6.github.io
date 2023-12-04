@@ -5,608 +5,138 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-18455.0",
-            "value": 0.5989160771078081
+            "name": "Computer and Information Technology-18806.0",
+            "value": 0.5958053478646559
           },
           {
-            "name": "Media, Publishing, and Broadcasting-9606.0",
-            "value": 0.3117414162393717
+            "name": "Media, Publishing, and Broadcasting-9917.0",
+            "value": 0.3141870485363072
           },
           {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1889.0",
-            "value": 0.0613033036931265
-          },
-          {
-            "name": "None-357.0",
-            "value": 0.0115856428895956
-          },
-          {
-            "name": "Service-178.0",
-            "value": 0.0057765950541961
-          },
-          {
-            "name": "Education and Research-87.0",
-            "value": 0.0028233919646913
-          },
-          {
-            "name": "Government and Public Administration-45.0",
-            "value": 0.001703190643806
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015896446008856
-          },
-          {
-            "name": "Other-40.0",
-            "value": 0.0012981112481339
-          },
-          {
-            "name": "Others",
-            "value": 0.0009236992855480297
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004806",
-            "value": 0.6775207845246184
-          },
-          {
-            "name": "Computer and Information Technology-309.553511",
-            "value": 0.2088923642314418
-          },
-          {
-            "name": "None-103.020381",
-            "value": 0.0695200351034426
-          },
-          {
-            "name": "Education and Research-35.014915",
-            "value": 0.0236287043040935
-          },
-          {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0121467389512226
-          },
-          {
-            "name": "Construction and Real Estate-4.104553000000001",
-            "value": 0.0027698273475026
-          },
-          {
-            "name": "Manufacturing-3.00003",
-            "value": 0.0021527941683556
-          },
-          {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013496675781901
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1763839999999997",
-            "value": 0.0007938454137063
-          },
-          {
-            "name": "Others",
-            "value": 0.0033687513693227977
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18495.0",
-            "value": 0.5994943437814009
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9598.0",
-            "value": 0.3111082298790963
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1893.0",
-            "value": 0.0613594372953875
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1976.0",
+            "value": 0.0626029654036243
           },
           {
             "name": "None-357.0",
-            "value": 0.0115717480794787
+            "value": 0.0113103535673552
           },
           {
-            "name": "Service-177.0",
-            "value": 0.0057372532494894
-          },
-          {
-            "name": "Education and Research-87.0",
-            "value": 0.0028200058344948
-          },
-          {
-            "name": "Government and Public Administration-45.0",
-            "value": 0.0017009374055034
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015875415784699
-          },
-          {
-            "name": "Manufacturing-6.0",
-            "value": 0.0013651877133105
-          },
-          {
-            "name": "Others",
-            "value": 0.0032553151833685234
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004806",
-            "value": 0.6775191161501495
-          },
-          {
-            "name": "Computer and Information Technology-308.55716",
-            "value": 0.208219495639546
-          },
-          {
-            "name": "None-103.020381",
-            "value": 0.0695198639124558
-          },
-          {
-            "name": "Education and Research-35.014915",
-            "value": 0.0236286461191228
-          },
-          {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0121467090402448
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028683187603118
-          },
-          {
-            "name": "Construction and Real Estate-4.104553000000001",
-            "value": 0.0027698205268864
-          },
-          {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013496642546745
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1763839999999997",
-            "value": 0.0007938434588859
-          },
-          {
-            "name": "Others",
-            "value": 0.006097850378169234
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18835.0",
-            "value": 0.6034537998205818
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9443.0",
-            "value": 0.3025438933743432
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1899.0",
-            "value": 0.0608419838523644
-          },
-          {
-            "name": "None-397.0",
-            "value": 0.012719466871716
-          },
-          {
-            "name": "Service-220.0",
-            "value": 0.0070485710624118
-          },
-          {
-            "name": "Education and Research-106.0",
-            "value": 0.0033961296937075
-          },
-          {
-            "name": "Construction and Real Estate-62.0",
-            "value": 0.0019864154812251
-          },
-          {
-            "name": "Government and Public Administration-46.0",
-            "value": 0.0014737921312315
-          },
-          {
-            "name": "Other-46.0",
-            "value": 0.0014737921312315
-          },
-          {
-            "name": "Others",
-            "value": 0.002146610278098815
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-2022.76644",
-            "value": 0.5508078814999063
-          },
-          {
-            "name": "Service-1154.0677170000006",
-            "value": 0.3142575345022056
-          },
-          {
-            "name": "None-173.36460199999996",
-            "value": 0.0472079164783327
-          },
-          {
-            "name": "Education and Research-55.019477",
-            "value": 0.0149820369610259
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-50.62206",
-            "value": 0.0137846016595772
-          },
-          {
-            "name": "Construction and Real Estate-38.19139",
-            "value": 0.010399677491899
-          },
-          {
-            "name": "Finance and Insurance-36.000015",
-            "value": 0.0098029567843308
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-32.004075",
-            "value": 0.0087148453729112
-          },
-          {
-            "name": "Manufacturing-25.250365",
-            "value": 0.0068757814929683
-          },
-          {
-            "name": "Others",
-            "value": 0.0231667677568429
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18597.0",
-            "value": 0.5996710950599767
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9662.0",
-            "value": 0.3115568167161099
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1889.0",
-            "value": 0.0609119050690055
-          },
-          {
-            "name": "None-358.0",
-            "value": 0.0115439184831678
-          },
-          {
-            "name": "Service-178.0",
-            "value": 0.0057397136592286
-          },
-          {
-            "name": "Education and Research-87.0",
-            "value": 0.0028053656649039
-          },
-          {
-            "name": "Government and Public Administration-45.0",
-            "value": 0.0016908394078304
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015781167806417
-          },
-          {
-            "name": "Manufacturing-6.0",
-            "value": 0.0013642564802182
-          },
-          {
-            "name": "Others",
-            "value": 0.0031379726789172446
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004806",
-            "value": 0.6784633582795253
-          },
-          {
-            "name": "Computer and Information Technology-306.557282",
-            "value": 0.2071582544304708
-          },
-          {
-            "name": "None-103.957881",
-            "value": 0.070250274342694
-          },
-          {
-            "name": "Education and Research-35.014915",
-            "value": 0.0236615767960498
-          },
-          {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0121636376170711
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028725669999883
-          },
-          {
-            "name": "Construction and Real Estate-3.104553",
-            "value": 0.0020979236770075
-          },
-          {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013515452493496
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1763839999999997",
-            "value": 0.0007949498194596
-          },
-          {
-            "name": "Others",
-            "value": 0.005430331534200805
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18498.0",
-            "value": 0.5985826618774877
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9660.0",
-            "value": 0.3125910105814969
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1890.0",
-            "value": 0.061159110765945
-          },
-          {
-            "name": "None-351.0",
-            "value": 0.0113581205708183
-          },
-          {
-            "name": "Service-177.0",
-            "value": 0.0057275992622075
-          },
-          {
-            "name": "Education and Research-87.0",
-            "value": 0.0028152606543054
-          },
-          {
-            "name": "Government and Public Administration-45.0",
-            "value": 0.0016980491302215
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015848458548734
-          },
-          {
-            "name": "Manufacturing-6.0",
-            "value": 0.0013630168105406
-          },
-          {
-            "name": "Others",
-            "value": 0.0031203244921038653
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004806",
-            "value": 0.6798396314378333
-          },
-          {
-            "name": "Computer and Information Technology-305.561551",
-            "value": 0.2069042408681584
-          },
-          {
-            "name": "None-101.95786200000002",
-            "value": 0.0690385094872439
-          },
-          {
-            "name": "Education and Research-35.014915",
-            "value": 0.0237095746615649
-          },
-          {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0121883117394912
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028829102735729
-          },
-          {
-            "name": "Construction and Real Estate-3.104553",
-            "value": 0.0021021793468379
-          },
-          {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013542868792788
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1763849999999996",
-            "value": 0.0007965630642897
-          },
-          {
-            "name": "Others",
-            "value": 0.005436821532135427
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18562.0",
-            "value": 0.5997221414493877
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9640.0",
-            "value": 0.311460049756066
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1890.0",
-            "value": 0.0610642628671125
-          },
-          {
-            "name": "None-352.0",
-            "value": 0.0113728150948273
-          },
-          {
-            "name": "Service-178.0",
-            "value": 0.0057510258149979
-          },
-          {
-            "name": "Education and Research-87.0",
-            "value": 0.0028108946399147
-          },
-          {
-            "name": "Government and Public Administration-45.0",
-            "value": 0.0016957455627991
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015826958586125
-          },
-          {
-            "name": "Manufacturing-6.0",
-            "value": 0.0013593112822836
-          },
-          {
-            "name": "Others",
-            "value": 0.0031810576739986773
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004821",
-            "value": 0.6788898018570027
-          },
-          {
-            "name": "Computer and Information Technology-307.565275",
-            "value": 0.2079700457960694
-          },
-          {
-            "name": "None-102.02036200000002",
-            "value": 0.0689843135161197
-          },
-          {
-            "name": "Education and Research-35.014915",
-            "value": 0.0236764487671616
-          },
-          {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0121712828077875
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028744856875378
-          },
-          {
-            "name": "Construction and Real Estate-3.104553",
-            "value": 0.0020992422814517
-          },
-          {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013523947338146
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1763839999999997",
-            "value": 0.0007954494679341
-          },
-          {
-            "name": "Others",
-            "value": 0.0054336215683215006
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-18930.0",
-            "value": 0.5966903073286052
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9956.0",
-            "value": 0.3138219070133963
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1977.0",
-            "value": 0.0623167848699763
-          },
-          {
-            "name": "None-356.0",
-            "value": 0.0112214342001576
-          },
-          {
-            "name": "Service-179.0",
-            "value": 0.0056422379826635
+            "name": "Service-180.0",
+            "value": 0.005702699277658
           },
           {
             "name": "Education and Research-88.0",
-            "value": 0.0027738376674546
+            "value": 0.0027879863135217
           },
           {
             "name": "Government and Public Administration-45.0",
-            "value": 0.0016546550963376
+            "value": 0.0016645705408004
           },
           {
             "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
-            "value": 0.0015443447565818
+            "value": 0.0015535991714137
           },
           {
             "name": "Manufacturing-6.0",
-            "value": 0.0013247957606535
+            "value": 0.0013245033112582
           },
           {
             "name": "Others",
-            "value": 0.0030096953241736113
+            "value": 0.0030609260134053518
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.0048519999998",
+            "value": 0.6815368525103949
+          },
+          {
+            "name": "Computer and Information Technology-301.567432",
+            "value": 0.2047094872255881
+          },
+          {
+            "name": "None-101.27428300000004",
+            "value": 0.0687468351757198
+          },
+          {
+            "name": "Education and Research-36.014915",
+            "value": 0.0244475828614117
+          },
+          {
+            "name": "Finance and Insurance-18.000015",
+            "value": 0.0122187393256142
+          },
+          {
+            "name": "Manufacturing-4.000030000000001",
+            "value": 0.0028884927236272
+          },
+          {
+            "name": "Construction and Real Estate-3.104553",
+            "value": 0.0021074273454524
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.0013576677971233
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-1.1763849999999996",
+            "value": 0.0007985516490715
+          },
+          {
+            "name": "Others",
+            "value": 0.005452010177644073
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-18671.0",
+            "value": 0.5942582513765556
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9910.0",
+            "value": 0.3154142397912091
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1977.0",
+            "value": 0.0629237085839778
+          },
+          {
+            "name": "None-356.0",
+            "value": 0.0113307234475954
+          },
+          {
+            "name": "Service-179.0",
+            "value": 0.0056971895986504
+          },
+          {
+            "name": "Education and Research-88.0",
+            "value": 0.002800852987046
+          },
+          {
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016727380863876
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
+            "value": 0.0015612222139617
+          },
+          {
+            "name": "Other-38.0",
+            "value": 0.0012094592444062
+          },
+          {
+            "name": "Others",
+            "value": 0.0011002676731850514
           }
         ],
         "name": "category_ratio"
@@ -616,43 +146,43 @@
         "data": [
           {
             "name": "Service-1004.004836",
-            "value": 0.6834215765603724
+            "value": 0.6829277845317799
           },
           {
-            "name": "Computer and Information Technology-297.567295",
-            "value": 0.2025527194589184
+            "name": "Computer and Information Technology-300.567051",
+            "value": 0.2044468142807636
           },
           {
-            "name": "None-101.211799",
-            "value": 0.0688944164000934
+            "name": "None-101.274268",
+            "value": 0.0688871298178864
           },
           {
             "name": "Education and Research-36.014915",
-            "value": 0.0245151906708423
+            "value": 0.0244974777303267
           },
           {
             "name": "Finance and Insurance-18.000015",
-            "value": 0.0122525292591422
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028948945185425
+            "value": 0.0122436764492724
           },
           {
             "name": "Construction and Real Estate-3.104553",
-            "value": 0.0021132552650127
+            "value": 0.0021117283764273
+          },
+          {
+            "name": "Manufacturing-2.00003",
+            "value": 0.0014463462335037
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.0013614223174053
+            "value": 0.00136043865006
           },
           {
             "name": "Media, Publishing, and Broadcasting-1.1763849999999996",
-            "value": 0.0008007599789509
+            "value": 0.0008001814065031
           },
           {
             "name": "Others",
-            "value": 0.005468673132088764
+            "value": 0.0034390425800400193
           }
         ],
         "name": "sat_category_ratio"
@@ -663,44 +193,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-3857",
-            "value": 0.878008
+            "name": "Computer and Information Technology-18645.0",
+            "value": 0.5942250693182904
           },
           {
-            "name": "None-283",
-            "value": 0.064424
+            "name": "Media, Publishing, and Broadcasting-9897.0",
+            "value": 0.3154221244860885
           },
           {
-            "name": "Service-133",
-            "value": 0.030277
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1975.0",
+            "value": 0.0629441947923638
           },
           {
-            "name": "Construction and Real Estate-29",
-            "value": 0.006602
+            "name": "None-355.0",
+            "value": 0.0113140198234375
           },
           {
-            "name": "Education and Research-22",
-            "value": 0.00501
+            "name": "Service-179.0",
+            "value": 0.0057048156292825
           },
           {
-            "name": "Finance and Insurance-19",
-            "value": 0.004325
+            "name": "Education and Research-88.0",
+            "value": 0.0028046020970774
           },
           {
-            "name": "Media, Publishing, and Broadcasting-19",
-            "value": 0.004325
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016751042287075
           },
           {
-            "name": "Other-11",
-            "value": 0.002504
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
+            "value": 0.0015634306134603
           },
           {
-            "name": "Manufacturing-5",
-            "value": 0.001139
+            "name": "Other-38.0",
+            "value": 0.0012110781782834
           },
           {
             "name": "Others",
-            "value": 0.004525000000000001
+            "value": 0.0008803131306440726
           }
         ],
         "name": "category_ratio"
@@ -709,44 +239,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Service-1004.004791",
-            "value": 0.7204649999999999
+            "name": "Service-1004.004836",
+            "value": 0.6829857493736031
           },
           {
-            "name": "Computer and Information Technology-265.22978",
-            "value": 0.190334
+            "name": "Computer and Information Technology-299.567263",
+            "value": 0.2037840499085547
           },
           {
-            "name": "None-91.02032300000002",
-            "value": 0.065317
+            "name": "None-101.14928300000004",
+            "value": 0.0688079542759868
+          },
+          {
+            "name": "Education and Research-36.014915",
+            "value": 0.0244995570020358
           },
           {
             "name": "Finance and Insurance-18.000015",
-            "value": 0.012917
-          },
-          {
-            "name": "Education and Research-5.014907",
-            "value": 0.0036
+            "value": 0.0122447156554444
           },
           {
             "name": "Manufacturing-3.00003",
-            "value": 0.002153
+            "value": 0.0021697046579249
           },
           {
-            "name": "Construction and Real Estate-2.104553000000001",
-            "value": 0.00151
+            "name": "Construction and Real Estate-3.104553",
+            "value": 0.0021119076135357
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001435
+            "value": 0.001360554119972
           },
           {
-            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
-            "value": 0.000841
+            "name": "Media, Publishing, and Broadcasting-1.1763849999999996",
+            "value": 0.0008002493234772
           },
           {
             "name": "Others",
-            "value": 0.0007100000000000994
+            "value": 0.005508269126450305
           }
         ],
         "name": "sat_category_ratio"
@@ -757,44 +287,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-3858",
-            "value": 0.877847
+            "name": "Computer and Information Technology-18735.0",
+            "value": 0.5956127801621364
           },
           {
-            "name": "None-283",
-            "value": 0.064398
+            "name": "Media, Publishing, and Broadcasting-9885.0",
+            "value": 0.3142584644730567
           },
           {
-            "name": "Service-133",
-            "value": 0.030265
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1975.0",
+            "value": 0.0627881099984104
           },
           {
-            "name": "Construction and Real Estate-29",
-            "value": 0.0065989999999999
+            "name": "None-352.0",
+            "value": 0.0111905897313622
           },
           {
-            "name": "Education and Research-22",
-            "value": 0.0050089999999999
+            "name": "Service-179.0",
+            "value": 0.0056906692099825
           },
           {
-            "name": "Finance and Insurance-19",
-            "value": 0.004324
+            "name": "Education and Research-88.0",
+            "value": 0.0027976474328405
           },
           {
-            "name": "Media, Publishing, and Broadcasting-19",
-            "value": 0.004324
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016703166177944
           },
           {
-            "name": "Other-11",
-            "value": 0.002503
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
+            "value": 0.0015589621766081
           },
           {
-            "name": "Manufacturing-6",
-            "value": 0.001367
+            "name": "Manufacturing-6.0",
+            "value": 0.0013291980505095
           },
           {
             "name": "Others",
-            "value": 0.004731000000000152
+            "value": 0.0031032621472992794
           }
         ],
         "name": "category_ratio"
@@ -803,44 +333,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Service-1004.004791",
-            "value": 0.7199460000000001
+            "name": "Service-1004.004821",
+            "value": 0.6825487535296055
           },
           {
-            "name": "Computer and Information Technology-265.23367",
-            "value": 0.190183
+            "name": "Computer and Information Technology-300.567264",
+            "value": 0.2043334923339017
           },
           {
-            "name": "None-91.02032300000002",
-            "value": 0.065269
+            "name": "None-100.08653900000002",
+            "value": 0.0680414486172494
+          },
+          {
+            "name": "Education and Research-36.014915",
+            "value": 0.0244838817778193
           },
           {
             "name": "Finance and Insurance-18.000015",
-            "value": 0.012907
-          },
-          {
-            "name": "Education and Research-5.014907",
-            "value": 0.003596
+            "value": 0.012236881282629
           },
           {
             "name": "Manufacturing-4.000030000000001",
-            "value": 0.002868
+            "value": 0.0028888765799188
           },
           {
-            "name": "Construction and Real Estate-2.104553000000001",
-            "value": 0.001509
+            "name": "Construction and Real Estate-3.104553",
+            "value": 0.0021105563799046
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001434
+            "value": 0.0013596836148079
           },
           {
-            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
-            "value": 0.000841
+            "name": "Media, Publishing, and Broadcasting-1.1763849999999996",
+            "value": 0.0007997373106447
           },
           {
             "name": "Others",
-            "value": 0.0007299999999998974
+            "value": 0.005466665878876231
           }
         ],
         "name": "sat_category_ratio"
@@ -851,44 +381,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-4356",
-            "value": 0.852986
+            "name": "Computer and Information Technology-18622.0",
+            "value": 0.5952753891890163
           },
           {
-            "name": "None-322",
-            "value": 0.06306
+            "name": "Media, Publishing, and Broadcasting-9828.0",
+            "value": 0.3141642425598568
           },
           {
-            "name": "Service-176",
-            "value": 0.034465
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1976.0",
+            "value": 0.0631652974458971
           },
           {
-            "name": "Media, Publishing, and Broadcasting-56",
-            "value": 0.010968
+            "name": "None-352.0",
+            "value": 0.0112521177636415
           },
           {
-            "name": "Construction and Real Estate-54",
-            "value": 0.0105759999999999
+            "name": "Service-178.0",
+            "value": 0.0056899913691142
           },
           {
-            "name": "Education and Research-41",
-            "value": 0.0080299999999999
+            "name": "Education and Research-88.0",
+            "value": 0.0028130294409103
           },
           {
-            "name": "Manufacturing-23",
-            "value": 0.004506
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016813002054922
           },
           {
-            "name": "Finance and Insurance-22",
-            "value": 0.004309
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42.0",
+            "value": 0.001569213525126
           },
           {
-            "name": "Other-17",
-            "value": 0.003329
+            "name": "Other-38.0",
+            "value": 0.0012147172585749
           },
           {
             "name": "Others",
-            "value": 0.0013070000000003912
+            "value": -0.0006911970632825781
           }
         ],
         "name": "category_ratio"
@@ -897,138 +427,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-1984.442767",
-            "value": 0.5528010000000001
+            "name": "Service-1004.004821",
+            "value": 0.6825505241051704
           },
           {
-            "name": "Service-1154.0677020000005",
-            "value": 0.321467
+            "name": "Computer and Information Technology-304.563205",
+            "value": 0.2070505747062547
           },
           {
-            "name": "None-161.36454399999997",
-            "value": 0.044948
+            "name": "None-97.08678200000004",
+            "value": 0.0660023065146063
           },
           {
-            "name": "Media, Publishing, and Broadcasting-50.617843",
-            "value": 0.014099
-          },
-          {
-            "name": "Construction and Real Estate-36.19139",
-            "value": 0.010082
-          },
-          {
-            "name": "Finance and Insurance-36.000015",
-            "value": 0.010029
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-32.004074",
-            "value": 0.008915
-          },
-          {
-            "name": "Manufacturing-25.250365",
-            "value": 0.007035
-          },
-          {
-            "name": "Education and Research-25.019469",
-            "value": 0.00697
-          },
-          {
-            "name": "Others",
-            "value": 0.01863899999999996
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-3862",
-            "value": 0.8781100000000002
-          },
-          {
-            "name": "None-283",
-            "value": 0.064343
-          },
-          {
-            "name": "Service-133",
-            "value": 0.030238
-          },
-          {
-            "name": "Construction and Real Estate-28",
-            "value": 0.006365
-          },
-          {
-            "name": "Education and Research-22",
-            "value": 0.005
-          },
-          {
-            "name": "Finance and Insurance-19",
-            "value": 0.0043199999999999
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-19",
-            "value": 0.0043199999999999
-          },
-          {
-            "name": "Other-11",
-            "value": 0.002501
-          },
-          {
-            "name": "Manufacturing-6",
-            "value": 0.0013629999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.004802999999999891
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Service-1004.004791",
-            "value": 0.721012
-          },
-          {
-            "name": "Computer and Information Technology-263.233762",
-            "value": 0.189029
-          },
-          {
-            "name": "None-91.95782300000002",
-            "value": 0.066038
+            "name": "Education and Research-36.014915",
+            "value": 0.0244839452905905
           },
           {
             "name": "Finance and Insurance-18.000015",
-            "value": 0.012926
+            "value": 0.0122369130258896
           },
           {
-            "name": "Education and Research-5.014907",
-            "value": 0.003601
+            "name": "Media, Publishing, and Broadcasting-3.176385",
+            "value": 0.002159395255045
           },
           {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.002872
+            "name": "Construction and Real Estate-3.104553",
+            "value": 0.0021105618548242
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001436
+            "value": 0.001359687141915
           },
           {
-            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
-            "value": 0.000842
-          },
-          {
-            "name": "Construction and Real Estate-1.104553",
-            "value": 0.000793
+            "name": "Travel and Accommodation-1.0",
+            "value": 0.0007237837745054
           },
           {
             "name": "Others",
-            "value": 0.0007329999999999837
+            "value": -3.7752716080197146e-05
           }
         ],
         "name": "sat_category_ratio"
@@ -1039,44 +475,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-3870",
-            "value": 0.8791389999999999
+            "name": "Computer and Information Technology-18855.0",
+            "value": 0.5990088000762461
           },
           {
-            "name": "None-280",
-            "value": 0.063603
+            "name": "Media, Publishing, and Broadcasting-9669.0",
+            "value": 0.3071766686787178
           },
           {
-            "name": "Service-133",
-            "value": 0.030214
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1986.0",
+            "value": 0.0630936874543317
           },
           {
-            "name": "Construction and Real Estate-28",
-            "value": 0.006361
+            "name": "None-384.0",
+            "value": 0.0121993836769704
           },
           {
-            "name": "Education and Research-22",
-            "value": 0.004997
+            "name": "Service-205.0",
+            "value": 0.006512691806716
           },
           {
-            "name": "Media, Publishing, and Broadcasting-19",
-            "value": 0.004316
+            "name": "Education and Research-100.0",
+            "value": 0.0031769228325443
           },
           {
-            "name": "Finance and Insurance-19",
-            "value": 0.0043159999999999
+            "name": "Manufacturing-15.0",
+            "value": 0.0030072173215717
           },
           {
-            "name": "Other-11",
-            "value": 0.002498
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016988183774396
           },
           {
-            "name": "Manufacturing-6",
-            "value": 0.0013629999999999
+            "name": "Construction and Real Estate-53.0",
+            "value": 0.0016837691012485
           },
           {
             "name": "Others",
-            "value": 0.0045560000000002265
+            "value": 0.005824628152901856
           }
         ],
         "name": "category_ratio"
@@ -1085,44 +521,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Service-1004.004791",
-            "value": 0.7236079999999999
+            "name": "Computer and Information Technology-1175.804751",
+            "value": 0.4438540386310115
           },
           {
-            "name": "Computer and Information Technology-260.23782",
-            "value": 0.187559
+            "name": "Service-1100.0051260000005",
+            "value": 0.4152404702180991
           },
           {
-            "name": "None-89.95780800000001",
-            "value": 0.064836
+            "name": "None-196.310094",
+            "value": 0.0741050144352865
           },
           {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.012972
+            "name": "Education and Research-38.019416",
+            "value": 0.0143519332811341
           },
           {
-            "name": "Education and Research-5.014907",
-            "value": 0.0036149999999999
+            "name": "Construction and Real Estate-37.179138",
+            "value": 0.0140347370939647
           },
           {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.0028829999999999
+            "name": "Finance and Insurance-36.00003",
+            "value": 0.0135896361132645
           },
           {
-            "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001441
+            "name": "Media, Publishing, and Broadcasting-35.430654999999994",
+            "value": 0.0133747029850979
           },
           {
-            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
-            "value": 0.0008449999999999
+            "name": "Manufacturing-24.187774",
+            "value": 0.0094271851007952
           },
           {
-            "name": "Construction and Real Estate-1.104553",
-            "value": 0.0007959999999999
+            "name": "Freight, Shipment, and Postal Services-2.0039520000000004",
+            "value": 0.000756470993731
           },
           {
             "name": "Others",
-            "value": 0.000724000000000502
+            "value": 0.0020222821413464764
           }
         ],
         "name": "sat_category_ratio"
@@ -1133,44 +569,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-3880",
-            "value": 0.8790479999999998
+            "name": "Computer and Information Technology-18659.0",
+            "value": 0.5962484821371509
           },
           {
-            "name": "None-281",
-            "value": 0.063667
+            "name": "Media, Publishing, and Broadcasting-9801.0",
+            "value": 0.3131910270339362
           },
           {
-            "name": "Service-134",
-            "value": 0.030361
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1978.0",
+            "value": 0.063207004537611
           },
           {
-            "name": "Construction and Real Estate-28",
-            "value": 0.006345
+            "name": "None-348.0",
+            "value": 0.0111203425576787
           },
           {
-            "name": "Education and Research-22",
-            "value": 0.004987
+            "name": "Service-178.0",
+            "value": 0.005687991308238
           },
           {
-            "name": "Media, Publishing, and Broadcasting-19",
-            "value": 0.004306
+            "name": "Education and Research-88.0",
+            "value": 0.0028120406467693
           },
           {
-            "name": "Finance and Insurance-19",
-            "value": 0.004305
+            "name": "Government and Public Administration-45.0",
+            "value": 0.0016809233872473
           },
           {
-            "name": "Other-11",
-            "value": 0.002492
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-41.0",
+            "value": 0.0015315079750476
           },
           {
-            "name": "Manufacturing-6",
-            "value": 0.001361
+            "name": "Manufacturing-6.0",
+            "value": 0.001326553172673
           },
           {
             "name": "Others",
-            "value": 0.004489000000000076
+            "value": 0.0031941272436479817
           }
         ],
         "name": "category_ratio"
@@ -1179,44 +615,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Service-1004.004806",
-            "value": 0.721494
+            "name": "Service-1004.004821",
+            "value": 0.680704878708365
           },
           {
-            "name": "Computer and Information Technology-264.241803",
-            "value": 0.189894
+            "name": "Computer and Information Technology-306.559327",
+            "value": 0.2078440512811571
           },
           {
-            "name": "None-90.02030800000001",
-            "value": 0.064691
+            "name": "None-97.07897000000004",
+            "value": 0.0658185370396573
           },
           {
-            "name": "Finance and Insurance-18.000015",
-            "value": 0.0129349999999999
+            "name": "Education and Research-36.014915",
+            "value": 0.0244177396701634
           },
           {
-            "name": "Education and Research-5.014907",
-            "value": 0.0036049999999999
+            "name": "Finance and Insurance-18.000030000000002",
+            "value": 0.0122038340669451
           },
           {
             "name": "Manufacturing-4.000030000000001",
-            "value": 0.002875
+            "value": 0.002882662651422
+          },
+          {
+            "name": "Construction and Real Estate-3.104553",
+            "value": 0.0021048548065773
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-2.176384",
+            "value": 0.001475565829721
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001437
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
-            "value": 0.000842
-          },
-          {
-            "name": "Construction and Real Estate-1.104553",
-            "value": 0.000794
+            "value": 0.0013560104905523
           },
           {
             "name": "Others",
-            "value": 0.0007140000000003255
+            "value": 0.0061282965822899715
           }
         ],
         "name": "sat_category_ratio"
@@ -1228,15 +664,15 @@
         "data": [
           {
             "name": "Computer and Information Technology-3988",
-            "value": 0.880564
+            "value": 0.880378
           },
           {
             "name": "None-285",
-            "value": 0.0629339999999999
+            "value": 0.0629219999999999
           },
           {
-            "name": "Service-135",
-            "value": 0.0298099999999999
+            "name": "Service-136",
+            "value": 0.0300249999999999
           },
           {
             "name": "Construction and Real Estate-28",
@@ -1264,7 +700,101 @@
           },
           {
             "name": "Others",
-            "value": 0.004610000000000114
+            "value": 0.00459300000000018
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.0048369999998",
+            "value": 0.725009
+          },
+          {
+            "name": "Computer and Information Technology-257.243694",
+            "value": 0.18575
+          },
+          {
+            "name": "None-89.27032300000002",
+            "value": 0.064464
+          },
+          {
+            "name": "Finance and Insurance-18.000015",
+            "value": 0.012998
+          },
+          {
+            "name": "Education and Research-6.014907",
+            "value": 0.004343
+          },
+          {
+            "name": "Manufacturing-4.000030000000001",
+            "value": 0.002888
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.001444
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
+            "value": 0.000846
+          },
+          {
+            "name": "Construction and Real Estate-1.104553",
+            "value": 0.000797
+          },
+          {
+            "name": "Others",
+            "value": 0.0007389999999999342
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-3979",
+            "value": 0.8808760000000001
+          },
+          {
+            "name": "None-284",
+            "value": 0.062869
+          },
+          {
+            "name": "Service-135",
+            "value": 0.0298839999999999
+          },
+          {
+            "name": "Construction and Real Estate-28",
+            "value": 0.0061969999999999
+          },
+          {
+            "name": "Education and Research-23",
+            "value": 0.005089
+          },
+          {
+            "name": "Finance and Insurance-19",
+            "value": 0.004206
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-19",
+            "value": 0.004206
+          },
+          {
+            "name": "Other-11",
+            "value": 0.0024349999999999
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-5",
+            "value": 0.001107
+          },
+          {
+            "name": "Others",
+            "value": 0.004238000000000186
           }
         ],
         "name": "category_ratio"
@@ -1274,31 +804,31 @@
         "data": [
           {
             "name": "Service-1004.004821",
-            "value": 0.726616
+            "value": 0.7260580000000001
           },
           {
-            "name": "Computer and Information Technology-254.243801",
-            "value": 0.183999
+            "name": "Computer and Information Technology-257.243558",
+            "value": 0.186018
           },
           {
-            "name": "None-89.20783900000002",
-            "value": 0.064563
+            "name": "None-89.27030800000001",
+            "value": 0.064555
           },
           {
             "name": "Finance and Insurance-18.000015",
-            "value": 0.013026
+            "value": 0.013016
           },
           {
             "name": "Education and Research-6.014907",
-            "value": 0.0043539999999999
-          },
-          {
-            "name": "Manufacturing-4.000030000000001",
-            "value": 0.002895
+            "value": 0.004349
           },
           {
             "name": "Freight, Shipment, and Postal Services-2.000046",
-            "value": 0.001447
+            "value": 0.001446
+          },
+          {
+            "name": "Manufacturing-2.00003",
+            "value": 0.001446
           },
           {
             "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
@@ -1306,11 +836,293 @@
           },
           {
             "name": "Construction and Real Estate-1.104553",
+            "value": 0.000798
+          },
+          {
+            "name": "Others",
+            "value": 0.0007429999999998271
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-3975",
+            "value": 0.8808110000000002
+          },
+          {
+            "name": "None-283",
+            "value": 0.062712
+          },
+          {
+            "name": "Service-135",
+            "value": 0.0299159999999999
+          },
+          {
+            "name": "Construction and Real Estate-28",
+            "value": 0.006205
+          },
+          {
+            "name": "Education and Research-23",
+            "value": 0.0050999999999999
+          },
+          {
+            "name": "Finance and Insurance-19",
+            "value": 0.0042109999999999
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-19",
+            "value": 0.0042109999999999
+          },
+          {
+            "name": "Other-11",
+            "value": 0.002437
+          },
+          {
+            "name": "Manufacturing-5",
+            "value": 0.001109
+          },
+          {
+            "name": "Others",
+            "value": 0.004397000000000095
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.004821",
+            "value": 0.7261240000000001
+          },
+          {
+            "name": "Computer and Information Technology-256.24352700000003",
+            "value": 0.185312
+          },
+          {
+            "name": "None-89.14532300000002",
+            "value": 0.064471
+          },
+          {
+            "name": "Finance and Insurance-18.000015",
+            "value": 0.013018
+          },
+          {
+            "name": "Education and Research-6.014907",
+            "value": 0.00435
+          },
+          {
+            "name": "Manufacturing-3.00003",
+            "value": 0.00217
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.001446
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
+            "value": 0.000848
+          },
+          {
+            "name": "Construction and Real Estate-1.104553",
+            "value": 0.000798
+          },
+          {
+            "name": "Others",
+            "value": 0.0007399999999998519
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-3977",
+            "value": 0.881069
+          },
+          {
+            "name": "None-281",
+            "value": 0.062259
+          },
+          {
+            "name": "Service-134",
+            "value": 0.029689
+          },
+          {
+            "name": "Construction and Real Estate-28",
+            "value": 0.006204
+          },
+          {
+            "name": "Education and Research-23",
+            "value": 0.005099
+          },
+          {
+            "name": "Finance and Insurance-19",
+            "value": 0.00421
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-19",
+            "value": 0.0042099999999999
+          },
+          {
+            "name": "Other-11",
+            "value": 0.002437
+          },
+          {
+            "name": "Manufacturing-6",
+            "value": 0.001331
+          },
+          {
+            "name": "Others",
+            "value": 0.004823000000000244
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.004806",
+            "value": 0.7251059999999999
+          },
+          {
+            "name": "Computer and Information Technology-257.243558",
+            "value": 0.185775
+          },
+          {
+            "name": "None-89.08257900000002",
+            "value": 0.064336
+          },
+          {
+            "name": "Finance and Insurance-18.000015",
+            "value": 0.013
+          },
+          {
+            "name": "Education and Research-6.014907",
+            "value": 0.004344
+          },
+          {
+            "name": "Manufacturing-4.000030000000001",
+            "value": 0.002889
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.001444
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-1.1721649999999997",
+            "value": 0.000846
+          },
+          {
+            "name": "Construction and Real Estate-1.104553",
+            "value": 0.000797
+          },
+          {
+            "name": "Others",
+            "value": 0.0007410000000001027
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-3985",
+            "value": 0.8820130000000002
+          },
+          {
+            "name": "None-278",
+            "value": 0.061528
+          },
+          {
+            "name": "Service-134",
+            "value": 0.029657
+          },
+          {
+            "name": "Construction and Real Estate-28",
+            "value": 0.0061969999999999
+          },
+          {
+            "name": "Education and Research-23",
+            "value": 0.005088
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-21",
+            "value": 0.0046479999999999
+          },
+          {
+            "name": "Finance and Insurance-19",
+            "value": 0.0042049999999999
+          },
+          {
+            "name": "Other-11",
+            "value": 0.0024349999999999
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-5",
+            "value": 0.001107
+          },
+          {
+            "name": "Others",
+            "value": 0.0006890000000001617
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.004806",
+            "value": 0.7266830000000001
+          },
+          {
+            "name": "Computer and Information Technology-259.239743",
+            "value": 0.187636
+          },
+          {
+            "name": "None-85.08282200000002",
+            "value": 0.061583
+          },
+          {
+            "name": "Finance and Insurance-18.000015",
+            "value": 0.013028
+          },
+          {
+            "name": "Education and Research-6.014907",
+            "value": 0.0043539999999999
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-3.172165",
+            "value": 0.002296
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.001448
+          },
+          {
+            "name": "Construction and Real Estate-1.104553",
             "value": 0.000799
           },
           {
+            "name": "Other-1.0001539999999998",
+            "value": 0.000724
+          },
+          {
             "name": "Others",
-            "value": 0.0007290000000000907
+            "value": 0.0007250000000000867
           }
         ],
         "name": "sat_category_ratio"
@@ -1321,44 +1133,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-14598",
-            "value": 0.5525420000000001
+            "name": "Computer and Information Technology-4300",
+            "value": 0.8619859999999999
           },
           {
-            "name": "Media, Publishing, and Broadcasting-9587",
-            "value": 0.362857
+            "name": "None-312",
+            "value": 0.062537
           },
           {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1884",
-            "value": 0.071308
+            "name": "Service-160",
+            "value": 0.0320699999999999
           },
           {
-            "name": "None-74",
-            "value": 0.002804
+            "name": "Media, Publishing, and Broadcasting-52",
+            "value": 0.010419
           },
           {
-            "name": "Education and Research-65",
-            "value": 0.00246
+            "name": "Construction and Real Estate-45",
+            "value": 0.009016
           },
           {
-            "name": "Service-45",
-            "value": 0.001704
+            "name": "Education and Research-35",
+            "value": 0.00701
           },
           {
-            "name": "Government and Public Administration-45",
-            "value": 0.0017029999999999
+            "name": "Finance and Insurance-23",
+            "value": 0.004608
           },
           {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.00159
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-16",
+            "value": 0.003204
           },
           {
-            "name": "Other-29",
-            "value": 0.001098
+            "name": "Manufacturing-15",
+            "value": 0.003003
           },
           {
             "name": "Others",
-            "value": 0.006324999999999803
+            "value": 0.009150000000000214
           }
         ],
         "name": "category_ratio"
@@ -1367,44 +1179,44 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-44.323731",
-            "value": 0.5018
+            "name": "Computer and Information Technology-1137.481094",
+            "value": 0.443355
           },
           {
-            "name": "Education and Research-30.000008",
-            "value": 0.33964
+            "name": "Service-1100.0051110000004",
+            "value": 0.4287269999999999
           },
           {
-            "name": "None-12.000058",
-            "value": 0.135856
+            "name": "None-184.306134",
+            "value": 0.071838
           },
           {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.022643
+            "name": "Finance and Insurance-36.00003",
+            "value": 0.014032
           },
           {
-            "name": "Media, Publishing, and Broadcasting-0.004219",
-            "value": 4.8e-05
+            "name": "Media, Publishing, and Broadcasting-35.426435999999995",
+            "value": 0.013808
           },
           {
-            "name": "Other-0.000443",
-            "value": 5e-06
+            "name": "Construction and Real Estate-35.179138",
+            "value": 0.013712
           },
           {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
+            "name": "Manufacturing-24.187774",
+            "value": 0.009427
           },
           {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
+            "name": "Education and Research-8.019408",
+            "value": 0.003128
           },
           {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
+            "name": "Freight, Shipment, and Postal Services-2.0039520000000004",
+            "value": 0.000782
           },
           {
             "name": "Others",
-            "value": 6.000000000061512e-06
+            "value": 0.0007990000000002162
           }
         ],
         "name": "sat_category_ratio"
@@ -1415,514 +1227,138 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-14637",
-            "value": 0.553277
+            "name": "Computer and Information Technology-3989",
+            "value": 0.8819220000000003
           },
           {
-            "name": "Media, Publishing, and Broadcasting-9579",
-            "value": 0.362073
+            "name": "None-276",
+            "value": 0.0610199999999999
           },
           {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1888",
-            "value": 0.071365
+            "name": "Service-134",
+            "value": 0.029626
           },
           {
-            "name": "None-74",
-            "value": 0.0028009999999999
+            "name": "Construction and Real Estate-28",
+            "value": 0.00619
+          },
+          {
+            "name": "Education and Research-23",
+            "value": 0.0050839999999999
+          },
+          {
+            "name": "Finance and Insurance-20",
+            "value": 0.004421
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-20",
+            "value": 0.004421
+          },
+          {
+            "name": "Other-11",
+            "value": 0.002432
+          },
+          {
+            "name": "Manufacturing-6",
+            "value": 0.001326
+          },
+          {
+            "name": "Others",
+            "value": 0.0048839999999999995
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Service-1004.004806",
+            "value": 0.7235469999999998
+          },
+          {
+            "name": "Computer and Information Technology-263.235853",
+            "value": 0.1897069999999999
+          },
+          {
+            "name": "None-85.07501000000002",
+            "value": 0.061313
+          },
+          {
+            "name": "Finance and Insurance-18.000030000000002",
+            "value": 0.012972
+          },
+          {
+            "name": "Education and Research-6.014907",
+            "value": 0.004336
+          },
+          {
+            "name": "Manufacturing-4.000030000000001",
+            "value": 0.0028829999999999
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-2.172165",
+            "value": 0.001565
+          },
+          {
+            "name": "Freight, Shipment, and Postal Services-2.000046",
+            "value": 0.001441
+          },
+          {
+            "name": "Construction and Real Estate-1.104553",
+            "value": 0.0007959999999999
+          },
+          {
+            "name": "Others",
+            "value": 0.0007190000000003582
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14818",
+            "value": 0.5481410000000001
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9898",
+            "value": 0.366132
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1971",
+            "value": 0.0729079999999999
+          },
+          {
+            "name": "None-72",
+            "value": 0.002664
           },
           {
             "name": "Education and Research-65",
-            "value": 0.0024579999999999
+            "value": 0.002405
           },
           {
             "name": "Government and Public Administration-45",
-            "value": 0.0017
+            "value": 0.001665
           },
           {
             "name": "Service-44",
-            "value": 0.001664
+            "value": 0.0016279999999999
           },
           {
             "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001588
-          },
-          {
-            "name": "Other-29",
-            "value": 0.001096
-          },
-          {
-            "name": "Others",
-            "value": 0.004662000000000166
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-43.32349000000001",
-            "value": 0.4960949999999999
-          },
-          {
-            "name": "Education and Research-30.000008",
-            "value": 0.34353
-          },
-          {
-            "name": "None-12.000058",
-            "value": 0.1374119999999999
-          },
-          {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.022902
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-0.004219",
-            "value": 4.8e-05
-          },
-          {
-            "name": "Other-0.000443",
-            "value": 5e-06
-          },
-          {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.000000000283556e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-14479",
-            "value": 0.554625
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9387",
-            "value": 0.359587
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1885",
-            "value": 0.0722079999999999
-          },
-          {
-            "name": "None-75",
-            "value": 0.0028739999999999
-          },
-          {
-            "name": "Education and Research-65",
-            "value": 0.0024889999999999
-          },
-          {
-            "name": "Government and Public Administration-45",
-            "value": 0.001725
-          },
-          {
-            "name": "Service-44",
-            "value": 0.001684
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001609
-          },
-          {
-            "name": "Other-29",
-            "value": 0.001111
-          },
-          {
-            "name": "Others",
-            "value": 0.0048080000000002565
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-38.323673",
-            "value": 0.4654939999999999
-          },
-          {
-            "name": "Education and Research-30.000008",
-            "value": 0.364393
-          },
-          {
-            "name": "None-12.000058",
-            "value": 0.145756
-          },
-          {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.024293
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-0.004217",
-            "value": 5.1e-05
-          },
-          {
-            "name": "Other-0.000443",
-            "value": 5e-06
-          },
-          {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.000000000061512e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-14735",
-            "value": 0.553683
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9643",
-            "value": 0.362328
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1884",
-            "value": 0.0707909999999999
-          },
-          {
-            "name": "None-75",
-            "value": 0.002819
-          },
-          {
-            "name": "Education and Research-65",
-            "value": 0.0024429999999999
-          },
-          {
-            "name": "Service-45",
-            "value": 0.001693
-          },
-          {
-            "name": "Government and Public Administration-45",
-            "value": 0.001691
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001578
-          },
-          {
-            "name": "Other-28",
-            "value": 0.001052
-          },
-          {
-            "name": "Others",
-            "value": 0.006243000000000221
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-43.32352",
-            "value": 0.4960949999999999
-          },
-          {
-            "name": "Education and Research-30.000008",
-            "value": 0.34353
-          },
-          {
-            "name": "None-12.000058",
-            "value": 0.1374119999999999
-          },
-          {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.022902
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-0.004219",
-            "value": 4.8e-05
-          },
-          {
-            "name": "Other-0.000427",
-            "value": 5e-06
-          },
-          {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.000000000283556e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-14628",
-            "value": 0.5519879999999999
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9641",
-            "value": 0.363798
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1886",
-            "value": 0.071167
-          },
-          {
-            "name": "None-71",
-            "value": 0.002678
-          },
-          {
-            "name": "Education and Research-65",
-            "value": 0.002453
-          },
-          {
-            "name": "Government and Public Administration-45",
-            "value": 0.001699
-          },
-          {
-            "name": "Service-44",
-            "value": 0.001661
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001585
-          },
-          {
-            "name": "Other-28",
-            "value": 0.001057
-          },
-          {
-            "name": "Others",
-            "value": 0.0045560000000000045
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-45.323731",
-            "value": 0.507377
-          },
-          {
-            "name": "Education and Research-30.000008",
-            "value": 0.335838
-          },
-          {
-            "name": "None-12.000054",
-            "value": 0.134336
-          },
-          {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.022389
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-0.00422",
-            "value": 4.7e-05
-          },
-          {
-            "name": "Other-0.000427",
-            "value": 5e-06
-          },
-          {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 5.999999999950489e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-14682",
-            "value": 0.5532850000000001
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9621",
-            "value": 0.3625499999999999
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1886",
-            "value": 0.071071
-          },
-          {
-            "name": "None-71",
-            "value": 0.002675
-          },
-          {
-            "name": "Education and Research-65",
-            "value": 0.00245
-          },
-          {
-            "name": "Government and Public Administration-45",
-            "value": 0.001695
-          },
-          {
-            "name": "Service-44",
-            "value": 0.001659
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001583
-          },
-          {
-            "name": "Other-28",
-            "value": 0.001055
-          },
-          {
-            "name": "Others",
-            "value": 0.004615000000000147
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-43.323472",
-            "value": 0.4960949999999999
-          },
-          {
-            "name": "Education and Research-30.000008",
-            "value": 0.343531
-          },
-          {
-            "name": "None-12.000054",
-            "value": 0.1374119999999999
-          },
-          {
-            "name": "Construction and Real Estate-2.0",
-            "value": 0.022902
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-0.004219",
-            "value": 4.8e-05
-          },
-          {
-            "name": "Other-0.000427",
-            "value": 5e-06
-          },
-          {
-            "name": "Community Groups and Nonprofits-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Health Care Services-0.000122",
-            "value": 1e-06
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 5.000000000143778e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "Category-Num",
-        "data": [
-          {
-            "name": "Computer and Information Technology-14942",
-            "value": 0.549447
-          },
-          {
-            "name": "Media, Publishing, and Broadcasting-9937",
-            "value": 0.365386
-          },
-          {
-            "name": "Retail Stores, Wholesale, and E-commerce Sites-1972",
-            "value": 0.0725109999999999
-          },
-          {
-            "name": "None-71",
-            "value": 0.0026149999999999
-          },
-          {
-            "name": "Education and Research-65",
-            "value": 0.002391
-          },
-          {
-            "name": "Government and Public Administration-45",
-            "value": 0.001655
-          },
-          {
-            "name": "Service-44",
-            "value": 0.001619
-          },
-          {
-            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
-            "value": 0.001544
+            "value": 0.001554
           },
           {
             "name": "Other-27",
-            "value": 0.000993
+            "value": 0.000999
           },
           {
             "name": "Others",
-            "value": 0.0043760000000001575
+            "value": 0.004457000000000155
           }
         ],
         "name": "category_ratio"
@@ -1931,7 +1367,101 @@
         "title": "Category-Num",
         "data": [
           {
-            "name": "Computer and Information Technology-43.323494",
+            "name": "Computer and Information Technology-44.323738",
+            "value": 0.5017799999999999
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.339625
+          },
+          {
+            "name": "None-12.00396",
+            "value": 0.135895
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.022642
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.00422",
+            "value": 4.8e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 3.000000000086267e-06
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14692",
+            "value": 0.546116
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9891",
+            "value": 0.367668
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1972",
+            "value": 0.073303
+          },
+          {
+            "name": "None-72",
+            "value": 0.002676
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.002416
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.0016749999999999
+          },
+          {
+            "name": "Service-44",
+            "value": 0.001635
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
+            "value": 0.001561
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001004
+          },
+          {
+            "name": "Others",
+            "value": 0.004511000000000043
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-43.323493",
             "value": 0.4960739999999999
           },
           {
@@ -1969,6 +1499,476 @@
           {
             "name": "Others",
             "value": 2.0000000001685336e-06
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14670",
+            "value": 0.546055
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9878",
+            "value": 0.367702
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1970",
+            "value": 0.0733319999999999
+          },
+          {
+            "name": "None-72",
+            "value": 0.002676
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.002419
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.0016749999999999
+          },
+          {
+            "name": "Service-44",
+            "value": 0.001637
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
+            "value": 0.001563
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001005
+          },
+          {
+            "name": "Others",
+            "value": 0.0045040000000002856
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-43.323736",
+            "value": 0.496074
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.343514
+          },
+          {
+            "name": "None-12.00396",
+            "value": 0.137449
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.022901
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.00422",
+            "value": 4.8e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 6.999999999979245e-06
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14758",
+            "value": 0.547761
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9866",
+            "value": 0.366206
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1970",
+            "value": 0.0731219999999999
+          },
+          {
+            "name": "None-71",
+            "value": 0.002632
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.002412
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.00167
+          },
+          {
+            "name": "Service-45",
+            "value": 0.0016699999999999
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
+            "value": 0.001559
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001002
+          },
+          {
+            "name": "Others",
+            "value": 0.004527000000000281
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-43.323706",
+            "value": 0.501819
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.347493
+          },
+          {
+            "name": "None-11.00396",
+            "value": 0.127459
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.023166
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.00422",
+            "value": 4.9e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 6.999999999979245e-06
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14637",
+            "value": 0.5468369999999999
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9807",
+            "value": 0.36641
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1971",
+            "value": 0.07364
+          },
+          {
+            "name": "None-74",
+            "value": 0.0027629999999999
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.002428
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.0016799999999999
+          },
+          {
+            "name": "Service-44",
+            "value": 0.001642
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-42",
+            "value": 0.001569
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001009
+          },
+          {
+            "name": "Others",
+            "value": 0.0046000000000002705
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-45.32346199999999",
+            "value": 0.5073529999999999
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.335825
+          },
+          {
+            "name": "None-12.00396",
+            "value": 0.134373
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.022388
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.00422",
+            "value": 4.7e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 7.000000000090267e-06
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14555",
+            "value": 0.549519
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9617",
+            "value": 0.363058
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1970",
+            "value": 0.0743709999999999
+          },
+          {
+            "name": "None-72",
+            "value": 0.0027229999999999
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.0024549999999999
+          },
+          {
+            "name": "Service-45",
+            "value": 0.0017
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.001699
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-41",
+            "value": 0.001548
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001019
+          },
+          {
+            "name": "Others",
+            "value": 0.006174000000000346
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-38.323657",
+            "value": 0.459883
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.360003
+          },
+          {
+            "name": "None-12.00396",
+            "value": 0.1440479999999999
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.024
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.004219",
+            "value": 5e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 0.012009000000000158
+          }
+        ],
+        "name": "sat_category_ratio"
+      }
+    ],
+    [
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-14670",
+            "value": 0.5479489999999999
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-9781",
+            "value": 0.365358
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1973",
+            "value": 0.0736979999999999
+          },
+          {
+            "name": "None-72",
+            "value": 0.002688
+          },
+          {
+            "name": "Education and Research-65",
+            "value": 0.002428
+          },
+          {
+            "name": "Government and Public Administration-45",
+            "value": 0.0016799999999999
+          },
+          {
+            "name": "Service-44",
+            "value": 0.001642
+          },
+          {
+            "name": "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)-41",
+            "value": 0.001532
+          },
+          {
+            "name": "Other-27",
+            "value": 0.001009
+          },
+          {
+            "name": "Others",
+            "value": 0.004557000000000255
+          }
+        ],
+        "name": "category_ratio"
+      },
+      {
+        "title": "Category-Num",
+        "data": [
+          {
+            "name": "Computer and Information Technology-43.323474",
+            "value": 0.496073
+          },
+          {
+            "name": "Education and Research-30.000008",
+            "value": 0.343515
+          },
+          {
+            "name": "None-12.00396",
+            "value": 0.1374529999999999
+          },
+          {
+            "name": "Construction and Real Estate-2.0",
+            "value": 0.022901
+          },
+          {
+            "name": "Media, Publishing, and Broadcasting-0.004219",
+            "value": 4.8e-05
+          },
+          {
+            "name": "Other-0.000412",
+            "value": 5e-06
+          },
+          {
+            "name": "Community Groups and Nonprofits-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Health Care Services-0.000122",
+            "value": 1e-06
+          },
+          {
+            "name": "Retail Stores, Wholesale, and E-commerce Sites-1e-06",
+            "value": 0.0
+          },
+          {
+            "name": "Others",
+            "value": 3.000000000086267e-06
           }
         ],
         "name": "sat_category_ratio"

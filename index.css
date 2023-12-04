@@ -24,7 +24,14 @@ code {
     display: block;
     line-height: 150%;
 }
-
+.container-xl{
+    margin-left: 5rem;
+}
+.divider{
+    border: 0.1rem solid #ebf0f4;
+    margin-top: 2rem;
+    width:1180px;
+}
 /*导航栏*/
 tab-content{
     margin: 0 auto; /* 水平居中 */
@@ -33,10 +40,8 @@ tab-content{
 .line-chart{
     /*min-width: calc(100% - 10px); !* 计算一半宽度，减去间距 *!*/
     height: 400px;
-    width:1280px;
-}
-.container{
-    width: 1280px;
+    width: 1180px;
+    /*border-bottom: 0.1rem solid #ebf0f4;*/
 }
 .container-lg{
     margin-top: 1rem;
@@ -48,7 +53,6 @@ tab-content{
 /*导航栏*/
 .nav {
     margin-bottom: 8px;
-
 }
 .nav-tabs{
     /*background-color: #0d6efd;*/
@@ -59,20 +63,25 @@ tab-content{
 .nav-tabs .nav-link{
     /*color: #ffffff;*/
 }
-.tab-content{
 
-}
 /*select*/
 .form-select{
-    width: 6rem;
+    width: 17rem;
     height: 2.085rem;
     /*background-color: #0dcaf0;*/
     text-align: center;
 }
+
 /*四个饼状图*/
+.d-flex{
+    width: 1080px;
+}
+.d-flex .nav .nav-link{
+    width: 6.5rem;
+}
 .pie-chart-container{
     height: 400px;
-    width: 1280px;
+    width: 1080px
 }
 .pie-chart-container h4{
     font-size: 1.4rem;
@@ -84,24 +93,10 @@ tab-content{
     padding-top: 0rem;
     margin-top: 0rem;
 }
-.st-table{
-    /*width: 1280px;*/
-    /*height: 400px;*/
-}
 /*地图*/
 .map-chart-container{
     height: 600px;
-    width: 1280px;
+    width: 1080px
 }
-.chart-container
-{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-.single-chart-container
-{
-    width: 100%; /* 占据整行宽度 */
-    height: 400px;
-    margin-bottom: 20px; /* 调整行之间的间距 */
-}
+
+

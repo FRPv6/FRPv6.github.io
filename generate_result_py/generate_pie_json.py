@@ -8,13 +8,13 @@ config = DefaultConfig()
 def generate_time_list():
     day_num = 7
     start_date_string = config.start_date
-    start_date = datetime.strptime(start_date_string, "%m-%d")
+    start_date = datetime.strptime(start_date_string, "%Y-%m-%d")
     # 获取时间，横坐标
     time_list = [start_date_string]
     for i in range(1, day_num):
         # 计算之后的日期和时间
         day_later = start_date + timedelta(days=i)
-        time_list.append(day_later.strftime("%m-%d"))
+        time_list.append(day_later.strftime("%Y-%m-%d"))
     data={
         "data": time_list
     }
