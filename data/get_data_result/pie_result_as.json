@@ -5,44 +5,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9860-Akamai International B.V.",
-            "value": 0.3647259007176148
+            "name": "20940-12723-Akamai International B.V.",
+            "value": 0.2807927434839222
           },
           {
             "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.2688741721854304
+            "value": 0.2685185185185185
           },
           {
-            "name": "16509-6035-Amazon.com, Inc.",
-            "value": 0.1911988341148143
+            "name": "16509-13243-Amazon.com, Inc.",
+            "value": 0.2656729592553213
           },
           {
-            "name": "32934-1965-Facebook, Inc.",
-            "value": 0.0726862469482873
+            "name": "32934-7953-Facebook, Inc.",
+            "value": 0.1755202930855642
           },
           {
-            "name": "36492-1772-Google LLC",
-            "value": 0.0561399062222785
+            "name": "13335-2620-Cloudflare, Inc.",
+            "value": 0.0525608361586454
           },
           {
-            "name": "13335-1647-Cloudflare, Inc.",
-            "value": 0.0521796983905715
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.0326710816777041
-          },
-          {
-            "name": "47583-959-Hostinger International Limited",
-            "value": 0.0303827144848561
+            "name": "36492-1952-Google LLC",
+            "value": 0.0391598290769755
           },
           {
             "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.0275938189845474
+            "value": 0.0275573192239858
+          },
+          {
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.0211045800148454
+          },
+          {
+            "name": "6939-754-Hurricane Electric LLC",
+            "value": 0.0151262864364956
           },
           {
             "name": "Others",
-            "value": -0.3590310442261908
+            "value": -0.322514620051241
           }
         ],
         "name": "as_ratio"
@@ -52,43 +52,43 @@
         "data": [
           {
             "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7163408227596788
+            "value": 0.7118509559248073
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1094965710289132
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1078731894563881
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0566042306907685
-          },
-          {
-            "name": "204916-68.5625-RACKTECH CO., LTD.",
-            "value": 0.0465414787042875
+            "value": 0.053936594728194
           },
           {
             "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0452833845526148
+            "value": 0.0431492757825552
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0452833845526148
+            "value": 0.0431492757825552
+          },
+          {
+            "name": "204916-63.3125-RACKTECH CO., LTD.",
+            "value": 0.0425987772254554
           },
           {
             "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0339625384144611
+            "value": 0.0323619568369164
           },
           {
             "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244374582804645
+            "value": 0.0242220095576133
           },
           {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0226416922763074
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235491759587907
           },
           {
             "name": "Others",
-            "value": -0.38183132164481415
+            "value": -0.3656382099670521
           }
         ],
         "name": "sat_as_ratio"
@@ -99,44 +99,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9853-Akamai International B.V.",
-            "value": 0.3662552970039402
+            "name": "20940-12703-Akamai International B.V.",
+            "value": 0.2801164303512756
           },
           {
             "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269647996457826
+            "value": 0.2692307692307692
           },
           {
-            "name": "16509-5929-Amazon.com, Inc.",
-            "value": 0.1887074700022279
+            "name": "16509-13238-Amazon.com, Inc.",
+            "value": 0.2654342028753033
           },
           {
-            "name": "32934-1965-Facebook, Inc.",
-            "value": 0.0730428964389264
+            "name": "32934-7953-Facebook, Inc.",
+            "value": 0.175373216608966
           },
           {
-            "name": "36492-1771-Google LLC",
-            "value": 0.0563671663643018
+            "name": "13335-2613-Cloudflare, Inc.",
+            "value": 0.0523930784191847
           },
           {
-            "name": "13335-1648-Cloudflare, Inc.",
-            "value": 0.0524523377574079
+            "name": "36492-1952-Google LLC",
+            "value": 0.039139414111844
           },
           {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.0327651095860084
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.03315649867374
           },
           {
-            "name": "47583-956-Hostinger International Limited",
-            "value": 0.030427448359273
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.0210935776873258
           },
           {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.0276732344476422
+            "name": "6939-751-Hurricane Electric LLC",
+            "value": 0.0150582479497924
           },
           {
             "name": "Others",
-            "value": -0.47007879770281336
+            "value": -0.3315598726408786
           }
         ],
         "name": "as_ratio"
@@ -146,43 +146,43 @@
         "data": [
           {
             "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7173769710987193
+            "value": 0.7133887835332793
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1107506694968504
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1066820061167195
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0572525366452017
-          },
-          {
-            "name": "204916-68.5625-RACKTECH CO., LTD.",
-            "value": 0.0466364648342227
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0458020293161613
+            "value": 0.0533410030583597
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0458020293161613
+            "value": 0.0426728024466878
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0426728024466878
+          },
+          {
+            "name": "204916-62.3125-RACKTECH CO., LTD.",
+            "value": 0.0419815597209106
           },
           {
             "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.034351521987121
+            "value": 0.0320046018350158
           },
           {
             "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244873324927185
+            "value": 0.0242541408217096
           },
           {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0229010146580806
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235804146877732
           },
           {
             "name": "Others",
-            "value": -0.37460243318366593
+            "value": -0.3673216807854971
           }
         ],
         "name": "sat_as_ratio"
@@ -193,420 +193,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9840-Akamai International B.V.",
-            "value": 0.3662894580107206
-          },
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269886993130955
-          },
-          {
-            "name": "16509-5899-Amazon.com, Inc.",
-            "value": 0.1880039519393186
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.0731089934484812
-          },
-          {
-            "name": "36492-1772-Google LLC",
-            "value": 0.0564744876820601
-          },
-          {
-            "name": "13335-1647-Cloudflare, Inc.",
-            "value": 0.052490677885075
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.0327941502326612
-          },
-          {
-            "name": "47583-956-Hostinger International Limited",
-            "value": 0.0304681773273416
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.0276977620208287
-          },
-          {
-            "name": "Others",
-            "value": -0.47998570556726095
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7174418322390548
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1107503600687848
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0572523766864245
-          },
-          {
-            "name": "204916-68.4375-RACKTECH CO., LTD.",
-            "value": 0.0465553905158978
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0458019013491396
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0458019013491396
-          },
-          {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0343514260118547
-          },
-          {
-            "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244894109015133
-          },
-          {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0229009506745698
-          },
-          {
-            "name": "Others",
-            "value": -0.374608627078413
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9812-Akamai International B.V.",
-            "value": 0.364203258973312
-          },
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.2698272042534337
-          },
-          {
-            "name": "16509-5981-Amazon.com, Inc.",
-            "value": 0.1901446510888571
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.0729000408299617
-          },
-          {
-            "name": "36492-1772-Google LLC",
-            "value": 0.0563344460340168
-          },
-          {
-            "name": "13335-1654-Cloudflare, Inc.",
-            "value": 0.0525830551581624
-          },
-          {
-            "name": "54113-147-Fastly, Inc.",
-            "value": 0.0325653522374833
-          },
-          {
-            "name": "47583-958-Hostinger International Limited",
-            "value": 0.0304562072802416
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.0276916260522817
-          },
-          {
-            "name": "Others",
-            "value": -0.47823591561490963
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7164360184802331
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1120332323174045
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0579155572410784
-          },
-          {
-            "name": "204916-68.375-RACKTECH CO., LTD.",
-            "value": 0.0464831144795905
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0463324457928627
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0463324457928627
-          },
-          {
-            "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244737421757259
-          },
-          {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0231662228964313
-          },
-          {
-            "name": "210644-2.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0231662228964313
-          },
-          {
-            "name": "Others",
-            "value": -0.3671087390812313
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9768-Akamai International B.V.",
-            "value": 0.3649542312721838
-          },
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.2695883134130146
-          },
-          {
-            "name": "16509-5860-Amazon.com, Inc.",
-            "value": 0.1873221877697151
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.0733794134130394
-          },
-          {
-            "name": "36492-1771-Google LLC",
-            "value": 0.0566122174983217
-          },
-          {
-            "name": "13335-1651-Cloudflare, Inc.",
-            "value": 0.0527762682607166
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.0327578574590526
-          },
-          {
-            "name": "47583-958-Hostinger International Limited",
-            "value": 0.0306236614135472
-          },
-          {
-            "name": "6939-589-Hurricane Electric LLC",
-            "value": 0.0188281175079116
-          },
-          {
-            "name": "Others",
-            "value": -0.45664741025205813
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7179935045009486
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1082711878689761
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0559707691091146
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0447766152872916
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0447766152872916
-          },
-          {
-            "name": "204916-64.375-RACKTECH CO., LTD.",
-            "value": 0.0437639233264982
-          },
-          {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0335824614654687
-          },
-          {
-            "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244738056660805
-          },
-          {
-            "name": "209641-33.0-I-SERVERS LTD",
-            "value": 0.0224343218605738
-          },
-          {
-            "name": "Others",
-            "value": -0.3681871317291572
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9588-Akamai International B.V.",
-            "value": 0.3046033611843568
-          },
-          {
-            "name": "36183-1239-Akamai Technologies, Inc.",
-            "value": 0.2483961507618284
-          },
-          {
-            "name": "16509-5870-Amazon.com, Inc.",
-            "value": 0.1864853702703561
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.0741439842953678
-          },
-          {
-            "name": "36492-1772-Google LLC",
-            "value": 0.0562950725926867
-          },
-          {
-            "name": "13335-1655-Cloudflare, Inc.",
-            "value": 0.0525780728786097
-          },
-          {
-            "name": "47583-956-Hostinger International Limited",
-            "value": 0.0303713822791244
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.0250601443464314
-          },
-          {
-            "name": "6939-591-Hurricane Electric LLC",
-            "value": 0.0187756139403373
-          },
-          {
-            "name": "Others",
-            "value": -0.4260203499342474
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.386632007518446
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1160665357390171
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0600005726454653
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0480004581163722
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0480004581163722
-          },
-          {
-            "name": "204916-111.375-RACKTECH CO., LTD.",
-            "value": 0.0420429016889677
-          },
-          {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0360003435872791
-          },
-          {
-            "name": "204790-64.0-Falco ISP Services B.V.",
-            "value": 0.024944000485061
-          },
-          {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0240002290581861
-          },
-          {
-            "name": "Others",
-            "value": -0.37653342535425716
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9735-Akamai International B.V.",
-            "value": 0.3636397594411863
+            "name": "20940-12703-Akamai International B.V.",
+            "value": 0.2800546749266959
           },
           {
             "name": "36183-1218-Akamai Technologies, Inc.",
             "value": 0.2692902940526199
           },
           {
-            "name": "16509-5939-Amazon.com, Inc.",
-            "value": 0.1897807886495814
+            "name": "16509-13239-Amazon.com, Inc.",
+            "value": 0.2654063590072571
           },
           {
-            "name": "32934-1967-Facebook, Inc.",
-            "value": 0.0734750289492361
+            "name": "32934-7951-Facebook, Inc.",
+            "value": 0.175290460548072
           },
           {
-            "name": "36492-1771-Google LLC",
-            "value": 0.0565923180162331
+            "name": "13335-2616-Cloudflare, Inc.",
+            "value": 0.0524437672908063
           },
           {
-            "name": "13335-1659-Cloudflare, Inc.",
-            "value": 0.0530133571930721
-          },
-          {
-            "name": "54113-151-Fastly, Inc.",
-            "value": 0.0333849215122706
-          },
-          {
-            "name": "47583-956-Hostinger International Limited",
-            "value": 0.030548987026267
+            "name": "36492-1952-Google LLC",
+            "value": 0.0391323523515496
           },
           {
             "name": "210842-125-Rohmad Kumiadin",
             "value": 0.0276365244306875
           },
           {
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.0210897718615933
+          },
+          {
+            "name": "6939-748-Hurricane Electric LLC",
+            "value": 0.0149953891183192
+          },
+          {
             "name": "Others",
-            "value": -0.37554712398412304
+            "value": -0.3131982680782226
           }
         ],
         "name": "as_ratio"
@@ -616,43 +240,513 @@
         "data": [
           {
             "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.7148949759105255
+            "value": 0.7149291742224843
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.1107506935917313
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1066865530401533
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.0572525491010456
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.0458020392808365
+            "value": 0.0533432765200766
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.0458020392808365
+            "value": 0.0426746212160613
           },
           {
-            "name": "204916-64.375-RACKTECH CO., LTD.",
-            "value": 0.0436455838222654
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0426746212160613
+          },
+          {
+            "name": "204916-61.3125-RACKTECH CO., LTD.",
+            "value": 0.041391495246789
           },
           {
             "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.0343515294606273
+            "value": 0.032005965912046
           },
           {
             "name": "44812-36.0-IP SERVER LLC",
-            "value": 0.0244076274578882
+            "value": 0.0243032632641697
           },
           {
-            "name": "48261-2.0-socialimprove LLC",
-            "value": 0.0229010196404182
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0236281726179427
           },
           {
             "name": "Others",
-            "value": -0.37475389446653296
+            "value": -0.36247752694776114
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12728-Akamai International B.V.",
+            "value": 0.2801796249009421
+          },
+          {
+            "name": "36183-1218-Akamai Technologies, Inc.",
+            "value": 0.2689929328621908
+          },
+          {
+            "name": "16509-13241-Amazon.com, Inc.",
+            "value": 0.2650532468572343
+          },
+          {
+            "name": "32934-7952-Facebook, Inc.",
+            "value": 0.175046226996566
+          },
+          {
+            "name": "13335-2614-Cloudflare, Inc.",
+            "value": 0.0523260469212907
+          },
+          {
+            "name": "36492-1952-Google LLC",
+            "value": 0.0390743854592041
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.0276060070671378
+          },
+          {
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.0210585315077268
+          },
+          {
+            "name": "6939-742-Hurricane Electric LLC",
+            "value": 0.0148530707022179
+          },
+          {
+            "name": "Others",
+            "value": -0.3236813778163701
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.7138679237001901
+          },
+          {
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1066554732458531
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.0533277366229265
+          },
+          {
+            "name": "204916-63.375-RACKTECH CO., LTD.",
+            "value": 0.0427235871756844
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0426621892983412
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.0426621892983412
+          },
+          {
+            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
+            "value": 0.0319966419737559
+          },
+          {
+            "name": "44812-36.0-IP SERVER LLC",
+            "value": 0.0242690199341165
+          },
+          {
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235948804915022
+          },
+          {
+            "name": "Others",
+            "value": -0.3623181210411146
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12712-Akamai International B.V.",
+            "value": 0.2800616875963869
+          },
+          {
+            "name": "36183-1218-Akamai Technologies, Inc.",
+            "value": 0.2682228584012332
+          },
+          {
+            "name": "16509-13266-Amazon.com, Inc.",
+            "value": 0.2656866475736516
+          },
+          {
+            "name": "32934-7950-Facebook, Inc.",
+            "value": 0.1751487111698612
+          },
+          {
+            "name": "13335-2616-Cloudflare, Inc.",
+            "value": 0.0523923013758987
+          },
+          {
+            "name": "36492-1952-Google LLC",
+            "value": 0.0390939496505177
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.0275269764369081
+          },
+          {
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.021069075323947
+          },
+          {
+            "name": "6939-732-Hurricane Electric LLC",
+            "value": 0.0146602311189441
+          },
+          {
+            "name": "Others",
+            "value": -0.3229507450364082
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.7132903814504822
+          },
+          {
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1066554413947707
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.0533277206973853
+          },
+          {
+            "name": "204916-63.5-RACKTECH CO., LTD.",
+            "value": 0.0427754082518139
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0426621765579083
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.0426621765579083
+          },
+          {
+            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
+            "value": 0.0319966324184312
+          },
+          {
+            "name": "44812-36.0-IP SERVER LLC",
+            "value": 0.0242506251506346
+          },
+          {
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235769966742281
+          },
+          {
+            "name": "Others",
+            "value": -0.3621602274453408
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12685-Akamai International B.V.",
+            "value": 0.2794483730971736
+          },
+          {
+            "name": "36183-1214-Akamai Technologies, Inc.",
+            "value": 0.2676957001102535
+          },
+          {
+            "name": "16509-13266-Amazon.com, Inc.",
+            "value": 0.2657026117609357
+          },
+          {
+            "name": "32934-7949-Facebook, Inc.",
+            "value": 0.1751151058533254
+          },
+          {
+            "name": "13335-2616-Cloudflare, Inc.",
+            "value": 0.0523954494472039
+          },
+          {
+            "name": "36492-1951-Google LLC",
+            "value": 0.0390762698285531
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.0275633958103638
+          },
+          {
+            "name": "47583-1052-Hostinger International Limited",
+            "value": 0.0210703412914597
+          },
+          {
+            "name": "6939-738-Hurricane Electric LLC",
+            "value": 0.0147812850504726
+          },
+          {
+            "name": "Others",
+            "value": -0.31046919413403784
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.7123319418479375
+          },
+          {
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.1066558418097619
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.0533279209048809
+          },
+          {
+            "name": "204916-63.4375-RACKTECH CO., LTD.",
+            "value": 0.0426795184120579
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0426623367239047
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.0426623367239047
+          },
+          {
+            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
+            "value": 0.0319967525429285
+          },
+          {
+            "name": "44812-36.0-IP SERVER LLC",
+            "value": 0.0242201010890102
+          },
+          {
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235473205032043
+          },
+          {
+            "name": "Others",
+            "value": -0.3620045429747156
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12700-Akamai International B.V.",
+            "value": 0.280347012207236
+          },
+          {
+            "name": "36183-1214-Akamai Technologies, Inc.",
+            "value": 0.2670479542454905
+          },
+          {
+            "name": "16509-13281-Amazon.com, Inc.",
+            "value": 0.2664352919935001
+          },
+          {
+            "name": "32934-7858-Facebook, Inc.",
+            "value": 0.173461954482241
+          },
+          {
+            "name": "13335-2617-Cloudflare, Inc.",
+            "value": 0.052500651995105
+          },
+          {
+            "name": "36492-1952-Google LLC",
+            "value": 0.0391598290769755
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.0274967003959524
+          },
+          {
+            "name": "47583-1050-Hostinger International Limited",
+            "value": 0.0210644572391518
+          },
+          {
+            "name": "6939-733-Hurricane Electric LLC",
+            "value": 0.0147049972917126
+          },
+          {
+            "name": "Others",
+            "value": -0.3174334145381845
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.7128457176874995
+          },
+          {
+            "name": "395839-11.0-HOSTKEY",
+            "value": 0.1136835129338197
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.0516743240608271
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.0413394592486617
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.0413394592486617
+          },
+          {
+            "name": "204916-61.4375-RACKTECH CO., LTD.",
+            "value": 0.0412785080723088
+          },
+          {
+            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
+            "value": 0.0310045944364963
+          },
+          {
+            "name": "44812-36.0-IP SERVER LLC",
+            "value": 0.0241876100199896
+          },
+          {
+            "name": "209641-35.0-I-SERVERS LTD",
+            "value": 0.0235157319638788
+          },
+          {
+            "name": "Others",
+            "value": -0.3827162232458121
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "16509-1227-Amazon.com, Inc.",
+            "value": 0.270503
+          },
+          {
+            "name": "36183-1218-Akamai Technologies, Inc.",
+            "value": 0.268519
+          },
+          {
+            "name": "13335-248-Cloudflare, Inc.",
+            "value": 0.054674
+          },
+          {
+            "name": "36492-221-Google LLC",
+            "value": 0.048721
+          },
+          {
+            "name": "45609-165-Bharti Airtel Limited",
+            "value": 0.036376
+          },
+          {
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.033069
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.027557
+          },
+          {
+            "name": "204916-95-RACKTECH CO., LTD.",
+            "value": 0.020944
+          },
+          {
+            "name": "19551-89-Incapsula Inc",
+            "value": 0.019621
+          },
+          {
+            "name": "Others",
+            "value": 0.15233600000000003
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.711851
+          },
+          {
+            "name": "204916-60.3125-RACKTECH CO., LTD.",
+            "value": 0.04328
+          },
+          {
+            "name": "396356-32.0-Latitude.sh",
+            "value": 0.022963
+          },
+          {
+            "name": "44812-30.0-IP SERVER LLC",
+            "value": 0.021528
+          },
+          {
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.015069
+          },
+          {
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011481
+          },
+          {
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009329
+          },
+          {
+            "name": "30633-13.000015-Leaseweb USA, Inc.",
+            "value": 0.009329
+          },
+          {
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.008611
+          },
+          {
+            "name": "Others",
+            "value": 0.1400999999999999
           }
         ],
         "name": "sat_as_ratio"
@@ -664,419 +758,43 @@
         "data": [
           {
             "name": "16509-1219-Amazon.com, Inc.",
-            "value": 0.269095
+            "value": 0.269452
           },
           {
             "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.268874
+            "value": 0.269231
           },
           {
             "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.054746
+            "value": 0.054819
           },
           {
             "name": "36492-221-Google LLC",
-            "value": 0.048786
+            "value": 0.048851
           },
           {
             "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.036424
+            "value": 0.036472
           },
           {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.032671
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.027594
-          },
-          {
-            "name": "204916-104-RACKTECH CO., LTD.",
-            "value": 0.022958
-          },
-          {
-            "name": "15133-86-Edgecast Inc.",
-            "value": 0.018985
-          },
-          {
-            "name": "Others",
-            "value": 0.09955499999999995
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.716341
-          },
-          {
-            "name": "204916-65.5625-RACKTECH CO., LTD.",
-            "value": 0.047344
-          },
-          {
-            "name": "396356-32.0-Latitude.sh",
-            "value": 0.023108
-          },
-          {
-            "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.021664
-          },
-          {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012276
-          },
-          {
-            "name": "396319-16.0-Oxylabs",
-            "value": 0.011554
-          },
-          {
-            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
-            "value": 0.009388
-          },
-          {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009388
-          },
-          {
-            "name": "20473-12.000046-The Constant Company, LLC",
-            "value": 0.008665
-          },
-          {
-            "name": "Others",
-            "value": 0.13363799999999992
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269648
-          },
-          {
-            "name": "16509-1217-Amazon.com, Inc.",
-            "value": 0.269427
-          },
-          {
-            "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.054904
-          },
-          {
-            "name": "36492-221-Google LLC",
-            "value": 0.048926
-          },
-          {
-            "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.036529
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.032765
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.027673
-          },
-          {
-            "name": "204916-104-RACKTECH CO., LTD.",
-            "value": 0.023024
-          },
-          {
-            "name": "19551-86-Incapsula Inc",
-            "value": 0.019039
-          },
-          {
-            "name": "Others",
-            "value": 0.10050799999999971
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.717377
-          },
-          {
-            "name": "204916-65.5625-RACKTECH CO., LTD.",
-            "value": 0.047412
-          },
-          {
-            "name": "396356-32.0-Latitude.sh",
-            "value": 0.023141
-          },
-          {
-            "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.021695
-          },
-          {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012294
-          },
-          {
-            "name": "396319-16.0-Oxylabs",
-            "value": 0.011571
-          },
-          {
-            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
-            "value": 0.009401
-          },
-          {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009401
-          },
-          {
-            "name": "20473-12.000046-The Constant Company, LLC",
-            "value": 0.008678
-          },
-          {
-            "name": "Others",
-            "value": 0.132386
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269887
-          },
-          {
-            "name": "16509-1215-Amazon.com, Inc.",
-            "value": 0.269222
-          },
-          {
-            "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.054952
-          },
-          {
-            "name": "36492-221-Google LLC",
-            "value": 0.04897
-          },
-          {
-            "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.036561
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.032794
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.027698
-          },
-          {
-            "name": "204916-102-RACKTECH CO., LTD.",
-            "value": 0.022601
-          },
-          {
-            "name": "19551-86-Incapsula Inc",
-            "value": 0.019056
-          },
-          {
-            "name": "Others",
-            "value": 0.10059699999999994
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.717442
-          },
-          {
-            "name": "204916-65.4375-RACKTECH CO., LTD.",
-            "value": 0.047326
-          },
-          {
-            "name": "396356-32.0-Latitude.sh",
-            "value": 0.023143
-          },
-          {
-            "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.021697
-          },
-          {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012295
-          },
-          {
-            "name": "396319-16.0-Oxylabs",
-            "value": 0.011572
-          },
-          {
-            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
-            "value": 0.009402
-          },
-          {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009402
-          },
-          {
-            "name": "20473-12.000046-The Constant Company, LLC",
-            "value": 0.008679
-          },
-          {
-            "name": "Others",
-            "value": 0.132397
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269827
-          },
-          {
-            "name": "16509-1215-Amazon.com, Inc.",
-            "value": 0.269163
-          },
-          {
-            "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.05494
-          },
-          {
-            "name": "36492-221-Google LLC",
-            "value": 0.048959
-          },
-          {
-            "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.036553
-          },
-          {
-            "name": "54113-147-Fastly, Inc.",
-            "value": 0.032565
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.027692
-          },
-          {
-            "name": "204916-101-RACKTECH CO., LTD.",
-            "value": 0.022375
-          },
-          {
-            "name": "19551-87-Incapsula Inc",
-            "value": 0.019273
-          },
-          {
-            "name": "Others",
-            "value": 0.10035399999999994
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.716436
-          },
-          {
-            "name": "204916-65.375-RACKTECH CO., LTD.",
-            "value": 0.047215
-          },
-          {
-            "name": "396356-32.0-Latitude.sh",
-            "value": 0.023111
-          },
-          {
-            "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.021666
-          },
-          {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012278
-          },
-          {
-            "name": "396319-16.0-Oxylabs",
-            "value": 0.011555
-          },
-          {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009389
-          },
-          {
-            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
-            "value": 0.009389
-          },
-          {
-            "name": "20473-12.000046-The Constant Company, LLC",
-            "value": 0.008667
-          },
-          {
-            "name": "Others",
-            "value": 0.1336590000000002
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "36183-1218-Akamai Technologies, Inc.",
-            "value": 0.269588
-          },
-          {
-            "name": "16509-1217-Amazon.com, Inc.",
-            "value": 0.269367
-          },
-          {
-            "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.054892
-          },
-          {
-            "name": "36492-221-Google LLC",
-            "value": 0.048915
-          },
-          {
-            "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.036521
-          },
-          {
-            "name": "54113-148-Fastly, Inc.",
-            "value": 0.032758
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.033156
           },
           {
             "name": "210842-124-Rohmad Kumiadin",
-            "value": 0.027446
+            "value": 0.027409
           },
           {
-            "name": "204916-97-RACKTECH CO., LTD.",
-            "value": 0.02147
+            "name": "204916-94-RACKTECH CO., LTD.",
+            "value": 0.020778
           },
           {
-            "name": "15133-86-Edgecast Inc.",
-            "value": 0.019035
+            "name": "19551-89-Incapsula Inc",
+            "value": 0.019673
           },
           {
             "name": "Others",
-            "value": 0.10225699999999982
+            "value": 0.15229799999999993
           }
         ],
         "name": "as_ratio"
@@ -1086,137 +804,43 @@
         "data": [
           {
             "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.717994
+            "value": 0.713389
           },
           {
-            "name": "204916-61.375-RACKTECH CO., LTD.",
-            "value": 0.044422
-          },
-          {
-            "name": "396356-32.0-Latitude.sh",
-            "value": 0.023161
-          },
-          {
-            "name": "44812-29.0-IP SERVER LLC",
-            "value": 0.02099
-          },
-          {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012304
-          },
-          {
-            "name": "396319-16.0-Oxylabs",
-            "value": 0.011581
-          },
-          {
-            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
-            "value": 0.009409
-          },
-          {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009409
-          },
-          {
-            "name": "20473-12.000046-The Constant Company, LLC",
-            "value": 0.008685
-          },
-          {
-            "name": "Others",
-            "value": 0.13539499999999982
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "36183-1239-Akamai Technologies, Inc.",
-            "value": 0.248396
-          },
-          {
-            "name": "16509-1214-Amazon.com, Inc.",
-            "value": 0.243384
-          },
-          {
-            "name": "13335-249-Cloudflare, Inc.",
-            "value": 0.04992
-          },
-          {
-            "name": "36492-221-Google LLC",
-            "value": 0.044306
-          },
-          {
-            "name": "45609-165-Bharti Airtel Limited",
-            "value": 0.033079
-          },
-          {
-            "name": "54113-152-Fastly, Inc.",
-            "value": 0.030473
-          },
-          {
-            "name": "210842-125-Rohmad Kumiadin",
-            "value": 0.02506
-          },
-          {
-            "name": "19551-114-Incapsula Inc",
-            "value": 0.022855
-          },
-          {
-            "name": "204916-99-RACKTECH CO., LTD.",
-            "value": 0.019848
-          },
-          {
-            "name": "Others",
-            "value": 0.13432599999999995
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.386632
-          },
-          {
-            "name": "204916-108.375-RACKTECH CO., LTD.",
-            "value": 0.042239
-          },
-          {
-            "name": "204790-64.0-Falco ISP Services B.V.",
-            "value": 0.024944
-          },
-          {
-            "name": "22773-50.0-Cox Communications Inc.",
-            "value": 0.019488
+            "name": "204916-59.3125-RACKTECH CO., LTD.",
+            "value": 0.042654
           },
           {
             "name": "396356-32.0-Latitude.sh",
-            "value": 0.012472
-          },
-          {
-            "name": "197706-32.0-Keminet SHPK",
-            "value": 0.012472
+            "value": 0.023013
           },
           {
             "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.011693
+            "value": 0.021574
           },
           {
-            "name": "60781-21.000031-LeaseWeb Netherlands B.V.",
-            "value": 0.008185
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.015102
           },
           {
-            "name": "32489-21.0-Amanah Tech Inc.",
-            "value": 0.008185
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011506
+          },
+          {
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009349
+          },
+          {
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.00863
+          },
+          {
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.00863
           },
           {
             "name": "Others",
-            "value": 0.46628499999999995
+            "value": 0.13967999999999992
           }
         ],
         "name": "sat_as_ratio"
@@ -1226,17 +850,17 @@
       {
         "title": "AS-Num-Org",
         "data": [
+          {
+            "name": "16509-1223-Amazon.com, Inc.",
+            "value": 0.270396
+          },
           {
             "name": "36183-1218-Akamai Technologies, Inc.",
             "value": 0.26929
           },
           {
-            "name": "16509-1216-Amazon.com, Inc.",
-            "value": 0.268848
-          },
-          {
-            "name": "13335-248-Cloudflare, Inc.",
-            "value": 0.054831
+            "name": "13335-249-Cloudflare, Inc.",
+            "value": 0.055052
           },
           {
             "name": "36492-221-Google LLC",
@@ -1247,16 +871,16 @@
             "value": 0.03648
           },
           {
-            "name": "54113-151-Fastly, Inc.",
-            "value": 0.033385
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.033164
           },
           {
             "name": "210842-125-Rohmad Kumiadin",
             "value": 0.027637
           },
           {
-            "name": "204916-97-RACKTECH CO., LTD.",
-            "value": 0.021446
+            "name": "204916-93-RACKTECH CO., LTD.",
+            "value": 0.020562
           },
           {
             "name": "19551-89-Incapsula Inc",
@@ -1264,7 +888,7 @@
           },
           {
             "name": "Others",
-            "value": 0.15166900000000005
+            "value": 0.0950700000000001
           }
         ],
         "name": "as_ratio"
@@ -1274,23 +898,23 @@
         "data": [
           {
             "name": "397165-992.0-EpicUp Holdings Inc",
-            "value": 0.714895
+            "value": 0.714929
           },
           {
-            "name": "204916-61.375-RACKTECH CO., LTD.",
-            "value": 0.044231
+            "name": "204916-58.3125-RACKTECH CO., LTD.",
+            "value": 0.042026
           },
           {
             "name": "396356-32.0-Latitude.sh",
-            "value": 0.023061
+            "value": 0.023062
           },
           {
             "name": "44812-30.0-IP SERVER LLC",
-            "value": 0.02162
+            "value": 0.021621
           },
           {
-            "name": "210107-17.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
-            "value": 0.012251
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.015135
           },
           {
             "name": "396319-16.0-Oxylabs",
@@ -1301,8 +925,8 @@
             "value": 0.009369
           },
           {
-            "name": "30633-13.000015-Leaseweb USA, Inc.",
-            "value": 0.009369
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.008648
           },
           {
             "name": "20473-12.000046-The Constant Company, LLC",
@@ -1310,7 +934,7 @@
           },
           {
             "name": "Others",
-            "value": 0.13853900000000008
+            "value": 0.13854499999999992
           }
         ],
         "name": "sat_as_ratio"
@@ -1321,44 +945,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9860-Akamai International B.V.",
-            "value": 0.364726
+            "name": "16509-1223-Amazon.com, Inc.",
+            "value": 0.270097
           },
           {
-            "name": "16509-4816-Amazon.com, Inc.",
-            "value": 0.178146
+            "name": "36183-1218-Akamai Technologies, Inc.",
+            "value": 0.268993
           },
           {
-            "name": "32934-1965-Facebook, Inc.",
-            "value": 0.072686
+            "name": "13335-249-Cloudflare, Inc.",
+            "value": 0.054991
           },
           {
-            "name": "36492-1551-Google LLC",
-            "value": 0.057372
+            "name": "36492-221-Google LLC",
+            "value": 0.048807
           },
           {
-            "name": "13335-1399-Cloudflare, Inc.",
-            "value": 0.05175
+            "name": "45609-165-Bharti Airtel Limited",
+            "value": 0.03644
           },
           {
-            "name": "47583-938-Hostinger International Limited",
-            "value": 0.034697
+            "name": "54113-149-Fastly, Inc.",
+            "value": 0.032906
           },
           {
-            "name": "6939-589-Hurricane Electric LLC",
-            "value": 0.021787
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.027606
           },
           {
-            "name": "20473-574-The Constant Company, LLC",
-            "value": 0.021233
+            "name": "204916-96-RACKTECH CO., LTD.",
+            "value": 0.021201
           },
           {
-            "name": "15169-277-Google LLC",
-            "value": 0.010246
+            "name": "19551-90-Incapsula Inc",
+            "value": 0.019876
           },
           {
             "name": "Others",
-            "value": 0.011931000000000136
+            "value": 0.09341999999999995
           }
         ],
         "name": "as_ratio"
@@ -1367,44 +991,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.339625
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.713868
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.109497
+            "name": "204916-60.375-RACKTECH CO., LTD.",
+            "value": 0.043447
           },
           {
-            "name": "29182-7.0-JSC IOT",
-            "value": 0.079246
+            "name": "396356-32.0-Latitude.sh",
+            "value": 0.023028
           },
           {
-            "name": "213220-6.500015-Delta Ltd",
-            "value": 0.073586
+            "name": "44812-30.0-IP SERVER LLC",
+            "value": 0.021589
           },
           {
-            "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.067925
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.015112
           },
           {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.056604
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011514
           },
           {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.045283
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009355
           },
           {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.045283
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.008636
           },
           {
-            "name": "204916-3.0-RACKTECH CO., LTD.",
-            "value": 0.033963
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.008636
           },
           {
             "name": "Others",
-            "value": 0.14898800000000012
+            "value": 0.13833800000000007
           }
         ],
         "name": "sat_as_ratio"
@@ -1415,44 +1039,326 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9853-Akamai International B.V.",
-            "value": 0.366255
+            "name": "16509-1221-Amazon.com, Inc.",
+            "value": 0.268884
           },
           {
-            "name": "16509-4712-Amazon.com, Inc.",
-            "value": 0.175154
+            "name": "36183-1218-Akamai Technologies, Inc.",
+            "value": 0.268223
           },
           {
-            "name": "32934-1965-Facebook, Inc.",
-            "value": 0.073043
+            "name": "13335-249-Cloudflare, Inc.",
+            "value": 0.054834
           },
           {
-            "name": "36492-1550-Google LLC",
-            "value": 0.057617
+            "name": "36492-221-Google LLC",
+            "value": 0.048668
           },
           {
-            "name": "13335-1400-Cloudflare, Inc.",
-            "value": 0.052041
+            "name": "45609-165-Bharti Airtel Limited",
+            "value": 0.036336
           },
           {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.03483
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.033032
           },
           {
-            "name": "6939-588-Hurricane Electric LLC",
-            "value": 0.021857
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.027527
           },
           {
-            "name": "20473-574-The Constant Company, LLC",
-            "value": 0.021337
+            "name": "204916-98-RACKTECH CO., LTD.",
+            "value": 0.021581
+          },
+          {
+            "name": "19551-89-Incapsula Inc",
+            "value": 0.019599
+          },
+          {
+            "name": "Others",
+            "value": 0.09447099999999986
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.71329
+          },
+          {
+            "name": "204916-60.5-RACKTECH CO., LTD.",
+            "value": 0.043502
+          },
+          {
+            "name": "396356-32.0-Latitude.sh",
+            "value": 0.023009
+          },
+          {
+            "name": "44812-30.0-IP SERVER LLC",
+            "value": 0.021571
+          },
+          {
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.0151
+          },
+          {
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011505
+          },
+          {
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009348
+          },
+          {
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.008629
+          },
+          {
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.008629
+          },
+          {
+            "name": "Others",
+            "value": 0.13894600000000001
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "16509-1219-Amazon.com, Inc.",
+            "value": 0.268798
+          },
+          {
+            "name": "36183-1214-Akamai Technologies, Inc.",
+            "value": 0.267696
+          },
+          {
+            "name": "13335-249-Cloudflare, Inc.",
+            "value": 0.054906
+          },
+          {
+            "name": "36492-221-Google LLC",
+            "value": 0.048732
+          },
+          {
+            "name": "45609-165-Bharti Airtel Limited",
+            "value": 0.036384
+          },
+          {
+            "name": "54113-149-Fastly, Inc.",
+            "value": 0.032856
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.027563
+          },
+          {
+            "name": "204916-97-RACKTECH CO., LTD.",
+            "value": 0.021389
+          },
+          {
+            "name": "19551-93-Incapsula Inc",
+            "value": 0.020507
+          },
+          {
+            "name": "Others",
+            "value": 0.08996199999999988
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.712332
+          },
+          {
+            "name": "204916-60.4375-RACKTECH CO., LTD.",
+            "value": 0.043399
+          },
+          {
+            "name": "396356-32.0-Latitude.sh",
+            "value": 0.022978
+          },
+          {
+            "name": "44812-30.0-IP SERVER LLC",
+            "value": 0.021542
+          },
+          {
+            "name": "210107-21.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.01508
+          },
+          {
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011489
+          },
+          {
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009335
+          },
+          {
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.008617
+          },
+          {
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.008617
+          },
+          {
+            "name": "Others",
+            "value": 0.14014800000000005
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "16509-1227-Amazon.com, Inc.",
+            "value": 0.269908
+          },
+          {
+            "name": "36183-1214-Akamai Technologies, Inc.",
+            "value": 0.267048
+          },
+          {
+            "name": "13335-249-Cloudflare, Inc.",
+            "value": 0.054773
+          },
+          {
+            "name": "36492-221-Google LLC",
+            "value": 0.048614
+          },
+          {
+            "name": "45609-165-Bharti Airtel Limited",
+            "value": 0.036296
+          },
+          {
+            "name": "54113-150-Fastly, Inc.",
+            "value": 0.032996
+          },
+          {
+            "name": "210842-125-Rohmad Kumiadin",
+            "value": 0.027497
+          },
+          {
+            "name": "204916-95-RACKTECH CO., LTD.",
+            "value": 0.020897
+          },
+          {
+            "name": "19551-92-Incapsula Inc",
+            "value": 0.020238
+          },
+          {
+            "name": "Others",
+            "value": 0.09370500000000015
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "397165-992.0-EpicUp Holdings Inc",
+            "value": 0.712846
+          },
+          {
+            "name": "204916-58.4375-RACKTECH CO., LTD.",
+            "value": 0.041993
+          },
+          {
+            "name": "396356-32.0-Latitude.sh",
+            "value": 0.022995
+          },
+          {
+            "name": "44812-30.0-IP SERVER LLC",
+            "value": 0.021558
+          },
+          {
+            "name": "210107-24.0-PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI",
+            "value": 0.017246
+          },
+          {
+            "name": "396319-16.0-Oxylabs",
+            "value": 0.011498
+          },
+          {
+            "name": "209968-13.0-Kew Solutions Unipessoal Lda",
+            "value": 0.009342
+          },
+          {
+            "name": "30633-12.000015-Leaseweb USA, Inc.",
+            "value": 0.008623
+          },
+          {
+            "name": "20473-12.000046-The Constant Company, LLC",
+            "value": 0.008623
+          },
+          {
+            "name": "Others",
+            "value": 0.13880899999999996
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12723-Akamai International B.V.",
+            "value": 0.280793
+          },
+          {
+            "name": "16509-12016-Amazon.com, Inc.",
+            "value": 0.265189
+          },
+          {
+            "name": "32934-7953-Facebook, Inc.",
+            "value": 0.17552
+          },
+          {
+            "name": "13335-2372-Cloudflare, Inc.",
+            "value": 0.052349
+          },
+          {
+            "name": "36492-1731-Google LLC",
+            "value": 0.038203
+          },
+          {
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022798
+          },
+          {
+            "name": "6939-753-Hurricane Electric LLC",
+            "value": 0.016618
+          },
+          {
+            "name": "20473-594-The Constant Company, LLC",
+            "value": 0.013109
           },
           {
             "name": "15169-278-Google LLC",
-            "value": 0.010334
+            "value": 0.006135
           },
           {
             "name": "Others",
-            "value": 0.013044999999999973
+            "value": 0.005239999999999911
           }
         ],
         "name": "as_ratio"
@@ -1461,138 +1367,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.343515
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.345194
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.110751
-          },
-          {
-            "name": "29182-7.0-JSC IOT",
-            "value": 0.080154
-          },
-          {
-            "name": "213220-6.500015-Delta Ltd",
-            "value": 0.074428
-          },
-          {
-            "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.068703
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.057253
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.045802
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.045802
-          },
-          {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.034352
-          },
-          {
-            "name": "Others",
-            "value": 0.10488799999999987
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9840-Akamai International B.V.",
-            "value": 0.366289
-          },
-          {
-            "name": "16509-4684-Amazon.com, Inc.",
-            "value": 0.17436
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.073109
-          },
-          {
-            "name": "36492-1551-Google LLC",
-            "value": 0.057735
-          },
-          {
-            "name": "13335-1399-Cloudflare, Inc.",
-            "value": 0.052077
-          },
-          {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.034879
-          },
-          {
-            "name": "6939-588-Hurricane Electric LLC",
-            "value": 0.021888
-          },
-          {
-            "name": "20473-574-The Constant Company, LLC",
-            "value": 0.021367
-          },
-          {
-            "name": "15169-276-Google LLC",
-            "value": 0.010274
-          },
-          {
-            "name": "Others",
-            "value": 0.008744000000000196
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.343514
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.11075
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.107873
           },
           {
             "name": "29182-7.0-JSC IOT",
-            "value": 0.080153
+            "value": 0.075511
           },
           {
             "name": "213220-6.500015-Delta Ltd",
-            "value": 0.074428
+            "value": 0.070118
           },
           {
             "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.068703
+            "value": 0.064724
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.057252
+            "value": 0.053937
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.045802
+            "value": 0.043149
           },
           {
             "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.045802
+            "value": 0.043149
           },
           {
             "name": "204916-3.0-RACKTECH CO., LTD.",
-            "value": 0.034351
+            "value": 0.032362
           },
           {
             "name": "Others",
-            "value": 0.10489400000000004
+            "value": 0.131621
           }
         ],
         "name": "sat_as_ratio"
@@ -1603,44 +1415,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9812-Akamai International B.V.",
-            "value": 0.364203
+            "name": "20940-12703-Akamai International B.V.",
+            "value": 0.280116
           },
           {
-            "name": "16509-4766-Amazon.com, Inc.",
-            "value": 0.176905
+            "name": "16509-12019-Amazon.com, Inc.",
+            "value": 0.265033
           },
           {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.0729
+            "name": "32934-7953-Facebook, Inc.",
+            "value": 0.175373
           },
           {
-            "name": "36492-1551-Google LLC",
-            "value": 0.05757
+            "name": "13335-2365-Cloudflare, Inc.",
+            "value": 0.052151
           },
           {
-            "name": "13335-1406-Cloudflare, Inc.",
-            "value": 0.052188
+            "name": "36492-1731-Google LLC",
+            "value": 0.038171
           },
           {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.03478
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022779
           },
           {
-            "name": "6939-586-Hurricane Electric LLC",
-            "value": 0.021751
+            "name": "6939-750-Hurricane Electric LLC",
+            "value": 0.016538
           },
           {
-            "name": "20473-572-The Constant Company, LLC",
-            "value": 0.021232
+            "name": "20473-591-The Constant Company, LLC",
+            "value": 0.013032
           },
           {
-            "name": "15169-276-Google LLC",
-            "value": 0.010245
+            "name": "28573-278-Claro NXT Telecomunicacoes Ltda",
+            "value": 0.00613
           },
           {
             "name": "Others",
-            "value": 0.006659999999999777
+            "value": 0.08245099999999983
           }
         ],
         "name": "as_ratio"
@@ -1649,44 +1461,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.347493
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.341382
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.112033
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.106682
           },
           {
             "name": "29182-7.0-JSC IOT",
-            "value": 0.081082
+            "value": 0.074677
           },
           {
             "name": "213220-6.500015-Delta Ltd",
-            "value": 0.07529
+            "value": 0.069343
           },
           {
             "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.069499
+            "value": 0.064009
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.057916
+            "value": 0.053341
           },
           {
             "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.046332
+            "value": 0.042673
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.046332
+            "value": 0.042673
           },
           {
             "name": "204916-3.0-RACKTECH CO., LTD.",
-            "value": 0.034749
+            "value": 0.032005
           },
           {
             "name": "Others",
-            "value": 0.10610799999999987
+            "value": 0.173215
           }
         ],
         "name": "sat_as_ratio"
@@ -1697,44 +1509,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9768-Akamai International B.V.",
-            "value": 0.364954
+            "name": "20940-12703-Akamai International B.V.",
+            "value": 0.280055
           },
           {
-            "name": "16509-4643-Amazon.com, Inc.",
-            "value": 0.173473
+            "name": "16509-12016-Amazon.com, Inc.",
+            "value": 0.264909
           },
           {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.073379
+            "name": "32934-7951-Facebook, Inc.",
+            "value": 0.17529
           },
           {
-            "name": "36492-1550-Google LLC",
-            "value": 0.057911
+            "name": "13335-2367-Cloudflare, Inc.",
+            "value": 0.052184
           },
           {
-            "name": "13335-1403-Cloudflare, Inc.",
-            "value": 0.052419
+            "name": "36492-1731-Google LLC",
+            "value": 0.038162
           },
           {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.035008
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022774
           },
           {
-            "name": "6939-588-Hurricane Electric LLC",
-            "value": 0.021969
+            "name": "6939-747-Hurricane Electric LLC",
+            "value": 0.016469
           },
           {
-            "name": "20473-572-The Constant Company, LLC",
-            "value": 0.021371
+            "name": "20473-591-The Constant Company, LLC",
+            "value": 0.013029
           },
           {
-            "name": "15169-277-Google LLC",
-            "value": 0.010349
+            "name": "28573-284-Claro NXT Telecomunicacoes Ltda",
+            "value": 0.006261
           },
           {
             "name": "Others",
-            "value": 0.010099999999999998
+            "value": 0.0047319999999998474
           }
         ],
         "name": "as_ratio"
@@ -1743,138 +1555,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.335825
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.341397
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.108271
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.106687
           },
           {
             "name": "29182-7.0-JSC IOT",
-            "value": 0.078359
-          },
-          {
-            "name": "44812-7.0-IP SERVER LLC",
-            "value": 0.078359
+            "value": 0.074681
           },
           {
             "name": "213220-6.500015-Delta Ltd",
-            "value": 0.072762
-          },
-          {
-            "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.055971
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.044777
-          },
-          {
-            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.044777
-          },
-          {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.033582
-          },
-          {
-            "name": "Others",
-            "value": 0.14731700000000003
-          }
-        ],
-        "name": "sat_as_ratio"
-      }
-    ],
-    [
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "20940-9579-Akamai International B.V.",
-            "value": 0.361622
-          },
-          {
-            "name": "16509-4656-Amazon.com, Inc.",
-            "value": 0.175771
-          },
-          {
-            "name": "32934-1964-Facebook, Inc.",
-            "value": 0.074144
-          },
-          {
-            "name": "36492-1551-Google LLC",
-            "value": 0.058553
-          },
-          {
-            "name": "13335-1406-Cloudflare, Inc.",
-            "value": 0.053079
-          },
-          {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.035373
-          },
-          {
-            "name": "6939-590-Hurricane Electric LLC",
-            "value": 0.022273
-          },
-          {
-            "name": "20473-561-The Constant Company, LLC",
-            "value": 0.021179
-          },
-          {
-            "name": "15169-277-Google LLC",
-            "value": 0.010457
-          },
-          {
-            "name": "Others",
-            "value": 0.012974000000000041
-          }
-        ],
-        "name": "as_ratio"
-      },
-      {
-        "title": "AS-Num-Org",
-        "data": [
-          {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.360003
-          },
-          {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.116067
-          },
-          {
-            "name": "29182-7.0-JSC IOT",
-            "value": 0.084001
+            "value": 0.069346
           },
           {
             "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.072001
+            "value": 0.064012
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.060001
-          },
-          {
-            "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.048
+            "value": 0.053343
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.048
+            "value": 0.042675
           },
           {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.036
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.042675
           },
           {
             "name": "204916-3.0-RACKTECH CO., LTD.",
-            "value": 0.036
+            "value": 0.032006
           },
           {
             "name": "Others",
-            "value": 0.115927
+            "value": 0.14117199999999996
           }
         ],
         "name": "sat_as_ratio"
@@ -1885,44 +1603,44 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "20940-9735-Akamai International B.V.",
-            "value": 0.36364
+            "name": "20940-12728-Akamai International B.V.",
+            "value": 0.28018
           },
           {
-            "name": "16509-4723-Amazon.com, Inc.",
-            "value": 0.176422
+            "name": "16509-12018-Amazon.com, Inc.",
+            "value": 0.26455
           },
           {
-            "name": "32934-1967-Facebook, Inc.",
-            "value": 0.073475
+            "name": "32934-7952-Facebook, Inc.",
+            "value": 0.175046
           },
           {
-            "name": "36492-1550-Google LLC",
-            "value": 0.057898
+            "name": "13335-2365-Cloudflare, Inc.",
+            "value": 0.05206
           },
           {
-            "name": "13335-1411-Cloudflare, Inc.",
-            "value": 0.052706
+            "name": "36492-1731-Google LLC",
+            "value": 0.038104
           },
           {
-            "name": "47583-937-Hostinger International Limited",
-            "value": 0.035001
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022739
           },
           {
-            "name": "6939-587-Hurricane Electric LLC",
-            "value": 0.021927
+            "name": "6939-741-Hurricane Electric LLC",
+            "value": 0.016312
           },
           {
-            "name": "20473-561-The Constant Company, LLC",
-            "value": 0.020956
+            "name": "20473-591-The Constant Company, LLC",
+            "value": 0.01301
           },
           {
-            "name": "15169-277-Google LLC",
-            "value": 0.010347
+            "name": "28573-303-Claro NXT Telecomunicacoes Ltda",
+            "value": 0.00667
           },
           {
             "name": "Others",
-            "value": 0.007703000000000015
+            "value": 0.0831860000000001
           }
         ],
         "name": "as_ratio"
@@ -1931,44 +1649,326 @@
         "title": "AS-Num-Org",
         "data": [
           {
-            "name": "209641-30.0-I-SERVERS LTD",
-            "value": 0.343515
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.341298
           },
           {
-            "name": "395839-9.672119-HOSTKEY",
-            "value": 0.110751
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.106655
           },
           {
             "name": "29182-7.0-JSC IOT",
-            "value": 0.080154
+            "value": 0.074659
           },
           {
             "name": "213220-6.500015-Delta Ltd",
-            "value": 0.074428
+            "value": 0.069326
           },
           {
             "name": "44812-6.0-IP SERVER LLC",
-            "value": 0.068703
+            "value": 0.063993
           },
           {
             "name": "197992-5.0-DEFSOLUTION LLC",
-            "value": 0.057253
+            "value": 0.053328
           },
           {
             "name": "57043-4.0-HOSTKEY B.V.",
-            "value": 0.045802
+            "value": 0.042662
           },
           {
             "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
-            "value": 0.045802
+            "value": 0.042662
           },
           {
-            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
-            "value": 0.034352
+            "name": "204916-3.0-RACKTECH CO., LTD.",
+            "value": 0.031997
           },
           {
             "name": "Others",
-            "value": 0.13923999999999992
+            "value": 0.17342000000000013
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12712-Akamai International B.V.",
+            "value": 0.280062
+          },
+          {
+            "name": "16509-12045-Amazon.com, Inc.",
+            "value": 0.265367
+          },
+          {
+            "name": "32934-7950-Facebook, Inc.",
+            "value": 0.175149
+          },
+          {
+            "name": "13335-2367-Cloudflare, Inc.",
+            "value": 0.052148
+          },
+          {
+            "name": "36492-1731-Google LLC",
+            "value": 0.038136
+          },
+          {
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022758
+          },
+          {
+            "name": "6939-731-Hurricane Electric LLC",
+            "value": 0.016105
+          },
+          {
+            "name": "20473-590-The Constant Company, LLC",
+            "value": 0.012998
+          },
+          {
+            "name": "15169-278-Google LLC",
+            "value": 0.006125
+          },
+          {
+            "name": "Others",
+            "value": 0.005393000000000092
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.341297
+          },
+          {
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.106655
+          },
+          {
+            "name": "29182-7.0-JSC IOT",
+            "value": 0.074659
+          },
+          {
+            "name": "213220-6.500015-Delta Ltd",
+            "value": 0.069326
+          },
+          {
+            "name": "44812-6.0-IP SERVER LLC",
+            "value": 0.063993
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.053328
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.042662
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.042662
+          },
+          {
+            "name": "204916-3.0-RACKTECH CO., LTD.",
+            "value": 0.031997
+          },
+          {
+            "name": "Others",
+            "value": 0.141424
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12685-Akamai International B.V.",
+            "value": 0.279448
+          },
+          {
+            "name": "16509-12047-Amazon.com, Inc.",
+            "value": 0.265393
+          },
+          {
+            "name": "32934-7949-Facebook, Inc.",
+            "value": 0.175115
+          },
+          {
+            "name": "13335-2367-Cloudflare, Inc.",
+            "value": 0.052145
+          },
+          {
+            "name": "36492-1730-Google LLC",
+            "value": 0.038112
+          },
+          {
+            "name": "47583-1033-Hostinger International Limited",
+            "value": 0.022757
+          },
+          {
+            "name": "6939-737-Hurricane Electric LLC",
+            "value": 0.016236
+          },
+          {
+            "name": "20473-590-The Constant Company, LLC",
+            "value": 0.012998
+          },
+          {
+            "name": "15169-279-Google LLC",
+            "value": 0.006146
+          },
+          {
+            "name": "Others",
+            "value": 0.08111400000000002
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.341299
+          },
+          {
+            "name": "395839-10.0-HOSTKEY",
+            "value": 0.106656
+          },
+          {
+            "name": "29182-7.0-JSC IOT",
+            "value": 0.074659
+          },
+          {
+            "name": "213220-6.500015-Delta Ltd",
+            "value": 0.069326
+          },
+          {
+            "name": "44812-6.0-IP SERVER LLC",
+            "value": 0.063994
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.053328
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.042662
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.042662
+          },
+          {
+            "name": "210644-3.0-AEZA INTERNATIONAL LTD",
+            "value": 0.031997
+          },
+          {
+            "name": "Others",
+            "value": 0.14141999999999988
+          }
+        ],
+        "name": "sat_as_ratio"
+      }
+    ],
+    [
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "20940-12700-Akamai International B.V.",
+            "value": 0.280347
+          },
+          {
+            "name": "16509-12054-Amazon.com, Inc.",
+            "value": 0.266087
+          },
+          {
+            "name": "32934-7858-Facebook, Inc.",
+            "value": 0.173462
+          },
+          {
+            "name": "13335-2368-Cloudflare, Inc.",
+            "value": 0.052273
+          },
+          {
+            "name": "36492-1731-Google LLC",
+            "value": 0.038211
+          },
+          {
+            "name": "47583-1031-Hostinger International Limited",
+            "value": 0.022759
+          },
+          {
+            "name": "6939-732-Hurricane Electric LLC",
+            "value": 0.016159
+          },
+          {
+            "name": "20473-589-The Constant Company, LLC",
+            "value": 0.013002
+          },
+          {
+            "name": "15169-279-Google LLC",
+            "value": 0.006159
+          },
+          {
+            "name": "Others",
+            "value": 0.005550999999999973
+          }
+        ],
+        "name": "as_ratio"
+      },
+      {
+        "title": "AS-Num-Org",
+        "data": [
+          {
+            "name": "209641-32.0-I-SERVERS LTD",
+            "value": 0.330716
+          },
+          {
+            "name": "395839-11.0-HOSTKEY",
+            "value": 0.113684
+          },
+          {
+            "name": "29182-7.0-JSC IOT",
+            "value": 0.072344
+          },
+          {
+            "name": "213220-6.500015-Delta Ltd",
+            "value": 0.067177
+          },
+          {
+            "name": "44812-6.0-IP SERVER LLC",
+            "value": 0.062009
+          },
+          {
+            "name": "197992-5.0-DEFSOLUTION LLC",
+            "value": 0.051674
+          },
+          {
+            "name": "29014-4.0-ScaleUp Technologies GmbH & Co. KG",
+            "value": 0.041339
+          },
+          {
+            "name": "57043-4.0-HOSTKEY B.V.",
+            "value": 0.041339
+          },
+          {
+            "name": "204916-3.0-RACKTECH CO., LTD.",
+            "value": 0.031005
+          },
+          {
+            "name": "Others",
+            "value": 0.15770800000000007
           }
         ],
         "name": "sat_as_ratio"

@@ -426,7 +426,6 @@
 2a04:4540:aa00:0099:0000:0000:0000:02::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a06:41c0:0001:0006:0000:0000:0000:01::/120,42846.0,GNET Internet Telekomunikasyon A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
 2a07:9946::/32,64080.0,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:8280:0009::/48,40509.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0a:7d80:0001:0007:0000:0000:0097:00::/120,6697.0,Republican Unitary Telecommunication Enterprise Beltelecom,BY,Computer and Information Technology,Internet Service Provider (ISP)
 2a0b:0d40:0000:0000:0000:0000:0000:00::/120,59437.0,Northern Data AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:e283::/32,44812.0,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)

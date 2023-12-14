@@ -1,0 +1,17 @@
+2600:9000:224d::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:225d::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2645::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2648::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2651::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2654::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:267d::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2688::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a06:d642::/32,211027,Perfect Cloud Technologies LLC,RU,"Media, Publishing, and Broadcasting",Other
+2a0d:8b07::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a0f:9400:74::/40,53356,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a10:c0c5::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a11:5a43::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a11:0642:7cf0::/48,49392,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:8f81:66b8::/48,49392,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a02:e981:0001::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security

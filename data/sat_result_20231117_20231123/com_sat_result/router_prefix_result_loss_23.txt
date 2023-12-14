@@ -7,5 +7,4 @@
 2a0e:a941::/32,210499,Al Asmary Abdullah Ibrahim A,SA,Computer and Information Technology,Software Development
 2a0e:a943::/32,210499,Al Asmary Abdullah Ibrahim A,SA,Computer and Information Technology,Software Development
 2a10:c346::/32,204916,"RACKTECH CO., LTD.",TH,,
-2a11:e101::/32,198231,SIXNET OPERATION LTD,GB,,
 2a13:3f82::/32,52042,Kew Solutions Unipessoal Lda,PT,Construction and Real Estate,Buildings (Residential or Commercial)

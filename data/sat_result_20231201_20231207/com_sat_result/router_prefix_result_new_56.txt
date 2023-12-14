@@ -1,0 +1,20 @@
+2600:9000:2651::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2654::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2001:4488:fc31:01::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
+2400:54a0:210::/44,209642,Mejiro Network Limited,HK,,
+2600:9000:2639::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:263c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2606:bc40:0f21::/48,20253,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:3700::/32,51659,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2a0f:9400:6104::/48,53356,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+2a12:cc03::/32,51659,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+2001:0df2:4600::/48,135489,FENGYE NETWORKS LIMITED,HK,Other,
+2600:9000:21b2::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:21dd::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:263f::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:2642::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a02:e980:01b0::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:01b1::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:0001::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:006a::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security

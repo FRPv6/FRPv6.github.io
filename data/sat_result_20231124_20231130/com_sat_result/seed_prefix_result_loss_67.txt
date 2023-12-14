@@ -388,6 +388,7 @@
 2a02:26f0:5c00:01::/56,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:9200:0000:0000:0000:0211:6b::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
 2a02:26f0:9200:0000:0000:0000:58dd:53::/120,20940.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+2a02:26f0:cb00:01::/56,9121.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:3102:8001:800f:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:3102:8001:8016:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a02:3102:8001:8020:0000:0000:0000:01::/120,6805.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
@@ -424,10 +425,10 @@
 2a04:4540:ab00:0099:0000:0000:0000:00::/120,15943.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
 2a0a:7d80:0001:0007:0000:0000:0097:00::/120,6697.0,Republican Unitary Telecommunication Enterprise Beltelecom,BY,Computer and Information Technology,Internet Service Provider (ISP)
 2a0d:ee00:008f:0668:0000:0000:0001:1::/116,42487.0,Vialis SEM,FR,Computer and Information Technology,Internet Service Provider (ISP)
+2a0e:f201:0001:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:fdc1:1000:1001:0000:0000:0000:06::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:fdc1:1000:1001:0000:0000:0000:07::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
 2a0e:fdc1:1000:1001:0000:0000:0000:09::/120,207375.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
 2a0f:1e01:0001:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0f:1e81:0002:1::/52,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0f:2100::/32,30633.0,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2a11:7e40::/32,,,,,

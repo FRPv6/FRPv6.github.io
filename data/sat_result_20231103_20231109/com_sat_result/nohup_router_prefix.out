@@ -1,3 +1,9 @@
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
 ++++++++++++++++++++day 1
 df_alias_prefix_pre:  4204
 df_all_prefix:  201160
@@ -8,7 +14,7 @@ df_all_prefix:  201355
 df_alias_prefix_pre:  4309
 df_all_prefix:  201232
 df_all:  4359
-df_all_router_prefix:  201974
+df_merge_all_prefix:  201974
 ++++++++++++++++++++day 2
 df_alias_prefix_pre:  4184
 df_all_prefix:  201183
@@ -19,18 +25,18 @@ df_all_prefix:  201181
 df_alias_prefix_pre:  4308
 df_all_prefix:  201181
 df_all:  4335
-df_all_router_prefix:  201689
+df_merge_all_prefix:  201689
 ++++++++++++++++++++day 3
 df_alias_prefix_pre:  4309
 df_all_prefix:  201527
-df_alias_prefix_pre:  4281
+df_alias_prefix_pre:  4285
 df_all_prefix:  201507
 df_alias_prefix_pre:  4168
 df_all_prefix:  201502
 df_alias_prefix_pre:  4289
 df_all_prefix:  201502
-df_all:  4336
-df_all_router_prefix:  201902
+df_all:  4337
+df_merge_all_prefix:  201902
 ++++++++++++++++++++day 4
 df_alias_prefix_pre:  4308
 df_all_prefix:  201592
@@ -38,10 +44,10 @@ df_alias_prefix_pre:  4270
 df_all_prefix:  201407
 df_alias_prefix_pre:  4035
 df_all_prefix:  201422
-df_alias_prefix_pre:  4067
+df_alias_prefix_pre:  4265
 df_all_prefix:  201504
-df_all:  4868
-df_all_router_prefix:  202254
+df_all:  4349
+df_merge_all_prefix:  202254
 ++++++++++++++++++++day 5
 df_alias_prefix_pre:  4319
 df_all_prefix:  201244
@@ -52,7 +58,7 @@ df_all_prefix:  201650
 df_alias_prefix_pre:  4300
 df_all_prefix:  201626
 df_all:  4384
-df_all_router_prefix:  202569
+df_merge_all_prefix:  202569
 ++++++++++++++++++++day 6
 df_alias_prefix_pre:  4176
 df_all_prefix:  201825
@@ -63,7 +69,7 @@ df_all_prefix:  201942
 df_alias_prefix_pre:  3972
 df_all_prefix:  202008
 df_all:  4357
-df_all_router_prefix:  203482
+df_merge_all_prefix:  203482
 ++++++++++++++++++++day 7
 df_alias_prefix_pre:  4119
 df_all_prefix:  203088
@@ -74,8 +80,8 @@ df_all_prefix:  203398
 df_alias_prefix_pre:  4313
 df_all_prefix:  203611
 df_all:  4384
-df_all_router_prefix:  204301
-7
+df_merge_all_prefix:  204301
+[1391.48391777277, 1387.4797216057777, 1387.4797521233559, 1387.5463109612465, 1391.5470128655434, 1387.5455175042152, 1398.5382085442543]
 ############################################### day  1
 &&&&&&&&& 1
 Number of aliased prefix (all):  4359
@@ -98,50 +104,24 @@ Number of aliased prefix (cannot get as):  0
 Number of aliased prefix (can get as):  4335
 ############################################### day  3
 &&&&&&&&& 3
-Number of aliased prefix (all):  4336
+Number of aliased prefix (all):  4337
 ------------------------------------
 Empty DataFrame
 Columns: [prefix, as, org_name, country, category, sub_category]
 Index: []
 Number of aliased prefix (cannot get as):  0
 ------------------------------------
-Number of aliased prefix (can get as):  4336
+Number of aliased prefix (can get as):  4337
 ############################################### day  4
 &&&&&&&&& 4
-Number of aliased prefix (all):  4868
+Number of aliased prefix (all):  4349
 ------------------------------------
-                   prefix  as org_name country category sub_category
-4333  2600:9000:200c::/48 NaN      NaN     NaN      NaN          NaN
-4334  2600:9000:2010::/48 NaN      NaN     NaN      NaN          NaN
-4335  2600:9000:2011::/48 NaN      NaN     NaN      NaN          NaN
-4336  2600:9000:2056::/48 NaN      NaN     NaN      NaN          NaN
-4337  2600:9000:2063::/48 NaN      NaN     NaN      NaN          NaN
-4338  2600:9000:20b2::/48 NaN      NaN     NaN      NaN          NaN
-4339  2600:9000:20c7::/48 NaN      NaN     NaN      NaN          NaN
-4340  2600:9000:2108::/48 NaN      NaN     NaN      NaN          NaN
-4341  2600:9000:212b::/48 NaN      NaN     NaN      NaN          NaN
-4342  2600:9000:213a::/48 NaN      NaN     NaN      NaN          NaN
-4343  2600:9000:2142::/48 NaN      NaN     NaN      NaN          NaN
-4344  2600:9000:218b::/48 NaN      NaN     NaN      NaN          NaN
-4345  2600:9000:21b7::/48 NaN      NaN     NaN      NaN          NaN
-4346  2600:9000:21bc::/48 NaN      NaN     NaN      NaN          NaN
-4347  2600:9000:21df::/48 NaN      NaN     NaN      NaN          NaN
-4348  2600:9000:21e1::/48 NaN      NaN     NaN      NaN          NaN
-4349  2600:9000:21f9::/48 NaN      NaN     NaN      NaN          NaN
-4350  2600:9000:26d7::/48 NaN      NaN     NaN      NaN          NaN
-4351  2600:9000:26db::/48 NaN      NaN     NaN      NaN          NaN
-4352  2606:bc40:0f03::/48 NaN      NaN     NaN      NaN          NaN
-4353  2606:bc40:0f17::/48 NaN      NaN     NaN      NaN          NaN
-4358  2a0a:6040:d20b::/48 NaN      NaN     NaN      NaN          NaN
-4360       2a11:e101::/32 NaN      NaN     NaN      NaN          NaN
-4362  2600:9000:21aa::/48 NaN      NaN     NaN      NaN          NaN
-4363  2600:9000:2051::/48 NaN      NaN     NaN      NaN          NaN
-4367  2600:9000:2050::/48 NaN      NaN     NaN      NaN          NaN
-4551  2a05:dfc1:5908::/48 NaN      NaN     NaN      NaN          NaN
-4594        2a07:e08::/28 NaN      NaN     NaN      NaN          NaN
-Number of aliased prefix (cannot get as):  28
+Empty DataFrame
+Columns: [prefix, as, org_name, country, category, sub_category]
+Index: []
+Number of aliased prefix (cannot get as):  0
 ------------------------------------
-Number of aliased prefix (can get as):  4840
+Number of aliased prefix (can get as):  4349
 ############################################### day  5
 &&&&&&&&& 5
 Number of aliased prefix (all):  4384
@@ -181,24 +161,24 @@ result_new:  3
 --------------------- end compare 1 and 2
 ################################ start compare 2 and 3
 df_alias_prefix_pre:  4335
-df_alias_prefix_next:  4336
-result_co:  4332
-result_loss:  5
+df_alias_prefix_next:  4337
+result_co:  4333
+result_loss:  4
 result_new:  9
 --------------------- end compare 2 and 3
 ################################ start compare 3 and 4
-df_alias_prefix_pre:  4336
-df_alias_prefix_next:  4868
-result_co:  4329
-result_loss:  34
-result_new:  540
+df_alias_prefix_pre:  4337
+df_alias_prefix_next:  4349
+result_co:  4309
+result_loss:  28
+result_new:  41
 --------------------- end compare 3 and 4
 ################################ start compare 4 and 5
-df_alias_prefix_pre:  4868
+df_alias_prefix_pre:  4349
 df_alias_prefix_next:  4384
-result_co:  4336
-result_loss:  532
-result_new:  71
+result_co:  4320
+result_loss:  29
+result_new:  64
 --------------------- end compare 4 and 5
 ################################ start compare 5 and 6
 df_alias_prefix_pre:  4384

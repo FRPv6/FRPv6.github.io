@@ -4503,6 +4503,6 @@
 2a04:4e42:004c::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
 2a0b:cf41::/32,44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing",44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
 2a0b:cf42::/32,44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing",44477,STARK INDUSTRIES SOLUTIONS LTD,GB,Manufacturing,"Metal, Glass, Wood, and Paper Manufacturing"
-2a13:c007:85::/40,199186,KIRILL ZINOV,RU,,,199186,KIRILL ZINOV,RU,,
 2a05:dfc1:15::/40,61317,Hivelocity Inc,US,Computer and Information Technology,,61317,Hivelocity Inc,US,Computer and Information Technology,
 2a09:9447::/32,62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP),62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a13:c007:85::/40,199186,KIRILL ZINOV,RU,,,199186,KIRILL ZINOV,RU,,

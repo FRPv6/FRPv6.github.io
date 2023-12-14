@@ -1,0 +1,292 @@
+++++++++++++++++++++day 1
+df_alias_prefix_pre:  47197
+df_all_prefix:  56275
+df_alias_prefix_pre:  47400
+df_all_prefix:  56275
+df_alias_prefix_pre:  46696
+df_all_prefix:  56275
+df_alias_prefix_pre:  47752
+df_all_prefix:  56275
+df_all:  48377
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 2
+df_alias_prefix_pre:  47684
+df_all_prefix:  56275
+df_alias_prefix_pre:  47682
+df_all_prefix:  56275
+df_alias_prefix_pre:  47394
+df_all_prefix:  56275
+df_alias_prefix_pre:  47628
+df_all_prefix:  56275
+df_all:  48415
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 3
+df_alias_prefix_pre:  47558
+df_all_prefix:  56275
+df_alias_prefix_pre:  47412
+df_all_prefix:  56275
+df_alias_prefix_pre:  47321
+df_all_prefix:  56275
+df_alias_prefix_pre:  47714
+df_all_prefix:  56275
+df_all:  48388
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 4
+df_alias_prefix_pre:  47641
+df_all_prefix:  56275
+df_alias_prefix_pre:  47714
+df_all_prefix:  56275
+df_alias_prefix_pre:  47079
+df_all_prefix:  56275
+df_alias_prefix_pre:  47348
+df_all_prefix:  56275
+df_all:  48497
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 5
+df_alias_prefix_pre:  47596
+df_all_prefix:  56275
+df_alias_prefix_pre:  34525
+df_all_prefix:  56275
+df_alias_prefix_pre:  47346
+df_all_prefix:  56275
+df_alias_prefix_pre:  47717
+df_all_prefix:  56275
+df_all:  48467
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 6
+df_alias_prefix_pre:  47472
+df_all_prefix:  56275
+df_alias_prefix_pre:  47709
+df_all_prefix:  56275
+df_alias_prefix_pre:  46863
+df_all_prefix:  56275
+df_alias_prefix_pre:  47398
+df_all_prefix:  56275
+df_all:  48433
+df_merge_all_prefix:  56275
+++++++++++++++++++++day 7
+df_alias_prefix_pre:  46427
+df_all_prefix:  56275
+df_alias_prefix_pre:  47529
+df_all_prefix:  56275
+df_alias_prefix_pre:  47384
+df_all_prefix:  56275
+df_alias_prefix_pre:  47641
+df_all_prefix:  56275
+df_all:  48330
+df_merge_all_prefix:  56275
+[1441.3236479737245, 1439.3586668387436, 1436.358502166244, 1436.3858472061258, 1436.386195075131, 1450.5144140863706, 1439.3858298770067]
+############################################### day  1
+raw seed aliased prefix: 48377
+current router prefix: 4536
+all: 52913
+all after del dup: 49931
+number of directly del dup: 2982
+alias prefix number after gen short: 49575
+seed prefix after del router prefix: 45318
+number of del contain: 77
+&&&&&&&&& 1
+Number of aliased prefix (all):  45318
+------------------------------------
+                         prefix  as org_name country category sub_category
+4536   2400:cb00:0688:0000::/64 NaN      NaN     NaN      NaN          NaN
+4537   2400:cb00:0688:0001::/64 NaN      NaN     NaN      NaN          NaN
+4538   2400:cb00:0688:2003::/64 NaN      NaN     NaN      NaN          NaN
+4539   2400:cb00:0688:2004::/64 NaN      NaN     NaN      NaN          NaN
+4540   2400:cb00:0688:2005::/64 NaN      NaN     NaN      NaN          NaN
+44379  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44380  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  7
+------------------------------------
+Number of aliased prefix (can get as):  45311
+############################################### day  2
+raw seed aliased prefix: 48415
+current router prefix: 4524
+all: 52939
+all after del dup: 49956
+number of directly del dup: 2983
+alias prefix number after gen short: 49600
+seed prefix after del router prefix: 45356
+number of del contain: 76
+&&&&&&&&& 2
+Number of aliased prefix (all):  45356
+------------------------------------
+                         prefix  as org_name country category sub_category
+4521   2400:cb00:0688:0000::/64 NaN      NaN     NaN      NaN          NaN
+4522   2400:cb00:0688:0001::/64 NaN      NaN     NaN      NaN          NaN
+4523   2400:cb00:0688:2003::/64 NaN      NaN     NaN      NaN          NaN
+4524   2400:cb00:0688:2004::/64 NaN      NaN     NaN      NaN          NaN
+4525   2400:cb00:0688:2005::/64 NaN      NaN     NaN      NaN          NaN
+44416  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44417  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  7
+------------------------------------
+Number of aliased prefix (can get as):  45349
+############################################### day  3
+raw seed aliased prefix: 48388
+current router prefix: 4523
+all: 52911
+all after del dup: 49971
+number of directly del dup: 2940
+alias prefix number after gen short: 49614
+seed prefix after del router prefix: 45366
+number of del contain: 82
+&&&&&&&&& 3
+Number of aliased prefix (all):  45366
+------------------------------------
+                         prefix  as org_name country category sub_category
+4521   2400:cb00:0688:0000::/64 NaN      NaN     NaN      NaN          NaN
+4522   2400:cb00:0688:0001::/64 NaN      NaN     NaN      NaN          NaN
+4523   2400:cb00:0688:2003::/64 NaN      NaN     NaN      NaN          NaN
+4524   2400:cb00:0688:2004::/64 NaN      NaN     NaN      NaN          NaN
+4525   2400:cb00:0688:2005::/64 NaN      NaN     NaN      NaN          NaN
+44419  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44420  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  7
+------------------------------------
+Number of aliased prefix (can get as):  45359
+############################################### day  4
+raw seed aliased prefix: 48497
+current router prefix: 4528
+all: 53025
+all after del dup: 50045
+number of directly del dup: 2980
+alias prefix number after gen short: 49689
+seed prefix after del router prefix: 45435
+number of del contain: 82
+&&&&&&&&& 4
+Number of aliased prefix (all):  45435
+------------------------------------
+                         prefix  as org_name country category sub_category
+4530   2400:cb00:0688:0000::/64 NaN      NaN     NaN      NaN          NaN
+4531   2400:cb00:0688:0001::/64 NaN      NaN     NaN      NaN          NaN
+4532   2400:cb00:0688:2003::/64 NaN      NaN     NaN      NaN          NaN
+4533   2400:cb00:0688:2004::/64 NaN      NaN     NaN      NaN          NaN
+4534   2400:cb00:0688:2005::/64 NaN      NaN     NaN      NaN          NaN
+44494  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44495  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  7
+------------------------------------
+Number of aliased prefix (can get as):  45428
+############################################### day  5
+raw seed aliased prefix: 48467
+current router prefix: 4541
+all: 53008
+all after del dup: 50017
+number of directly del dup: 2991
+alias prefix number after gen short: 49661
+seed prefix after del router prefix: 45399
+number of del contain: 77
+&&&&&&&&& 5
+Number of aliased prefix (all):  45399
+------------------------------------
+                         prefix  as org_name country category sub_category
+4529   2400:cb00:0688:0000::/64 NaN      NaN     NaN      NaN          NaN
+4530   2400:cb00:0688:0001::/64 NaN      NaN     NaN      NaN          NaN
+4531   2400:cb00:0688:2003::/64 NaN      NaN     NaN      NaN          NaN
+4532   2400:cb00:0688:2004::/64 NaN      NaN     NaN      NaN          NaN
+4533   2400:cb00:0688:2005::/64 NaN      NaN     NaN      NaN          NaN
+24819       2600:9000:2651::/48 NaN      NaN     NaN      NaN          NaN
+24820       2600:9000:2654::/48 NaN      NaN     NaN      NaN          NaN
+44461  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44462  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  9
+------------------------------------
+Number of aliased prefix (can get as):  45390
+############################################### day  6
+raw seed aliased prefix: 48433
+current router prefix: 4535
+all: 52968
+all after del dup: 50010
+number of directly del dup: 2958
+alias prefix number after gen short: 49656
+seed prefix after del router prefix: 45395
+number of del contain: 80
+&&&&&&&&& 6
+Number of aliased prefix (all):  45395
+------------------------------------
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+sat_result.py:283: UserWarning: constrained_layout not applied because axes sizes collapsed to zero.  Try making figure larger or axes decorations smaller.
+  plt.savefig(path)
+                         prefix  as org_name country category sub_category
+44452  2a06:a005:26c8:0000::/64 NaN      NaN     NaN      NaN          NaN
+44453  2a06:a005:26c9:0000::/64 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  2
+------------------------------------
+Number of aliased prefix (can get as):  45393
+############################################### day  7
+raw seed aliased prefix: 48330
+current router prefix: 4546
+all: 52876
+all after del dup: 49936
+number of directly del dup: 2940
+alias prefix number after gen short: 49580
+seed prefix after del router prefix: 45309
+number of del contain: 81
+&&&&&&&&& 7
+Number of aliased prefix (all):  45309
+------------------------------------
+                    prefix  as org_name country category sub_category
+22644  2600:9000:207e::/48 NaN      NaN     NaN      NaN          NaN
+22645  2600:9000:20bd::/48 NaN      NaN     NaN      NaN          NaN
+22646  2600:9000:20d3::/48 NaN      NaN     NaN      NaN          NaN
+22647  2600:9000:20ea::/48 NaN      NaN     NaN      NaN          NaN
+24799  2600:9000:2645::/48 NaN      NaN     NaN      NaN          NaN
+24800  2600:9000:2648::/48 NaN      NaN     NaN      NaN          NaN
+24801  2600:9000:2651::/48 NaN      NaN     NaN      NaN          NaN
+24802  2600:9000:2654::/48 NaN      NaN     NaN      NaN          NaN
+Number of aliased prefix (cannot get as):  8
+------------------------------------
+Number of aliased prefix (can get as):  45301
+################################ start compare 0 and 1
+df_alias_prefix_pre:  26797
+df_alias_prefix_next:  45318
+result_co:  25109
+result_loss:  1688
+result_new:  20209
+--------------------- end compare 0 and 1
+################################ start compare 1 and 2
+df_alias_prefix_pre:  45318
+df_alias_prefix_next:  45356
+result_co:  45134
+result_loss:  184
+result_new:  222
+--------------------- end compare 1 and 2
+################################ start compare 2 and 3
+df_alias_prefix_pre:  45356
+df_alias_prefix_next:  45366
+result_co:  45180
+result_loss:  176
+result_new:  186
+--------------------- end compare 2 and 3
+################################ start compare 3 and 4
+df_alias_prefix_pre:  45366
+df_alias_prefix_next:  45435
+result_co:  45197
+result_loss:  169
+result_new:  238
+--------------------- end compare 3 and 4
+################################ start compare 4 and 5
+df_alias_prefix_pre:  45435
+df_alias_prefix_next:  45399
+result_co:  45179
+result_loss:  256
+result_new:  220
+--------------------- end compare 4 and 5
+################################ start compare 5 and 6
+df_alias_prefix_pre:  45399
+df_alias_prefix_next:  45395
+result_co:  45173
+result_loss:  226
+result_new:  222
+--------------------- end compare 5 and 6
+################################ start compare 6 and 7
+df_alias_prefix_pre:  45395
+df_alias_prefix_next:  45309
+result_co:  45081
+result_loss:  314
+result_new:  228
+--------------------- end compare 6 and 7

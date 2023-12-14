@@ -1,0 +1,6 @@
+2600:9000:2639::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2600:9000:263c::/48,16509,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+2a09:3d02::/32,204916,"RACKTECH CO., LTD.",TH,,
+2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+2a09:9447::/32,62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+2a11:0e83::/32,204916,"RACKTECH CO., LTD.",TH,,

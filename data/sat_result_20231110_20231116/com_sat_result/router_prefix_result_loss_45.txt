@@ -17,5 +17,4 @@
 2a0d:8b05::/32,204916,"RACKTECH CO., LTD.",TH,,
 2a0f:7804::/32,202888,UPSTREAM NETWORK LTD,GB,,
 2a0f:7806::/32,202888,UPSTREAM NETWORK LTD,GB,,
-2a06:d640:8ed9::/48,213220,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)

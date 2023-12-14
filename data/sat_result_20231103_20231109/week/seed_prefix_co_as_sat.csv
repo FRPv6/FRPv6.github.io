@@ -1,0 +1,365 @@
+as,as_alias_num,as_all_num,as_ratio,sta_as_alias_num,sta_as_all_num,sat_as_ratio,org_name,country,category,sub_category
+29182,9,37989,0.000237,7.0,31.086095,0.225181,JSC IOT,RU,Computer and Information Technology,None
+209968,5,37989,0.000132,5.0,31.086095,0.160844,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+204916,4,37989,0.000105,3.0625,31.086095,0.098517,"RACKTECH CO., LTD.",TH,None,None
+51659,3,37989,7.9e-05,3.0,31.086095,0.096506,LLC Baxet,RU,Computer and Information Technology,Internet Service Provider (ISP)
+202888,3,37989,7.9e-05,2.000015,31.086095,0.064338,UPSTREAM NETWORK LTD,GB,None,None
+395839,11,37989,0.00029,2.0,31.086095,0.064337,HOSTKEY,US,Computer and Information Technology,Phone Provider
+197992,8,37989,0.000211,2.0,31.086095,0.064337,DEFSOLUTION LLC,US,None,None
+57043,6,37989,0.000158,2.0,31.086095,0.064337,HOSTKEY B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+62240,1,37989,2.6e-05,1.0,31.086095,0.032169,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+51126,1,37989,2.6e-05,1.0,31.086095,0.032169,Kew Solutions Unipessoal Lda,PT,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+52042,1,37989,2.6e-05,1.0,31.086095,0.032169,Kew Solutions Unipessoal Lda,PT,Construction and Real Estate,Buildings (Residential or Commercial)
+44812,9,37989,0.000237,1.0,31.086095,0.032169,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+64267,8,37989,0.000211,0.5,31.086095,0.016084,Sprious LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+30721,8,37989,0.000211,0.4375,31.086095,0.014074,SatGate LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+36492,1652,37989,0.043486,0.07529,31.086095,0.002422,Google LLC,US,Computer and Information Technology,Software Development
+138652,2,37989,5.3e-05,0.007812,31.086095,0.000251,Super Godzilla Communications GK,JP,Computer and Information Technology,Internet Service Provider (ISP)
+41378,17,37989,0.000447,0.000641,31.086095,2.1e-05,Kirino LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+16509,851,37989,0.022401,0.000586,31.086095,1.9e-05,"Amazon.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+62874,2,37989,5.3e-05,0.000488,31.086095,1.6e-05,Web2Objects LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+36183,18,37989,0.000474,0.000275,31.086095,9e-06,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+140810,6,37989,0.000158,0.000244,31.086095,8e-06,Megacore Technology Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+13213,190,37989,0.005001,0.000159,31.086095,5e-06,UK-2 Limited,GB,Computer and Information Technology,Hosting and Cloud Provider
+205212,12,37989,0.000316,9.2e-05,31.086095,3e-06,LoudTronix Inc.,CA,Community Groups and Nonprofits,Other
+45609,37,37989,0.000974,6.1e-05,31.086095,2e-06,Bharti Airtel Limited,IN,Computer and Information Technology,Internet Service Provider (ISP)
+60068,12,37989,0.000316,6.1e-05,31.086095,2e-06,Datacamp Limited,GB,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+62217,12,37989,0.000316,4.6e-05,31.086095,1e-06,Vinters IT Ltd,GB,Computer and Information Technology,None
+9009,254,37989,0.006686,4.5e-05,31.086095,1e-06,M247 Europe SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+138997,4,37989,0.000105,3.1e-05,31.086095,1e-06,Eons Data Communications Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+61317,4,37989,0.000105,3.1e-05,31.086095,1e-06,Hivelocity Inc,US,Computer and Information Technology,None
+30633,78,37989,0.002053,3e-05,31.086095,1e-06,"Leaseweb USA, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+262287,35,37989,0.000921,2.8e-05,31.086095,1e-06,Latitude.sh LTDA,BR,Computer and Information Technology,Hosting and Cloud Provider
+20940,14187,37989,0.37345,2.4e-05,31.086095,1e-06,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+396982,8861,37989,0.233252,1.7e-05,31.086095,1e-06,Google LLC,US,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+40509,1,37989,2.6e-05,1.5e-05,31.086095,0.0,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+268972,1,37989,2.6e-05,1.5e-05,31.086095,0.0,ERBCOM TELECOMUNICACOES EIRELI - ME,BR,Computer and Information Technology,Internet Service Provider (ISP)
+46841,2,37989,5.3e-05,1.5e-05,31.086095,0.0,"Fork Networking, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+55081,15,37989,0.000395,1.1e-05,31.086095,0.0,24 SHELLS,US,Computer and Information Technology,Internet Service Provider (ISP)
+396356,33,37989,0.000869,1e-05,31.086095,0.0,Latitude.sh,US,Computer and Information Technology,Internet Service Provider (ISP)
+54113,8,37989,0.000211,8e-06,31.086095,0.0,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+41717,9,37989,0.000237,8e-06,31.086095,0.0,Telfly Technology Limited,HK,None,None
+133480,7,37989,0.000184,7e-06,31.086095,0.0,Intergrid Group Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
+62282,3,37989,7.9e-05,3e-06,31.086095,0.0,UAB Rakrejus,LT,Computer and Information Technology,None
+12167,3,37989,7.9e-05,3e-06,31.086095,0.0,LightWave Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+46562,14,37989,0.000369,3e-06,31.086095,0.0,Performive LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+40676,3,37989,7.9e-05,3e-06,31.086095,0.0,Psychz Networks,US,Computer and Information Technology,Hosting and Cloud Provider
+11990,2,37989,5.3e-05,2e-06,31.086095,0.0,"Unlimited Net, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+8100,8,37989,0.000211,2e-06,31.086095,0.0,QuadraNet Enterprises LLC,US,Computer and Information Technology,Computer and Network Security
+140824,2,37989,5.3e-05,2e-06,31.086095,0.0,VNIDC TECHNOLOGY COMPANY LIMITED,VN,None,None
+149151,2,37989,5.3e-05,2e-06,31.086095,0.0,VNSUN CLOUD COMPANY LIMITED,VN,None,None
+6939,611,37989,0.016084,1e-06,31.086095,0.0,Hurricane Electric LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+26527,1,37989,2.6e-05,1e-06,31.086095,0.0,LightWave Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+45027,2,37989,5.3e-05,1e-06,31.086095,0.0,"LLC ""Internet Tehnologii""",RU,Computer and Information Technology,Software Development
+9498,33,37989,0.000869,1e-06,31.086095,0.0,Bharti Airtel Limited,IN,Computer and Information Technology,Internet Service Provider (ISP)
+134094,1,37989,2.6e-05,1e-06,31.086095,0.0,"SERVERFIELD CO., LTD.",TW,Computer and Information Technology,Internet Service Provider (ISP)
+11878,1,37989,2.6e-05,1e-06,31.086095,0.0,"tzulo, inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+397373,5,37989,0.000132,1e-06,31.086095,0.0,H4Y Technologies LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+55410,1,37989,2.6e-05,0.0,31.086095,0.0,Vodafone Idea Ltd. (VIL),IN,Computer and Information Technology,Internet Service Provider (ISP)
+205544,1,37989,2.6e-05,0.0,31.086095,0.0,LEASEWEB UK LIMITED,GB,Computer and Information Technology,None
+212238,1,37989,2.6e-05,0.0,31.086095,0.0,Datacamp Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+54455,1,37989,2.6e-05,0.0,31.086095,0.0,MadeIT inc.,US,Computer and Information Technology,Hosting and Cloud Provider
+212772,1,37989,2.6e-05,0.0,31.086095,0.0,AdGuard Software Limited,CY,Computer and Information Technology,Computer and Network Security
+53667,10,37989,0.000263,0.0,31.086095,0.0,FranTech Solutions,US,Computer and Information Technology,Hosting and Cloud Provider
+53356,1,37989,2.6e-05,0.0,31.086095,0.0,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+213192,1,37989,2.6e-05,0.0,31.086095,0.0,NetBase BV,NL,Computer and Information Technology,Hosting and Cloud Provider
+51873,8,37989,0.000211,0.0,31.086095,0.0,Arcade Solutions AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+55430,1,37989,2.6e-05,0.0,31.086095,0.0,Starhub Ltd.,SG,Computer and Information Technology,Internet Service Provider (ISP)
+55990,3,37989,7.9e-05,0.0,31.086095,0.0,Huawei,CN,Computer and Information Technology,None
+55644,3,37989,7.9e-05,0.0,31.086095,0.0,Vodafone Idea Ltd. (VIL),IN,Computer and Information Technology,Internet Service Provider (ISP)
+55818,2,37989,5.3e-05,0.0,31.086095,0.0,Corporate / Direct Member IDNIC,ID,Computer and Information Technology,Internet Service Provider (ISP)
+58777,1,37989,2.6e-05,0.0,31.086095,0.0,ChinaTelecom Cybersecurity Tech,CN,Computer and Information Technology,None
+210644,124,37989,0.003264,0.0,31.086095,0.0,AEZA INTERNATIONAL LTD,GB,None,None
+58542,9,37989,0.000237,0.0,31.086095,0.0,"Tianjij,300000",CN,Computer and Information Technology,Internet Service Provider (ISP)
+58541,2,37989,5.3e-05,0.0,31.086095,0.0,"Qingdao,266000",CN,Computer and Information Technology,Internet Service Provider (ISP)
+58487,123,37989,0.003238,0.0,31.086095,0.0,Rumahweb,ID,Computer and Information Technology,Internet Service Provider (ISP)
+58466,1,37989,2.6e-05,0.0,31.086095,0.0,CHINANET Guangdong province network,CN,Computer and Information Technology,Software Development
+58453,6,37989,0.000158,0.0,31.086095,0.0,China Mobile International Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+58057,10,37989,0.000263,0.0,31.086095,0.0,Securebit AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+211786,1,37989,2.6e-05,0.0,31.086095,0.0,KaasHosting B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+56655,1,37989,2.6e-05,0.0,31.086095,0.0,TerraHost AS,NO,Computer and Information Technology,Internet Service Provider (ISP)
+56630,1,37989,2.6e-05,0.0,31.086095,0.0,Melbikomas UAB,LT,Computer and Information Technology,None
+56046,7,37989,0.000184,0.0,31.086095,0.0,China Mobile Communications Corporation,CN,Computer and Information Technology,Internet Service Provider (ISP)
+56041,3,37989,7.9e-05,0.0,31.086095,0.0,China Mobile Communications Corporation,CN,Computer and Information Technology,Internet Service Provider (ISP)
+56040,19,37989,0.0005,0.0,31.086095,0.0,China Mobile Communications Corporation,CN,Computer and Information Technology,Internet Service Provider (ISP)
+55836,60,37989,0.001579,0.0,31.086095,0.0,Reliance Jio Infocomm Limited,IN,Computer and Information Technology,Internet Service Provider (ISP)
+213220,55,37989,0.001448,0.0,31.086095,0.0,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
+51115,6,37989,0.000158,0.0,31.086095,0.0,HLL LLC,RU,Computer and Information Technology,None
+51468,28,37989,0.000737,0.0,31.086095,0.0,One.com A/S,DK,Computer and Information Technology,None
+44974,2,37989,5.3e-05,0.0,31.086095,0.0,RegioNet Schweinfurt GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+45727,4,37989,0.000105,0.0,31.086095,0.0,"Hutchison CP Telecommunications, PT",ID,Computer and Information Technology,Internet Service Provider (ISP)
+397031,1,37989,2.6e-05,0.0,31.086095,0.0,"GALAXYGATE, LLC",US,Other,None
+397220,16,37989,0.000421,0.0,31.086095,0.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
+397226,4,37989,0.000105,0.0,31.086095,0.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
+45474,3,37989,7.9e-05,0.0,31.086095,0.0,NEXUSGUARD LIMITED,HK,Computer and Information Technology,Internet Service Provider (ISP)
+45090,2,37989,5.3e-05,0.0,31.086095,0.0,Shenzhen Tencent Computer Systems Company Limited,CN,Computer and Information Technology,Other
+44901,1,37989,2.6e-05,0.0,31.086095,0.0,Belcloud LTD,BG,Computer and Information Technology,None
+45899,5,37989,0.000132,0.0,31.086095,0.0,Vietnam Posts and Telecommunications (VNPT),VN,Computer and Information Technology,Internet Service Provider (ISP)
+397232,4,37989,0.000105,0.0,31.086095,0.0,Neustar Security Services,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
+44066,6,37989,0.000158,0.0,31.086095,0.0,firstcolo GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+43766,1,37989,2.6e-05,0.0,31.086095,0.0,Mobile Telecommunication Company Saudi Arabia Joint-Stock company,SA,Computer and Information Technology,Internet Service Provider (ISP)
+43614,1,37989,2.6e-05,0.0,31.086095,0.0,Economia a.s.,CZ,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+397423,1,37989,2.6e-05,0.0,31.086095,0.0,Tier.Net Technologies LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+42846,8,37989,0.000211,0.0,31.086095,0.0,GNET Internet Telekomunikasyon A.S.,TR,Computer and Information Technology,Internet Service Provider (ISP)
+45758,32,37989,0.000842,0.0,31.086095,0.0,Triple T Broadband Public Company Limited,TH,Computer and Information Technology,Internet Service Provider (ISP)
+395747,4,37989,0.000105,0.0,31.086095,0.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+51430,8,37989,0.000211,0.0,31.086095,0.0,AltusHost B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+49981,3,37989,7.9e-05,0.0,31.086095,0.0,WorldStream B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+216271,1,37989,2.6e-05,0.0,31.086095,0.0,NETLABS LLC,UA,None,None
+216435,2,37989,5.3e-05,0.0,31.086095,0.0,Plim Mobile Telecom LLC,US,None,None
+59504,8,37989,0.000211,0.0,31.086095,0.0,LLC Vpsville,RU,Computer and Information Technology,Software Development
+50113,2,37989,5.3e-05,0.0,31.086095,0.0,NTX Technologies s.r.o.,CZ,Computer and Information Technology,Internet Service Provider (ISP)
+264642,1,37989,2.6e-05,0.0,31.086095,0.0,TELESISTEMA S.R.L.,AR,Computer and Information Technology,Internet Service Provider (ISP)
+266768,3,37989,7.9e-05,0.0,31.086095,0.0,ALKON SAS,AR,Computer and Information Technology,Internet Service Provider (ISP)
+49544,2,37989,5.3e-05,0.0,31.086095,0.0,i3D.net B.V,NL,Computer and Information Technology,Internet Service Provider (ISP)
+46997,71,37989,0.001869,0.0,31.086095,0.0,Black Mesa Corporation,US,Health Care Services,Other
+49542,1,37989,2.6e-05,0.0,31.086095,0.0,ArtPlanet LLC,RU,Computer and Information Technology,Hosting and Cloud Provider
+48635,11,37989,0.00029,0.0,31.086095,0.0,CLDIN B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+48581,1,37989,2.6e-05,0.0,31.086095,0.0,MythicalKitten LLC,US,"Retail Stores, Wholesale, and E-commerce Sites",None
+48261,4,37989,0.000105,0.0,31.086095,0.0,socialimprove LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+47583,917,37989,0.024139,0.0,31.086095,0.0,Hostinger International Limited,CY,Computer and Information Technology,Software Development
+47447,1,37989,2.6e-05,0.0,31.086095,0.0,23M GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+59437,1,37989,2.6e-05,0.0,31.086095,0.0,Northern Data AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+61098,1,37989,2.6e-05,0.0,31.086095,0.0,Akenes SA,CH,Computer and Information Technology,None
+59605,1,37989,2.6e-05,0.0,31.086095,0.0,MENA LEVANT W.L.L,BH,Computer and Information Technology,Internet Service Provider (ISP)
+147049,1,37989,2.6e-05,0.0,31.086095,0.0,PacketHub S.A.,PA,Computer and Information Technology,Internet Service Provider (ISP)
+197695,4,37989,0.000105,0.0,31.086095,0.0,"Domain names registrar REG.RU, Ltd",RU,Computer and Information Technology,None
+197619,2,37989,5.3e-05,0.0,31.086095,0.0,Telnab Networks LLC,US,None,None
+197598,2,37989,5.3e-05,0.0,31.086095,0.0,Virtueon Solutions LLC,US,None,None
+149485,3,37989,7.9e-05,0.0,31.086095,0.0,MonoCloud Pty Ltd,AU,"Media, Publishing, and Broadcasting",Online Informational Content
+207996,2,37989,5.3e-05,0.0,31.086095,0.0,ungleich glarus ag,CH,Computer and Information Technology,Internet Service Provider (ISP)
+149042,1,37989,2.6e-05,0.0,31.086095,0.0,"SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED",HK,None,None
+142055,1,37989,2.6e-05,0.0,31.086095,0.0,Anillc Network,CN,Computer and Information Technology,Hosting and Cloud Provider
+198066,3,37989,7.9e-05,0.0,31.086095,0.0,"Grupo Loading Systems, S.L.",ES,Computer and Information Technology,Internet Service Provider (ISP)
+140903,11,37989,0.00029,0.0,31.086095,0.0,China Telecom,CN,Computer and Information Technology,None
+208058,41,37989,0.001079,0.0,31.086095,0.0,InnoGames GmbH,DE,"Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",None
+140716,1,37989,2.6e-05,0.0,31.086095,0.0,China Unicom,CN,Computer and Information Technology,None
+140061,1,37989,2.6e-05,0.0,31.086095,0.0,China Telecom,CN,Computer and Information Technology,None
+208492,4,37989,0.000105,0.0,31.086095,0.0,S.J.M. Steffann,NL,Community Groups and Nonprofits,"Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)"
+138915,1,37989,2.6e-05,0.0,31.086095,0.0,Kaopu Cloud HK Limited,HK,Computer and Information Technology,None
+207375,16,37989,0.000421,0.0,31.086095,0.0,Fiber Operator B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+198068,4,37989,0.000105,0.0,31.086095,0.0,P.A.G.M. OU,EE,Computer and Information Technology,None
+210403,1,37989,2.6e-05,0.0,31.086095,0.0,Groupe LWS SARL,FR,None,None
+200827,1,37989,2.6e-05,0.0,31.086095,0.0,vv Network Inc,US,Computer and Information Technology,None
+205100,3,37989,7.9e-05,0.0,31.086095,0.0,F3 Netze e.V.,DE,Service,"Law, Business, and Consulting Services"
+204957,1,37989,2.6e-05,0.0,31.086095,0.0,GREEN FLOID LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+205766,1,37989,2.6e-05,0.0,31.086095,0.0,Jonas Pasche,DE,Computer and Information Technology,Internet Service Provider (ISP)
+204679,1,37989,2.6e-05,0.0,31.086095,0.0,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,PL,Education and Research,"Colleges, Universities, and Professional Schools"
+206774,1,37989,2.6e-05,0.0,31.086095,0.0,Internet bolaget Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+202505,8,37989,0.000211,0.0,31.086095,0.0,NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI,TR,Computer and Information Technology,Hosting and Cloud Provider
+200738,1,37989,2.6e-05,0.0,31.086095,0.0,FIBRAWORLD TELECOM S.A.U.,ES,Computer and Information Technology,Internet Service Provider (ISP)
+199244,1,37989,2.6e-05,0.0,31.086095,0.0,InterXion Hrvatska d.o.o.,HR,Computer and Information Technology,Internet Service Provider (ISP)
+200487,2,37989,5.3e-05,0.0,31.086095,0.0,OOO VPS,RU,Computer and Information Technology,Hosting and Cloud Provider
+200351,4,37989,0.000105,0.0,31.086095,0.0,Guanzhong Chen,CA,Education and Research,Other
+200222,1,37989,2.6e-05,0.0,31.086095,0.0,Sama Tech s.r.o.,SK,Computer and Information Technology,Internet Service Provider (ISP)
+199925,2004,37989,0.052752,0.0,31.086095,0.0,Phan Nhat Nghi,VG,Construction and Real Estate,Other
+199752,1,37989,2.6e-05,0.0,31.086095,0.0,Go-Trex Holding BV,NL,Computer and Information Technology,Internet Service Provider (ISP)
+199274,1,37989,2.6e-05,0.0,31.086095,0.0,"Serveroid, LLC",RU,Computer and Information Technology,Internet Service Provider (ISP)
+209114,1,37989,2.6e-05,0.0,31.086095,0.0,Luiz Fernando Ribeiro Amaral,DE,"Retail Stores, Wholesale, and E-commerce Sites",Other
+138421,1,37989,2.6e-05,0.0,31.086095,0.0,China Unicom,CN,Computer and Information Technology,None
+137753,1,37989,2.6e-05,0.0,31.086095,0.0,Beijing Jingdong Shangke Information Technology Co. Ltd.,CN,"Museums, Libraries, and Entertainment","Recreation, Sports, and Performing Arts"
+210079,4,37989,0.000105,0.0,31.086095,0.0,EuroByte LLC,RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
+63835,1,37989,2.6e-05,0.0,31.086095,0.0,Hengyang,CN,Computer and Information Technology,Internet Service Provider (ISP)
+63410,50,37989,0.001316,0.0,31.086095,0.0,PrivateSystems Networks,US,Computer and Information Technology,Internet Service Provider (ISP)
+63023,9,37989,0.000237,0.0,31.086095,0.0,GTHost,US,Computer and Information Technology,Internet Service Provider (ISP)
+209622,4,37989,0.000105,0.0,31.086095,0.0,uPress Inc,US,Computer and Information Technology,Software Development
+62571,9,37989,0.000237,0.0,31.086095,0.0,IMPERVA INC,US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
+209641,201,37989,0.005291,0.0,31.086095,0.0,I-SERVERS LTD,GB,Education and Research,None
+210083,1,37989,2.6e-05,0.0,31.086095,0.0,Privex Inc.,BZ,Service,"Law, Business, and Consulting Services"
+137702,6,37989,0.000158,0.0,31.086095,0.0,China Telecom,CN,Computer and Information Technology,None
+61323,4,37989,0.000105,0.0,31.086095,0.0,ANS ACADEMY LIMITED,GB,Computer and Information Technology,None
+210107,1,37989,2.6e-05,0.0,31.086095,0.0,PLUSWEB SUNUCU INTERNET HIZMETLERI TICARET LIMITED SIRKETI,TR,Computer and Information Technology,Internet Service Provider (ISP)
+205125,4,37989,0.000105,0.0,31.086095,0.0,Network Management Ltd,SC,Computer and Information Technology,Software Development
+60893,1,37989,2.6e-05,0.0,31.086095,0.0,Art of Automation B.V.,NL,Computer and Information Technology,Internet Service Provider (ISP)
+60781,36,37989,0.000948,0.0,31.086095,0.0,LeaseWeb Netherlands B.V.,NL,Computer and Information Technology,None
+60294,165,37989,0.004343,0.0,31.086095,0.0,Deutsche Glasfaser Wholesale GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+63949,37,37989,0.000974,0.0,31.086095,0.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Software Development
+64080,3,37989,7.9e-05,0.0,31.086095,0.0,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
+209453,3,37989,7.9e-05,0.0,31.086095,0.0,GANDI SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+131445,1,37989,2.6e-05,0.0,31.086095,0.0,MAYBANK Data Center (Co-Location),TH,Computer and Information Technology,Internet Service Provider (ISP)
+131486,5,37989,0.000132,0.0,31.086095,0.0,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",CN,"Museums, Libraries, and Entertainment","Recreation, Sports, and Performing Arts"
+133798,1,37989,2.6e-05,0.0,31.086095,0.0,"PT. Smartfren Telecom, Tbk",ID,Computer and Information Technology,Internet Service Provider (ISP)
+42487,2,37989,5.3e-05,0.0,31.086095,0.0,Vialis SEM,FR,Computer and Information Technology,Internet Service Provider (ISP)
+134238,1,37989,2.6e-05,0.0,31.086095,0.0,CHINANET Jiangx province IDC network,CN,Computer and Information Technology,Internet Service Provider (ISP)
+134756,4,37989,0.000105,0.0,31.086095,0.0,China Telecom,CN,Computer and Information Technology,None
+134762,1,37989,2.6e-05,0.0,31.086095,0.0,CHINANET Liaoning province Dalian MAN network,CN,Finance and Insurance,"Investment, Portfolio Management, Pensions and Funds"
+134768,5,37989,0.000132,0.0,31.086095,0.0,CHINANET SHAANXI province Cloud Base network,CN,Government and Public Administration,"Government and Regulatory Agencies, Administrations, Departments, and Services"
+134771,3,37989,7.9e-05,0.0,31.086095,0.0,"WENZHOU, ZHEJIANG Province, P.R.China.",CN,Computer and Information Technology,Internet Service Provider (ISP)
+135967,1,37989,2.6e-05,0.0,31.086095,0.0,Bach Kim Network solutions Join stock company,VN,Computer and Information Technology,Hosting and Cloud Provider
+135981,3,37989,7.9e-05,0.0,31.086095,0.0,VisualViet Company Limited,VN,Computer and Information Technology,Internet Service Provider (ISP)
+136188,1,37989,2.6e-05,0.0,31.086095,0.0,"NINGBO, ZHEJIANG Province, P.R.China.",CN,Computer and Information Technology,Internet Service Provider (ISP)
+136959,1,37989,2.6e-05,0.0,31.086095,0.0,China Unicom,CN,Computer and Information Technology,Internet Service Provider (ISP)
+137697,1,37989,2.6e-05,0.0,31.086095,0.0,"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China.",CN,Computer and Information Technology,None
+38,3,37989,7.9e-05,0.0,31.086095,0.0,University of Illinois,US,Health Care Services,None
+39122,13,37989,0.000342,0.0,31.086095,0.0,Blacknight Internet Solutions Limited,IE,Computer and Information Technology,Software Development
+41405,2,37989,5.3e-05,0.0,31.086095,0.0,Altinea SAS,FR,Computer and Information Technology,None
+8283,1,37989,2.6e-05,0.0,31.086095,0.0,Netwerkvereniging Coloclue,NL,Computer and Information Technology,Hosting and Cloud Provider
+8943,1,37989,2.6e-05,0.0,31.086095,0.0,Jump Networks Ltd,GB,Computer and Information Technology,Internet Service Provider (ISP)
+8888,1,37989,2.6e-05,0.0,31.086095,0.0,xTom Pty Ltd,AU,Computer and Information Technology,None
+8781,11,37989,0.00029,0.0,31.086095,0.0,Ooredoo Q.S.C.,QA,Computer and Information Technology,Internet Service Provider (ISP)
+8697,1,37989,2.6e-05,0.0,31.086095,0.0,Jordan Telecommunications PSC,JO,Computer and Information Technology,Internet Service Provider (ISP)
+8657,13,37989,0.000342,0.0,31.086095,0.0,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,PT,Computer and Information Technology,Internet Service Provider (ISP)
+8560,3,37989,7.9e-05,0.0,31.086095,0.0,IONOS SE,DE,Computer and Information Technology,Internet Service Provider (ISP)
+8422,61,37989,0.001606,0.0,31.086095,0.0,NetCologne Gesellschaft fur Telekommunikation mbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+8342,8,37989,0.000211,0.0,31.086095,0.0,JSC RTComm.RU,RU,Computer and Information Technology,Internet Service Provider (ISP)
+7922,58,37989,0.001527,0.0,31.086095,0.0,"Comcast Cable Communications, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+5432,31,37989,0.000816,0.0,31.086095,0.0,Proximus NV,BE,Computer and Information Technology,Internet Service Provider (ISP)
+7679,13,37989,0.000342,0.0,31.086095,0.0,"QTnet,Inc.",JP,None,None
+6805,107,37989,0.002817,0.0,31.086095,0.0,Telefonica Germany GmbH & Co.OHG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+6762,91,37989,0.002395,0.0,31.086095,0.0,TELECOM ITALIA SPARKLE S.p.A.,IT,Computer and Information Technology,Internet Service Provider (ISP)
+6724,1,37989,2.6e-05,0.0,31.086095,0.0,Strato AG,DE,Computer and Information Technology,None
+6718,2,37989,5.3e-05,0.0,31.086095,0.0,NAV COMMUNICATIONS SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+6697,33,37989,0.000869,0.0,31.086095,0.0,Republican Unitary Telecommunication Enterprise Beltelecom,BY,Computer and Information Technology,Internet Service Provider (ISP)
+6315,1,37989,2.6e-05,0.0,31.086095,0.0,"XMission, L.C.",US,Computer and Information Technology,Internet Service Provider (ISP)
+6233,3,37989,7.9e-05,0.0,31.086095,0.0,xTom,US,Computer and Information Technology,Hosting and Cloud Provider
+9002,58,37989,0.001527,0.0,31.086095,0.0,RETN Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+9121,5,37989,0.000132,0.0,31.086095,0.0,Turk Telekomunikasyon Anonim Sirketi,TR,Computer and Information Technology,Internet Service Provider (ISP)
+9299,1,37989,2.6e-05,0.0,31.086095,0.0,Philippine Long Distance Telephone Co.,PH,Computer and Information Technology,Internet Service Provider (ISP)
+9312,1,37989,2.6e-05,0.0,31.086095,0.0,xTom Hong Kong Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+12360,4,37989,0.000105,0.0,31.086095,0.0,KEVAG Telekom GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+12306,2,37989,5.3e-05,0.0,31.086095,0.0,Plus.line AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+11917,4,37989,0.000105,0.0,31.086095,0.0,WhatsApp,US,"Retail Stores, Wholesale, and E-commerce Sites",None
+11426,2,37989,5.3e-05,0.0,31.086095,0.0,Charter Communications Inc,US,"Media, Publishing, and Broadcasting",None
+11019,13,37989,0.000342,0.0,31.086095,0.0,"HAProxy Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+10474,10,37989,0.000263,0.0,31.086095,0.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
+9929,1,37989,2.6e-05,0.0,31.086095,0.0,CHINA UNICOM Industrial Internet Backbone,CN,Computer and Information Technology,Internet Service Provider (ISP)
+9924,6,37989,0.000158,0.0,31.086095,0.0,"Taiwan Fixed Network, Telco and Network Service Provider.",TW,Computer and Information Technology,Internet Service Provider (ISP)
+9829,25,37989,0.000658,0.0,31.086095,0.0,Bharat Sanchar Nigam Ltd,IN,Computer and Information Technology,Internet Service Provider (ISP)
+9824,1,37989,2.6e-05,0.0,31.086095,0.0,"JCOM Co., Ltd.",JP,Computer and Information Technology,Internet Service Provider (ISP)
+9808,13,37989,0.000342,0.0,31.086095,0.0,China Mobile,CN,Computer and Information Technology,Internet Service Provider (ISP)
+9806,6,37989,0.000158,0.0,31.086095,0.0,"Beijing Educational Information Network Service Center Co., Ltd",CN,Computer and Information Technology,None
+9605,1,37989,2.6e-05,0.0,31.086095,0.0,"NTT DOCOMO, INC.",JP,None,None
+9534,14,37989,0.000369,0.0,31.086095,0.0,Maxis Broadband Sdn Bhd,MY,Computer and Information Technology,Internet Service Provider (ISP)
+9500,31,37989,0.000816,0.0,31.086095,0.0,One New Zealand Group Limited,NZ,Computer and Information Technology,Internet Service Provider (ISP)
+9381,12,37989,0.000316,0.0,31.086095,0.0,HKBN Enterprise Solutions HK Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+9354,2,37989,5.3e-05,0.0,31.086095,0.0,COMMUNITY NETWORK CENTER INCORPORATED.,JP,None,None
+5606,30,37989,0.00079,0.0,31.086095,0.0,GTS Telecom SRL,RO,Computer and Information Technology,Internet Service Provider (ISP)
+5410,47,37989,0.001237,0.0,31.086095,0.0,Bouygues Telecom SA,FR,Computer and Information Technology,Internet Service Provider (ISP)
+12859,1,37989,2.6e-05,0.0,31.086095,0.0,BIT BV,NL,Computer and Information Technology,Internet Service Provider (ISP)
+1299,72,37989,0.001895,0.0,31.086095,0.0,Arelion Sweden AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+1955,1,37989,2.6e-05,0.0,31.086095,0.0,KIFU (Governmental Info Tech Development Agency),HU,Computer and Information Technology,Internet Service Provider (ISP)
+1930,17,37989,0.000447,0.0,31.086095,0.0,"Fundacao para a Ciencia e a Tecnologia, I.P.",PT,Computer and Information Technology,Internet Service Provider (ISP)
+1921,1,37989,2.6e-05,0.0,31.086095,0.0,ipcom GmbH,AT,Computer and Information Technology,None
+1741,1,37989,2.6e-05,0.0,31.086095,0.0,CSC - Tieteen tietotekniikan keskus Oy,FI,Education and Research,None
+1680,1,37989,2.6e-05,0.0,31.086095,0.0,Cellcom Fixed Line Communication L.P,IL,Computer and Information Technology,Internet Service Provider (ISP)
+1659,1,37989,2.6e-05,0.0,31.086095,0.0,National Chung Hsing University,TW,Education and Research,"Colleges, Universities, and Professional Schools"
+1653,1,37989,2.6e-05,0.0,31.086095,0.0,Vetenskapsradet / SUNET,SE,Computer and Information Technology,Internet Service Provider (ISP)
+1547,14,37989,0.000369,0.0,31.086095,0.0,"Societatea mixta pe actiuni de tip inchis ""Interdnestrcom""",MD,Computer and Information Technology,Internet Service Provider (ISP)
+1257,1,37989,2.6e-05,0.0,31.086095,0.0,Tele2 Sverige AB,SE,Computer and Information Technology,Internet Service Provider (ISP)
+4837,38,37989,0.001,0.0,31.086095,0.0,CHINA UNICOM Industrial Internet Backbone,CN,Computer and Information Technology,Internet Service Provider (ISP)
+1221,40,37989,0.001053,0.0,31.086095,0.0,Telstra Corporation Limited,AU,Service,"Law, Business, and Consulting Services"
+852,25,37989,0.000658,0.0,31.086095,0.0,TELUS Communications Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+835,2,37989,5.3e-05,0.0,31.086095,0.0,GoCodeIT Inc,CA,Computer and Information Technology,Internet Service Provider (ISP)
+812,35,37989,0.000921,0.0,31.086095,0.0,Rogers Communications Canada Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
+701,1,37989,2.6e-05,0.0,31.086095,0.0,Verizon Business,US,Computer and Information Technology,Internet Service Provider (ISP)
+680,3,37989,7.9e-05,0.0,31.086095,0.0,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,DE,Computer and Information Technology,Internet Service Provider (ISP)
+577,20,37989,0.000526,0.0,31.086095,0.0,Bell Canada,CA,Computer and Information Technology,Internet Service Provider (ISP)
+513,1,37989,2.6e-05,0.0,31.086095,0.0,CERN - European Organization for Nuclear Research,CH,Computer and Information Technology,None
+2497,4,37989,0.000105,0.0,31.086095,0.0,Internet Initiative Japan Inc.,JP,None,None
+2519,1,37989,2.6e-05,0.0,31.086095,0.0,ARTERIA Networks Corporation,JP,Computer and Information Technology,Internet Service Provider (ISP)
+2860,11,37989,0.00029,0.0,31.086095,0.0,"NOS COMUNICACOES, S.A.",PT,Computer and Information Technology,Internet Service Provider (ISP)
+3214,3,37989,7.9e-05,0.0,31.086095,0.0,xTom GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+4835,2,37989,5.3e-05,0.0,31.086095,0.0,China Telecom (Group),CN,Computer and Information Technology,Internet Service Provider (ISP)
+4812,1,37989,2.6e-05,0.0,31.086095,0.0,China Telecom (Group),CN,Computer and Information Technology,Internet Service Provider (ISP)
+4811,2,37989,5.3e-05,0.0,31.086095,0.0,China Telecom (Group),CN,Computer and Information Technology,Internet Service Provider (ISP)
+4808,1,37989,2.6e-05,0.0,31.086095,0.0,China Unicom,CN,Computer and Information Technology,Internet Service Provider (ISP)
+4788,12,37989,0.000316,0.0,31.086095,0.0,TM TECHNOLOGY SERVICES SDN BHD,MY,Computer and Information Technology,Internet Service Provider (ISP)
+4657,1,37989,2.6e-05,0.0,31.086095,0.0,Starhub Ltd.,SG,Computer and Information Technology,Internet Service Provider (ISP)
+4651,4,37989,0.000105,0.0,31.086095,0.0,CAT Telecom Public Company Limited,TH,Computer and Information Technology,Internet Service Provider (ISP)
+4637,13,37989,0.000342,0.0,31.086095,0.0,Telstra International Limited,HK,Computer and Information Technology,Internet Service Provider (ISP)
+4538,1,37989,2.6e-05,0.0,31.086095,0.0,China Education and Research Network Center,CN,Education and Research,"Colleges, Universities, and Professional Schools"
+4230,1,37989,2.6e-05,0.0,31.086095,0.0,CLARO S.A.,BR,Computer and Information Technology,Internet Service Provider (ISP)
+4134,14,37989,0.000369,0.0,31.086095,0.0,"No.31,Jin-rong Street",CN,Computer and Information Technology,Internet Service Provider (ISP)
+3741,9,37989,0.000237,0.0,31.086095,0.0,Dimension Data,ZA,Computer and Information Technology,Internet Service Provider (ISP)
+3462,3,37989,7.9e-05,0.0,31.086095,0.0,"Chunghwa Telecom Co., Ltd.",TW,Computer and Information Technology,Internet Service Provider (ISP)
+3389,13,37989,0.000342,0.0,31.086095,0.0,Ford Motor Company,US,"Freight, Shipment, and Postal Services",None
+3320,3,37989,7.9e-05,0.0,31.086095,0.0,Deutsche Telekom AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+3303,1,37989,2.6e-05,0.0,31.086095,0.0,Swisscom (Schweiz) AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+3292,3,37989,7.9e-05,0.0,31.086095,0.0,TDC Holding A/S,DK,Computer and Information Technology,Internet Service Provider (ISP)
+12849,5,37989,0.000132,0.0,31.086095,0.0,Hot-Net internet services Ltd.,IL,Computer and Information Technology,Internet Service Provider (ISP)
+12874,1,37989,2.6e-05,0.0,31.086095,0.0,Fastweb SpA,IT,Computer and Information Technology,Internet Service Provider (ISP)
+41357,1,37989,2.6e-05,0.0,31.086095,0.0,34SP.com Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+29014,335,37989,0.008818,0.0,31.086095,0.0,ScaleUp Technologies GmbH & Co. KG,DE,Computer and Information Technology,None
+30781,2,37989,5.3e-05,0.0,31.086095,0.0,Free Pro SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+30764,1,37989,2.6e-05,0.0,31.086095,0.0,PODA a.s.,CZ,Computer and Information Technology,Internet Service Provider (ISP)
+29789,1,37989,2.6e-05,0.0,31.086095,0.0,"Reflected Networks, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+29413,22,37989,0.000579,0.0,31.086095,0.0,KOMRO Gesellschaft fuer Telekommunikation mit beschraenkter Haftung,DE,Computer and Information Technology,Internet Service Provider (ISP)
+29222,5,37989,0.000132,0.0,31.086095,0.0,Infomaniak Network SA,CH,Computer and Information Technology,None
+29097,3,37989,7.9e-05,0.0,31.086095,0.0,Hostpoint AG,CH,Computer and Information Technology,None
+29075,2,37989,5.3e-05,0.0,31.086095,0.0,IELO-LIAZO SERVICES SAS,FR,Computer and Information Technology,Internet Service Provider (ISP)
+29066,1,37989,2.6e-05,0.0,31.086095,0.0,Host Europe GmbH,DE,Computer and Information Technology,None
+28890,1,37989,2.6e-05,0.0,31.086095,0.0,INSYS LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
+24961,1,37989,2.6e-05,0.0,31.086095,0.0,myLoc managed IT AG,DE,Computer and Information Technology,Internet Service Provider (ISP)
+28573,294,37989,0.007739,0.0,31.086095,0.0,Claro NXT Telecomunicacoes Ltda,BR,Computer and Information Technology,Internet Service Provider (ISP)
+28075,5,37989,0.000132,0.0,31.086095,0.0,ARLINK S.A.,AR,Computer and Information Technology,Internet Service Provider (ISP)
+27947,2,37989,5.3e-05,0.0,31.086095,0.0,Telconet S.A,EC,Computer and Information Technology,Internet Service Provider (ISP)
+27823,5,37989,0.000132,0.0,31.086095,0.0,Dattatec.com,AR,Computer and Information Technology,None
+25923,13,37989,0.000342,0.0,31.086095,0.0,"ChoicePoint, Inc.",US,Computer and Information Technology,Software Development
+25532,8,37989,0.000211,0.0,31.086095,0.0,"LLC ""MASTERHOST""",RU,Computer and Information Technology,Software Development
+25454,1,37989,2.6e-05,0.0,31.086095,0.0,ORANGE MOLDOVA S.A.,MD,Computer and Information Technology,Internet Service Provider (ISP)
+25148,1,37989,2.6e-05,0.0,31.086095,0.0,ORANGE BUSINESS SERVICES AS,NO,Computer and Information Technology,Other
+30798,1,37989,2.6e-05,0.0,31.086095,0.0,TNNet Oy,FI,Computer and Information Technology,Internet Service Provider (ISP)
+30860,1,37989,2.6e-05,0.0,31.086095,0.0,Virtual Systems LLC,UA,Computer and Information Technology,Internet Service Provider (ISP)
+32934,1750,37989,0.046066,0.0,31.086095,0.0,"Facebook, Inc.",US,"Retail Stores, Wholesale, and E-commerce Sites",None
+33363,2,37989,5.3e-05,0.0,31.086095,0.0,"Charter Communications, Inc",US,"Media, Publishing, and Broadcasting",None
+41000,2,37989,5.3e-05,0.0,31.086095,0.0,Freethought Internet Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+40994,1,37989,2.6e-05,0.0,31.086095,0.0,Hohl IT e.U.,AT,Service,Other
+40630,4,37989,0.000105,0.0,31.086095,0.0,"GridFury, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+174,5,37989,0.000132,0.0,31.086095,0.0,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
+38631,2,37989,5.3e-05,0.0,31.086095,0.0,LINE Corporation,JP,None,None
+38365,1,37989,2.6e-05,0.0,31.086095,0.0,"Beijing Baidu Netcom Science and Technology Co., Ltd.",CN,Computer and Information Technology,None
+38266,14,37989,0.000369,0.0,31.086095,0.0,Vodafone Idea Ltd. (VIL),IN,Computer and Information Technology,Internet Service Provider (ISP)
+38255,1,37989,2.6e-05,0.0,31.086095,0.0,China Education and Research Network (CERNET),CN,Computer and Information Technology,Internet Service Provider (ISP)
+36351,2,37989,5.3e-05,0.0,31.086095,0.0,SoftLayer Technologies Inc.,US,Computer and Information Technology,Software Development
+35826,2,37989,5.3e-05,0.0,31.086095,0.0,Netservers Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+35492,2,37989,5.3e-05,0.0,31.086095,0.0,FunkFeuer Wien - Verein zur Foerderung freier Netze,AT,Community Groups and Nonprofits,None
+35470,2,37989,5.3e-05,0.0,31.086095,0.0,Signet B.V.,NL,Computer and Information Technology,Hosting and Cloud Provider
+34762,211,37989,0.005554,0.0,31.086095,0.0,Combell NV,BE,Computer and Information Technology,Software Development
+34665,7,37989,0.000184,0.0,31.086095,0.0,Petersburg Internet Network ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
+33760,10,37989,0.000263,0.0,31.086095,0.0,"Ashton Holmes, Sole Proprietorship",US,None,None
+33438,20,37989,0.000526,0.0,31.086095,0.0,"StackPath, LLC.",US,Computer and Information Technology,Computer and Network Security
+33387,8,37989,0.000211,0.0,31.086095,0.0,"Nocix, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+25019,1,37989,2.6e-05,0.0,31.086095,0.0,Saudi Telecom Company JSC,SA,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+24547,2,37989,5.3e-05,0.0,31.086095,0.0,China Mobile,CN,Computer and Information Technology,Internet Service Provider (ISP)
+12876,2,37989,5.3e-05,0.0,31.086095,0.0,SCALEWAY S.A.S.,FR,Computer and Information Technology,None
+15133,1,37989,2.6e-05,0.0,31.086095,0.0,Edgecast Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
+16625,13,37989,0.000342,0.0,31.086095,0.0,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+16345,1,37989,2.6e-05,0.0,31.086095,0.0,"PJSC ""Vimpelcom""",RU,Construction and Real Estate,"Civil Engineering Construction (Utility Lines, Roads and Bridges)"
+16276,6,37989,0.000158,0.0,31.086095,0.0,OVH SAS,FR,Computer and Information Technology,Hosting and Cloud Provider
+15967,1,37989,2.6e-05,0.0,31.086095,0.0,Nazwa.pl Sp.z.o.o.,PL,Service,"Law, Business, and Consulting Services"
+15943,290,37989,0.007634,0.0,31.086095,0.0,wilhelm.tel GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
+15802,1,37989,2.6e-05,0.0,31.086095,0.0,Emirates Integrated Telecommunications Company PJSC,AE,Computer and Information Technology,Internet Service Provider (ISP)
+15600,6,37989,0.000158,0.0,31.086095,0.0,Quickline AG,CH,Computer and Information Technology,Internet Service Provider (ISP)
+15169,261,37989,0.00687,0.0,31.086095,0.0,Google LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+15130,3,37989,7.9e-05,0.0,31.086095,0.0,United States Department of Justice,US,Government and Public Administration,"Law Enforcement, Public Safety, and Justice"
+24444,1,37989,2.6e-05,0.0,31.086095,0.0,China Mobile,CN,Computer and Information Technology,Internet Service Provider (ISP)
+15108,1,37989,2.6e-05,0.0,31.086095,0.0,Allo Communications LLC,US,Computer and Information Technology,Internet Service Provider (ISP)
+14522,11,37989,0.00029,0.0,31.086095,0.0,Satnet,EC,Computer and Information Technology,Internet Service Provider (ISP)
+14340,1,37989,2.6e-05,0.0,31.086095,0.0,"Salesforce.com, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+14080,1,37989,2.6e-05,0.0,31.086095,0.0,Telmex Colombia S.A.,CO,Computer and Information Technology,Internet Service Provider (ISP)
+13999,13,37989,0.000342,0.0,31.086095,0.0,"Mega Cable, S.A. de C.V.",MX,Computer and Information Technology,Internet Service Provider (ISP)
+13335,989,37989,0.026034,0.0,31.086095,0.0,"Cloudflare, Inc.",US,Computer and Information Technology,Hosting and Cloud Provider
+13285,1,37989,2.6e-05,0.0,31.086095,0.0,TalkTalk Communications Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
+13030,4,37989,0.000105,0.0,31.086095,0.0,Init7 (Switzerland) Ltd.,CH,Computer and Information Technology,Internet Service Provider (ISP)
+17185,8,37989,0.000211,0.0,31.086095,0.0,Data102,US,Computer and Information Technology,Internet Service Provider (ISP)
+17378,6,37989,0.000158,0.0,31.086095,0.0,"TierPoint, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+17428,3,37989,7.9e-05,0.0,31.086095,0.0,21vianet(China) Inc.,CN,Computer and Information Technology,Software Development
+17501,4,37989,0.000105,0.0,31.086095,0.0,WorldLink Communications,NP,Computer and Information Technology,Internet Service Provider (ISP)
+24400,1,37989,2.6e-05,0.0,31.086095,0.0,China Mobile,CN,Computer and Information Technology,Internet Service Provider (ISP)
+24357,2,37989,5.3e-05,0.0,31.086095,0.0,CERNET2 IX at South China University of Technology,CN,Education and Research,"Colleges, Universities, and Professional Schools"
+24309,2,37989,5.3e-05,0.0,31.086095,0.0,"Atria Convergence Technologies Pvt. Ltd.,",IN,Computer and Information Technology,Internet Service Provider (ISP)
+24203,51,37989,0.001342,0.0,31.086095,0.0,PT XL Axiata Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)
+23724,2,37989,5.3e-05,0.0,31.086095,0.0,"IDC, China Telecommunications Corporation",CN,Computer and Information Technology,Internet Service Provider (ISP)
+22822,8,37989,0.000211,0.0,31.086095,0.0,"Limelight Networks, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
+22697,5,37989,0.000132,0.0,31.086095,0.0,Roblox,US,Computer and Information Technology,Internet Service Provider (ISP)
+21859,2,37989,5.3e-05,0.0,31.086095,0.0,Zenlayer Inc,US,Computer and Information Technology,Internet Service Provider (ISP)
+21575,1,37989,2.6e-05,0.0,31.086095,0.0,ENTEL PERU S.A.,PE,Computer and Information Technology,Internet Service Provider (ISP)
+21342,3,37989,7.9e-05,0.0,31.086095,0.0,Akamai International B.V.,NL,"Media, Publishing, and Broadcasting",Online Music and Video Streaming Services
+21100,2,37989,5.3e-05,0.0,31.086095,0.0,ITL LLC,UA,Computer and Information Technology,None
+20853,4,37989,0.000105,0.0,31.086095,0.0,eTOP sp. z o.o.,PL,Computer and Information Technology,Internet Service Provider (ISP)
+20473,763,37989,0.020085,0.0,31.086095,0.0,"The Constant Company, LLC",US,Computer and Information Technology,Internet Service Provider (ISP)
+19969,2,37989,5.3e-05,0.0,31.086095,0.0,"Joe's Datacenter, LLC",US,Government and Public Administration,"Military, Defense, National Security, and International Affairs"
+19551,216,37989,0.005686,0.0,31.086095,0.0,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+18001,3,37989,7.9e-05,0.0,31.086095,0.0,Dialog Axiata Plc,LK,Computer and Information Technology,Internet Service Provider (ISP)
+17511,1,37989,2.6e-05,0.0,31.086095,0.0,OPTAGE Inc.,JP,None,None
+398565,1,37989,2.6e-05,0.0,31.086095,0.0,Peter Jin Technologies LLC,US,Computer and Information Technology,Internet Service Provider (ISP)

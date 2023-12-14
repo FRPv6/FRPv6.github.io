@@ -11,6 +11,5 @@
 2a0f:9886::/32,204916,"RACKTECH CO., LTD.",TH,,
 2a0f:b4c3::/32,199669,Okay-Telecom Ltd.,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a11:0203::/32,204916,"RACKTECH CO., LTD.",TH,,
-2a11:7e40::/32,208626,ServTech LTD,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a11:8f81:fcca::/48,213220,Delta Ltd,RU,Computer and Information Technology,Internet Service Provider (ISP)
 2a11:af03::/32,211027,Perfect Cloud Technologies LLC,RU,"Media, Publishing, and Broadcasting",Other

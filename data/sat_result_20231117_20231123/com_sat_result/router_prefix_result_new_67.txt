@@ -19,6 +19,7 @@
 2405:6e00:0804::/48,133612,Vodafone Australia Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
 2405:6e00:0805::/48,133612,Vodafone Australia Pty Ltd,AU,Computer and Information Technology,Internet Service Provider (ISP)
 2405:8740::/32,46019,Universitas Brawijaya,ID,Education and Research,"Colleges, Universities, and Professional Schools"
+2a02:0850:ffe6::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
 2a02:26f7:b644::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
 2a02:26f7:b9d0::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
 2a02:26f7:b9d8::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
@@ -94,9 +95,13 @@
 2a02:26f7:fc04::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
 2a02:26f7:fc0c::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
 2a02:26f7:fc14::/48,36183,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
+2a02:e980:00cb::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:00cd::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e980:0125::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e980:0126::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a02:e981:001d::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
 2a02:e981:0022::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
+2a04:2b00:14cc::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
 2a04:2b00:14ee::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
 2a04:4e42:0007::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
 2a04:4e42:0013::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
@@ -104,25 +109,20 @@
 2a04:4e42:0021::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
 2a04:4e42:0089::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
 2a04:4e42:0fcf::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a05:dfc1:5f20::/48,58339,MARIA STYLE LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites",
+2a06:a005:1c78::/48,201217,RADISHCLOUD TECHNOLOGY LLC,US,,
+2a09:8280:0001::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0009::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0016::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0027::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0058::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a09:8280:0070::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
-2001:4488:f931:02::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
-2001:4488:fc31:02::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
-2a02:0850:ffe6::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
-2a02:e980:00cb::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
-2a02:e980:0125::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
-2a02:e981:001d::/48,19551,Incapsula Inc,US,Computer and Information Technology,Computer and Network Security
-2a04:2b00:14cc::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
-2a04:4e42:0019::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
-2a05:dfc1:5f25::/48,138190,GLOBAL-ICT HONGKONG CO.LIMITED,HK,Service,
-2a06:a005:1c78::/48,201217,RADISHCLOUD TECHNOLOGY LLC,US,,
-2a09:8280:0001::/48,40509,"Fly.io, Inc.",US,Computer and Information Technology,Internet Service Provider (ISP)
 2a0b:8e00:0000::/48,1921,ipcom GmbH,AT,Computer and Information Technology,
 2a13:1801:018a::/48,151464,"Shanghai Luogu Network Technology Co., Ltd.",CN,,
+2001:4488:f931:02::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
+2001:4488:fc31:02::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
+2a04:4e42:0019::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
+2a05:dfc1:5f25::/48,138190,GLOBAL-ICT HONGKONG CO.LIMITED,HK,Service,
 2403:a2c0:0128::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
 2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
-2a05:dfc1:5f20::/48,58339,MARIA STYLE LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites",
 2a11:0200:c::/36,204916,"RACKTECH CO., LTD.",TH,,
