@@ -39,6 +39,10 @@ def generate_result_temp(path, type_name, csv_file_name):
     # Read CSV file into DataFrame
     df = pd.read_csv(path + csv_file_name)
     data_class_array = []
+    result_name_dict = {
+        'country_alias_num': 'Number of shortest prefixes',
+        'sta_country_alias_num': 'Number of 32 slices prefixes'
+    }
     for class_index in range(2):
         # series标签名称
         column_name = f"{class_num_names[class_index]}country_alias_num"
@@ -62,7 +66,7 @@ def generate_result_temp(path, type_name, csv_file_name):
         result_dict = {
             "title": type_name,
             "data": data_array,
-            "name": column_name
+            "name": result_name_dict[column_name]
         }
         data_class_array.append(result_dict)
     return data_class_array

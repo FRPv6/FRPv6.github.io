@@ -54,7 +54,7 @@ def generate_line_chart():
         for type_index in range(0, 3, 2):
             data_1 = []
             data_2 = []
-            header_prefix_list = ["", "", "Standardized "]
+            header_prefix_list = ["", "", "32/ "]
             for path_name in pathArray:
                 file = path_name + file_name
                 df = pd.read_csv(file)

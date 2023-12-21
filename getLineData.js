@@ -139,13 +139,14 @@ $.getJSON('data/get_data_result/line_result.json', function (chart) {
             ],
             yAxis: [
                 {
-                    name: "Left Y-Axis",
+                    name: "#",
                     type:"value",
                     scale:true,
                     position: 'left',
                 },
                 {
-                    name: "Right Y-Axis",
+                    // name: "Right Y-Axis",
+                    name: "#",
                     type:"value",
                     scale: true,
                     position: 'right',
