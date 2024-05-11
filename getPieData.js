@@ -57,9 +57,10 @@ for(let i=0;i<4;i++){
                                 lang : ['全部数据', 'close', 'refresh'],
                                 buttonColor : '#3170c2',
                                 optionToContent: function(opt) {
-                                    let table='<table class="table table-striped"></table>'
+                                    let table_id=`table-${class_list[j]}-${id_type_list[i]}-day${day}`
+                                    let table='<table id='+table_id+' class="table table-striped"></table>'
                                     $(document).ready(function() {
-                                        $('.table-striped').dataTable({
+                                        $('#'+table_id).dataTable({
                                             searching: false,// 是否允许检索
                                             scrollX: false,// 水平滚动条
                                             scrollY: false,// 垂直滚动条
