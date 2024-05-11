@@ -40,8 +40,8 @@ def generate_result_temp(path, type_name, csv_file_name):
     df = pd.read_csv(path + csv_file_name)
     data_class_array = []
     result_name_dict = {
-        'country_alias_num': 'Number of shortest prefixes',
-        'sta_country_alias_num': 'Number of 32 slices prefixes'
+        'country_alias_num': 'Number of prefixes',
+        'sta_country_alias_num': 'Number of 32/ prefixes'
     }
     for class_index in range(2):
         # series标签名称

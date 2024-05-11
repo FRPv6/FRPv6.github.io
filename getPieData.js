@@ -77,7 +77,7 @@ for(let i=0;i<4;i++){
                         {
                             name: dataName,
                             type: 'pie',
-                            radius: '50%',
+                            radius: '65%',//圆的半径
                             data: dataSeries,
                             emphasis: {
                                 itemStyle: {

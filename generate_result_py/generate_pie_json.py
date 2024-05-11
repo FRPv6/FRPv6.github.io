@@ -3,6 +3,12 @@ import json
 from datetime import datetime, timedelta
 from config import DefaultConfig
 config = DefaultConfig()
+type_name_dict = {
+    "AS-Num-Org": "AS-Num-Org",
+    "Category-Num": "CGBC-Num",
+    "Sub_category-Num": "FGBC-Num",
+    "Org-AS-Num": "AS-Num-Org"
+}
 
 
 def generate_time_list():
@@ -76,7 +82,7 @@ def generate_result_temp(path, type_name, csv_file_name):
         data_array.append(data_dict)
 
         result_dict = {
-            "title": type_name,
+            "title": type_name_dict[type_name],
             "data": data_array,
             "name": column_name
         }

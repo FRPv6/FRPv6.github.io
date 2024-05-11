@@ -1,21 +1,42 @@
 .h2, h2 {
-    font-size: 2rem;
+    font-size: 2.3rem;
     padding-top: 4rem;
     margin-top: -2rem;
+    font-weight: bold;
 }
 .h4, h4 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     padding-top: 4rem;
     margin-top: -2rem;
+    font-weight: bold;
 }
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     padding-top: 3rem;
     margin-top: -2rem;
+    font-weight: bold;
+}
+.sub-container{
+    margin-left: 60px;
 }
 .description{
     margin-top: 2px;
     margin-bottom: 4px;
+    font-size: 1.3rem;
+}
+.description-pie{
+    margin-top: 4px;
+    margin-bottom: 0px;
+    text-align: right;
+    font-size: medium;
+    color: #38393b;
+}
+.download-pie{
+    margin-top: 0px;
+    margin-bottom: 4px;
+    text-align: right;
+    font-size: medium;
+    color: #38393b;
 }
 .topmargin {
     margin-top: 0rem;
@@ -47,7 +68,7 @@ tab-content{
     margin-top: 1rem;
 }
 .col-lg-12 {
-    border-bottom: 0.1rem solid #ebf0f4;
+    border-bottom: 0.1rem solid #e5e7ea;
     margin-top: 2rem;
 }
 /*导航栏*/
@@ -80,7 +101,7 @@ tab-content{
     width: 6.5rem;
 }
 .pie-chart-container{
-    height: 400px;
+    height: 380px;
     width: 1080px
 }
 .pie-chart-container h4{
