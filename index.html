@@ -19,8 +19,9 @@
 
 <body>
     <!-- Put nav into container to center it on the page -->
+    <!--nav-bar导航栏-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-      <div class="container-xl">
+      <div class="container">
       <a class="navbar-brand" href="#">↑</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -28,22 +29,27 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav container">
           <a class="nav-item nav-link" href="#alias prefix">Fully Responsive Prefixes</a>
-          <a class="nav-item nav-link" href="#categorized alias prefix">Categorized Fully Responsive Prefixes</a>
-          <a class="nav-item nav-link" href="#alias detection">Alias Detection</a>
+          <a class="nav-item nav-link" href="#categorized alias prefix">Distribution of Fully Responsive Prefixes</a>
+<!--          <a class="nav-item nav-link" href="#alias detection">Alias Detection</a>-->
         </div>
       </div>
       </div>
     </nav>
-<!--    <a class="github-fork-ribbon right-bottom fixed" href="https://robustspotproject.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>-->
+    <!--    <a class="github-fork-ribbon right-bottom fixed" href="https://robustspotproject.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>-->
     <br>
-    <div class="container-xl" style="margin-left: 9rem">
+
+    <!--网页内容-->
+    <div class="container" >
 	<h2 class="topmargin">IPv6 Fully Responsive Prefixes Service</h2>
-    <div class="description">On this website we presented IPv6 Fully Responsive Prefixes Service.</div>
+    <div class="description">On this website we provide an IPv6 Fully Responsive Prefix (FRP) service where we publish the Fully Responsive Prefix list (FRPlist) to interested researchers.</div>
     <!--折线图-->
     <!--折线图-->
     <!--折线图-->
     <h3 id="alias prefix">Fully Responsive Prefixes</h3>
-    <div class="description">We provide Fully Responsive Prefixes.The first tab, "Number of prefixes", refers to the number of all maximized fully responsive prefixes detected through probing. This is crucial to avoid the simultaneous existence of a prefix and its sub-prefixes. All subsequent statistical information in this webpage is derived from this maximized list of fully responsive prefixes. The second tab, "Number of 32/ prefixes", refers to the number of 32/ prefixes contained within the address space covered by the fully responsive prefixes. This standardizes the address space to 32/ prefixes, thereby representing the overall size of the address space covered by all fully responsive prefixes.</div>
+    <div class="description">
+        "Number of prefixes" refers to the number of all probed FRPs after taking the largest (i.e., avoiding the co-existence of a prefix and its sub-prefixes).<br>
+        "Number of prefixes (/64)" refers to the number of /64 prefixes covered by FRPlist, derived from the address space covered by FRPlist and /64 prefixes. Its purpose is to compare and illustrate the changes in the size of the FRPlist over time.
+    </div>
         <div class="sub-container">
             <!--求和结果-->
 <!--            <div class="divider"></div>-->
@@ -65,7 +71,7 @@
                         <button class="nav-link active" id="type1-sum-tab" data-bs-toggle="pill" data-bs-target="#type1-sum-tab-pane" type="button" role="tab" aria-controls="type1-sum-tab-pane" aria-selected="true">Number of prefixes</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="type2-sum-tab" data-bs-toggle="pill" data-bs-target="#type2-sum-tab-pane" type="button" role="tab" aria-controls="type2-sum-tab-pane" aria-selected="false">Number of 32/ prefixes</button>
+                        <button class="nav-link" id="type2-sum-tab" data-bs-toggle="pill" data-bs-target="#type2-sum-tab-pane" type="button" role="tab" aria-controls="type2-sum-tab-pane" aria-selected="false">Number of prefixes (/64)</button>
                     </li>
                 </ul>
                 <!--折线图-Sum-面板区-->
@@ -102,7 +108,7 @@
                         <button class="nav-link active" id="type1-router-tab" data-bs-toggle="pill" data-bs-target="#type1-router-tab-pane" type="button" role="tab" aria-controls="type1-router-tab-pane" aria-selected="true">Number of prefixes</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="type2-router-tab" data-bs-toggle="pill" data-bs-target="#type2-router-tab-pane" type="button" role="tab" aria-controls="type2-router-tab-pane" aria-selected="false">Number of 32/ prefixes</button>
+                        <button class="nav-link" id="type2-router-tab" data-bs-toggle="pill" data-bs-target="#type2-router-tab-pane" type="button" role="tab" aria-controls="type2-router-tab-pane" aria-selected="false">Number of prefixes (/64)</button>
                     </li>
                 </ul>
                 <!--折线图-路由-面板区-->
@@ -128,7 +134,7 @@
                     <button class="nav-link active" id="type1-seed-tab" data-bs-toggle="pill" data-bs-target="#type1-seed-tab-pane" type="button" role="tab" aria-controls="type1-seed-tab-pane" aria-selected="true">Number of prefixes</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="type2-seed-tab" data-bs-toggle="pill" data-bs-target="#type2-seed-tab-pane" type="button" role="tab" aria-controls="type2-seed-tab-pane" aria-selected="false">Number of 32/ prefixes</button>
+                    <button class="nav-link" id="type2-seed-tab" data-bs-toggle="pill" data-bs-target="#type2-seed-tab-pane" type="button" role="tab" aria-controls="type2-seed-tab-pane" aria-selected="false">Number of prefixes (/64)</button>
                 </li>
             </ul>
             <!--折线图-种子-面板区-->
@@ -140,6 +146,16 @@
                 <div class="line-chart" id="line-seed-type2"></div>
             </div>
         </div>
+            <!--下载链接-->
+            <div class="divider"></div>
+            <h4>Openly Accessible Service</h4>
+            <div class="description">You can use the generated list of Fully Responsive Prefixes, Fully Responsive Routing Prefixes, and Fully Responsive Non-routing Prefixes:<br>
+                <ul>
+                    <li> <a href="#">Fully Responsive Prefixes<br></a></li>
+                    <li><a href="#">Fully Responsive Routing Prefixes<br></a></li>
+                    <li><a href="#">Fully Responsive Non-routing Prefixes<br></a></li>
+                </ul>
+            </div>
             <div class="divider"></div>
         </div>
 
@@ -148,12 +164,13 @@
     <!--饼状图-->
 
     <!--Categorized Alias Prefix-->
-    <h3 id="categorized alias prefix">Categorized Fully Responsive Prefixes</h3>
-    <div class="description">We provide Categorized Fully Responsive Prefixes.</div>
+    <h3 id="categorized alias prefix">Distribution of Fully Responsive Prefixes</h3>
+    <div class="description">We provide an analysis of the attributes associated with FRPs in FRPlist, including their Autonomous System (AS), Organization(ORG), Fine-grained business category(FGBC), Coarse-Grained Business Category(CGBC) and Country.
+    </div>
     <div class="sub-container">
         <!--所有结果-->
         <h4>All Fully Responsive Prefixes</h4>
-        <div class="description">These graphs shows the development of the all fully responsive prefixes over time.</div>
+<!--        <div class="description">These graphs shows the development of the all fully responsive prefixes over time.</div>-->
         <!--sum-四个饼状图-->
         <div class="container-lg">
             <div class="row">
@@ -175,56 +192,56 @@
                             <div class="tab-pane fade show active" id="pie-sum-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-as-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-as-day7" ></div>
                             </div>
                         </div>
                     </div>
-                     <div class="description-pie">AS-Num-Org refers to the number of fully responsive prefixes within an Autonomous System (AS) and the corresponding organization associated with that AS.</div>
-                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-Org</a></div>
+                     <div class="description-pie">AS-Num-ORG refers to the number of FRPs within an AS and the corresponding ORG associated with that AS.</div>
+<!--                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-ORG</a></div>-->
                  </div>
                  <div class="col-lg-12">
                      <div class="d-flex align-items-start">
@@ -243,56 +260,56 @@
                             <div class="tab-pane fade show active" id="pie-sum-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                     <div class="description-pie">CGBC-Num refers to the number of fully responsive prefixes under coarse-grained commercial categories.</div>
-                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>
+                     <div class="description-pie">CGBC-Num refers to the number of FRPs under CGBC.</div>
+<!--                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>-->
                  </div>
                  <div class="col-lg-12">
                      <div class="d-flex align-items-start">
@@ -311,56 +328,56 @@
                             <div class="tab-pane fade show active" id="pie-sum-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-sub-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-sub-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                     <div class="description-pie">FGBC-Num refers to the number of fully responsive prefixes within finer-grained commercial categories.</div>
-                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>
+                     <div class="description-pie">FGBC-Num refers to the number of FRPs within FGBC.</div>
+<!--                     <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>-->
                  </div>
                     <div class="col-lg-12">
                         <div class="d-flex align-items-start">
@@ -379,56 +396,56 @@
                             <div class="tab-pane fade show active" id="pie-sum-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-sum-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-sum-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-org-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-sum-org-day7"></div>
                             </div>
                         </div>
                     </div>
-                        <div class="description-pie">Org-AS-Num refers to the number of ASes within an organization and the number of fully responsive prefixes within those ASes.</div>
-                        <div class="download-pie">All data in this pie chart is provided here: <a href="#">Org-AS-Num</a></div>
+                        <div class="description-pie">ORG-AS-Num refers to the number of ASes within an ORG and the number of FRPs within those ASes.</div>
+<!--                        <div class="download-pie">All data in this pie chart is provided here: <a href="#">ORG-AS-Num</a></div>-->
                     </div>
                    <div class="col-lg-12">
                        <div class="d-flex align-items-start">
@@ -447,62 +464,62 @@
                             <div class="tab-pane fade show active" id="map-sum-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-sum-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-sum-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-sum-country-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-sum-country-day7"></div>
                             </div>
                         </div>
                     </div>
-                       <div class="description-pie">Country-Num refers to the number of fully responsive prefixes within ASes belonging to a specific country.</div>
-                       <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>
+                       <div class="description-pie">Country-Num refers to the number of FRPs within ASes belonging to a specific country.</div>
+<!--                       <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>-->
                    </div>
             </div>
         </div>
         <!--路由前缀-->
         <h4>Fully Responsive Routing Prefixes</h4>
-        <div class="description">These graphs shows the development of the fully responsive routing prefixes over time.</div>
+<!--        <div class="description">These graphs shows the development of the fully responsive routing prefixes over time.</div>-->
         <!--路由-四个饼状图-->
         <div class="container-lg">
             <div class="row">
@@ -523,56 +540,56 @@
                             <div class="tab-pane fade show active" id="pie-router-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-as-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-as-day7" ></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">AS-Num-Org refers to the number of fully responsive prefixes within an Autonomous System (AS) and the corresponding organization associated with that AS.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-Org</a></div>
+                    <div class="description-pie">AS-Num-ORG refers to the number of FRPs within an AS and the corresponding ORG associated with that AS.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-ORG</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -591,56 +608,56 @@
                             <div class="tab-pane fade show active" id="pie-router-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">CGBC-Num refers to the number of fully responsive prefixes under coarse-grained commercial categories.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>
+                    <div class="description-pie">CGBC-Num refers to the number of FRPs under CGBC.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -659,56 +676,56 @@
                             <div class="tab-pane fade show active" id="pie-router-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-sub-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-sub-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">FGBC-Num refers to the number of fully responsive prefixes within finer-grained commercial categories.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>
+                    <div class="description-pie">FGBC-Num refers to the number of FRPs within FGBC.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -727,56 +744,56 @@
                             <div class="tab-pane fade show active" id="pie-router-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-router-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-router-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-org-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-router-org-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">Org-AS-Num refers to the number of ASes within an organization and the number of fully responsive prefixes within those ASes.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Org-AS-Num</a></div>
+                    <div class="description-pie">ORG-AS-Num refers to the number of ASes within an ORG and the number of FRPs within those ASes.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">ORG-AS-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -795,62 +812,62 @@
                             <div class="tab-pane fade show active" id="map-router-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-router-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-router-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-router-country-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-router-country-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">Country-Num refers to the number of fully responsive prefixes within ASes belonging to a specific country.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>
+                    <div class="description-pie">Country-Num refers to the number of FRPs within ASes belonging to a specific country.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>-->
                 </div>
             </div>
         </div>
         <!--种子前缀-->
         <h4>Fully Responsive  Non-routing Prefixes</h4>
-        <div class="description">These graphs shows the development of the fully responsive non-routing prefixes over time.</div>
+<!--        <div class="description">These graphs shows the development of the fully responsive non-routing prefixes over time.</div>-->
 
         <!--种子-四个饼状图-->
         <div class="container-lg">
@@ -872,56 +889,56 @@
                             <div class="tab-pane fade show active" id="pie-seed-as-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day1" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day2" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day3" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day4" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day5" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day6" ></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-as-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-as-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-as-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-as-day7" ></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">AS-Num-Org refers to the number of fully responsive prefixes within an Autonomous System (AS) and the corresponding organization associated with that AS.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-Org</a></div>
+                    <div class="description-pie">AS-Num-ORG refers to the number of FRPs within an AS and the corresponding ORG associated with that AS.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">AS-Num-ORG</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -940,56 +957,56 @@
                             <div class="tab-pane fade show active" id="pie-seed-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">CGBC-Num refers to the number of fully responsive prefixes under coarse-grained commercial categories.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>
+                    <div class="description-pie">CGBC-Num refers to the number of FRPs under CGBC.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">CGBC-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -1008,56 +1025,56 @@
                             <div class="tab-pane fade show active" id="pie-seed-sub-category-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-sub-category-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-sub-category-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-sub-category-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-sub-category-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">FGBC-Num refers to the number of fully responsive prefixes within finer-grained commercial categories.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>
+                    <div class="description-pie">FGBC-Num refers to the number of FRPs within FGBC.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">FGBC-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -1076,56 +1093,56 @@
                             <div class="tab-pane fade show active" id="pie-seed-org-day1-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day2-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day3-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day4-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day5-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day6-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="pie-seed-org-day7-tab-pane" role="tabpanel" aria-labelledby="pie-seed-org-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-org-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="pie-chart-container" id="pie-seed-org-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">Org-AS-Num refers to the number of ASes within an organization and the number of fully responsive prefixes within those ASes.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Org-AS-Num</a></div>
+                    <div class="description-pie">ORG-AS-Num refers to the number of ASes within an ORG and the number of FRPs within those ASes.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">ORG-AS-Num</a></div>-->
                 </div>
                 <div class="col-lg-12">
                     <div class="d-flex align-items-start">
@@ -1144,68 +1161,70 @@
                             <div class="tab-pane fade show active" id="map-seed-country-day1-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day1-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day1" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day1"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day2-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day2-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day2" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day2"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day3-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day3-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day3" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day3"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day4-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day4-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day4" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day4"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day5-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day5-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day5" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day5"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day6-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day6-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day6" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day6"></div>
                             </div>
                             <div class="tab-pane fade" id="map-seed-country-day7-tab-pane" role="tabpanel" aria-labelledby="map-seed-country-day7-tab" tabindex="0">
                                 <select class="form-select form-select-sm" data-style="btn-info" id="select-seed-country-day7" aria-label="Default select example">
                                     <option selected value="1">Number of prefixes</option>
-                                    <option value="2">Number of 32/ prefixes</option>
+                                    <option value="2">Number of prefixes (/64)</option>
                                 </select>
                                 <div class="map-chart-container" id="map-seed-country-day7"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="description-pie">Country-Num refers to the number of fully responsive prefixes within ASes belonging to a specific country.</div>
-                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>
+                    <div class="description-pie">Country-Num refers to the number of FRPs within ASes belonging to a specific country.</div>
+<!--                    <div class="download-pie">All data in this pie chart is provided here: <a href="#">Country-Num</a></div>-->
                 </div>
             </div>
         </div>
 
-<!--饼状图-end-->
+    <!--饼状图-end-->
     </div>
-<!--  Alias Detection   -->
-    <h3 id="alias detection">Alias Detection</h3>
-        <div class="description">We provide Alias Detection.</div>
-    <br>
-    <br>
-    <div id="alias detection line chart"></div>
+
+    <!--  Alias Detection   -->
+<!--    <h3 id="alias detection">Alias Detection</h3>-->
+<!--    <div class="description">We provide Alias Detection.</div>-->
+<!--    <br>-->
+<!--    <br>-->
+<!--    <div id="alias detection line chart"></div>-->
+
 </div>
 
 <!-- JS STARTS HERE -->
@@ -1258,20 +1277,18 @@
 	// 	}
 	// });
     //
-	$.getJSON('router_prefix_day_1_as_sat.json', function (chart) {
-        Highcharts.chart('pie-chart-container_1', chart);
-	});
-
-    $.getJSON('router_prefix_day_1_country_sat.json', function (chart) {
-        Highcharts.chart('pie-chart-container_5', chart);
-    });
-    $.getJSON('alias detection line chart.json', function (chart) {
-        Highcharts.chart('alias detection line chart', chart);
-	});
-
+	// $.getJSON('router_prefix_day_1_as_sat.json', function (chart) {
+    //     Highcharts.chart('pie-chart-container_1', chart);
+	// });
+    //
+    // $.getJSON('router_prefix_day_1_country_sat.json', function (chart) {
+    //     Highcharts.chart('pie-chart-container_5', chart);
+    // });
+    // $.getJSON('alias detection line chart.json', function (chart) {
+    //     Highcharts.chart('alias detection line chart', chart);
+	// });
 
 </script>
 <!-- JS ENDS HERE -->
-
 </body>
 </html>

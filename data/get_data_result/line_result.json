@@ -164,12 +164,12 @@
         "2023-12-07"
       ],
       "legend": [
-        "32/ Fully Responsive Prefixes",
-        "32/ All Prefixes"
+        "Fully Responsive Prefixes (/64)",
+        "All Prefixes (/64)"
       ],
       "series": [
         {
-          "name": "32/ Fully Responsive Prefixes",
+          "name": "Fully Responsive Prefixes (/64)",
           "data": [
             1408.5066336072816,
             1405.502712027479,
@@ -209,7 +209,7 @@
           ]
         },
         {
-          "name": "32/ All Prefixes",
+          "name": "All Prefixes (/64)",
           "data": [
             229245.2307553093,
             229207.39702824736,
@@ -414,12 +414,12 @@
         "2023-12-07"
       ],
       "legend": [
-        "32/ Fully Responsive Prefixes",
-        "32/ All Prefixes"
+        "Fully Responsive Prefixes (/64)",
+        "All Prefixes (/64)"
       ],
       "series": [
         {
-          "name": "32/ Fully Responsive Prefixes",
+          "name": "Fully Responsive Prefixes (/64)",
           "data": [
             1391.48391777277,
             1387.4797216057775,
@@ -459,7 +459,7 @@
           ]
         },
         {
-          "name": "32/ All Prefixes",
+          "name": "All Prefixes (/64)",
           "data": [
             229245.2307553093,
             229207.39702824736,
@@ -664,12 +664,12 @@
         "2023-12-07"
       ],
       "legend": [
-        "32/ Fully Responsive Prefixes",
-        "32/ All Prefixes"
+        "Fully Responsive Prefixes (/64)",
+        "All Prefixes (/64)"
       ],
       "series": [
         {
-          "name": "32/ Fully Responsive Prefixes",
+          "name": "Fully Responsive Prefixes (/64)",
           "data": [
             17.022715834511622,
             18.0229904217014,
@@ -709,7 +709,7 @@
           ]
         },
         {
-          "name": "32/ All Prefixes",
+          "name": "All Prefixes (/64)",
           "data": [
             10925.218465188243,
             10925.218465188243,

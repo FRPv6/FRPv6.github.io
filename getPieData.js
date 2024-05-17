@@ -37,7 +37,7 @@ for(let i=0;i<4;i++){
                 lineChart.setOption({
                     title: {
                         text: dataTitle,
-                        left: 'center'
+                        right: '55%'
                     },
                     color:['#5470c6', '#91cc75', '#fac858', '#46e0cf','#ee6666', '#73c0de', '#3ba272', '#fc8452', '#9a60b4', '#ea7ccc'],
                     tooltip: {
@@ -78,6 +78,7 @@ for(let i=0;i<4;i++){
                         {
                             name: dataName,
                             type: 'pie',
+                            right: '20%',
                             radius: '65%',//圆的半径
                             data: dataSeries,
                             emphasis: {

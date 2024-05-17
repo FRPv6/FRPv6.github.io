@@ -1,4 +1,4 @@
-let dataNameMap=[]
+// let dataNameMap=[]
 // let class_list=["sum""router","seed"]
 let chart_map_list=[]
 let table_object={}
@@ -32,7 +32,8 @@ for(let i=0;i<3;i++){
             let option = {
                 title: {
                     text: dataTitle,
-                    x: 'center'
+                    // x: 'center',
+                    right: '55%'
                 },
                 tooltip: {
                     trigger: 'item',
@@ -41,7 +42,7 @@ for(let i=0;i<3;i++){
                     transitionDuration: 0.2
                 },
                 visualMap: {
-                    left: 'right',
+                    left: 'left',
                     min: 0,
                     max: 150,
                     inRange: {
@@ -92,26 +93,20 @@ for(let i=0;i<3;i++){
                 //         saveAsImage: { show: true }
                 //     }
                 // },
-                // roamController: {
-                //     show: true,
-                //     x: 'right',
-                //     mapTypeControl: {
-                //         'world': true
-                //     }
+                // geo: {
+                //     map: 'world',
+                //     layoutCenter: ['10%', '50%'], // 位置
                 // },
-                geo: {
-                    map: 'world',
-
-                },
                 series: [
                     {
                         name: dataName,
                         type: 'map',
                         map: 'world',
+                        right: '145%',
                         // type: 'effectScatter',//影响散点
-                        coordinateSystem: 'geo',
+                        // coordinateSystem: 'geo',
                         data: dataSeries,
-                        nameMap:dataNameMap,
+                        // nameMap:dataNameMap,
                         label: {
                             show: false //地图上不显示国家名称
                         },
