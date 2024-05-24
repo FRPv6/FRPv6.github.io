@@ -4,13 +4,11 @@ from datetime import datetime, timedelta
 from config import DefaultConfig
 config=DefaultConfig()
 
-file_name_sum = "sum_prefix_sat_change.csv"
-file_name_router = "router_prefix_sat_change.csv"
-file_name_seed = "seed_prefix_sat_change.csv"
-
-pathArray = config.pathArray
-week_num = config.week_num
+file_name_sum = "sum_frp"
+file_name_router = "router_frp"
+file_name_seed = "seed_frp"
 fileArray = [file_name_sum, file_name_router, file_name_seed]
+
 
 def read_csv_column(file, delimiter):
     data = []
@@ -35,11 +33,9 @@ def csv_to_json(file):
     return res
 
 
-
-
-def generate_line_chart():
+def generate_line_chart(path_name):
     dataArray = []
-    day_num = week_num * 7
+    day_num = 180
     start_date_string = "2023-11-03"
     start_date = datetime.strptime(start_date_string, "%Y-%m-%d")
     # 获取时间，横坐标
@@ -51,37 +47,26 @@ def generate_line_chart():
 
     # 获取数据，series
     for file_name in fileArray:
-        for type_index in range(0, 3, 2):
-            data_1 = []
-            data_2 = []
-            header_prefix_list = ["", "", "32/ "]
-            for path_name in pathArray:
-                file = path_name + file_name
-                df = pd.read_csv(file)
-                # 获取列标签
-                column_headers = list(df.columns.values)
-                # Fully Responsive Prefixes    All Prefixes
-# Standardized Fully Responsive Prefixes      Standardized All Prefixes
-
-                data_header_1 = column_headers[type_index]  # 第1或 3列
-                data_header_2 = column_headers[type_index + 1]  # 第2或 4列
-                name_header_1 = header_prefix_list[type_index] + "Fully Responsive Prefixes"
-                name_header_2 = header_prefix_list[type_index] + "All Prefixes"
-                data_1 = data_1 + df[data_header_1].tolist()
-                data_2 = data_2 + df[data_header_2].tolist()
-            series_temp_1 = {"name": name_header_1, "data": data_1}
-            series_temp_2 = {"name": name_header_2, "data": data_2}
-            # data = csv_to_json(file_name)
+        for type_index in range(2):
+            if type_index == 0:
+                yAxisName = '#'
+                file = path_name + file_name +'.csv'
+            else:
+                yAxisName = "10^9"
+                file = path_name + file_name +'_64.csv'
+            df = pd.read_csv(file)
+            series_temp = {"name": "Fully Responsive Prefixes", "data": df['frp'].tolist()}
             data_temp = {
                 "xAxis": xAxis,
-                "legend": [name_header_1, name_header_2],
-                "series": [series_temp_1, series_temp_2]
+                "legend": ["Fully Responsive Prefixes"],
+                "series": [series_temp],
+                "yAxisName":yAxisName
             }
             dataArray.append(data_temp)
 
     result = {"result": dataArray, "code": 1001, "msg": "success"}
 
     # Save JSON data to a file
-    with open(f"../data/get_data_result/line_result.json", 'w') as json_file:
+    with open(config.result_path+f"line_result.json", 'w') as json_file:
         json.dump(result, json_file, indent=2)
 

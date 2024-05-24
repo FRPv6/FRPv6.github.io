@@ -33,19 +33,19 @@ def locate_country_iso(country):
 
 def generate_result_temp(path, type_name, csv_file_name):
     # 下拉框class，type1 or type2
-    class_ratio_names = ["","sat_"]
+    class_ratio_names = ["","_64"]
     class_num_names = ["", "sta_"]
 
     # Read CSV file into DataFrame
     df = pd.read_csv(path + csv_file_name)
     data_class_array = []
     result_name_dict = {
-        'country_alias_num': 'Number of prefixes',
-        'sta_country_alias_num': 'Number of 32/ prefixes'
+        'alias_prefix_num': 'Number of prefixes',
+        'alias_prefix_64_num': 'Number of prefixes (/64)'
     }
     for class_index in range(2):
         # series标签名称
-        column_name = f"{class_num_names[class_index]}country_alias_num"
+        column_name = f"alias_prefix{class_ratio_names[class_index]}_num"
         # Create a list of dictionaries containing information for each selected row
         data_array = []
         for idx, row in df.iterrows():
@@ -72,21 +72,19 @@ def generate_result_temp(path, type_name, csv_file_name):
     return data_class_array
 
 
-def generate_map_chart():
+def generate_map_chart(path_name):
     # Specify the variables for each iteration
     file_path = config.file_path_last_week
-    prefix_types = ["sum", "router", "seed"]
+    prefix_types = ["all", "router", "seed"]
     type_name = "Country-Num"
+    file_type='country'
     # Iterate through different combinations
     resultArray = []
     get_country_iso_dict()
     for prefix_type in prefix_types:
-        for day in range(1, 8):
-            csv_file_name = f"{prefix_type}_prefix_day_{day}_country_sat.csv"
-
-            result_temp = generate_result_temp(file_path, type_name, csv_file_name)
-            resultArray.append(result_temp)
-
+        csv_file_name = f"{prefix_type}_six_month_country.csv"
+        result_temp = generate_result_temp(path_name, type_name, csv_file_name)
+        resultArray.append(result_temp)
         result = {"result": resultArray, "code": 1001, "msg": "success"}
         # 写入json文件中
         json_path = f"../data/get_data_result/map_result_country.json"

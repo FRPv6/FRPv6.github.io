@@ -1,0 +1,288 @@
+{
+  "result": [
+    [
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "Incapsula Inc-[19551]-164581",
+            "value": 0.3266182967052594
+          },
+          {
+            "name": "Cloudflare, Inc.-[395747, 13335]-99017",
+            "value": 0.1965036297316499
+          },
+          {
+            "name": "Amazon.com, Inc.-[16509]-97916",
+            "value": 0.1943186463819771
+          },
+          {
+            "name": "Akamai International B.V.-[33905, 20940, 21342]-36353",
+            "value": 0.0721441414265698
+          },
+          {
+            "name": "Denpa Ltd.-[131662]-26071",
+            "value": 0.0517390562300801
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-18402",
+            "value": 0.0365195854683723
+          },
+          {
+            "name": "Facebook, Inc.-[32934]-9644",
+            "value": 0.0191389458894132
+          },
+          {
+            "name": "Black Mesa Corporation-[46997]-3753",
+            "value": 0.0074479950148245
+          },
+          {
+            "name": "Google LLC-[15169, 36492, 396982]-3580",
+            "value": 0.0071046688390812
+          },
+          {
+            "name": "Others",
+            "value": 0.0009029676876542991
+          }
+        ],
+        "name": "alias_prefix_ratio"
+      },
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "EpicUp Holdings Inc-[397165]-8521215115264.0",
+            "value": 0.3013088260825035
+          },
+          {
+            "name": "LeaseWeb Netherlands B.V.-[60781]-3182839378865.0",
+            "value": 0.1125446997737559
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-1580635798777.8765",
+            "value": 0.0558910332096441
+          },
+          {
+            "name": "DEFSOLUTION LLC-[197992]-1322849992715.0",
+            "value": 0.0467757676571525
+          },
+          {
+            "name": "PT. INDOSAT Tbk-[4761]-1099511628544.0",
+            "value": 0.0388785582313503
+          },
+          {
+            "name": "EGIHosting-[18779]-927712935936.0",
+            "value": 0.0328037834847886
+          },
+          {
+            "name": "Alex Group LLC-[212165]-721554505730.0",
+            "value": 0.025514053821573
+          },
+          {
+            "name": "Delta Ltd-[213220]-646392840194.0",
+            "value": 0.0228563491512038
+          },
+          {
+            "name": "SIXNET OPERATION LTD-[198231]-485348081664.0",
+            "value": 0.0171618318220386
+          },
+          {
+            "name": "Others",
+            "value": 4.647393581080905e-12
+          }
+        ],
+        "name": "alias_prefix_64_ratio"
+      }
+    ],
+    [
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "Amazon.com, Inc.-[16509]-1260",
+            "value": 0.2026700981180633
+          },
+          {
+            "name": "Akamai Technologies, Inc.-[16625, 36183]-1221",
+            "value": 0.1963969760334566
+          },
+          {
+            "name": "Cloudflare, Inc.-[13335]-366",
+            "value": 0.0588708380247707
+          },
+          {
+            "name": "Incapsula Inc-[19551]-312",
+            "value": 0.0501849766768537
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-248",
+            "value": 0.0398906224867299
+          },
+          {
+            "name": "Google LLC-[36492]-237",
+            "value": 0.0381212803603024
+          },
+          {
+            "name": "Rohmad Kumiadin-[210842]-222",
+            "value": 0.0357085410969921
+          },
+          {
+            "name": "Fastly, Inc.-[54113]-171",
+            "value": 0.0275052276017371
+          },
+          {
+            "name": "Bharti Airtel Limited-[45609]-167",
+            "value": 0.0268618304648544
+          },
+          {
+            "name": "Others",
+            "value": 0.10889496541740606
+          }
+        ],
+        "name": "alias_prefix_ratio"
+      },
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "EpicUp Holdings Inc-[397165]-4260607557632",
+            "value": 0.2699379062134801
+          },
+          {
+            "name": "LeaseWeb Netherlands B.V.-[60781]-2194728353792",
+            "value": 0.1390506796310624
+          },
+          {
+            "name": "DEFSOLUTION LLC-[197992]-1108101562368",
+            "value": 0.0702056248014897
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-892547891200",
+            "value": 0.0565488620312387
+          },
+          {
+            "name": "Alex Group LLC-[212165]-652835028992",
+            "value": 0.0413614533714203
+          },
+          {
+            "name": "Delta Ltd-[213220]-549755944960",
+            "value": 0.0348307058802183
+          },
+          {
+            "name": "SIXNET OPERATION LTD-[198231]-382268866560",
+            "value": 0.0242192823568002
+          },
+          {
+            "name": "NETLABS LLC-[216271]-377957122048",
+            "value": 0.0239461045834538
+          },
+          {
+            "name": "EGIHosting-[18779]-309237645312",
+            "value": 0.0195922673864622
+          },
+          {
+            "name": "Others",
+            "value": 0.1442017367926659
+          }
+        ],
+        "name": "alias_prefix_64_ratio"
+      }
+    ],
+    [
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "Incapsula Inc-[19551]-164269",
+            "value": 0.3300715122458944
+          },
+          {
+            "name": "Cloudflare, Inc.-[395747, 13335]-98651",
+            "value": 0.1982229437968803
+          },
+          {
+            "name": "Amazon.com, Inc.-[16509]-96656",
+            "value": 0.1942143197294631
+          },
+          {
+            "name": "Akamai International B.V.-[33905, 20940, 21342]-36308",
+            "value": 0.0729549486916212
+          },
+          {
+            "name": "Denpa Ltd.-[131662]-26069",
+            "value": 0.0523813638162904
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-18154",
+            "value": 0.0364774743458106
+          },
+          {
+            "name": "Facebook, Inc.-[32934]-9644",
+            "value": 0.0193780303289081
+          },
+          {
+            "name": "Black Mesa Corporation-[46997]-3746",
+            "value": 0.0075269703040325
+          },
+          {
+            "name": "Google LLC-[15169, 36492, 396982]-3343",
+            "value": 0.0067172081490605
+          },
+          {
+            "name": "Others",
+            "value": 0.0019269526218860245
+          }
+        ],
+        "name": "alias_prefix_ratio"
+      },
+      {
+        "title": "ORG-AS-Num",
+        "data": [
+          {
+            "name": "EpicUp Holdings Inc-[397165]-4260607557632.0",
+            "value": 0.3409301298668245
+          },
+          {
+            "name": "PT. INDOSAT Tbk-[4761]-1099511627776.0",
+            "value": 0.0879819689978902
+          },
+          {
+            "name": "LeaseWeb Netherlands B.V.-[60781]-988111025073.0",
+            "value": 0.079067789169536
+          },
+          {
+            "name": "RACKTECH CO., LTD.-[204916]-688087907577.8763",
+            "value": 0.0550601989310415
+          },
+          {
+            "name": "EGIHosting-[18779]-618475290624.0",
+            "value": 0.0494898575613132
+          },
+          {
+            "name": "DEFSOLUTION LLC-[197992]-214748430347.0",
+            "value": 0.0171839835649146
+          },
+          {
+            "name": "The Constant Company, LLC-[20473]-210453660800.23267",
+            "value": 0.0168403198222391
+          },
+          {
+            "name": "Petersburg Internet Network ltd.-[34665]-171798691840.0",
+            "value": 0.0137471826559203
+          },
+          {
+            "name": "trafficforce, UAB-[212144, 133944, 201341]-154618822673.0",
+            "value": 0.0123724643916886
+          },
+          {
+            "name": "Others",
+            "value": 0.018131058668673372
+          }
+        ],
+        "name": "alias_prefix_64_ratio"
+      }
+    ]
+  ],
+  "code": 1001,
+  "msg": "success"
+}

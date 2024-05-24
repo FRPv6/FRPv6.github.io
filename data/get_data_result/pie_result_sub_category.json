@@ -5,93 +5,93 @@
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Hosting and Cloud Provider-16294.0",
-            "value": 0.3268802535759423
+            "name": "Hosting and Cloud Provider-199809",
+            "value": 0.4262592
           },
           {
-            "name": "Online Music and Video Streaming Services-12751.0",
-            "value": 0.2558027564346901
+            "name": "Computer and Network Security-167747",
+            "value": 0.3578602666666666
           },
           {
-            "name": "None-9103.0",
-            "value": 0.1826188135695227
+            "name": "Online Music and Video Streaming Services-36594",
+            "value": 0.0780672
           },
           {
-            "name": "Internet Service Provider (ISP)-6190.0",
-            "value": 0.1241799907717615
+            "name": "Internet Service Provider (ISP)-26757",
+            "value": 0.0570816
           },
           {
-            "name": "Software Development-3514.0",
-            "value": 0.0704957168936947
+            "name": "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)-26073",
+            "value": 0.0556224
           },
           {
-            "name": "Computer and Network Security-1610.0",
-            "value": 0.0322988344333661
+            "name": "Software Development-5774",
+            "value": 0.0123178666666666
           },
           {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0033068783068783
+            "name": "Other-3933",
+            "value": 0.0083904
           },
           {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028659611992945
+            "name": "Government and Regulatory Agencies, Administrations, Departments, and Services-1182",
+            "value": 0.0025216
           },
           {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026681645836258
+            "name": "Military, Defense, National Security, and International Affairs-301",
+            "value": 0.0006421333333333
           },
           {
             "name": "Others",
-            "value": 0.6731197464240577
+            "value": 1.2800000000368073e-05
           }
         ],
-        "name": "category_ratio"
+        "name": "alias_prefix_ratio"
       },
       {
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Law, Business, and Consulting Services-1004.000259",
-            "value": 0.6755251074852502
+            "name": "Law, Business, and Consulting Services-8574904303660.0",
+            "value": 0.440276277152931
           },
           {
-            "name": "Internet Service Provider (ISP)-221.705214",
-            "value": 0.1491707170141182
+            "name": "Internet Service Provider (ISP)-7968707511235.526",
+            "value": 0.4091512572647466
           },
           {
-            "name": "None-176.195211",
-            "value": 0.1185500579130441
+            "name": "Software Development-1011441903429.0",
+            "value": 0.0519322268830595
           },
           {
-            "name": "Phone Provider-10.0",
-            "value": 0.1078731897158213
+            "name": "Clothing and Textiles-721554505730.0",
+            "value": 0.0370480322923407
           },
           {
-            "name": "Software Development-26.741516",
-            "value": 0.0179925904483442
+            "name": "Hosting and Cloud Provider-565360649009.6399",
+            "value": 0.0290282985068982
           },
           {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0100925140748946
+            "name": "Phone Provider-206158430208.0",
+            "value": 0.0105851520834965
           },
           {
-            "name": "Hosting and Cloud Provider-14.346649",
-            "value": 0.009652907477764
+            "name": "Other-133885387050.0044",
+            "value": 0.0068743110929407
           },
           {
-            "name": "Other-7.177718000000001",
-            "value": 0.0048294098332984
+            "name": "Computer and Network Security-104029464980.98654",
+            "value": 0.0053413663796213
           },
           {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.0021527750679883
+            "name": "Civil Engineering Construction (Utility Lines, Roads and Bridges)-68719477000.0",
+            "value": 0.0035283840413872
           },
           {
             "name": "Others",
-            "value": -0.08885708412923665
+            "value": 5.564550419889791e-05
           }
         ],
-        "name": "sat_category_ratio"
+        "name": "alias_prefix_64_ratio"
       }
     ],
     [
@@ -99,93 +99,93 @@
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Hosting and Cloud Provider-16284.0",
-            "value": 0.3265093337076173
+            "name": "Hosting and Cloud Provider-1794",
+            "value": 0.3375987956341739
           },
           {
-            "name": "Online Music and Video Streaming Services-12732.0",
-            "value": 0.2552884326188518
+            "name": "Computer and Network Security-1534",
+            "value": 0.2886714339480617
           },
           {
-            "name": "None-9097.0",
-            "value": 0.1824033043931586
+            "name": "Internet Service Provider (ISP)-1116",
+            "value": 0.2100112909296198
           },
           {
-            "name": "Internet Service Provider (ISP)-6254.0",
-            "value": 0.1253985122210414
+            "name": "Software Development-545",
+            "value": 0.1025592773805043
           },
           {
-            "name": "Software Development-3512.0",
-            "value": 0.0704188639143424
+            "name": "Other-111",
+            "value": 0.0208882197967632
           },
           {
-            "name": "Computer and Network Security-1609.0",
-            "value": 0.0322619453411665
+            "name": "Law, Business, and Consulting Services-86",
+            "value": 0.0161836657884832
           },
           {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.003315649867374
+            "name": "Online Music and Video Streaming Services-45",
+            "value": 0.008468197214904
           },
           {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028735632183908
+            "name": "Clothing and Textiles-22",
+            "value": 0.0041400075272864
           },
           {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026667736049565
+            "name": "Metal, Glass, Wood, and Paper Manufacturing-10",
+            "value": 0.001881821603312
           },
           {
             "name": "Others",
-            "value": 0.6734906662923827
+            "value": 0.00018818216033156254
           }
         ],
-        "name": "category_ratio"
+        "name": "alias_prefix_ratio"
       },
       {
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Law, Business, and Consulting Services-1004.000259",
-            "value": 0.6764212131628754
+            "name": "Law, Business, and Consulting Services-4284230991872",
+            "value": 0.4290375363393104
           },
           {
-            "name": "Internet Service Provider (ISP)-220.736405",
-            "value": 0.1487158848026869
+            "name": "Internet Service Provider (ISP)-3656151010304",
+            "value": 0.3661394600154124
           },
           {
-            "name": "None-175.19521",
-            "value": 0.118033591551618
+            "name": "Software Development-698820919296",
+            "value": 0.069982315642164
           },
           {
-            "name": "Phone Provider-10.0",
-            "value": 0.1066820064859206
+            "name": "Clothing and Textiles-652835028992",
+            "value": 0.0653771313932687
           },
           {
-            "name": "Software Development-26.741501000000003",
-            "value": 0.0180164480895978
+            "name": "Hosting and Cloud Provider-323048046592",
+            "value": 0.0323511356628548
           },
           {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0101059021178612
+            "name": "Phone Provider-103079215104",
+            "value": 0.0103227049568319
           },
           {
-            "name": "Hosting and Cloud Provider-14.346527",
-            "value": 0.00966563017392
+            "name": "Other-86449913856",
+            "value": 0.008657389885814
           },
           {
-            "name": "Other-7.177718000000001",
-            "value": 0.0048358162000245
+            "name": "Civil Engineering Construction (Utility Lines, Roads and Bridges)-68719476736",
+            "value": 0.0068818033045546
           },
           {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.0021574257568159
+            "name": "Metal, Glass, Wood, and Paper Manufacturing-42949672960",
+            "value": 0.0043011270653466
           },
           {
             "name": "Others",
-            "value": -0.08764067638447992
+            "value": 5.7439419065774544e-05
           }
         ],
-        "name": "sat_category_ratio"
+        "name": "alias_prefix_64_ratio"
       }
     ],
     [
@@ -193,1785 +193,93 @@
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Hosting and Cloud Provider-16287.0",
-            "value": 0.3265105649332424
+            "name": "Hosting and Cloud Provider-198015",
+            "value": 0.4272758266513607
           },
           {
-            "name": "Online Music and Video Streaming Services-12731.0",
-            "value": 0.2552223246862595
+            "name": "Computer and Network Security-166213",
+            "value": 0.3586536220751085
           },
           {
-            "name": "None-9092.0",
-            "value": 0.1822701575718696
+            "name": "Online Music and Video Streaming Services-36549",
+            "value": 0.0788652586333388
           },
           {
-            "name": "Internet Service Provider (ISP)-6265.0",
-            "value": 0.1255964075217513
+            "name": "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)-26069",
+            "value": 0.056251564401557
           },
           {
-            "name": "Software Development-3512.0",
-            "value": 0.0704061585341405
+            "name": "Internet Service Provider (ISP)-25641",
+            "value": 0.0553280280340759
           },
           {
-            "name": "Computer and Network Security-1609.0",
-            "value": 0.0322561244537107
+            "name": "Software Development-5229",
+            "value": 0.0112831113681285
           },
           {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0033163829316825
+            "name": "Other-3822",
+            "value": 0.0082470934497967
           },
           {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028741985407915
+            "name": "Government and Regulatory Agencies, Administrations, Departments, and Services-1182",
+            "value": 0.0025505139868288
           },
           {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026662924501824
+            "name": "Military, Defense, National Security, and International Affairs-300",
+            "value": 0.0006473385753372
           },
           {
             "name": "Others",
-            "value": -0.008632536725645013
+            "value": 2.157795251256367e-06
           }
         ],
-        "name": "category_ratio"
+        "name": "alias_prefix_ratio"
       },
       {
         "title": "FGBC-Num",
         "data": [
           {
-            "name": "Law, Business, and Consulting Services-1004.000259",
-            "value": 0.677791183453388
+            "name": "Internet Service Provider (ISP)-4312556500931.526",
+            "value": 0.4544071963226379
           },
           {
-            "name": "Internet Service Provider (ISP)-218.736332",
-            "value": 0.1476668516781061
+            "name": "Law, Business, and Consulting Services-4290673311788.0",
+            "value": 0.4521013996048072
           },
           {
-            "name": "None-174.19515",
-            "value": 0.1175975163471949
+            "name": "Software Development-312620984133.0",
+            "value": 0.0329403742028227
           },
           {
-            "name": "Phone Provider-10.0",
-            "value": 0.1066865529850155
+            "name": "Hosting and Cloud Provider-242312602417.63995",
+            "value": 0.0255320922228979
           },
           {
-            "name": "Software Development-26.741516",
-            "value": 0.0180529473120162
+            "name": "Phone Provider-103079215104.0",
+            "value": 0.0108612923968484
           },
           {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0101263698166721
+            "name": "Computer and Network Security-69569390484.98653",
+            "value": 0.0073304156532973
           },
           {
-            "name": "Hosting and Cloud Provider-14.346557",
-            "value": 0.0096852264333046
+            "name": "Clothing and Textiles-68719476738.0",
+            "value": 0.0072408615981096
           },
           {
-            "name": "Other-7.177718000000001",
-            "value": 0.0048456102815753
+            "name": "Other-47435473194.0044",
+            "value": 0.0049982001106928
           },
           {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.0021620841956081
-          },
-          {
-            "name": "Others",
-            "value": -0.10034701573398253
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-16286.0",
-            "value": 0.3260068860597325
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12775.0",
-            "value": 0.2557250380334694
-          },
-          {
-            "name": "None-9095.0",
-            "value": 0.1820602129874289
-          },
-          {
-            "name": "Internet Service Provider (ISP)-6283.0",
-            "value": 0.1257706781968132
-          },
-          {
-            "name": "Software Development-3508.0",
-            "value": 0.0702217951797581
-          },
-          {
-            "name": "Computer and Network Security-1623.0",
-            "value": 0.032488589959164
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0033127208480565
-          },
-          {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028710247349823
-          },
-          {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026623428617183
+            "name": "Colleges, Universities, and Professional Schools-12885229593.0",
+            "value": 0.0013576960793589
           },
           {
             "name": "Others",
-            "value": -0.008623281016394646
+            "value": 2.547340397096587e-05
           }
         ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000259",
-            "value": 0.6768361748856628
-          },
-          {
-            "name": "Internet Service Provider (ISP)-219.76366",
-            "value": 0.1481513512371249
-          },
-          {
-            "name": "None-176.25789300000002",
-            "value": 0.1188223977256229
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.1066554727695563
-          },
-          {
-            "name": "Software Development-25.7415",
-            "value": 0.017353360459461
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010112101749794
-          },
-          {
-            "name": "Hosting and Cloud Provider-14.346557",
-            "value": 0.009671579937968
-          },
-          {
-            "name": "Other-7.177718000000001",
-            "value": 0.004838782811039
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.0021588747695603
-          },
-          {
-            "name": "Others",
-            "value": -0.10032437654607773
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-16314.0",
-            "value": 0.3267308886263043
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12760.0",
-            "value": 0.2555526626744908
-          },
-          {
-            "name": "None-9095.0",
-            "value": 0.1821513688890669
-          },
-          {
-            "name": "Internet Service Provider (ISP)-6239.0",
-            "value": 0.124952434359416
-          },
-          {
-            "name": "Software Development-3514.0",
-            "value": 0.0703771204261881
-          },
-          {
-            "name": "Computer and Network Security-1623.0",
-            "value": 0.0325048567022491
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0033032371724289
-          },
-          {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028628055494384
-          },
-          {
-            "name": "Law, Business, and Consulting Services-134.0",
-            "value": 0.0026837035108449
-          },
-          {
-            "name": "Others",
-            "value": -0.008616158987531986
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000275",
-            "value": 0.6763231753793256
-          },
-          {
-            "name": "Internet Service Provider (ISP)-219.763764",
-            "value": 0.1480391294731395
-          },
-          {
-            "name": "None-176.38293900000005",
-            "value": 0.1188165704309373
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.1066554413886119
-          },
-          {
-            "name": "Software Development-26.741516",
-            "value": 0.0180138466750689
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0101044372478259
-          },
-          {
-            "name": "Hosting and Cloud Provider-14.346542",
-            "value": 0.0096642392265807
-          },
-          {
-            "name": "Other-7.177718000000001",
-            "value": 0.0048351152391241
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.0021571281691024
-          },
-          {
-            "name": "Others",
-            "value": -0.10032879445708742
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-16312.0",
-            "value": 0.3267104630668162
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12733.0",
-            "value": 0.2550272392244833
-          },
-          {
-            "name": "None-9088.0",
-            "value": 0.1820221118410511
-          },
-          {
-            "name": "Internet Service Provider (ISP)-6276.0",
-            "value": 0.1257010094536132
-          },
-          {
-            "name": "Software Development-3512.0",
-            "value": 0.0703412914597019
-          },
-          {
-            "name": "Computer and Network Security-1621.0",
-            "value": 0.0324667521230572
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0033076074972436
-          },
-          {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.0028665931642778
-          },
-          {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026638359237301
-          },
-          {
-            "name": "Others",
-            "value": 0.6732895369331837
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1003.000275",
-            "value": 0.6747991125824316
-          },
-          {
-            "name": "Internet Service Provider (ISP)-222.763701",
-            "value": 0.1498710932560593
-          },
-          {
-            "name": "None-176.31673100000006",
-            "value": 0.118622473570344
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.1066558412862104
-          },
-          {
-            "name": "Software Development-26.741255",
-            "value": 0.0179909972042036
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0100917188788638
-          },
-          {
-            "name": "Hosting and Cloud Provider-14.283995",
-            "value": 0.0096099945238119
-          },
-          {
-            "name": "Other-7.177718000000001",
-            "value": 0.0048290293208214
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.0021542296635739
-          },
-          {
-            "name": "Others",
-            "value": -0.0876412313019248
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-16328.0",
-            "value": 0.3275623407627339
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12750.0",
-            "value": 0.2557826950468433
-          },
-          {
-            "name": "None-8992.0",
-            "value": 0.1803919995185267
-          },
-          {
-            "name": "Internet Service Provider (ISP)-6260.0",
-            "value": 0.1255842879210383
-          },
-          {
-            "name": "Software Development-3512.0",
-            "value": 0.070455594118001
-          },
-          {
-            "name": "Computer and Network Security-1619.0",
-            "value": 0.0324793869239874
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15.0",
-            "value": 0.0032996040475142
-          },
-          {
-            "name": "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)-13.0",
-            "value": 0.002859656841179
-          },
-          {
-            "name": "Law, Business, and Consulting Services-133.0",
-            "value": 0.0026681645836258
-          },
-          {
-            "name": "Others",
-            "value": 0.6724376592372661
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1003.000275",
-            "value": 0.6738938753156991
-          },
-          {
-            "name": "Internet Service Provider (ISP)-226.759767",
-            "value": 0.1523549115171628
-          },
-          {
-            "name": "None-174.31677600000006",
-            "value": 0.1171196166533241
-          },
-          {
-            "name": "Phone Provider-11.0",
-            "value": 0.1136835132164565
-          },
-          {
-            "name": "Software Development-26.741516",
-            "value": 0.0179670377947371
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.0100781809238722
-          },
-          {
-            "name": "Hosting and Cloud Provider-14.284117",
-            "value": 0.0095971847670658
-          },
-          {
-            "name": "Other-6.177718000000001",
-            "value": 0.0041506731627043
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.0021557834209772
-          },
-          {
-            "name": "Others",
-            "value": -0.09469432018831747
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1505",
-            "value": 0.33179
-          },
-          {
-            "name": "Computer and Network Security-1310",
-            "value": 0.288801
-          },
-          {
-            "name": "Internet Service Provider (ISP)-663",
-            "value": 0.1461449999999999
-          },
-          {
-            "name": "Software Development-445",
-            "value": 0.0981029999999999
-          },
-          {
-            "name": "None-377",
-            "value": 0.083098
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.019839
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015649
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.003527
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.003306
-          },
-          {
-            "name": "Others",
-            "value": 0.0011460000000002024
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000244",
-            "value": 0.720463
-          },
-          {
-            "name": "Internet Service Provider (ISP)-200.221356",
-            "value": 0.143682
-          },
-          {
-            "name": "None-118.089782",
-            "value": 0.084746
-          },
-          {
-            "name": "Software Development-26.636047",
-            "value": 0.019113
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010764
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.344574",
-            "value": 0.009576
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.0037149999999999
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002153
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002153
-          },
-          {
-            "name": "Others",
-            "value": 0.002199000000000173
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1497",
-            "value": 0.3309010000000001
-          },
-          {
-            "name": "Computer and Network Security-1310",
-            "value": 0.289567
-          },
-          {
-            "name": "Internet Service Provider (ISP)-661",
-            "value": 0.1461039999999999
-          },
-          {
-            "name": "Software Development-445",
-            "value": 0.0983629999999999
-          },
-          {
-            "name": "None-375",
-            "value": 0.0828849999999999
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.0198939999999999
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015693
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.0035369999999999
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.003316
-          },
-          {
-            "name": "Others",
-            "value": 0.001120000000000454
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000244",
-            "value": 0.7220190000000001
-          },
-          {
-            "name": "Internet Service Provider (ISP)-198.221357",
-            "value": 0.142543
-          },
-          {
-            "name": "None-117.085875",
-            "value": 0.084198
-          },
-          {
-            "name": "Software Development-26.636047",
-            "value": 0.019153
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010787
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.344452",
-            "value": 0.009597
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.0037219999999999
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002157
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002157
-          },
-          {
-            "name": "Others",
-            "value": 0.0022290000000000365
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1502",
-            "value": 0.332079
-          },
-          {
-            "name": "Computer and Network Security-1310",
-            "value": 0.28963
-          },
-          {
-            "name": "Internet Service Provider (ISP)-658",
-            "value": 0.145468
-          },
-          {
-            "name": "Software Development-445",
-            "value": 0.0983859999999999
-          },
-          {
-            "name": "None-371",
-            "value": 0.082019
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.019898
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015696
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.0035369999999999
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.003316
-          },
-          {
-            "name": "Others",
-            "value": 0.0013500000000001844
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000244",
-            "value": 0.7235779999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-196.221342",
-            "value": 0.141416
-          },
-          {
-            "name": "None-116.089721",
-            "value": 0.083667
-          },
-          {
-            "name": "Software Development-26.636047",
-            "value": 0.019196
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.01081
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.344528",
-            "value": 0.0096169999999999
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.00373
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002162
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002162
-          },
-          {
-            "name": "Others",
-            "value": 0.0022200000000001108
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1502",
-            "value": 0.331713
-          },
-          {
-            "name": "Computer and Network Security-1311",
-            "value": 0.289532
-          },
-          {
-            "name": "Internet Service Provider (ISP)-660",
-            "value": 0.1457729999999999
-          },
-          {
-            "name": "Software Development-443",
-            "value": 0.097836
-          },
-          {
-            "name": "None-375",
-            "value": 0.082829
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.0198779999999999
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015683
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.003534
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.003313
-          },
-          {
-            "name": "Others",
-            "value": 0.0012940000000002394
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.000244",
-            "value": 0.722504
-          },
-          {
-            "name": "Internet Service Provider (ISP)-197.221356",
-            "value": 0.1419299999999999
-          },
-          {
-            "name": "None-118.15246500000003",
-            "value": 0.085029
-          },
-          {
-            "name": "Software Development-25.636031000000003",
-            "value": 0.018447
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010794
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.344528",
-            "value": 0.0096029999999999
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.003725
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002159
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002159
-          },
-          {
-            "name": "Others",
-            "value": 0.0022100000000001563
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1501",
-            "value": 0.330543
-          },
-          {
-            "name": "Computer and Network Security-1310",
-            "value": 0.288483
-          },
-          {
-            "name": "Internet Service Provider (ISP)-667",
-            "value": 0.1468769999999999
-          },
-          {
-            "name": "Software Development-445",
-            "value": 0.097993
-          },
-          {
-            "name": "None-380",
-            "value": 0.083672
-          },
-          {
-            "name": "Law, Business, and Consulting Services-91",
-            "value": 0.020039
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015634
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.003523
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.003303
-          },
-          {
-            "name": "Others",
-            "value": 0.0013450000000001516
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1004.00026",
-            "value": 0.721918
-          },
-          {
-            "name": "Internet Service Provider (ISP)-197.221463",
-            "value": 0.141808
-          },
-          {
-            "name": "None-118.27751100000005",
-            "value": 0.085046
-          },
-          {
-            "name": "Software Development-26.636047",
-            "value": 0.01915
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010786
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.344513",
-            "value": 0.009595
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.0037219999999999
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002157
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002157
-          },
-          {
-            "name": "Others",
-            "value": 0.002223000000000086
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1498",
-            "value": 0.3303210000000001
-          },
-          {
-            "name": "Computer and Network Security-1310",
-            "value": 0.288865
-          },
-          {
-            "name": "Internet Service Provider (ISP)-671",
-            "value": 0.14799
-          },
-          {
-            "name": "Software Development-444",
-            "value": 0.0979079999999999
-          },
-          {
-            "name": "None-376",
-            "value": 0.0829319999999999
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.0198469999999999
-          },
-          {
-            "name": "Other-71",
-            "value": 0.015661
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.003529
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.0033079999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.001036000000000259
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1003.00026",
-            "value": 0.7202299999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-200.221462",
-            "value": 0.1437689999999999
-          },
-          {
-            "name": "None-118.21130300000004",
-            "value": 0.084883
-          },
-          {
-            "name": "Software Development-26.636031000000003",
-            "value": 0.019124
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010771
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.281982",
-            "value": 0.009537
-          },
-          {
-            "name": "Other-5.177474000000001",
-            "value": 0.003717
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002154
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002154
-          },
-          {
-            "name": "Others",
-            "value": 0.0022250000000002546
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-1506",
-            "value": 0.3312809999999999
-          },
-          {
-            "name": "Computer and Network Security-1309",
-            "value": 0.287946
-          },
-          {
-            "name": "Internet Service Provider (ISP)-672",
-            "value": 0.147829
-          },
-          {
-            "name": "Software Development-445",
-            "value": 0.0978879999999999
-          },
-          {
-            "name": "None-377",
-            "value": 0.082934
-          },
-          {
-            "name": "Law, Business, and Consulting Services-90",
-            "value": 0.019798
-          },
-          {
-            "name": "Other-70",
-            "value": 0.015399
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-16",
-            "value": 0.00352
-          },
-          {
-            "name": "Buildings (Residential or Commercial)-15",
-            "value": 0.0033
-          },
-          {
-            "name": "Others",
-            "value": 0.0010850000000002247
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Law, Business, and Consulting Services-1003.00026",
-            "value": 0.7207520000000001
-          },
-          {
-            "name": "Internet Service Provider (ISP)-202.217556",
-            "value": 0.145316
-          },
-          {
-            "name": "None-116.21134800000004",
-            "value": 0.083513
-          },
-          {
-            "name": "Software Development-26.636047",
-            "value": 0.0191399999999999
-          },
-          {
-            "name": "Investment, Portfolio Management, Pensions and Funds-15.000015",
-            "value": 0.010779
-          },
-          {
-            "name": "Hosting and Cloud Provider-13.282104",
-            "value": 0.009545
-          },
-          {
-            "name": "Other-4.177474000000001",
-            "value": 0.0030009999999999
-          },
-          {
-            "name": "Metal, Glass, Wood, and Paper Manufacturing-3.0",
-            "value": 0.002156
-          },
-          {
-            "name": "Banks, Credit Card Companies, Mortgage Providers-3.0",
-            "value": 0.002156
-          },
-          {
-            "name": "Others",
-            "value": 0.0022040000000000948
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14789",
-            "value": 0.3263850000000001
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12741",
-            "value": 0.28119
-          },
-          {
-            "name": "None-8726",
-            "value": 0.1925739999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5527",
-            "value": 0.121964
-          },
-          {
-            "name": "Software Development-3069",
-            "value": 0.0677319999999999
-          },
-          {
-            "name": "Computer and Network Security-300",
-            "value": 0.006622
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.000949
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000794
-          },
-          {
-            "name": "Other-26",
-            "value": 0.000574
-          },
-          {
-            "name": "Others",
-            "value": 0.0025840000000001417
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105429",
-            "value": 0.626799
-          },
-          {
-            "name": "Internet Service Provider (ISP)-21.483858000000005",
-            "value": 0.231749
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.107873
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021577
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020749999999998",
-            "value": 0.01081
-          },
-          {
-            "name": "Software Development-0.105469",
-            "value": 0.001137
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004128",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 9.000000000036756e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14787",
-            "value": 0.326069
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12722",
-            "value": 0.280535
-          },
-          {
-            "name": "None-8722",
-            "value": 0.1923259999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5593",
-            "value": 0.12332
-          },
-          {
-            "name": "Software Development-3067",
-            "value": 0.067632
-          },
-          {
-            "name": "Computer and Network Security-299",
-            "value": 0.006593
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.000948
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000794
-          },
-          {
-            "name": "Other-26",
-            "value": 0.0005719999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.0025770000000002735
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.109335",
-            "value": 0.619921
-          },
-          {
-            "name": "Internet Service Provider (ISP)-22.515048",
-            "value": 0.24019
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.106682
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021338
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020749999999998",
-            "value": 0.01069
-          },
-          {
-            "name": "Software Development-0.105454",
-            "value": 0.001125
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004128",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 7.999999999896978e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14785",
-            "value": 0.325954
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12721",
-            "value": 0.280451
-          },
-          {
-            "name": "None-8721",
-            "value": 0.1922579999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5607",
-            "value": 0.123603
-          },
-          {
-            "name": "Software Development-3067",
-            "value": 0.067616
-          },
-          {
-            "name": "Computer and Network Security-299",
-            "value": 0.006591
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.000948
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000793
-          },
-          {
-            "name": "Other-26",
-            "value": 0.0005719999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.002578999999999998
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105429",
-            "value": 0.6199059999999998
-          },
-          {
-            "name": "Internet Service Provider (ISP)-22.514990000000004",
-            "value": 0.2402
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.106687
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021339
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020289999999998",
-            "value": 0.010691
-          },
-          {
-            "name": "Software Development-0.105469",
-            "value": 0.001125
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004127",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.000000000172534e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14784",
-            "value": 0.3254350000000001
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12765",
-            "value": 0.2809939999999999
-          },
-          {
-            "name": "None-8720",
-            "value": 0.1919489999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5623",
-            "value": 0.123765
-          },
-          {
-            "name": "Software Development-3065",
-            "value": 0.0674679999999999
-          },
-          {
-            "name": "Computer and Network Security-312",
-            "value": 0.006867
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.0009469999999999
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000792
-          },
-          {
-            "name": "Other-26",
-            "value": 0.0005719999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.002575000000000327
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105428",
-            "value": 0.6197269999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-22.542304",
-            "value": 0.240422
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.106655
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021333
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020289999999998",
-            "value": 0.010688
-          },
-          {
-            "name": "Software Development-0.105469",
-            "value": 0.001124
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004128",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 5.000000000032756e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14813",
-            "value": 0.3263490000000001
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12750",
-            "value": 0.280899
-          },
-          {
-            "name": "None-8715",
-            "value": 0.1919979999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5572",
-            "value": 0.122745
-          },
-          {
-            "name": "Software Development-3069",
-            "value": 0.067611
-          },
-          {
-            "name": "Computer and Network Security-313",
-            "value": 0.0068959999999999
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.0009469999999999
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000792
-          },
-          {
-            "name": "Other-26",
-            "value": 0.0005719999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.002555000000000196
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105428",
-            "value": 0.619726
-          },
-          {
-            "name": "Internet Service Provider (ISP)-22.542301",
-            "value": 0.240422
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.106655
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021333
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020289999999998",
-            "value": 0.010688
-          },
-          {
-            "name": "Software Development-0.105469",
-            "value": 0.001124
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004129",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 5.999999999950489e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14814",
-            "value": 0.3263480000000001
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12723",
-            "value": 0.280285
-          },
-          {
-            "name": "None-8712",
-            "value": 0.1919189999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5605",
-            "value": 0.123465
-          },
-          {
-            "name": "Software Development-3068",
-            "value": 0.067586
-          },
-          {
-            "name": "Computer and Network Security-311",
-            "value": 0.006852
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.0009469999999999
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000792
-          },
-          {
-            "name": "Other-26",
-            "value": 0.0005719999999999
-          },
-          {
-            "name": "Others",
-            "value": 0.0025980000000001002
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105428",
-            "value": 0.6197280000000001
-          },
-          {
-            "name": "Internet Service Provider (ISP)-22.542239",
-            "value": 0.2404219999999999
-          },
-          {
-            "name": "Phone Provider-10.0",
-            "value": 0.106656
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.021333
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020129999999998",
-            "value": 0.010687
-          },
-          {
-            "name": "Software Development-0.105224",
-            "value": 0.001122
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004128",
-            "value": 4.399999999999999e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.000000000061512e-06
-          }
-        ],
-        "name": "sat_category_ratio"
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "Hosting and Cloud Provider-14822",
-            "value": 0.327187
-          },
-          {
-            "name": "Online Music and Video Streaming Services-12738",
-            "value": 0.2811850000000001
-          },
-          {
-            "name": "None-8615",
-            "value": 0.1901639999999999
-          },
-          {
-            "name": "Internet Service Provider (ISP)-5588",
-            "value": 0.123338
-          },
-          {
-            "name": "Software Development-3067",
-            "value": 0.067702
-          },
-          {
-            "name": "Computer and Network Security-310",
-            "value": 0.006844
-          },
-          {
-            "name": "Law, Business, and Consulting Services-43",
-            "value": 0.000949
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-36",
-            "value": 0.000794
-          },
-          {
-            "name": "Other-26",
-            "value": 0.000574
-          },
-          {
-            "name": "Others",
-            "value": 0.002630999999999939
-          }
-        ],
-        "name": "category_ratio"
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          {
-            "name": "None-58.105428",
-            "value": 0.600509
-          },
-          {
-            "name": "Internet Service Provider (ISP)-24.542211",
-            "value": 0.253637
-          },
-          {
-            "name": "Phone Provider-11.0",
-            "value": 0.113684
-          },
-          {
-            "name": "Other-2.0002440000000004",
-            "value": 0.020672
-          },
-          {
-            "name": "Hosting and Cloud Provider-1.0020129999999998",
-            "value": 0.010356
-          },
-          {
-            "name": "Software Development-0.105469",
-            "value": 0.00109
-          },
-          {
-            "name": "Online Music and Video Streaming Services-0.004128",
-            "value": 4.3e-05
-          },
-          {
-            "name": "Online Informational Content-0.000168",
-            "value": 2e-06
-          },
-          {
-            "name": "Military, Defense, National Security, and International Affairs-3.1e-05",
-            "value": 0.0
-          },
-          {
-            "name": "Others",
-            "value": 6.999999999979245e-06
-          }
-        ],
-        "name": "sat_category_ratio"
+        "name": "alias_prefix_64_ratio"
       }
     ]
   ],

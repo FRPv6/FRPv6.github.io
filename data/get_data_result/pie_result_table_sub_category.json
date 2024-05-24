@@ -7,910 +7,142 @@
           [
             1,
             "Hosting and Cloud Provider",
-            16294.0,
-            0.3268802535759423
+            199809
           ],
           [
             2,
-            "Online Music and Video Streaming Services",
-            12751.0,
-            0.2558027564346901
+            "Computer and Network Security",
+            167747
           ],
           [
             3,
-            "None",
-            9103.0,
-            0.1826188135695227
+            "Online Music and Video Streaming Services",
+            36594
           ],
           [
             4,
             "Internet Service Provider (ISP)",
-            6190.0,
-            0.1241799907717615
+            26757
           ],
           [
             5,
-            "Software Development",
-            3514.0,
-            0.0704957168936947
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            1610.0,
-            0.0322988344333661
-          ],
-          [
-            7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.0033068783068783
-          ],
-          [
-            8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028659611992945
-          ],
-          [
-            9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026681645836258
-          ],
-          [
-            10,
-            "Other",
-            97.0,
-            0.0019459546211406
-          ],
-          [
-            11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007945090596102
-          ],
-          [
-            12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006613756613756
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0006613756613756
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006613756613756
-          ],
-          [
-            15,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004409171075837
-          ],
-          [
-            16,
-            "Online Informational Content",
-            18.0,
-            0.0003611049812426
-          ],
-          [
-            17,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003410435933957
-          ],
-          [
-            18,
-            "Phone Provider",
-            11.0,
-            0.0002427666571031
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002204585537918
-          ],
-          [
-            20,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002204585537918
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002204585537918
-          ],
-          [
-            22,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001404297149276
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001324181766017
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001324181766017
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001103484805014
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.82787844011388e-05
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.62090883008541e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 27
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000259,
-            0.6755251074852502
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            221.705214,
-            0.1491707170141182
-          ],
-          [
-            3,
-            "None",
-            176.195211,
-            0.1185500579130441
-          ],
-          [
-            4,
-            "Phone Provider",
-            10.0,
-            0.1078731897158213
-          ],
-          [
-            5,
-            "Software Development",
-            26.741516,
-            0.0179925904483442
-          ],
-          [
-            6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0100925140748946
-          ],
-          [
-            7,
-            "Hosting and Cloud Provider",
-            14.346649,
-            0.009652907477764
-          ],
-          [
-            8,
-            "Other",
-            7.177718000000001,
-            0.0048294098332984
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0021527750679883
-          ],
-          [
-            10,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021527750679883
-          ],
-          [
-            11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.001345677290156
-          ],
-          [
-            12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000722507909993
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.0007176024532047
-          ],
-          [
-            14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0007175916893294
-          ],
-          [
-            15,
-            "Online Music and Video Streaming Services",
-            0.04319,
-            2.905968313329684e-05
-          ],
-          [
-            16,
-            "Computer and Network Security",
-            0.019948,
-            1.3421684629381926e-05
-          ],
-          [
-            17,
-            "Online Informational Content",
-            0.008027,
-            5.400835297776654e-06
-          ],
-          [
-            18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.905456788256129e-06
-          ],
-          [
-            19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.3440688811904617e-07
-          ],
-          [
-            20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.3009217709154765e-08
-          ],
-          [
-            21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0763875339941769e-08
-          ],
-          [
-            22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0763875339941769e-08
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 27
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            16284.0,
-            0.3265093337076173
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12732.0,
-            0.2552884326188518
-          ],
-          [
-            3,
-            "None",
-            9097.0,
-            0.1824033043931586
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            6254.0,
-            0.1253985122210414
-          ],
-          [
-            5,
-            "Software Development",
-            3512.0,
-            0.0704188639143424
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            1609.0,
-            0.0322619453411665
-          ],
-          [
-            7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.003315649867374
-          ],
-          [
-            8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028735632183908
-          ],
-          [
-            9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026667736049565
-          ],
-          [
-            10,
-            "Other",
-            97.0,
-            0.0019449401479758
-          ],
-          [
-            11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007938433041522
-          ],
-          [
-            12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006631299734748
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0006631299734748
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006631299734748
-          ],
-          [
-            15,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004420866489832
-          ],
-          [
-            16,
-            "Online Informational Content",
-            18.0,
-            0.0003609167284903
-          ],
-          [
-            17,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003408657991297
-          ],
-          [
-            18,
-            "Phone Provider",
-            11.0,
-            0.0002425632318242
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002210433244916
-          ],
-          [
-            20,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002210433244916
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002210433244916
-          ],
-          [
-            22,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.000140356505524
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001323072173587
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001323072173587
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001102560144655
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.820481157247128e-05
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.615360867935346e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 27
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000259,
-            0.6764212131628754
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            220.736405,
-            0.1487158848026869
-          ],
-          [
-            3,
-            "None",
-            175.19521,
-            0.118033591551618
-          ],
-          [
-            4,
-            "Phone Provider",
-            10.0,
-            0.1066820064859206
-          ],
-          [
-            5,
-            "Software Development",
-            26.741501000000003,
-            0.0180164480895978
-          ],
-          [
-            6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0101059021178612
-          ],
-          [
-            7,
-            "Hosting and Cloud Provider",
-            14.346527,
-            0.00966563017392
-          ],
-          [
-            8,
-            "Other",
-            7.177718000000001,
-            0.0048358162000245
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0021574257568159
-          ],
-          [
-            10,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021574257568159
-          ],
-          [
-            11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.0013474623741545
-          ],
-          [
-            12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007240687602252
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.0007191527060674
-          ],
-          [
-            14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0007191419189386
-          ],
-          [
-            15,
-            "Online Music and Video Streaming Services",
-            0.04319,
-            2.909823173313005e-05
-          ],
-          [
-            16,
-            "Computer and Network Security",
-            0.019948,
-            1.3439488923650804e-05
-          ],
-          [
-            17,
-            "Online Informational Content",
-            0.008027,
-            5.407999678671797e-06
-          ],
-          [
-            18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.916054157864614e-06
-          ],
-          [
-            19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.30714220106354e-07
-          ],
-          [
-            20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.3080528271177914e-08
-          ],
-          [
-            21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0787128784079757e-08
-          ],
-          [
-            22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0787128784079757e-08
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 27
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            16287.0,
-            0.3265105649332424
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12731.0,
-            0.2552223246862595
-          ],
-          [
-            3,
-            "None",
-            9092.0,
-            0.1822701575718696
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            6265.0,
-            0.1255964075217513
-          ],
-          [
-            5,
-            "Software Development",
-            3512.0,
-            0.0704061585341405
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            1609.0,
-            0.0322561244537107
-          ],
-          [
-            7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.0033163829316825
-          ],
-          [
-            8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028741985407915
-          ],
-          [
-            9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026662924501824
-          ],
-          [
-            10,
-            "Other",
-            97.0,
-            0.0019445892305841
-          ],
-          [
-            11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007936682907471
-          ],
-          [
-            12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006632765863365
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0006632765863365
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006632765863365
-          ],
-          [
-            15,
-            "Electronics and Computer Components",
-            2.0,
-            0.000442184390891
-          ],
-          [
-            16,
-            "Online Informational Content",
-            18.0,
-            0.0003608516097991
-          ],
-          [
-            17,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003408042981436
-          ],
-          [
-            18,
-            "Phone Provider",
-            11.0,
-            0.000242509755506
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002210921954455
-          ],
-          [
-            20,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002210921954455
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002210921954455
-          ],
-          [
-            22,
             "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.0,
-            0.0002210921954455
+            26073
+          ],
+          [
+            6,
+            "Software Development",
+            5774
+          ],
+          [
+            7,
+            "Other",
+            3933
+          ],
+          [
+            8,
+            "Government and Regulatory Agencies, Administrations, Departments, and Services",
+            1182
+          ],
+          [
+            9,
+            "Military, Defense, National Security, and International Affairs",
+            301
+          ],
+          [
+            10,
+            "Law, Business, and Consulting Services",
+            215
+          ],
+          [
+            11,
+            "Metal, Glass, Wood, and Paper Manufacturing",
+            155
+          ],
+          [
+            12,
+            "Clothing and Textiles",
+            40
+          ],
+          [
+            13,
+            "Colleges, Universities, and Professional Schools",
+            39
+          ],
+          [
+            14,
+            "Online Informational Content",
+            31
+          ],
+          [
+            15,
+            "Phone Provider",
+            27
+          ],
+          [
+            16,
+            "Investment, Portfolio Management, Pensions and Funds",
+            15
+          ],
+          [
+            17,
+            "Buildings (Residential or Commercial)",
+            14
+          ],
+          [
+            18,
+            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+            11
+          ],
+          [
+            19,
+            "Banks, Credit Card Companies, Mortgage Providers",
+            9
+          ],
+          [
+            20,
+            "Recreation, Sports, and Performing Arts",
+            5
+          ],
+          [
+            21,
+            "Insurance Carriers and Agencies",
+            4
+          ],
+          [
+            22,
+            "Electronics and Computer Components",
+            4
           ],
           [
             23,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001403311815885
+            "Law Enforcement, Public Safety, and Justice",
+            3
           ],
           [
             24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001322780484578
+            "Elementary and Secondary Schools",
+            2
           ],
           [
             25,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001322780484578
+            "Chemical and Pharmaceutical Manufacturing",
+            2
           ],
           [
             26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001102317070482
+            "Radio and Television Providers",
+            2
           ],
           [
             27,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.818536563857227e-05
+            "Machinery",
+            1
           ],
           [
             28,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.61390242289292e-05
+            "Food, Grocery, Beverages",
+            1
           ]
         ],
         "columns": [
@@ -921,14 +153,11 @@
             "title": "sub_category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
+        "name": "alias_prefix_num",
         "dataLength": 28
       },
       {
@@ -937,170 +166,142 @@
           [
             1,
             "Law, Business, and Consulting Services",
-            1004.000259,
-            0.677791183453388
+            8574904303660.0
           ],
           [
             2,
             "Internet Service Provider (ISP)",
-            218.736332,
-            0.1476668516781061
+            7968707511235.526
           ],
           [
             3,
-            "None",
-            174.19515,
-            0.1175975163471949
+            "Software Development",
+            1011441903429.0
           ],
           [
             4,
-            "Phone Provider",
-            10.0,
-            0.1066865529850155
+            "Clothing and Textiles",
+            721554505730.0
           ],
           [
             5,
-            "Software Development",
-            26.741516,
-            0.0180529473120162
+            "Hosting and Cloud Provider",
+            565360649009.6399
           ],
           [
             6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0101263698166721
+            "Phone Provider",
+            206158430208.0
           ],
           [
             7,
-            "Hosting and Cloud Provider",
-            14.346557,
-            0.0096852264333046
+            "Other",
+            133885387050.0044
           ],
           [
             8,
-            "Other",
-            7.177718000000001,
-            0.0048456102815753
+            "Computer and Network Security",
+            104029464980.98654
           ],
           [
             9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0021620841956081
+            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+            68719477000.0
           ],
           [
             10,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021620841956081
+            "Metal, Glass, Wood, and Paper Manufacturing",
+            47328375305.0
           ],
           [
             11,
             "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.0013501914184013
+            21475164185.0
           ],
           [
             12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007256322114774
+            "Banks, Credit Card Companies, Mortgage Providers",
+            21474836484.0
           ],
           [
             13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.0007207055422903
+            "Investment, Portfolio Management, Pensions and Funds",
+            12885950465.0
           ],
           [
             14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0007206947318693
+            "Electronics and Computer Components",
+            8590065664.0
           ],
           [
             15,
-            "Online Music and Video Streaming Services",
-            0.043189,
-            2.915648991099351e-05
+            "Elementary and Secondary Schools",
+            8589934592.0
           ],
           [
             16,
-            "Computer and Network Security",
-            0.019948,
-            1.3466708206823465e-05
+            "Online Music and Video Streaming Services",
+            359590504.3739771
           ],
           [
             17,
-            "Online Informational Content",
-            0.008027,
-            5.418952615609181e-06
+            "Buildings (Residential or Commercial)",
+            334626816.0
           ],
           [
             18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.9266691870591e-06
+            "Food, Grocery, Beverages",
+            268435456.0
           ],
           [
             19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.307283142535481e-07
+            "Online Informational Content",
+            85655552.0
           ],
           [
             20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.31519576659916e-08
+            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+            33815643.655059814
           ],
           [
             21,
             "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0810420978040741e-08
+            1245184.0
           ],
           [
             22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0810420978040741e-08
+            "Military, Defense, National Security, and International Affairs",
+            262155.0
           ],
           [
             23,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            1.0810420978040741e-08
+            "Chemical and Pharmaceutical Manufacturing",
+            131072.0
           ],
           [
             24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
+            "Government and Regulatory Agencies, Administrations, Departments, and Services",
+            10.879549149423838
           ],
           [
             25,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
+            "Radio and Television Providers",
+            2.0
           ],
           [
             26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
+            "Recreation, Sports, and Performing Arts",
+            1.0000000000000004
           ],
           [
             27,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
+            "Machinery",
+            1.52587890625e-05
           ],
           [
             28,
             "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
+            4.163336342344337e-17
           ]
         ],
         "columns": [
@@ -1111,14 +312,11 @@
             "title": "sub_category"
           },
           {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
+            "title": "alias_prefix_64_num",
             "class": "center"
           }
         ],
-        "name": "sat_category_ratio",
+        "name": "alias_prefix_64_num",
         "dataLength": 28
       }
     ],
@@ -1129,170 +327,112 @@
           [
             1,
             "Hosting and Cloud Provider",
-            16286.0,
-            0.3260068860597325
+            1794
           ],
           [
             2,
-            "Online Music and Video Streaming Services",
-            12775.0,
-            0.2557250380334694
+            "Computer and Network Security",
+            1534
           ],
           [
             3,
-            "None",
-            9095.0,
-            0.1820602129874289
+            "Internet Service Provider (ISP)",
+            1116
           ],
           [
             4,
-            "Internet Service Provider (ISP)",
-            6283.0,
-            0.1257706781968132
+            "Software Development",
+            545
           ],
           [
             5,
-            "Software Development",
-            3508.0,
-            0.0702217951797581
+            "Other",
+            111
           ],
           [
             6,
-            "Computer and Network Security",
-            1623.0,
-            0.032488589959164
+            "Law, Business, and Consulting Services",
+            86
           ],
           [
             7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.0033127208480565
+            "Online Music and Video Streaming Services",
+            45
           ],
           [
             8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028710247349823
+            "Clothing and Textiles",
+            22
           ],
           [
             9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026623428617183
+            "Metal, Glass, Wood, and Paper Manufacturing",
+            10
           ],
           [
             10,
-            "Other",
-            97.0,
-            0.0019417087036592
+            "Buildings (Residential or Commercial)",
+            10
           ],
           [
             11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007924627982741
+            "Investment, Portfolio Management, Pensions and Funds",
+            10
           ],
           [
             12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006625441696113
+            "Online Informational Content",
+            9
           ],
           [
             13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0006625441696113
+            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+            4
           ],
           [
             14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006625441696113
+            "Phone Provider",
+            3
           ],
           [
             15,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004416961130742
+            "Banks, Credit Card Companies, Mortgage Providers",
+            3
           ],
           [
             16,
-            "Online Informational Content",
-            18.0,
-            0.0003603170790295
+            "Electronics and Computer Components",
+            2
           ],
           [
             17,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003402994635279
+            "Colleges, Universities, and Professional Schools",
+            2
           ],
           [
             18,
-            "Phone Provider",
-            11.0,
-            0.0002421414105837
+            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+            2
           ],
           [
             19,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002208480565371
+            "Chemical and Pharmaceutical Manufacturing",
+            2
           ],
           [
             20,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002208480565371
+            "Insurance Carriers and Agencies",
+            2
           ],
           [
             21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002208480565371
+            "Elementary and Secondary Schools",
+            1
           ],
           [
             22,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.0,
-            0.0002208480565371
-          ],
-          [
-            23,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001401233085114
-          ],
-          [
-            24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001320771330456
-          ],
-          [
-            25,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001320771330456
-          ],
-          [
-            26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.000110064277538
-          ],
-          [
-            27,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.805142203046579e-05
-          ],
-          [
-            28,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.603856652284935e-05
+            "Military, Defense, National Security, and International Affairs",
+            1
           ]
         ],
         "columns": [
@@ -1303,15 +443,12 @@
             "title": "sub_category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
-        "dataLength": 28
+        "name": "alias_prefix_num",
+        "dataLength": 22
       },
       {
         "title": "FGBC-Num",
@@ -1319,170 +456,112 @@
           [
             1,
             "Law, Business, and Consulting Services",
-            1004.000259,
-            0.6768361748856628
+            4284230991872
           ],
           [
             2,
             "Internet Service Provider (ISP)",
-            219.76366,
-            0.1481513512371249
+            3656151010304
           ],
           [
             3,
-            "None",
-            176.25789300000002,
-            0.1188223977256229
+            "Software Development",
+            698820919296
           ],
           [
             4,
-            "Phone Provider",
-            10.0,
-            0.1066554727695563
+            "Clothing and Textiles",
+            652835028992
           ],
           [
             5,
-            "Software Development",
-            25.7415,
-            0.017353360459461
+            "Hosting and Cloud Provider",
+            323048046592
           ],
           [
             6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010112101749794
+            "Phone Provider",
+            103079215104
           ],
           [
             7,
-            "Hosting and Cloud Provider",
-            14.346557,
-            0.009671579937968
+            "Other",
+            86449913856
           ],
           [
             8,
-            "Other",
-            7.177718000000001,
-            0.004838782811039
+            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+            68719476736
           ],
           [
             9,
             "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0021588747695603
+            42949672960
           ],
           [
             10,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021588747695603
+            "Computer and Network Security",
+            34460074496
           ],
           [
             11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.0013482889971186
+            "Banks, Credit Card Companies, Mortgage Providers",
+            12884901888
           ],
           [
             12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007245550735355
+            "Colleges, Universities, and Professional Schools",
+            8589934592
           ],
           [
             13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.0007196357175606
+            "Investment, Portfolio Management, Pensions and Funds",
+            4295950336
           ],
           [
             14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0007196249231867
+            "Electronics and Computer Components",
+            4295032832
           ],
           [
             15,
-            "Online Music and Video Streaming Services",
-            0.04319,
-            2.9116082522157775e-05
+            "Elementary and Secondary Schools",
+            4294967296
           ],
           [
             16,
-            "Computer and Network Security",
-            0.019963,
-            1.3457845690896869e-05
+            "Buildings (Residential or Commercial)",
+            299958272
           ],
           [
             17,
-            "Online Informational Content",
-            0.008027,
-            5.411317305055811e-06
+            "Online Music and Video Streaming Services",
+            171115008
           ],
           [
             18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.919355974904802e-06
+            "Online Informational Content",
+            67502080
           ],
           [
             19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.306319655856247e-07
+            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+            33685504
           ],
           [
             20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.31027464665917e-08
+            "Insurance Carriers and Agencies",
+            1114112
           ],
           [
             21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0794373847801642e-08
+            "Chemical and Pharmaceutical Manufacturing",
+            131072
           ],
           [
             22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0794373847801642e-08
-          ],
-          [
-            23,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            1.0794373847801642e-08
-          ],
-          [
-            24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            28,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
+            "Military, Defense, National Security, and International Affairs",
+            65536
           ]
         ],
         "columns": [
@@ -1493,15 +572,12 @@
             "title": "sub_category"
           },
           {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
+            "title": "alias_prefix_64_num",
             "class": "center"
           }
         ],
-        "name": "sat_category_ratio",
-        "dataLength": 28
+        "name": "alias_prefix_64_num",
+        "dataLength": 22
       }
     ],
     [
@@ -1511,546 +587,137 @@
           [
             1,
             "Hosting and Cloud Provider",
-            16314.0,
-            0.3267308886263043
+            198015
           ],
           [
             2,
-            "Online Music and Video Streaming Services",
-            12760.0,
-            0.2555526626744908
+            "Computer and Network Security",
+            166213
           ],
           [
             3,
-            "None",
-            9095.0,
-            0.1821513688890669
+            "Online Music and Video Streaming Services",
+            36549
           ],
           [
             4,
-            "Internet Service Provider (ISP)",
-            6239.0,
-            0.124952434359416
-          ],
-          [
-            5,
-            "Software Development",
-            3514.0,
-            0.0703771204261881
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            1623.0,
-            0.0325048567022491
-          ],
-          [
-            7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.0033032371724289
-          ],
-          [
-            8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028628055494384
-          ],
-          [
-            9,
-            "Law, Business, and Consulting Services",
-            134.0,
-            0.0026837035108449
-          ],
-          [
-            10,
-            "Other",
-            97.0,
-            0.0019426808996415
-          ],
-          [
-            11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007931262392597
-          ],
-          [
-            12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006606474344857
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0006606474344857
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006606474344857
-          ],
-          [
-            15,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004404316229905
-          ],
-          [
-            16,
-            "Online Informational Content",
-            18.0,
-            0.0003604974865314
-          ],
-          [
-            17,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003404698483907
-          ],
-          [
-            18,
-            "Phone Provider",
-            11.0,
-            0.0002423441286627
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002202158114952
-          ],
-          [
-            20,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002202158114952
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002202158114952
-          ],
-          [
-            22,
             "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.0,
-            0.0002202158114952
-          ],
-          [
-            23,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001401934669844
-          ],
-          [
-            24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001321877065432
-          ],
-          [
-            25,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001321877065432
-          ],
-          [
-            26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001101564221194
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.609385327164574e-05
-          ],
-          [
-            28,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            3.0,
-            6.609385327164574e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 28
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000275,
-            0.6763231753793256
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            219.763764,
-            0.1480391294731395
-          ],
-          [
-            3,
-            "None",
-            176.38293900000005,
-            0.1188165704309373
-          ],
-          [
-            4,
-            "Phone Provider",
-            10.0,
-            0.1066554413886119
+            26069
           ],
           [
             5,
-            "Software Development",
-            26.741516,
-            0.0180138466750689
-          ],
-          [
-            6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0101044372478259
-          ],
-          [
-            7,
-            "Hosting and Cloud Provider",
-            14.346542,
-            0.0096642392265807
-          ],
-          [
-            8,
-            "Other",
-            7.177718000000001,
-            0.0048351152391241
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0021571281691024
-          ],
-          [
-            10,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021571281691024
-          ],
-          [
-            11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.0013472670568803
-          ],
-          [
-            12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007239688847296
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000719053508675
-          ],
-          [
-            14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0007190427230341
-          ],
-          [
-            15,
-            "Online Music and Video Streaming Services",
-            0.043191,
-            2.909468751670258e-05
-          ],
-          [
-            16,
-            "Computer and Network Security",
-            0.019948,
-            1.3437540843767983e-05
-          ],
-          [
-            17,
-            "Online Informational Content",
-            0.008027,
-            5.407215778670825e-06
-          ],
-          [
-            18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.915376054661536e-06
-          ],
-          [
-            19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.306318683046972e-07
-          ],
-          [
-            20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.307596525957148e-08
-          ],
-          [
-            21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.078564084551244e-08
-          ],
-          [
-            22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.078564084551244e-08
-          ],
-          [
-            23,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            1.078564084551244e-08
-          ],
-          [
-            24,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            28,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 28
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            16312.0,
-            0.3267104630668162
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12733.0,
-            0.2550272392244833
-          ],
-          [
-            3,
-            "None",
-            9088.0,
-            0.1820221118410511
-          ],
-          [
-            4,
             "Internet Service Provider (ISP)",
-            6276.0,
-            0.1257010094536132
-          ],
-          [
-            5,
-            "Software Development",
-            3512.0,
-            0.0703412914597019
+            25641
           ],
           [
             6,
-            "Computer and Network Security",
-            1621.0,
-            0.0324667521230572
+            "Software Development",
+            5229
           ],
           [
             7,
-            "Buildings (Residential or Commercial)",
-            15.0,
-            0.0033076074972436
+            "Other",
+            3822
           ],
           [
             8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.0028665931642778
+            "Government and Regulatory Agencies, Administrations, Departments, and Services",
+            1182
           ],
           [
             9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026638359237301
+            "Military, Defense, National Security, and International Affairs",
+            300
           ],
           [
             10,
-            "Other",
-            97.0,
-            0.0019427976285851
+            "Metal, Glass, Wood, and Paper Manufacturing",
+            145
           ],
           [
             11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.0007930738219549
+            "Law, Business, and Consulting Services",
+            129
           ],
           [
             12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006615214994487
+            "Colleges, Universities, and Professional Schools",
+            37
           ],
           [
             13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006615214994487
+            "Phone Provider",
+            24
           ],
           [
             14,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004410143329658
+            "Online Informational Content",
+            22
           ],
           [
             15,
-            "Online Informational Content",
-            18.0,
-            0.0003605191475725
+            "Clothing and Textiles",
+            18
           ],
           [
             16,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003404903060406
+            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
+            9
           ],
           [
             17,
-            "Phone Provider",
-            11.0,
-            0.000242328112264
+            "Banks, Credit Card Companies, Mortgage Providers",
+            6
           ],
           [
             18,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002205071664829
+            "Investment, Portfolio Management, Pensions and Funds",
+            5
           ],
           [
             19,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002205071664829
+            "Recreation, Sports, and Performing Arts",
+            5
           ],
           [
             20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002205071664829
+            "Buildings (Residential or Commercial)",
+            4
           ],
           [
             21,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001402018907226
+            "Law Enforcement, Public Safety, and Justice",
+            3
           ],
           [
             22,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.0001321789703258
+            "Insurance Carriers and Agencies",
+            2
           ],
           [
             23,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.0001321789703258
+            "Electronics and Computer Components",
+            2
           ],
           [
             24,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001101491419381
+            "Radio and Television Providers",
+            2
           ],
           [
             25,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.811931355054744e-05
+            "Machinery",
+            1
           ],
           [
             26,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            4.0,
-            8.01153661272232e-05
+            "Food, Grocery, Beverages",
+            1
           ],
           [
             27,
-            "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.608948516291058e-05
+            "Elementary and Secondary Schools",
+            1
           ]
         ],
         "columns": [
@@ -2061,14 +728,11 @@
             "title": "sub_category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
+        "name": "alias_prefix_num",
         "dataLength": 27
       },
       {
@@ -2076,351 +740,138 @@
         "data": [
           [
             1,
-            "Law, Business, and Consulting Services",
-            1003.000275,
-            0.6747991125824316
+            "Internet Service Provider (ISP)",
+            4312556500931.526
           ],
           [
             2,
-            "Internet Service Provider (ISP)",
-            222.763701,
-            0.1498710932560593
+            "Law, Business, and Consulting Services",
+            4290673311788.0
           ],
           [
             3,
-            "None",
-            176.31673100000006,
-            0.118622473570344
+            "Software Development",
+            312620984133.0
           ],
           [
             4,
-            "Phone Provider",
-            10.0,
-            0.1066558412862104
+            "Hosting and Cloud Provider",
+            242312602417.63995
           ],
           [
             5,
-            "Software Development",
-            26.741255,
-            0.0179909972042036
+            "Phone Provider",
+            103079215104.0
           ],
           [
             6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0100917188788638
+            "Computer and Network Security",
+            69569390484.98653
           ],
           [
             7,
-            "Hosting and Cloud Provider",
-            14.283995,
-            0.0096099945238119
+            "Clothing and Textiles",
+            68719476738.0
           ],
           [
             8,
             "Other",
-            7.177718000000001,
-            0.0048290293208214
+            47435473194.0044
           ],
           [
             9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021542296635739
+            "Colleges, Universities, and Professional Schools",
+            12885229593.0
           ],
           [
             10,
+            "Investment, Portfolio Management, Pensions and Funds",
+            8590000129.0
+          ],
+          [
+            11,
+            "Banks, Credit Card Companies, Mortgage Providers",
+            8589934596.0
+          ],
+          [
+            12,
             "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002018341757431
-          ],
-          [
-            11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.0013455712633294
-          ],
-          [
-            12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007229960969996
+            4378702345.0
           ],
           [
             13,
             "Electronics and Computer Components",
-            1.000015,
-            0.0007180873256729
+            4295032832.0
           ],
           [
             14,
             "Elementary and Secondary Schools",
-            1.0,
-            0.0007180765545246
+            4294967296.0
           ],
           [
             15,
-            "Online Music and Video Streaming Services",
-            0.04319,
-            2.9057393501148563e-05
+            "Food, Grocery, Beverages",
+            268435456.0
           ],
           [
             16,
-            "Computer and Network Security",
-            0.019948,
-            1.3420627125744652e-05
+            "Online Music and Video Streaming Services",
+            188475496.3739771
           ],
           [
             17,
-            "Online Informational Content",
-            0.008027,
-            5.400409762299594e-06
-          ],
-          [
-            18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.908771326730438e-06
-          ],
-          [
-            19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.306331079872525e-07
-          ],
-          [
-            20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.3031521508133434e-08
-          ],
-          [
-            21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0771148317869598e-08
-          ],
-          [
-            22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0771148317869598e-08
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 27
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            16328.0,
-            0.3275623407627339
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12750.0,
-            0.2557826950468433
-          ],
-          [
-            3,
-            "None",
-            8992.0,
-            0.1803919995185267
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            6260.0,
-            0.1255842879210383
-          ],
-          [
-            5,
-            "Software Development",
-            3512.0,
-            0.070455594118001
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            1619.0,
-            0.0324793869239874
-          ],
-          [
-            7,
             "Buildings (Residential or Commercial)",
-            15.0,
-            0.0032996040475142
-          ],
-          [
-            8,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13.0,
-            0.002859656841179
-          ],
-          [
-            9,
-            "Law, Business, and Consulting Services",
-            133.0,
-            0.0026681645836258
-          ],
-          [
-            10,
-            "Other",
-            96.0,
-            0.0019258932332938
-          ],
-          [
-            11,
-            "Military, Defense, National Security, and International Affairs",
-            36.0,
-            0.000794684444052
-          ],
-          [
-            12,
-            "Real Estate (Residential and/or Commercial)",
-            3.0,
-            0.0006599208095028
-          ],
-          [
-            13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0006599208095028
-          ],
-          [
-            14,
-            "Electronics and Computer Components",
-            2.0,
-            0.0004399472063352
-          ],
-          [
-            15,
-            "Online Informational Content",
-            18.0,
-            0.0003611049812426
-          ],
-          [
-            16,
-            "Investment, Portfolio Management, Pensions and Funds",
-            17.0,
-            0.0003410435933957
-          ],
-          [
-            17,
-            "Phone Provider",
-            12.0,
-            0.000264894814684
+            34668544.0
           ],
           [
             18,
-            "Insurance Carriers and Agencies",
-            1.0,
-            0.0002199736031676
+            "Online Informational Content",
+            18153472.0
           ],
           [
             19,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.0002199736031676
+            "Military, Defense, National Security, and International Affairs",
+            196619.0
           ],
           [
             20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.0,
-            0.0002199736031676
+            "Insurance Carriers and Agencies",
+            131072.0
           ],
           [
             21,
-            "Colleges, Universities, and Professional Schools",
-            7.0,
-            0.0001404297149276
+            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
+            130139.65505981444
           ],
           [
             22,
             "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6.0,
-            0.000132447407342
+            264.0
           ],
           [
             23,
-            "Recreation, Sports, and Performing Arts",
-            6.0,
-            0.000132447407342
+            "Government and Regulatory Agencies, Administrations, Departments, and Services",
+            10.879549149423838
           ],
           [
             24,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5.0,
-            0.0001103728394516
+            "Radio and Television Providers",
+            2.0
           ],
           [
             25,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4.0,
-            8.829827156133418e-05
+            "Recreation, Sports, and Performing Arts",
+            1.0000000000000004
           ],
           [
             26,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            4.0,
-            8.024555138724497e-05
+            "Machinery",
+            1.52587890625e-05
           ],
           [
             27,
             "Law Enforcement, Public Safety, and Justice",
-            3.0,
-            6.622370367100064e-05
+            4.163336342344337e-17
           ]
         ],
         "columns": [
@@ -2431,4095 +882,12 @@
             "title": "sub_category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_64_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
+        "name": "alias_prefix_64_num",
         "dataLength": 27
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1003.000275,
-            0.6738938753156991
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            226.759767,
-            0.1523549115171628
-          ],
-          [
-            3,
-            "None",
-            174.31677600000006,
-            0.1171196166533241
-          ],
-          [
-            4,
-            "Phone Provider",
-            11.0,
-            0.1136835132164565
-          ],
-          [
-            5,
-            "Software Development",
-            26.741516,
-            0.0179670377947371
-          ],
-          [
-            6,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.0100781809238722
-          ],
-          [
-            7,
-            "Hosting and Cloud Provider",
-            14.284117,
-            0.0095971847670658
-          ],
-          [
-            8,
-            "Other",
-            6.177718000000001,
-            0.0041506731627043
-          ],
-          [
-            9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.0021557834209772
-          ],
-          [
-            10,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.0020156341691402
-          ],
-          [
-            11,
-            "Colleges, Universities, and Professional Schools",
-            2.000015,
-            0.001343766190931
-          ],
-          [
-            12,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.0007235175643981
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.0007186052525762
-          ],
-          [
-            14,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000718594473659
-          ],
-          [
-            15,
-            "Online Music and Video Streaming Services",
-            0.043221,
-            2.903924147480401e-05
-          ],
-          [
-            16,
-            "Computer and Network Security",
-            0.0199329999999999,
-            1.3392545297824334e-05
-          ],
-          [
-            17,
-            "Online Informational Content",
-            0.008027,
-            5.393165158563009e-06
-          ],
-          [
-            18,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            4.912311821933584e-06
-          ],
-          [
-            19,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            3.203808099736503e-07
-          ],
-          [
-            20,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            3.3055345788318444e-08
-          ],
-          [
-            21,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            1.0778917104886449e-08
-          ],
-          [
-            22,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            1.0778917104886449e-08
-          ],
-          [
-            23,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            24,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            25,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            26,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            27,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 27
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1505,
-            0.33179
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1310,
-            0.288801
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            663,
-            0.1461449999999999
-          ],
-          [
-            4,
-            "Software Development",
-            445,
-            0.0981029999999999
-          ],
-          [
-            5,
-            "None",
-            377,
-            0.083098
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.019839
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015649
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.003527
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.003306
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002866
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.002205
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.001102
-          ],
-          [
-            13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000661
-          ],
-          [
-            14,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000661
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000661
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.00044
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.00044
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.00022
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.00022
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 20
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000244,
-            0.720463
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            200.221356,
-            0.143682
-          ],
-          [
-            3,
-            "None",
-            118.089782,
-            0.084746
-          ],
-          [
-            4,
-            "Software Development",
-            26.636047,
-            0.019113
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010764
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.344574,
-            0.009576
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.0037149999999999
-          ],
-          [
-            8,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002153
-          ],
-          [
-            9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002153
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001436
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000723
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000718
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000718
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019943,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 20
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1497,
-            0.3309010000000001
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1310,
-            0.289567
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            661,
-            0.1461039999999999
-          ],
-          [
-            4,
-            "Software Development",
-            445,
-            0.0983629999999999
-          ],
-          [
-            5,
-            "None",
-            375,
-            0.0828849999999999
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.0198939999999999
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015693
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.0035369999999999
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.003316
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002874
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.00221
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.001105
-          ],
-          [
-            13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000663
-          ],
-          [
-            14,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000663
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000663
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.000442
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.000442
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.000221
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.000221
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 20
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000244,
-            0.7220190000000001
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            198.221357,
-            0.142543
-          ],
-          [
-            3,
-            "None",
-            117.085875,
-            0.084198
-          ],
-          [
-            4,
-            "Software Development",
-            26.636047,
-            0.019153
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010787
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.344452,
-            0.009597
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.0037219999999999
-          ],
-          [
-            8,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002157
-          ],
-          [
-            9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002157
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001438
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000724
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000719
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000719
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019943,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 20
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1502,
-            0.332079
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1310,
-            0.28963
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            658,
-            0.145468
-          ],
-          [
-            4,
-            "Software Development",
-            445,
-            0.0983859999999999
-          ],
-          [
-            5,
-            "None",
-            371,
-            0.082019
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.019898
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015696
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.0035369999999999
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.003316
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002874
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.002211
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.001105
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000663
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000663
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000663
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.000442
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.000442
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.000221
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.000221
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1,
-            0.000221
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 21
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000244,
-            0.7235779999999999
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            196.221342,
-            0.141416
-          ],
-          [
-            3,
-            "None",
-            116.089721,
-            0.083667
-          ],
-          [
-            4,
-            "Software Development",
-            26.636047,
-            0.019196
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.01081
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.344528,
-            0.0096169999999999
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.00373
-          ],
-          [
-            8,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002162
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002162
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001442
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000726
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000721
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000721
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019943,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            0.0
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 21
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1502,
-            0.331713
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1311,
-            0.289532
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            660,
-            0.1457729999999999
-          ],
-          [
-            4,
-            "Software Development",
-            443,
-            0.097836
-          ],
-          [
-            5,
-            "None",
-            375,
-            0.082829
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.0198779999999999
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015683
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.003534
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.003313
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002871
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.002208
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.001105
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000663
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000663
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000663
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.000442
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.000442
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.000221
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.000221
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1,
-            0.000221
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 21
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.000244,
-            0.722504
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            197.221356,
-            0.1419299999999999
-          ],
-          [
-            3,
-            "None",
-            118.15246500000003,
-            0.085029
-          ],
-          [
-            4,
-            "Software Development",
-            25.636031000000003,
-            0.018447
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010794
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.344528,
-            0.0096029999999999
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.003725
-          ],
-          [
-            8,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002159
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002159
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.00144
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000725
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.00072
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.00072
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019958,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            0.0
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 21
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1501,
-            0.330543
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1310,
-            0.288483
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            667,
-            0.1468769999999999
-          ],
-          [
-            4,
-            "Software Development",
-            445,
-            0.097993
-          ],
-          [
-            5,
-            "None",
-            380,
-            0.083672
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            91,
-            0.020039
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015634
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.003523
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.003303
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002863
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.002202
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.0011
-          ],
-          [
-            13,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000661
-          ],
-          [
-            14,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000661
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000661
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.00044
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.00044
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.00022
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.00022
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1,
-            0.00022
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 21
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1004.00026,
-            0.721918
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            197.221463,
-            0.141808
-          ],
-          [
-            3,
-            "None",
-            118.27751100000005,
-            0.085046
-          ],
-          [
-            4,
-            "Software Development",
-            26.636047,
-            0.01915
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010786
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.344513,
-            0.009595
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.0037219999999999
-          ],
-          [
-            8,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002157
-          ],
-          [
-            9,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002157
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001438
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000724
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000719
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000719
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019943,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)",
-            1.5e-05,
-            0.0
-          ],
-          [
-            21,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 21
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1498,
-            0.3303210000000001
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1310,
-            0.288865
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            671,
-            0.14799
-          ],
-          [
-            4,
-            "Software Development",
-            444,
-            0.0979079999999999
-          ],
-          [
-            5,
-            "None",
-            376,
-            0.0829319999999999
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.0198469999999999
-          ],
-          [
-            7,
-            "Other",
-            71,
-            0.015661
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.003529
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.0033079999999999
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.002867
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            10,
-            0.002205
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.001103
-          ],
-          [
-            13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.000662
-          ],
-          [
-            14,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.000662
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.000662
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.000442
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.000442
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.000221
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.000221
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 20
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1003.00026,
-            0.7202299999999999
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            200.221462,
-            0.1437689999999999
-          ],
-          [
-            3,
-            "None",
-            118.21130300000004,
-            0.084883
-          ],
-          [
-            4,
-            "Software Development",
-            26.636031000000003,
-            0.019124
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010771
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.281982,
-            0.009537
-          ],
-          [
-            7,
-            "Other",
-            5.177474000000001,
-            0.003717
-          ],
-          [
-            8,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002154
-          ],
-          [
-            9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002154
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001436
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000723
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000718
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000718
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039062,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.019943,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 20
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            1506,
-            0.3312809999999999
-          ],
-          [
-            2,
-            "Computer and Network Security",
-            1309,
-            0.287946
-          ],
-          [
-            3,
-            "Internet Service Provider (ISP)",
-            672,
-            0.147829
-          ],
-          [
-            4,
-            "Software Development",
-            445,
-            0.0978879999999999
-          ],
-          [
-            5,
-            "None",
-            377,
-            0.082934
-          ],
-          [
-            6,
-            "Law, Business, and Consulting Services",
-            90,
-            0.019798
-          ],
-          [
-            7,
-            "Other",
-            70,
-            0.015399
-          ],
-          [
-            8,
-            "Investment, Portfolio Management, Pensions and Funds",
-            16,
-            0.00352
-          ],
-          [
-            9,
-            "Buildings (Residential or Commercial)",
-            15,
-            0.0033
-          ],
-          [
-            10,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            13,
-            0.00286
-          ],
-          [
-            11,
-            "Online Music and Video Streaming Services",
-            12,
-            0.00264
-          ],
-          [
-            12,
-            "Online Informational Content",
-            5,
-            0.0011
-          ],
-          [
-            13,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3,
-            0.00066
-          ],
-          [
-            14,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3,
-            0.00066
-          ],
-          [
-            15,
-            "Real Estate (Residential and/or Commercial)",
-            3,
-            0.00066
-          ],
-          [
-            16,
-            "Colleges, Universities, and Professional Schools",
-            2,
-            0.00044
-          ],
-          [
-            17,
-            "Electronics and Computer Components",
-            2,
-            0.00044
-          ],
-          [
-            18,
-            "Elementary and Secondary Schools",
-            1,
-            0.00022
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1,
-            0.00022
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 20
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Law, Business, and Consulting Services",
-            1003.00026,
-            0.7207520000000001
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            202.217556,
-            0.145316
-          ],
-          [
-            3,
-            "None",
-            116.21134800000004,
-            0.083513
-          ],
-          [
-            4,
-            "Software Development",
-            26.636047,
-            0.0191399999999999
-          ],
-          [
-            5,
-            "Investment, Portfolio Management, Pensions and Funds",
-            15.000015,
-            0.010779
-          ],
-          [
-            6,
-            "Hosting and Cloud Provider",
-            13.282104,
-            0.009545
-          ],
-          [
-            7,
-            "Other",
-            4.177474000000001,
-            0.0030009999999999
-          ],
-          [
-            8,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            3.0,
-            0.002156
-          ],
-          [
-            9,
-            "Banks, Credit Card Companies, Mortgage Providers",
-            3.0,
-            0.002156
-          ],
-          [
-            10,
-            "Colleges, Universities, and Professional Schools",
-            2.0,
-            0.001438
-          ],
-          [
-            11,
-            "Buildings (Residential or Commercial)",
-            1.006851,
-            0.000724
-          ],
-          [
-            12,
-            "Elementary and Secondary Schools",
-            1.0,
-            0.000719
-          ],
-          [
-            13,
-            "Electronics and Computer Components",
-            1.000015,
-            0.000719
-          ],
-          [
-            14,
-            "Online Music and Video Streaming Services",
-            0.039093,
-            2.8e-05
-          ],
-          [
-            15,
-            "Computer and Network Security",
-            0.0199279999999999,
-            1.4e-05
-          ],
-          [
-            16,
-            "Online Informational Content",
-            0.007859,
-            6e-06
-          ],
-          [
-            17,
-            "Other Schools, Instruction, and Exam Preparation (Trade Schools, Art Schools, Driving Instruction, etc.)",
-            0.006836,
-            5e-06
-          ],
-          [
-            18,
-            "Real Estate (Residential and/or Commercial)",
-            4.6e-05,
-            0.0
-          ],
-          [
-            19,
-            "Insurance Carriers and Agencies",
-            1.5e-05,
-            0.0
-          ],
-          [
-            20,
-            "Chemical and Pharmaceutical Manufacturing",
-            1.5e-05,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 20
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14789,
-            0.3263850000000001
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12741,
-            0.28119
-          ],
-          [
-            3,
-            "None",
-            8726,
-            0.1925739999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5527,
-            0.121964
-          ],
-          [
-            5,
-            "Software Development",
-            3069,
-            0.0677319999999999
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            300,
-            0.006622
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.000949
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000794
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.000574
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000287
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000243
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 18
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105429,
-            0.626799
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            21.483858000000005,
-            0.231749
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.107873
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021577
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020749999999998,
-            0.01081
-          ],
-          [
-            6,
-            "Software Development",
-            0.105469,
-            0.001137
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004128,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 18
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14787,
-            0.326069
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12722,
-            0.280535
-          ],
-          [
-            3,
-            "None",
-            8722,
-            0.1923259999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5593,
-            0.12332
-          ],
-          [
-            5,
-            "Software Development",
-            3067,
-            0.067632
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            299,
-            0.006593
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.000948
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000794
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.0005719999999999
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000287
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000243
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 18
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.109335,
-            0.619921
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            22.515048,
-            0.24019
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.106682
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021338
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020749999999998,
-            0.01069
-          ],
-          [
-            6,
-            "Software Development",
-            0.105454,
-            0.001125
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004128,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 18
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14785,
-            0.325954
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12721,
-            0.280451
-          ],
-          [
-            3,
-            "None",
-            8721,
-            0.1922579999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5607,
-            0.123603
-          ],
-          [
-            5,
-            "Software Development",
-            3067,
-            0.067616
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            299,
-            0.006591
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.000948
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000793
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.0005719999999999
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000287
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000243
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 18
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105429,
-            0.6199059999999998
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            22.514990000000004,
-            0.2402
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.106687
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021339
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020289999999998,
-            0.010691
-          ],
-          [
-            6,
-            "Software Development",
-            0.105469,
-            0.001125
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004127,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 18
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14784,
-            0.3254350000000001
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12765,
-            0.2809939999999999
-          ],
-          [
-            3,
-            "None",
-            8720,
-            0.1919489999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5623,
-            0.123765
-          ],
-          [
-            5,
-            "Software Development",
-            3065,
-            0.0674679999999999
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            312,
-            0.006867
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.0009469999999999
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000792
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.0005719999999999
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000286
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000242
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 18
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105428,
-            0.6197269999999999
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            22.542304,
-            0.240422
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.106655
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021333
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020289999999998,
-            0.010688
-          ],
-          [
-            6,
-            "Software Development",
-            0.105469,
-            0.001124
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004128,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 18
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14813,
-            0.3263490000000001
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12750,
-            0.280899
-          ],
-          [
-            3,
-            "None",
-            8715,
-            0.1919979999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5572,
-            0.122745
-          ],
-          [
-            5,
-            "Software Development",
-            3069,
-            0.067611
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            313,
-            0.0068959999999999
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.0009469999999999
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000792
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.0005719999999999
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000286
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000242
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            17,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 18
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105428,
-            0.619726
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            22.542301,
-            0.240422
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.106655
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021333
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020289999999998,
-            0.010688
-          ],
-          [
-            6,
-            "Software Development",
-            0.105469,
-            0.001124
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004129,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 18
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14814,
-            0.3263480000000001
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12723,
-            0.280285
-          ],
-          [
-            3,
-            "None",
-            8712,
-            0.1919189999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5605,
-            0.123465
-          ],
-          [
-            5,
-            "Software Development",
-            3068,
-            0.067586
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            311,
-            0.006852
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.0009469999999999
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000792
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.0005719999999999
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000286
-          ],
-          [
-            11,
-            "Phone Provider",
-            11,
-            0.000242
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            1,
-            2.2e-05
-          ],
-          [
-            19,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 19
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105428,
-            0.6197280000000001
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            22.542239,
-            0.2404219999999999
-          ],
-          [
-            3,
-            "Phone Provider",
-            10.0,
-            0.106656
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.021333
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020129999999998,
-            0.010687
-          ],
-          [
-            6,
-            "Software Development",
-            0.105224,
-            0.001122
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004128,
-            4.399999999999999e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            0.0,
-            0.0
-          ],
-          [
-            19,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 19
-      }
-    ],
-    [
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "Hosting and Cloud Provider",
-            14822,
-            0.327187
-          ],
-          [
-            2,
-            "Online Music and Video Streaming Services",
-            12738,
-            0.2811850000000001
-          ],
-          [
-            3,
-            "None",
-            8615,
-            0.1901639999999999
-          ],
-          [
-            4,
-            "Internet Service Provider (ISP)",
-            5588,
-            0.123338
-          ],
-          [
-            5,
-            "Software Development",
-            3067,
-            0.067702
-          ],
-          [
-            6,
-            "Computer and Network Security",
-            310,
-            0.006844
-          ],
-          [
-            7,
-            "Law, Business, and Consulting Services",
-            43,
-            0.000949
-          ],
-          [
-            8,
-            "Military, Defense, National Security, and International Affairs",
-            36,
-            0.000794
-          ],
-          [
-            9,
-            "Other",
-            26,
-            0.000574
-          ],
-          [
-            10,
-            "Online Informational Content",
-            13,
-            0.000287
-          ],
-          [
-            11,
-            "Phone Provider",
-            12,
-            0.000265
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            6,
-            0.000132
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            6,
-            0.0001319999999999
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            5,
-            0.00011
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            5,
-            0.00011
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            4,
-            8.8e-05
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            3,
-            6.6e-05
-          ],
-          [
-            18,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            1,
-            2.2e-05
-          ],
-          [
-            19,
-            "Investment, Portfolio Management, Pensions and Funds",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 19
-      },
-      {
-        "title": "FGBC-Num",
-        "data": [
-          [
-            1,
-            "None",
-            58.105428,
-            0.600509
-          ],
-          [
-            2,
-            "Internet Service Provider (ISP)",
-            24.542211,
-            0.253637
-          ],
-          [
-            3,
-            "Phone Provider",
-            11.0,
-            0.113684
-          ],
-          [
-            4,
-            "Other",
-            2.0002440000000004,
-            0.020672
-          ],
-          [
-            5,
-            "Hosting and Cloud Provider",
-            1.0020129999999998,
-            0.010356
-          ],
-          [
-            6,
-            "Software Development",
-            0.105469,
-            0.00109
-          ],
-          [
-            7,
-            "Online Music and Video Streaming Services",
-            0.004128,
-            4.3e-05
-          ],
-          [
-            8,
-            "Online Informational Content",
-            0.000168,
-            2e-06
-          ],
-          [
-            9,
-            "Military, Defense, National Security, and International Affairs",
-            3.1e-05,
-            0.0
-          ],
-          [
-            10,
-            "Law, Business, and Consulting Services",
-            1.5e-05,
-            0.0
-          ],
-          [
-            11,
-            "Computer and Network Security",
-            5e-06,
-            0.0
-          ],
-          [
-            12,
-            "Recreation, Sports, and Performing Arts",
-            0.0,
-            0.0
-          ],
-          [
-            13,
-            "Civil Engineering Construction (Utility Lines, Roads and Bridges)",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Colleges, Universities, and Professional Schools",
-            1.5e-05,
-            0.0
-          ],
-          [
-            15,
-            "Government and Regulatory Agencies, Administrations, Departments, and Services",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Human Rights and Social Advocacy (Human Rights, Environment and Wildlife Conservation, Other)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Law Enforcement, Public Safety, and Justice",
-            0.0,
-            0.0
-          ],
-          [
-            18,
-            "Metal, Glass, Wood, and Paper Manufacturing",
-            0.0,
-            0.0
-          ],
-          [
-            19,
-            "Investment, Portfolio Management, Pensions and Funds",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "sub_category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 19
       }
     ]
   ],

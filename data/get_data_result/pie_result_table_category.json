@@ -7,104 +7,87 @@
           [
             1,
             "Computer and Information Technology",
-            28048.0,
-            0.5626818063273618
+            405488
           ],
           [
             2,
             "Media, Publishing, and Broadcasting",
-            12780.0,
-            0.2563845366822477
+            36640
           ],
           [
             3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7964.0,
-            0.1597688928120047
+            "Service",
+            26363
           ],
           [
             4,
-            "None",
-            489.0,
-            0.0098100186570906
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            9658
           ],
           [
             5,
-            "Service",
-            178.0,
-            0.0035709270367324
+            "Health Care Services",
+            3756
           ],
           [
             6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027366423164353
+            "Government and Public Administration",
+            1486
           ],
           [
             7,
-            "Manufacturing",
-            6.0,
-            0.0013227513227513
+            "Education and Research",
+            361
           ],
           [
             8,
-            "Education and Research",
-            62.0,
-            0.0012438060465022
+            "Manufacturing",
+            202
           ],
           [
             9,
-            "Government and Public Administration",
-            44.0,
-            0.0009710666284125
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            132
           ],
           [
             10,
             "Other",
-            39.0,
-            0.0007823941260256
+            81
           ],
           [
             11,
-            "Construction and Real Estate",
-            37.0,
-            0.000742271350332
+            "Community Groups and Nonprofits",
+            69
           ],
           [
             12,
-            "Finance and Insurance",
-            21.0,
-            0.000421289144783
+            "Construction and Real Estate",
+            57
           ],
           [
             13,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003611049812426
+            "Finance and Insurance",
+            29
           ],
           [
             14,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003209822055489
+            "Freight, Shipment, and Postal Services",
+            19
           ],
           [
             15,
-            "Health Care Services",
-            14.0,
-            0.0002808594298553
+            "Museums, Libraries, and Entertainment",
+            5
           ],
           [
             16,
             "Travel and Accommodation",
-            1.0,
-            0.0002204585537918
+            2
           ],
           [
             17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001324181766017
+            "Utilities (Excluding Internet Service)",
+            1
           ]
         ],
         "columns": [
@@ -115,14 +98,11 @@
             "title": "category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
+        "name": "alias_prefix_num",
         "dataLength": 17
       },
       {
@@ -130,105 +110,88 @@
         "data": [
           [
             1,
-            "Service",
-            1004.004821,
-            0.6755281769521281
+            "Computer and Information Technology",
+            13696343088762.783
           ],
           [
             2,
-            "Computer and Information Technology",
-            312.92453,
-            0.2105461376808483
+            "Service",
+            8579323067528.655
           ],
           [
             3,
-            "None",
-            100.01647000000004,
-            0.067294441451977
+            "Manufacturing",
+            777473077771.0
           ],
           [
             4,
             "Education and Research",
-            38.014922,
-            0.0255777167783513
+            184991351110.0
           ],
           [
             5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0121110249638767
+            "Construction and Real Estate",
+            172972179722.0
           ],
           [
             6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028703882850684
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            142036313713.656
           ],
           [
             7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020888475677361
+            "Finance and Insurance",
+            34362032134.0
           ],
           [
             8,
             "Media, Publishing, and Broadcasting",
-            2.176461,
-            0.0014643960873345
+            13600680555.373978
           ],
           [
             9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013456981479976
+            "Other",
+            8862724626.0
           ],
           [
             10,
             "Travel and Accommodation",
-            1.0,
-            0.0007175916893294
+            8589934592.0
           ],
           [
             11,
-            "Other",
-            1.0005809999999995,
-            0.0006732245151469
+            "Health Care Services",
+            39772431.00439453
           ],
           [
             12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.0391893658972403e-06
+            "Utilities (Excluding Internet Service)",
+            16777216.0
           ],
           [
             13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.6704765537405686e-06
+            "Community Groups and Nonprofits",
+            7340062.0
           ],
           [
             14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.104284952838868e-07
+            "Freight, Shipment, and Postal Services",
+            393216.0
           ],
           [
             15,
             "Government and Public Administration",
-            3.1e-05,
-            3.3440688811904617e-07
+            262165.8795491494
           ],
           [
             16,
             "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
+            131202.0
           ],
           [
             17,
             "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
+            1.0000000000000004
           ]
         ],
         "columns": [
@@ -239,14 +202,11 @@
             "title": "category"
           },
           {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
+            "title": "alias_prefix_64_num",
             "class": "center"
           }
         ],
-        "name": "sat_category_ratio",
+        "name": "alias_prefix_64_num",
         "dataLength": 17
       }
     ],
@@ -257,104 +217,72 @@
           [
             1,
             "Computer and Information Technology",
-            28093.0,
-            0.5632907585266577
+            5163
           ],
           [
             2,
-            "Media, Publishing, and Broadcasting",
-            12761.0,
-            0.2558699095703086
+            "Service",
+            160
           ],
           [
             3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7965.0,
-            0.1597056523569867
+            "Media, Publishing, and Broadcasting",
+            58
           ],
           [
             4,
-            "None",
-            488.0,
-            0.009784853527961
+            "Manufacturing",
+            36
           ],
           [
             5,
-            "Service",
-            178.0,
-            0.0035690654261825
+            "Construction and Real Estate",
+            24
           ],
           [
             6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027343491587466
+            "Education and Research",
+            16
           ],
           [
             7,
-            "Manufacturing",
-            6.0,
-            0.0013262599469496
+            "Finance and Insurance",
+            15
           ],
           [
             8,
-            "Education and Research",
-            62.0,
-            0.0012431576203557
+            "Community Groups and Nonprofits",
+            14
           ],
           [
             9,
-            "Government and Public Administration",
-            44.0,
-            0.0009702529272971
+            "Other",
+            14
           ],
           [
             10,
-            "Other",
-            39.0,
-            0.0007819862450624
+            "Health Care Services",
+            7
           ],
           [
             11,
-            "Construction and Real Estate",
-            37.0,
-            0.0007418843863413
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            7
           ],
           [
             12,
-            "Finance and Insurance",
-            21.0,
-            0.000421069516572
+            "Freight, Shipment, and Postal Services",
+            3
           ],
           [
             13,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003609167284903
+            "Government and Public Administration",
+            1
           ],
           [
             14,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003208148697692
-          ],
-          [
-            15,
-            "Health Care Services",
-            14.0,
-            0.000280713011048
-          ],
-          [
-            16,
             "Travel and Accommodation",
-            1.0,
-            0.0002210433244916
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001323072173587
+            1
           ]
         ],
         "columns": [
@@ -365,14 +293,206 @@
             "title": "category"
           },
           {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
+            "title": "alias_prefix_num",
             "class": "center"
           }
         ],
-        "name": "category_ratio",
+        "name": "alias_prefix_num",
+        "dataLength": 14
+      },
+      {
+        "title": "CGBC-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            7242281324032
+          ],
+          [
+            2,
+            "Service",
+            4284354461696
+          ],
+          [
+            3,
+            "Manufacturing",
+            700079865856
+          ],
+          [
+            4,
+            "Education and Research",
+            163229859840
+          ],
+          [
+            5,
+            "Construction and Real Estate",
+            138158342144
+          ],
+          [
+            6,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            73031417856
+          ],
+          [
+            7,
+            "Finance and Insurance",
+            17181966336
+          ],
+          [
+            8,
+            "Media, Publishing, and Broadcasting",
+            9098035712
+          ],
+          [
+            9,
+            "Other",
+            4295819264
+          ],
+          [
+            10,
+            "Travel and Accommodation",
+            4294967296
+          ],
+          [
+            11,
+            "Health Care Services",
+            20512768
+          ],
+          [
+            12,
+            "Community Groups and Nonprofits",
+            3866624
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            196608
+          ],
+          [
+            14,
+            "Government and Public Administration",
+            65536
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "alias_prefix_64_num",
+            "class": "center"
+          }
+        ],
+        "name": "alias_prefix_64_num",
+        "dataLength": 14
+      }
+    ],
+    [
+      {
+        "title": "CGBC-Num",
+        "data": [
+          [
+            1,
+            "Computer and Information Technology",
+            400325
+          ],
+          [
+            2,
+            "Media, Publishing, and Broadcasting",
+            36582
+          ],
+          [
+            3,
+            "Service",
+            26203
+          ],
+          [
+            4,
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            9651
+          ],
+          [
+            5,
+            "Health Care Services",
+            3749
+          ],
+          [
+            6,
+            "Government and Public Administration",
+            1485
+          ],
+          [
+            7,
+            "Education and Research",
+            345
+          ],
+          [
+            8,
+            "Manufacturing",
+            166
+          ],
+          [
+            9,
+            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
+            132
+          ],
+          [
+            10,
+            "Other",
+            67
+          ],
+          [
+            11,
+            "Community Groups and Nonprofits",
+            55
+          ],
+          [
+            12,
+            "Construction and Real Estate",
+            33
+          ],
+          [
+            13,
+            "Freight, Shipment, and Postal Services",
+            16
+          ],
+          [
+            14,
+            "Finance and Insurance",
+            14
+          ],
+          [
+            15,
+            "Museums, Libraries, and Entertainment",
+            5
+          ],
+          [
+            16,
+            "Travel and Accommodation",
+            1
+          ],
+          [
+            17,
+            "Utilities (Excluding Internet Service)",
+            1
+          ]
+        ],
+        "columns": [
+          {
+            "title": "num"
+          },
+          {
+            "title": "category"
+          },
+          {
+            "title": "alias_prefix_num",
+            "class": "center"
+          }
+        ],
+        "name": "alias_prefix_num",
         "dataLength": 17
       },
       {
@@ -380,105 +500,88 @@
         "data": [
           [
             1,
-            "Service",
-            1004.004821,
-            0.6764242867014993
+            "Computer and Information Technology",
+            6454061764730.783
           ],
           [
             2,
-            "Computer and Information Technology",
-            311.955584,
-            0.2101726296289862
+            "Service",
+            4294968605832.6553
           ],
           [
             3,
-            "None",
-            99.01646900000004,
-            0.0667099828746999
+            "Manufacturing",
+            77393211915.00002
           ],
           [
             4,
-            "Education and Research",
-            38.014922,
-            0.0256116464383622
+            "Retail Stores, Wholesale, and E-commerce Sites",
+            69004895857.656
           ],
           [
             5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.012127090626147
+            "Construction and Real Estate",
+            34813837578.0
           ],
           [
             6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028765892500121
+            "Education and Research",
+            21761491270.0
           ],
           [
             7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020916184908956
+            "Finance and Insurance",
+            17180065798.0
           ],
           [
             8,
-            "Media, Publishing, and Broadcasting",
-            2.176461,
-            0.0014663386556175
+            "Other",
+            4566905362.0
           ],
           [
             9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013474832596647
+            "Media, Publishing, and Broadcasting",
+            4502644843.373978
           ],
           [
             10,
             "Travel and Accommodation",
-            1.0,
-            0.0007191419189386
+            4294967296.0
           ],
           [
             11,
-            "Other",
-            1.0005809999999995,
-            0.0006741175690152
+            "Health Care Services",
+            19259663.00439453
           ],
           [
             12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.0432209478709987e-06
+            "Utilities (Excluding Internet Service)",
+            16777216.0
           ],
           [
             13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.674019026367057e-06
+            "Community Groups and Nonprofits",
+            3473438.0
           ],
           [
             14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.109729418200818e-07
+            "Government and Public Administration",
+            196629.87954914945
           ],
           [
             15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.30714220106354e-07
+            "Freight, Shipment, and Postal Services",
+            196608.0
           ],
           [
             16,
             "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
+            131202.0
           ],
           [
             17,
             "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
+            1.0000000000000004
           ]
         ],
         "columns": [
@@ -489,4369 +592,12 @@
             "title": "category"
           },
           {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
+            "title": "alias_prefix_64_num",
             "class": "center"
           }
         ],
-        "name": "sat_category_ratio",
+        "name": "alias_prefix_64_num",
         "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            28106.0,
-            0.5634497413896796
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12760.0,
-            0.2558036967242693
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7962.0,
-            0.1596166954011467
-          ],
-          [
-            4,
-            "None",
-            487.0,
-            0.0097630407762319
-          ],
-          [
-            5,
-            "Service",
-            179.0,
-            0.0035884687863357
-          ],
-          [
-            6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027337463347957
-          ],
-          [
-            7,
-            "Manufacturing",
-            6.0,
-            0.001326553172673
-          ],
-          [
-            8,
-            "Education and Research",
-            62.0,
-            0.0012429333226414
-          ],
-          [
-            9,
-            "Government and Public Administration",
-            44.0,
-            0.0009700390220242
-          ],
-          [
-            10,
-            "Other",
-            39.0,
-            0.0007818451545647
-          ],
-          [
-            11,
-            "Construction and Real Estate",
-            37.0,
-            0.0007417505312537
-          ],
-          [
-            12,
-            "Finance and Insurance",
-            21.0,
-            0.0004209935447656
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003608516097991
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003207569864881
-          ],
-          [
-            15,
-            "Health Care Services",
-            14.0,
-            0.000280662363177
-          ],
-          [
-            16,
-            "Travel and Accommodation",
-            1.0,
-            0.0002210921954455
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001322780484578
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 17
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004836,
-            0.6777942733432748
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            309.95549500000004,
-            0.2092480553572553
-          ],
-          [
-            3,
-            "None",
-            98.01647000000004,
-            0.066170002052981
-          ],
-          [
-            4,
-            "Education and Research",
-            38.014922,
-            0.0256635182514113
-          ],
-          [
-            5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0121516518810942
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028828005483194
-          ],
-          [
-            7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020958546903758
-          ],
-          [
-            8,
-            "Media, Publishing, and Broadcasting",
-            2.17646,
-            0.0014693077874384
-          ],
-          [
-            9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013502123462113
-          ],
-          [
-            10,
-            "Travel and Accommodation",
-            1.0,
-            0.0007206947318693
-          ],
-          [
-            11,
-            "Other",
-            1.0005809999999995,
-            0.0006754828736861
-          ],
-          [
-            12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.049384448076077e-06
-          ],
-          [
-            13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.679434774056664e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.1180529407270476e-07
-          ],
-          [
-            15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.307283142535481e-07
-          ],
-          [
-            16,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            28131.0,
-            0.5631155416766754
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12804.0,
-            0.256305548883017
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7963.0,
-            0.1594002722395708
-          ],
-          [
-            4,
-            "None",
-            491.0,
-            0.0098286492113059
-          ],
-          [
-            5,
-            "Service",
-            179.0,
-            0.0035831531747938
-          ],
-          [
-            6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027295940829444
-          ],
-          [
-            7,
-            "Manufacturing",
-            6.0,
-            0.0013250883392226
-          ],
-          [
-            8,
-            "Education and Research",
-            62.0,
-            0.0012410921611017
-          ],
-          [
-            9,
-            "Government and Public Administration",
-            44.0,
-            0.0009685656423351
-          ],
-          [
-            10,
-            "Other",
-            39.0,
-            0.000780687004564
-          ],
-          [
-            11,
-            "Construction and Real Estate",
-            37.0,
-            0.0007406517735607
-          ],
-          [
-            12,
-            "Finance and Insurance",
-            21.0,
-            0.0004203699255344
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003603170790295
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003202818480262
-          ],
-          [
-            15,
-            "Health Care Services",
-            14.0,
-            0.0002802466170229
-          ],
-          [
-            16,
-            "Travel and Accommodation",
-            1.0,
-            0.0002208480565371
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001320771330456
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 17
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004836,
-            0.6768392604218912
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            309.982821,
-            0.2089716461377
-          ],
-          [
-            3,
-            "None",
-            100.07921400000004,
-            0.0674673455331486
-          ],
-          [
-            4,
-            "Education and Research",
-            38.014922,
-            0.0256273583242739
-          ],
-          [
-            5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0121345301894261
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028785212814948
-          ],
-          [
-            7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020929016286735
-          ],
-          [
-            8,
-            "Media, Publishing, and Broadcasting",
-            2.176461,
-            0.0014672382051923
-          ],
-          [
-            9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013483098954413
-          ],
-          [
-            10,
-            "Travel and Accommodation",
-            1.0,
-            0.0007196249231867
-          ],
-          [
-            11,
-            "Other",
-            1.0005809999999995,
-            0.0006745311175295
-          ],
-          [
-            12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.045087861833449e-06
-          ],
-          [
-            13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.6756594473360557e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.112250599332309e-07
-          ],
-          [
-            15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.306319655856247e-07
-          ],
-          [
-            16,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            28124.0,
-            0.5632572950671927
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12789.0,
-            0.2561334641805692
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7961.0,
-            0.1594400272375878
-          ],
-          [
-            4,
-            "None",
-            491.0,
-            0.0098335703270513
-          ],
-          [
-            5,
-            "Service",
-            180.0,
-            0.0036049748653141
-          ],
-          [
-            6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027318792685613
-          ],
-          [
-            7,
-            "Manufacturing",
-            6.0,
-            0.0013212948689715
-          ],
-          [
-            8,
-            "Education and Research",
-            62.0,
-            0.0012417135647193
-          ],
-          [
-            9,
-            "Government and Public Administration",
-            44.0,
-            0.0009693765146508
-          ],
-          [
-            10,
-            "Other",
-            39.0,
-            0.0007810778874847
-          ],
-          [
-            11,
-            "Construction and Real Estate",
-            37.0,
-            0.0007410226112034
-          ],
-          [
-            12,
-            "Finance and Insurance",
-            21.0,
-            0.0004205804009533
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003604974865314
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            15.0,
-            0.0003004145721095
-          ],
-          [
-            15,
-            "Health Care Services",
-            13.0,
-            0.0002603592958282
-          ],
-          [
-            16,
-            "Travel and Accommodation",
-            1.0,
-            0.0002202158114952
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001321877065432
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 17
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004852,
-            0.6763262585768613
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            310.982987,
-            0.2094869956652029
-          ],
-          [
-            3,
-            "None",
-            100.20418400000004,
-            0.0675003917794487
-          ],
-          [
-            4,
-            "Education and Research",
-            38.014922,
-            0.0256079339807326
-          ],
-          [
-            5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0121253327809328
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028761924634183
-          ],
-          [
-            7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020913153067546
-          ],
-          [
-            8,
-            "Media, Publishing, and Broadcasting",
-            2.1764620000000003,
-            0.001466126780625
-          ],
-          [
-            9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001347287939363
-          ],
-          [
-            10,
-            "Travel and Accommodation",
-            1.0,
-            0.0007190427230341
-          ],
-          [
-            11,
-            "Other",
-            1.0005809999999995,
-            0.0006740198543712
-          ],
-          [
-            12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.0427798271154994e-06
-          ],
-          [
-            13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.6736314221433294e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.109133704982189e-07
-          ],
-          [
-            15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.306318683046972e-07
-          ],
-          [
-            16,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            28146.0,
-            0.563731773754206
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12762.0,
-            0.2556080756289056
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7962.0,
-            0.1594696362762377
-          ],
-          [
-            4,
-            "None",
-            490.0,
-            0.0098141323505848
-          ],
-          [
-            5,
-            "Service",
-            178.0,
-            0.0035651337926614
-          ],
-          [
-            6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027316987200669
-          ],
-          [
-            7,
-            "Education and Research",
-            62.0,
-            0.0012417881749719
-          ],
-          [
-            8,
-            "Government and Public Administration",
-            44.0,
-            0.000969312449056
-          ],
-          [
-            9,
-            "Other",
-            40.0,
-            0.0008011536612722
-          ],
-          [
-            10,
-            "Construction and Real Estate",
-            37.0,
-            0.0007410671366768
-          ],
-          [
-            11,
-            "Finance and Insurance",
-            21.0,
-            0.0004206056721679
-          ],
-          [
-            12,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003605191475725
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003204614645088
-          ],
-          [
-            14,
-            "Health Care Services",
-            14.0,
-            0.0002804037814452
-          ],
-          [
-            15,
-            "Travel and Accommodation",
-            1.0,
-            0.0002205071664829
-          ],
-          [
-            16,
-            "Manufacturing",
-            7.0,
-            0.0001402018907226
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.0001321789703258
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 17
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1003.004837,
-            0.674802181807464
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            313.920055,
-            0.211199318500514
-          ],
-          [
-            3,
-            "None",
-            100.13802200000003,
-            0.0673709171030486
-          ],
-          [
-            4,
-            "Education and Research",
-            38.014922,
-            0.0255757014926943
-          ],
-          [
-            5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0121100707280036
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0026911425266589
-          ],
-          [
-            7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020886829860192
-          ],
-          [
-            8,
-            "Media, Publishing, and Broadcasting",
-            2.176461,
-            0.0014642807065733
-          ],
-          [
-            9,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013455921195276
-          ],
-          [
-            10,
-            "Travel and Accommodation",
-            1.0,
-            0.0007180765545246
-          ],
-          [
-            11,
-            "Other",
-            1.000596,
-            0.0006731815630394
-          ],
-          [
-            12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.038949906105303e-06
-          ],
-          [
-            13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.6702661450812376e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.103961573443071e-07
-          ],
-          [
-            15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.306331079872525e-07
-          ],
-          [
-            16,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            28144.0,
-            0.5646076995606556
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12778.0,
-            0.256344413906554
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7869.0,
-            0.1578630609665576
-          ],
-          [
-            4,
-            "None",
-            489.0,
-            0.0098100186570906
-          ],
-          [
-            5,
-            "Service",
-            178.0,
-            0.0035709270367324
-          ],
-          [
-            6,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124.0,
-            0.0027372464184013
-          ],
-          [
-            7,
-            "Education and Research",
-            62.0,
-            0.0012438060465022
-          ],
-          [
-            8,
-            "Government and Public Administration",
-            44.0,
-            0.0009712809871746
-          ],
-          [
-            9,
-            "Other",
-            40.0,
-            0.0008024555138724
-          ],
-          [
-            10,
-            "Construction and Real Estate",
-            37.0,
-            0.000742271350332
-          ],
-          [
-            11,
-            "Finance and Insurance",
-            21.0,
-            0.000421289144783
-          ],
-          [
-            12,
-            "Freight, Shipment, and Postal Services",
-            18.0,
-            0.0003611049812426
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            16.0,
-            0.0003209822055489
-          ],
-          [
-            14,
-            "Health Care Services",
-            13.0,
-            0.0002607980420085
-          ],
-          [
-            15,
-            "Travel and Accommodation",
-            1.0,
-            0.0002199736031676
-          ],
-          [
-            16,
-            "Manufacturing",
-            7.0,
-            0.0001404297149276
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            6.0,
-            0.000132447407342
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 17
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1003.004837,
-            0.6738969404233923
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            318.91651900000005,
-            0.2142730109332251
-          ],
-          [
-            3,
-            "None",
-            98.13803700000004,
-            0.0659367935565177
-          ],
-          [
-            4,
-            "Education and Research",
-            38.014922,
-            0.0255413919068008
-          ],
-          [
-            5,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0120938251711833
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002687532381862
-          ],
-          [
-            7,
-            "Construction and Real Estate",
-            3.104553,
-            0.0020858810355689
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.0013437870191507
-          ],
-          [
-            9,
-            "Media, Publishing, and Broadcasting",
-            1.176492,
-            0.0007904591583067
-          ],
-          [
-            10,
-            "Travel and Accommodation",
-            1.0,
-            0.000718594473659
-          ],
-          [
-            11,
-            "Other",
-            1.000596,
-            0.0006722784957016
-          ],
-          [
-            12,
-            "Health Care Services",
-            0.0045169999999999,
-            3.034873180668881e-06
-          ],
-          [
-            13,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003969,
-            2.6666840057725907e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.00061,
-            4.0984561439185693e-07
-          ],
-          [
-            15,
-            "Government and Public Administration",
-            3.1e-05,
-            3.203808099736503e-07
-          ],
-          [
-            16,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            17,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 17
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            4002,
-            0.88225
-          ],
-          [
-            2,
-            "None",
-            276,
-            0.0608399999999999
-          ],
-          [
-            3,
-            "Service",
-            134,
-            0.029538
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.006171
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.005067
-          ],
-          [
-            6,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.004409
-          ],
-          [
-            7,
-            "Finance and Insurance",
-            20,
-            0.004408
-          ],
-          [
-            8,
-            "Other",
-            11,
-            0.0024249999999999
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001321
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001102
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.001101
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000661
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.000441
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004806,
-            0.7204659999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            268.232083,
-            0.192487
-          ],
-          [
-            3,
-            "None",
-            86.01251000000002,
-            0.061725
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.012917
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004318
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002871
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.001559
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001435
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000793
-          ],
-          [
-            10,
-            "Other",
-            1.0001539999999998,
-            0.000718
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000718
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            3992,
-            0.8823950000000003
-          ],
-          [
-            2,
-            "None",
-            274,
-            0.0605629999999999
-          ],
-          [
-            3,
-            "Service",
-            134,
-            0.02962
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.006189
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.0050839999999999
-          ],
-          [
-            6,
-            "Finance and Insurance",
-            20,
-            0.004421
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.00442
-          ],
-          [
-            8,
-            "Other",
-            11,
-            0.002431
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001326
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001105
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.001105
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000663
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.000442
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004806,
-            0.722022
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            266.231962,
-            0.191448
-          ],
-          [
-            3,
-            "None",
-            85.00860300000002,
-            0.061133
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0129439999999999
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004325
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002876
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.001562
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001438
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000794
-          ],
-          [
-            10,
-            "Other",
-            1.0001539999999998,
-            0.000719
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000719
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            3990,
-            0.8821410000000002
-          ],
-          [
-            2,
-            "None",
-            274,
-            0.0605779999999999
-          ],
-          [
-            3,
-            "Service",
-            135,
-            0.029847
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.00619
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.0050839999999999
-          ],
-          [
-            6,
-            "Finance and Insurance",
-            20,
-            0.004421
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.004421
-          ],
-          [
-            8,
-            "Other",
-            11,
-            0.002432
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001326
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001105
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.001105
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000663
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.000442
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004821,
-            0.7235809999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            264.231962,
-            0.19043
-          ],
-          [
-            3,
-            "None",
-            84.01251000000002,
-            0.060549
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.012972
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004336
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.0028829999999999
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.001565
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001441
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.0007959999999999
-          ],
-          [
-            10,
-            "Other",
-            1.0001539999999998,
-            0.000721
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000721
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            3991,
-            0.8814210000000003
-          ],
-          [
-            2,
-            "None",
-            278,
-            0.0614009999999999
-          ],
-          [
-            3,
-            "Service",
-            135,
-            0.029817
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.006185
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.005081
-          ],
-          [
-            6,
-            "Finance and Insurance",
-            20,
-            0.0044179999999999
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.004417
-          ],
-          [
-            8,
-            "Other",
-            11,
-            0.00243
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001326
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001105
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.001105
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000663
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.000442
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004821,
-            0.7225069999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            264.231975,
-            0.1901529999999999
-          ],
-          [
-            3,
-            "None",
-            86.07525400000003,
-            0.061943
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.012953
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.00433
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002879
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.001563
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001439
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000795
-          ],
-          [
-            10,
-            "Other",
-            1.0001539999999998,
-            0.00072
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.00072
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            4003,
-            0.8815120000000001
-          ],
-          [
-            2,
-            "None",
-            278,
-            0.0612139999999999
-          ],
-          [
-            3,
-            "Service",
-            136,
-            0.029948
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.006166
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.005064
-          ],
-          [
-            6,
-            "Finance and Insurance",
-            20,
-            0.004404
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.004403
-          ],
-          [
-            8,
-            "Other",
-            11,
-            0.0024209999999999
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001321
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001101
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.0011
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000661
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.00044
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1004.004837,
-            0.7219209999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            265.232144,
-            0.190707
-          ],
-          [
-            3,
-            "None",
-            86.20022400000003,
-            0.0619819999999999
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.012943
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004325
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002876
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.001562
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001438
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000794
-          ],
-          [
-            10,
-            "Other",
-            1.0001539999999998,
-            0.000719
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000719
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            3999,
-            0.8818509999999999
-          ],
-          [
-            2,
-            "None",
-            277,
-            0.0610889999999999
-          ],
-          [
-            3,
-            "Service",
-            134,
-            0.029551
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.006176
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.005076
-          ],
-          [
-            6,
-            "Finance and Insurance",
-            20,
-            0.0044119999999999
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            20,
-            0.004411
-          ],
-          [
-            8,
-            "Other",
-            12,
-            0.0026469999999999
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.001325
-          ],
-          [
-            10,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.001104
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.001103
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.000662
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.000441
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.000221
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1003.004822,
-            0.7202329999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            268.169535,
-            0.192556
-          ],
-          [
-            3,
-            "None",
-            86.13406200000004,
-            0.061851
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0129249999999999
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004319
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002872
-          ],
-          [
-            7,
-            "Media, Publishing, and Broadcasting",
-            2.172165,
-            0.00156
-          ],
-          [
-            8,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001436
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000793
-          ],
-          [
-            10,
-            "Other",
-            1.000169,
-            0.000718
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000718
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            4010,
-            0.882104
-          ],
-          [
-            2,
-            "None",
-            276,
-            0.0607139999999999
-          ],
-          [
-            3,
-            "Service",
-            134,
-            0.029477
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            28,
-            0.00616
-          ],
-          [
-            5,
-            "Education and Research",
-            23,
-            0.00506
-          ],
-          [
-            6,
-            "Media, Publishing, and Broadcasting",
-            21,
-            0.00462
-          ],
-          [
-            7,
-            "Finance and Insurance",
-            20,
-            0.0043999999999999
-          ],
-          [
-            8,
-            "Other",
-            12,
-            0.00264
-          ],
-          [
-            9,
-            "Manufacturing",
-            6,
-            0.00132
-          ],
-          [
-            10,
-            "Freight, Shipment, and Postal Services",
-            5,
-            0.0011
-          ],
-          [
-            11,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            5,
-            0.0011
-          ],
-          [
-            12,
-            "Health Care Services",
-            3,
-            0.00066
-          ],
-          [
-            13,
-            "Community Groups and Nonprofits",
-            2,
-            0.00044
-          ],
-          [
-            14,
-            "Travel and Accommodation",
-            1,
-            0.00022
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 14
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Service",
-            1003.004822,
-            0.7207549999999999
-          ],
-          [
-            2,
-            "Computer and Information Technology",
-            270.16578200000004,
-            0.1941449999999999
-          ],
-          [
-            3,
-            "None",
-            84.13407700000005,
-            0.06046
-          ],
-          [
-            4,
-            "Finance and Insurance",
-            18.000030000000002,
-            0.0129349999999999
-          ],
-          [
-            5,
-            "Education and Research",
-            6.014907,
-            0.004324
-          ],
-          [
-            6,
-            "Manufacturing",
-            4.000030000000001,
-            0.002875
-          ],
-          [
-            7,
-            "Freight, Shipment, and Postal Services",
-            2.000046,
-            0.001437
-          ],
-          [
-            8,
-            "Media, Publishing, and Broadcasting",
-            1.1721959999999998,
-            0.000842
-          ],
-          [
-            9,
-            "Construction and Real Estate",
-            1.104553,
-            0.000794
-          ],
-          [
-            10,
-            "Other",
-            1.000169,
-            0.000719
-          ],
-          [
-            11,
-            "Travel and Accommodation",
-            1.0,
-            0.000719
-          ],
-          [
-            12,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            0.003967,
-            3e-06
-          ],
-          [
-            13,
-            "Health Care Services",
-            0.004395,
-            3e-06
-          ],
-          [
-            14,
-            "Community Groups and Nonprofits",
-            0.000488,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 14
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24046,
-            0.5306660000000001
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12760,
-            0.281609
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7959,
-            0.175652
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.0047
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002737
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.000971
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.0009699999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.00086
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000618
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000309
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000287
-          ],
-          [
-            12,
-            "Health Care Services",
-            11,
-            0.000243
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 15
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            44.692447,
-            0.482104
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.345194
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.151065
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021575
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004296,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 15
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24101,
-            0.5314400000000001
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12741,
-            0.280954
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7960,
-            0.175527
-          ],
-          [
-            4,
-            "None",
-            214,
-            0.004718
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002734
-          ],
-          [
-            6,
-            "Government and Public Administration",
-            44,
-            0.0009699999999999
-          ],
-          [
-            7,
-            "Service",
-            44,
-            0.0009699999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.00086
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000617
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000308
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000287
-          ],
-          [
-            12,
-            "Health Care Services",
-            11,
-            0.000242
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 15
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            45.723622,
-            0.4877809999999999
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.341382
-          ],
-          [
-            3,
-            "None",
-            14.007866,
-            0.14944
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021336
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004296,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            12,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 15
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24116,
-            0.531653
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12740,
-            0.28087
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7957,
-            0.175422
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.004693
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002734
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.0009699999999999
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.0009689999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.000859
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000617
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000308
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000287
-          ],
-          [
-            12,
-            "Health Care Services",
-            11,
-            0.000242
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 15
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            45.723533,
-            0.487804
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.341397
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.149403
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021337
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004295,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 15
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24140,
-            0.5313700000000001
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12784,
-            0.2814119999999999
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7958,
-            0.175178
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.0046879999999999
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.00273
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.0009689999999999
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.0009679999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.0008579999999999
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000616
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000308
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000286
-          ],
-          [
-            12,
-            "Health Care Services",
-            11,
-            0.000242
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 15
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            45.750846,
-            0.487952
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.341298
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.149361
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021331
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004296,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 15
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24121,
-            0.5313970000000001
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12769,
-            0.281317
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7956,
-            0.175281
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.004691
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002732
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.0009689999999999
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.0009679999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.000859
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000617
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            13,
-            0.000286
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000286
-          ],
-          [
-            12,
-            "Health Care Services",
-            10,
-            0.0002199999999999
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 15
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            45.750843,
-            0.487952
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.341297
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.149361
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021331
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004297,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 15
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24147,
-            0.5319360000000001
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12742,
-            0.280703
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7957,
-            0.1752909999999999
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.004691
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002732
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.0009689999999999
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.0009679999999999
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.000859
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000617
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000308
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000286
-          ],
-          [
-            12,
-            "Health Care Services",
-            11,
-            0.000242
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ],
-          [
-            16,
-            "Manufacturing",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 16
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            45.75052,
-            0.48795
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.341299
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.149361
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.021331
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004296,
-            4.6e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            5e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Manufacturing",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 16
-      }
-    ],
-    [
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            24134,
-            0.532726
-          ],
-          [
-            2,
-            "Media, Publishing, and Broadcasting",
-            12757,
-            0.2816040000000001
-          ],
-          [
-            3,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            7864,
-            0.173594
-          ],
-          [
-            4,
-            "None",
-            213,
-            0.0047
-          ],
-          [
-            5,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            124,
-            0.002737
-          ],
-          [
-            6,
-            "Service",
-            44,
-            0.000971
-          ],
-          [
-            7,
-            "Government and Public Administration",
-            44,
-            0.00097
-          ],
-          [
-            8,
-            "Education and Research",
-            39,
-            0.00086
-          ],
-          [
-            9,
-            "Other",
-            28,
-            0.000618
-          ],
-          [
-            10,
-            "Community Groups and Nonprofits",
-            14,
-            0.000309
-          ],
-          [
-            11,
-            "Freight, Shipment, and Postal Services",
-            13,
-            0.000287
-          ],
-          [
-            12,
-            "Health Care Services",
-            10,
-            0.000221
-          ],
-          [
-            13,
-            "Construction and Real Estate",
-            9,
-            0.000198
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            6,
-            0.000132
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            1,
-            2.2e-05
-          ],
-          [
-            16,
-            "Manufacturing",
-            1,
-            2.2e-05
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "category_alias_num"
-          },
-          {
-            "title": "category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "category_ratio",
-        "dataLength": 16
-      },
-      {
-        "title": "CGBC-Num",
-        "data": [
-          [
-            1,
-            "Computer and Information Technology",
-            48.750737,
-            0.503827
-          ],
-          [
-            2,
-            "Education and Research",
-            32.000015,
-            0.330716
-          ],
-          [
-            3,
-            "None",
-            14.00396,
-            0.144729
-          ],
-          [
-            4,
-            "Construction and Real Estate",
-            2.0,
-            0.02067
-          ],
-          [
-            5,
-            "Media, Publishing, and Broadcasting",
-            0.004296,
-            4.5e-05
-          ],
-          [
-            6,
-            "Other",
-            0.000427,
-            4e-06
-          ],
-          [
-            7,
-            "Community Groups and Nonprofits",
-            0.000122,
-            1e-06
-          ],
-          [
-            8,
-            "Health Care Services",
-            0.000122,
-            1e-06
-          ],
-          [
-            9,
-            "Retail Stores, Wholesale, and E-commerce Sites",
-            2e-06,
-            0.0
-          ],
-          [
-            10,
-            "Agriculture, Mining, and Refineries (Farming, Greenhouses, Mining, Forestry, and Animal Farming)",
-            0.0,
-            0.0
-          ],
-          [
-            11,
-            "Service",
-            1.5e-05,
-            0.0
-          ],
-          [
-            12,
-            "Government and Public Administration",
-            3.1e-05,
-            0.0
-          ],
-          [
-            13,
-            "Freight, Shipment, and Postal Services",
-            0.0,
-            0.0
-          ],
-          [
-            14,
-            "Museums, Libraries, and Entertainment",
-            0.0,
-            0.0
-          ],
-          [
-            15,
-            "Finance and Insurance",
-            0.0,
-            0.0
-          ],
-          [
-            16,
-            "Manufacturing",
-            0.0,
-            0.0
-          ]
-        ],
-        "columns": [
-          {
-            "title": "num"
-          },
-          {
-            "title": "category"
-          },
-          {
-            "title": "sta_category_alias_num"
-          },
-          {
-            "title": "sat_category_ratio",
-            "class": "center"
-          }
-        ],
-        "name": "sat_category_ratio",
-        "dataLength": 16
       }
     ]
   ],

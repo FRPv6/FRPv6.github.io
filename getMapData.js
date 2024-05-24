@@ -10,14 +10,11 @@ $.ajaxSetup({async:false}); // 改异步为同步
 $.getJSON(table_file_name, function (data) {
     table_object=data
 })
-
 // sum or router or seed 地图初始化
 for(let i=0;i<3;i++){
-    // 一共7天
-    for(let day=1;day<8;day++){
-        let index=i*7+day-1
+        let index=i
         $.getJSON(map_file_name, function (chart) {
-            let select_id=document.getElementById(`select-${class_list[i]}-country-day${day}`)
+            let select_id=document.getElementById(`select-${class_list[i]}-country`)
             let select_value=select_id.value
             // that.dataNameMap=this.dataNameMap
             let dataSeries=chart["result"][index][select_value-1]["data"]
@@ -26,7 +23,7 @@ for(let i=0;i<3;i++){
             let dataTableArray=table_object["result"][index][select_value-1]
             let dataTableSeries=dataTableArray["data"]
             let dataTableColumns=dataTableArray["columns"]
-            let element_id=`map-${class_list[i]}-country-day${day}`
+            let element_id=`map-${class_list[i]}-country`
             let mapChart = echarts.init(document.getElementById(element_id));
             chart_map_list.push(mapChart)
             let option = {
@@ -122,16 +119,13 @@ for(let i=0;i<3;i++){
                 // this.nodeChange.emit(this.node)
             })
         })
-    }
 }
 
 // sum or router or seed type-select-change事件监听
 for(let i=0;i<3;i++){
-    // 一共7天
-    for(let day=1;day<8;day++){
-        let select_id=document.getElementById(`select-${class_list[i]}-country-day${day}`)
+        let select_id=document.getElementById(`select-${class_list[i]}-country`)
         select_id.addEventListener('change', event => {
-            let element_id=document.getElementById(`map-${class_list[i]}-country-day${day}`)
+            let element_id=document.getElementById(`map-${class_list[i]}-country`)
             // 获取当前选中的选项的值
             let selectedValue = event.target.value;
             // 根据选项的值执行不同的操作
@@ -144,7 +138,7 @@ for(let i=0;i<3;i++){
                 output.textContent = 'Unknown option';
             }
             $.getJSON(map_file_name, function (chart) {
-                let index=i*7+day-1
+                let index=i
                 // that.dataNameMap=this.dataNameMap
                 let dataSeries=chart["result"][index][element_id.value-1]["data"]
                 let dataName=chart["result"][index][element_id.value-1]["name"]
@@ -182,10 +176,6 @@ for(let i=0;i<3;i++){
                 };
                 mapChart.setOption(option);
             })
-
         })
-
-
-    }
 }
 

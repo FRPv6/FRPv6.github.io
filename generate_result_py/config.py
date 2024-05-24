@@ -1,4 +1,10 @@
 class DefaultConfig(object):
+
+    path_name = '../data/data0521/'
+    router_prefix = '../data/data0521/router_prefix/'
+    seed_prefix = '../data/data0521/seed_prefix/'
+    result_path = '../data/get_data_result/'
+
     file_path_week1 = "../data/sat_result_20231103_20231109/com_sat_result/"
     file_path_week2 = "../data/sat_result_20231110_20231116/com_sat_result/"
     file_path_week3 = "../data/sat_result_20231117_20231123/com_sat_result/"
