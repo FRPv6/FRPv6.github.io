@@ -1,4 +1,0 @@
-2a0b:f300:0466::/48,62240,Clouvider Limited,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a07:db85::/32,200373,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:3f81::/32,198571,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:3f86::/32,200373,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)

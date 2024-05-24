@@ -1,9 +1,0 @@
-2001:4488:fc31:01::/56,7713,Telekomunikasi Indonesia (PT),ID,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:3804:0::/36,204916,"RACKTECH CO., LTD.",TH,,
-2001:41a8:0045:02::/56,16625,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2403:a2c0:0129::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
-2a0e:a940::/32,210499,Al Asmary Abdullah Ibrahim A,SA,Computer and Information Technology,Software Development
-2a0f:9407:0ed1::/48,53356,Free Range Cloud Hosting Inc.,CA,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:3f82::/32,198571,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2001:41a8:0026:01::/56,16625,"Akamai Technologies, Inc.",US,Computer and Information Technology,Computer and Network Security
-2407:0000:3001:01::/56,4761,PT. INDOSAT Tbk,ID,Computer and Information Technology,Internet Service Provider (ISP)

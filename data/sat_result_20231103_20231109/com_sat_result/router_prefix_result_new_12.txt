@@ -1,3 +1,0 @@
-2a0e:aa07:e04d::/48,202662,Hytron Network Services Limited,HK,,
-2a06:1287:86::/40,61317,Hivelocity Inc,US,Computer and Information Technology,
-2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development

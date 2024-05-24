@@ -1,7 +1,0 @@
-2602:02db:0110::/48,203283,HighEndNetwork LLC,US,,
-2a05:dfc1:5f20::/48,58339,MARIA STYLE LTD,GB,"Retail Stores, Wholesale, and E-commerce Sites",
-2a07:db85::/32,200373,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:b684::/32,204916,"RACKTECH CO., LTD.",TH,,
-2a11:af01::/32,204916,"RACKTECH CO., LTD.",TH,,
-2a13:3f86::/32,200373,3xK Tech GmbH,DE,Computer and Information Technology,Internet Service Provider (ISP)
-2a0d:e283::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)

@@ -1,4 +1,0 @@
-2001:0550:0a08::/48,174,Cogent Communications,US,Computer and Information Technology,Internet Service Provider (ISP)
-2403:a2c0:0129::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
-2a04:4e42:002e::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
-2a0d:60c0::/32,59504,LLC Vpsville,RU,Computer and Information Technology,Software Development

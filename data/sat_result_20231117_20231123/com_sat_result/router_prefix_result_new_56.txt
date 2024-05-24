@@ -1,9 +1,0 @@
-2402:5300:73::/40,38732,CMC Telecom Infrastructure Company,VN,Computer and Information Technology,Internet Service Provider (ISP)
-2a09:a4c7:4::/36,204916,"RACKTECH CO., LTD.",TH,,
-2a0d:e283::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
-2403:a2c0:0129::/48,131662,Denpa Ltd.,TW,Service,"Buildings, Repair, Maintenance (Pest Control, Landscaping, Cleaning, Locksmiths, Car Washes, etc)"
-2606:bc40:0f17::/48,20253,Qwilt Inc.,US,Computer and Information Technology,Internet Service Provider (ISP)
-2a11:4b45::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
-2a13:e107:0007::/48,205544,LEASEWEB UK LIMITED,GB,Computer and Information Technology,
-2a07:9946::/32,64080,SYN LTD,GB,Computer and Information Technology,Internet Service Provider (ISP)
-2a05:dfc1:8c40::/48,197433,XuanMing Liu,CN,Computer and Information Technology,Internet Service Provider (ISP)

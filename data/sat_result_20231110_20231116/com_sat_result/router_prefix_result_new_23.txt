@@ -1,3 +1,0 @@
-2a04:4e42:004c::/48,54113,"Fastly, Inc.",US,Computer and Information Technology,Software Development
-2a0a:6040:73::/40,198231,SIXNET OPERATION LTD,GB,,
-2a11:f184::/32,44812,IP SERVER LLC,RU,Computer and Information Technology,Internet Service Provider (ISP)
